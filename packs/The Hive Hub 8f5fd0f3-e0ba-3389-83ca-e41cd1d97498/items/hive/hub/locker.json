@@ -1,1 +1,13 @@
-{"format_version":"1.10","minecraft:item":{"description":{"identifier":"hivehub:locker","category":"Items"},"components":{"minecraft:icon":"hivehub:locker","minecraft:render_offsets":"miscellaneous"}}}
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "components": {
+      "minecraft:icon": "hivehub:locker",
+      "minecraft:render_offsets": "miscellaneous"
+    },
+    "description": {
+      "category": "Items",
+      "identifier": "hivehub:locker"
+    }
+  }
+}

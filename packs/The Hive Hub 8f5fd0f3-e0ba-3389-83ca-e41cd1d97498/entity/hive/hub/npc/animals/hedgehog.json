@@ -1,1 +1,28 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivehub:npc_animals_hedgehog","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/hub/npc/animals/hedgehog"},"geometry":{"default":"geometry.hive.hub.npc.animals.hedgehog"},"animations":{"idle":"animation.hive.hub.npc.animals.hedgehog.idle"},"animation_controllers":[{"default":"controller.animation.hive.hub.game.idle"}],"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.hub.game.idle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.hub.npc.animals.hedgehog.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.npc.animals.hedgehog"
+      },
+      "identifier": "hivehub:npc_animals_hedgehog",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/hub/npc/animals/hedgehog"
+      }
+    }
+  }
+}

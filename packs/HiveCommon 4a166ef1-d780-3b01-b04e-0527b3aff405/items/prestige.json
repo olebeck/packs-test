@@ -1,1 +1,13 @@
-{"format_version":"1.10","minecraft:item":{"description":{"identifier":"hivecommon:prestige","category":"Items"},"components":{"minecraft:icon":"prestige","minecraft:render_offsets":"miscellaneous"}}}
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "components": {
+      "minecraft:icon": "prestige",
+      "minecraft:render_offsets": "miscellaneous"
+    },
+    "description": {
+      "category": "Items",
+      "identifier": "hivecommon:prestige"
+    }
+  }
+}

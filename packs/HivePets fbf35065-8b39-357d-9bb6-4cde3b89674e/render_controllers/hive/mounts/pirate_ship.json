@@ -1,1 +1,25 @@
-{"format_version":"1.8.0","render_controllers":{"controller.render.hive.mounts.pirate.ship":{"geometry":"Geometry.default","materials":[{"*":"Material.default"},{"sailTop":"Material.one_sided"},{"sailMid":"Material.one_sided"},{"sailBottom":"Material.one_sided"}],"textures":["Texture.default"]}}}
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.mounts.pirate.ship": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        },
+        {
+          "sailTop": "Material.one_sided"
+        },
+        {
+          "sailMid": "Material.one_sided"
+        },
+        {
+          "sailBottom": "Material.one_sided"
+        }
+      ],
+      "textures": [
+        "Texture.default"
+      ]
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"format_version":"1.10","minecraft:item":{"description":{"identifier":"hiveparty:speed_potion","category":"Items"},"components":{"minecraft:icon":"hiveparty:speed_potion","minecraft:render_offsets":"miscellaneous"}}}
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "components": {
+      "minecraft:icon": "hiveparty:speed_potion",
+      "minecraft:render_offsets": "miscellaneous"
+    },
+    "description": {
+      "category": "Items",
+      "identifier": "hiveparty:speed_potion"
+    }
+  }
+}

@@ -1,1 +1,32 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hive:helicopter","materials":{"default":"hive_entity"},"textures":{"default":"textures/hive/helicopter"},"geometry":{"default":"geometry.hive.sg.helicopter"},"particle_effects":{"smoke_puff":"hive:smoke"},"animations":{"spin":"animation.hive.sg.helicopter.spin","spin_fast":"animation.hive.sg.helicopter.spin_fast"},"animation_controllers":[{"general":"controller.animation.hive.sg.helicopter"}],"render_controllers":["controller.render.hive.sg.helicopter"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "general": "controller.animation.hive.sg.helicopter"
+        }
+      ],
+      "animations": {
+        "spin": "animation.hive.sg.helicopter.spin",
+        "spin_fast": "animation.hive.sg.helicopter.spin_fast"
+      },
+      "geometry": {
+        "default": "geometry.hive.sg.helicopter"
+      },
+      "identifier": "hive:helicopter",
+      "materials": {
+        "default": "hive_entity"
+      },
+      "particle_effects": {
+        "smoke_puff": "hive:smoke"
+      },
+      "render_controllers": [
+        "controller.render.hive.sg.helicopter"
+      ],
+      "textures": {
+        "default": "textures/hive/helicopter"
+      }
+    }
+  }
+}

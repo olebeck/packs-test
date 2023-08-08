@@ -1,1 +1,20 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:gravestone_summer_picnic","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/gravestone/summer_picnic"},"geometry":{"default":"geometry.hive.murder.gravestone.summer.picnic"},"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "geometry": {
+        "default": "geometry.hive.murder.gravestone.summer.picnic"
+      },
+      "identifier": "hivemurder:gravestone_summer_picnic",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/murder/gravestone/summer_picnic"
+      }
+    }
+  }
+}

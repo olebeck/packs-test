@@ -1,1 +1,16 @@
-{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.murder.soul":{"states":{"default":{"animations":["idle","idle_blink","spawn"]}}}}}
+{
+  "animation_controllers": {
+    "controller.animation.hive.murder.soul": {
+      "states": {
+        "default": {
+          "animations": [
+            "idle",
+            "idle_blink",
+            "spawn"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

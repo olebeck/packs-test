@@ -1,1 +1,13 @@
-{"format_version":"1.10","minecraft:item":{"description":{"identifier":"hivehats:froggy_cap","category":"Items"},"components":{"minecraft:icon":"hivehats:froggy_cap","minecraft:render_offsets":"miscellaneous"}}}
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "components": {
+      "minecraft:icon": "hivehats:froggy_cap",
+      "minecraft:render_offsets": "miscellaneous"
+    },
+    "description": {
+      "category": "Items",
+      "identifier": "hivehats:froggy_cap"
+    }
+  }
+}

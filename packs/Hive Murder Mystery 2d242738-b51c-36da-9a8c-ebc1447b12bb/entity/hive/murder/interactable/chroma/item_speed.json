@@ -1,1 +1,20 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:chroma_item_speed","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/interactable/chroma/item/speed"},"geometry":{"default":"geometry.hive.murder.interactable.chroma.item.speed"},"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "geometry": {
+        "default": "geometry.hive.murder.interactable.chroma.item.speed"
+      },
+      "identifier": "hivemurder:chroma_item_speed",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/murder/interactable/chroma/item/speed"
+      }
+    }
+  }
+}

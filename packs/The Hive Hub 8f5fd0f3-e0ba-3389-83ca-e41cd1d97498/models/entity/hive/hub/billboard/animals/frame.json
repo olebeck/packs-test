@@ -1,1 +1,346 @@
-{"minecraft:geometry":[{"description":{"identifier":"geometry.hive.hub.billboard.animals.frame","texture_width":256,"texture_height":128,"visible_bounds_width":12,"visible_bounds_height":8,"visible_bounds_offset":[0,3,0]},"bones":[{"name":"root","pivot":[0,0,0]},{"name":"sign","parent":"root","pivot":[0,15,0],"cubes":[{"origin":[-50,10,-5],"size":[100,8,10],"uv":[0,19]},{"origin":[-12,10,-5],"size":[24,8,4],"pivot":[0,18,-5],"rotation":[-42.5,0,0],"uv":[125,70]},{"origin":[-21,0,0],"size":[42,10,0],"uv":[90,40]},{"origin":[-28,0,-3],"size":[7,10,6],"uv":[62,38]},{"origin":[21,0,-3],"size":[7,10,6],"uv":[62,38],"mirror":true},{"origin":[-50,66,-5],"size":[100,8,10],"uv":[0,0]},{"origin":[27,56,-5],"size":[17,10,0],"pivot":[33,66,-5],"rotation":[7.5,0,0],"uv":[112,90]},{"origin":[-31,60,-5],"size":[24,6,0],"uv":[109,53]},{"origin":[-8,66,-7],"size":[16,16,14],"pivot":[0,74,0],"rotation":[0,0,45],"uv":[62,56]},{"origin":[-8,66.5,-7.2],"size":[16,16,0],"uv":[62,87]},{"origin":[-45,18,-3.5],"size":[7,62,7],"pivot":[-38,18,0],"rotation":[0,0,-1.5],"uv":[0,38]},{"origin":[38,18,-3.5],"size":[7,62,7],"pivot":[38,18,0],"rotation":[0,0,1.5],"uv":[31,38],"mirror":true},{"origin":[45,26,-3.5],"size":[8,16,0],"pivot":[38,18,0],"rotation":[0,0,1.5],"uv":[185,65],"mirror":true},{"origin":[-52,46,-3.5],"size":[7,16,0],"pivot":[-38,18,0],"rotation":[0,0,-1.5],"uv":[186,65]}]},{"name":"keyArt","parent":"sign","pivot":[0,16,0]}]}],"format_version":"1.12.0"}
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "bones": [
+        {
+          "name": "root",
+          "pivot": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                -50,
+                10,
+                -5
+              ],
+              "size": [
+                100,
+                8,
+                10
+              ],
+              "uv": [
+                0,
+                19
+              ]
+            },
+            {
+              "origin": [
+                -12,
+                10,
+                -5
+              ],
+              "pivot": [
+                0,
+                18,
+                -5
+              ],
+              "rotation": [
+                -42.5,
+                0,
+                0
+              ],
+              "size": [
+                24,
+                8,
+                4
+              ],
+              "uv": [
+                125,
+                70
+              ]
+            },
+            {
+              "origin": [
+                -21,
+                0,
+                0
+              ],
+              "size": [
+                42,
+                10,
+                0
+              ],
+              "uv": [
+                90,
+                40
+              ]
+            },
+            {
+              "origin": [
+                -28,
+                0,
+                -3
+              ],
+              "size": [
+                7,
+                10,
+                6
+              ],
+              "uv": [
+                62,
+                38
+              ]
+            },
+            {
+              "mirror": true,
+              "origin": [
+                21,
+                0,
+                -3
+              ],
+              "size": [
+                7,
+                10,
+                6
+              ],
+              "uv": [
+                62,
+                38
+              ]
+            },
+            {
+              "origin": [
+                -50,
+                66,
+                -5
+              ],
+              "size": [
+                100,
+                8,
+                10
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            },
+            {
+              "origin": [
+                27,
+                56,
+                -5
+              ],
+              "pivot": [
+                33,
+                66,
+                -5
+              ],
+              "rotation": [
+                7.5,
+                0,
+                0
+              ],
+              "size": [
+                17,
+                10,
+                0
+              ],
+              "uv": [
+                112,
+                90
+              ]
+            },
+            {
+              "origin": [
+                -31,
+                60,
+                -5
+              ],
+              "size": [
+                24,
+                6,
+                0
+              ],
+              "uv": [
+                109,
+                53
+              ]
+            },
+            {
+              "origin": [
+                -8,
+                66,
+                -7
+              ],
+              "pivot": [
+                0,
+                74,
+                0
+              ],
+              "rotation": [
+                0,
+                0,
+                45
+              ],
+              "size": [
+                16,
+                16,
+                14
+              ],
+              "uv": [
+                62,
+                56
+              ]
+            },
+            {
+              "origin": [
+                -8,
+                66.5,
+                -7.2
+              ],
+              "size": [
+                16,
+                16,
+                0
+              ],
+              "uv": [
+                62,
+                87
+              ]
+            },
+            {
+              "origin": [
+                -45,
+                18,
+                -3.5
+              ],
+              "pivot": [
+                -38,
+                18,
+                0
+              ],
+              "rotation": [
+                0,
+                0,
+                -1.5
+              ],
+              "size": [
+                7,
+                62,
+                7
+              ],
+              "uv": [
+                0,
+                38
+              ]
+            },
+            {
+              "mirror": true,
+              "origin": [
+                38,
+                18,
+                -3.5
+              ],
+              "pivot": [
+                38,
+                18,
+                0
+              ],
+              "rotation": [
+                0,
+                0,
+                1.5
+              ],
+              "size": [
+                7,
+                62,
+                7
+              ],
+              "uv": [
+                31,
+                38
+              ]
+            },
+            {
+              "mirror": true,
+              "origin": [
+                45,
+                26,
+                -3.5
+              ],
+              "pivot": [
+                38,
+                18,
+                0
+              ],
+              "rotation": [
+                0,
+                0,
+                1.5
+              ],
+              "size": [
+                8,
+                16,
+                0
+              ],
+              "uv": [
+                185,
+                65
+              ]
+            },
+            {
+              "origin": [
+                -52,
+                46,
+                -3.5
+              ],
+              "pivot": [
+                -38,
+                18,
+                0
+              ],
+              "rotation": [
+                0,
+                0,
+                -1.5
+              ],
+              "size": [
+                7,
+                16,
+                0
+              ],
+              "uv": [
+                186,
+                65
+              ]
+            }
+          ],
+          "name": "sign",
+          "parent": "root",
+          "pivot": [
+            0,
+            15,
+            0
+          ]
+        },
+        {
+          "name": "keyArt",
+          "parent": "sign",
+          "pivot": [
+            0,
+            16,
+            0
+          ]
+        }
+      ],
+      "description": {
+        "identifier": "geometry.hive.hub.billboard.animals.frame",
+        "texture_height": 128,
+        "texture_width": 256,
+        "visible_bounds_height": 8,
+        "visible_bounds_offset": [
+          0,
+          3,
+          0
+        ],
+        "visible_bounds_width": 12
+      }
+    }
+  ]
+}

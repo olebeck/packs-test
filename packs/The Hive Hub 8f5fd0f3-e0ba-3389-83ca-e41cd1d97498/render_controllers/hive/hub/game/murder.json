@@ -1,1 +1,19 @@
-{"format_version":"1.8.0","render_controllers":{"controller.render.hive.hub.game.murder":{"geometry":"Geometry.default","materials":[{"*":"Material.default"},{"glass":"Material.glass"}],"textures":["Texture.default"]}}}
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.hub.game.murder": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        },
+        {
+          "glass": "Material.glass"
+        }
+      ],
+      "textures": [
+        "Texture.default"
+      ]
+    }
+  }
+}

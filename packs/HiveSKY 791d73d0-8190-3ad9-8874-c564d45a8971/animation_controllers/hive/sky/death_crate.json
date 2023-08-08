@@ -1,1 +1,66 @@
-{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.sky.death.crate":{"states":{"default":{"transitions":[{"sunken_chest":"query.variant \u003d\u003d 4"},{"grand_ender_chest":"query.variant \u003d\u003d 5"},{"dark_magma":"query.variant \u003d\u003d 10"},{"golden_pegasus":"query.variant \u003d\u003d 11"}]},"grand_ender_chest":{"animations":["grand_ender_chest_idle"],"particle_effects":[{"effect":"grand_ender_chest"}]},"sunken_chest":{"animations":["sunken_chest_idle","sunken_chest_open"]},"dark_magma":{"animations":["dark_magma_idle"],"particle_effects":[{"effect":"dark_magma_smoke","locator":"lefteye"},{"effect":"dark_magma_smoke","locator":"righteye"}]},"golden_pegasus":{"animations":["golden_pegasus_idle"],"particle_effects":[{"effect":"golden_pegasus"}]}}}}}
+{
+  "animation_controllers": {
+    "controller.animation.hive.sky.death.crate": {
+      "states": {
+        "dark_magma": {
+          "animations": [
+            "dark_magma_idle"
+          ],
+          "particle_effects": [
+            {
+              "effect": "dark_magma_smoke",
+              "locator": "lefteye"
+            },
+            {
+              "effect": "dark_magma_smoke",
+              "locator": "righteye"
+            }
+          ]
+        },
+        "default": {
+          "transitions": [
+            {
+              "sunken_chest": "query.variant == 4"
+            },
+            {
+              "grand_ender_chest": "query.variant == 5"
+            },
+            {
+              "dark_magma": "query.variant == 10"
+            },
+            {
+              "golden_pegasus": "query.variant == 11"
+            }
+          ]
+        },
+        "golden_pegasus": {
+          "animations": [
+            "golden_pegasus_idle"
+          ],
+          "particle_effects": [
+            {
+              "effect": "golden_pegasus"
+            }
+          ]
+        },
+        "grand_ender_chest": {
+          "animations": [
+            "grand_ender_chest_idle"
+          ],
+          "particle_effects": [
+            {
+              "effect": "grand_ender_chest"
+            }
+          ]
+        },
+        "sunken_chest": {
+          "animations": [
+            "sunken_chest_idle",
+            "sunken_chest_open"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

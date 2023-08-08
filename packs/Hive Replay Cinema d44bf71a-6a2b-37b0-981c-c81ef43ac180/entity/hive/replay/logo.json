@@ -1,1 +1,29 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivereplay:logo","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/replay/logo"},"geometry":{"default":"geometry.hive.replay.logo"},"animations":{"static":"animation.hive.replay.logo.static","reveal":"animation.hive.replay.logo.reveal"},"animation_controllers":[{"idle":"controller.animation.hive.replay.logo"}],"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.replay.logo"
+        }
+      ],
+      "animations": {
+        "reveal": "animation.hive.replay.logo.reveal",
+        "static": "animation.hive.replay.logo.static"
+      },
+      "geometry": {
+        "default": "geometry.hive.replay.logo"
+      },
+      "identifier": "hivereplay:logo",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/replay/logo"
+      }
+    }
+  }
+}

@@ -1,1 +1,31 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemounts:bumblebee","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/mounts/bumblebee"},"geometry":{"default":"geometry.hive.mounts.bumblebee"},"animations":{"idle_wings":"animation.hive.mounts.bumblebee.idle.wings","idle_body":"animation.hive.mounts.bumblebee.idle.body","idle_face":"animation.hive.mounts.bumblebee.idle.face","fly_forward":"animation.hive.mounts.bumblebee.fly.forward"},"animation_controllers":[{"idle":"controller.animation.hive.mounts.bumblebee.idle"}],"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.mounts.bumblebee.idle"
+        }
+      ],
+      "animations": {
+        "fly_forward": "animation.hive.mounts.bumblebee.fly.forward",
+        "idle_body": "animation.hive.mounts.bumblebee.idle.body",
+        "idle_face": "animation.hive.mounts.bumblebee.idle.face",
+        "idle_wings": "animation.hive.mounts.bumblebee.idle.wings"
+      },
+      "geometry": {
+        "default": "geometry.hive.mounts.bumblebee"
+      },
+      "identifier": "hivemounts:bumblebee",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/mounts/bumblebee"
+      }
+    }
+  }
+}

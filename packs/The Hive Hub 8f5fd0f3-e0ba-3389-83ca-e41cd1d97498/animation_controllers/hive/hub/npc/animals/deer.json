@@ -1,1 +1,51 @@
-{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.hub.npc.animals.deer.idle":{"states":{"default":{"animations":["idle"]}}},"controller.animation.hive.hub.npc.animals.deer.idle2":{"states":{"default":{"transitions":[{"blink":"variable.idleRandom \u003d\u003d 0"},{"sniff":"variable.idleRandom \u003d\u003d 1"}],"blend_transition":0.2},"blink":{"animations":["blink"],"transitions":[{"default":"query.all_animations_finished"}],"blend_transition":0.2},"sniff":{"animations":["sniff"],"transitions":[{"default":"query.all_animations_finished"}],"blend_transition":0.2}}}}}
+{
+  "animation_controllers": {
+    "controller.animation.hive.hub.npc.animals.deer.idle": {
+      "states": {
+        "default": {
+          "animations": [
+            "idle"
+          ]
+        }
+      }
+    },
+    "controller.animation.hive.hub.npc.animals.deer.idle2": {
+      "states": {
+        "blink": {
+          "animations": [
+            "blink"
+          ],
+          "blend_transition": 0.2,
+          "transitions": [
+            {
+              "default": "query.all_animations_finished"
+            }
+          ]
+        },
+        "default": {
+          "blend_transition": 0.2,
+          "transitions": [
+            {
+              "blink": "variable.idleRandom == 0"
+            },
+            {
+              "sniff": "variable.idleRandom == 1"
+            }
+          ]
+        },
+        "sniff": {
+          "animations": [
+            "sniff"
+          ],
+          "blend_transition": 0.2,
+          "transitions": [
+            {
+              "default": "query.all_animations_finished"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

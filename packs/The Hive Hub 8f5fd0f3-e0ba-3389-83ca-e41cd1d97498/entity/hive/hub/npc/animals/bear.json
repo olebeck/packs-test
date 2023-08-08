@@ -1,1 +1,28 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivehub:npc_animals_bear","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/hub/npc/animals/bear"},"geometry":{"default":"geometry.hive.hub.npc.animals.bear"},"animations":{"idle":"animation.hive.hub.npc.animals.bear.idle"},"animation_controllers":[{"default":"controller.animation.hive.hub.game.idle"}],"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.hub.game.idle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.hub.npc.animals.bear.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.npc.animals.bear"
+      },
+      "identifier": "hivehub:npc_animals_bear",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/hub/npc/animals/bear"
+      }
+    }
+  }
+}

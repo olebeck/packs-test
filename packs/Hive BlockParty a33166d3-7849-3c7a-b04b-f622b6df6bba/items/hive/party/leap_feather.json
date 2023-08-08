@@ -1,1 +1,13 @@
-{"format_version":"1.10","minecraft:item":{"description":{"identifier":"hiveparty:leap_feather","category":"Items"},"components":{"minecraft:icon":"hiveparty:leap_feather","minecraft:render_offsets":"miscellaneous"}}}
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "components": {
+      "minecraft:icon": "hiveparty:leap_feather",
+      "minecraft:render_offsets": "miscellaneous"
+    },
+    "description": {
+      "category": "Items",
+      "identifier": "hiveparty:leap_feather"
+    }
+  }
+}

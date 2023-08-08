@@ -1,1 +1,33 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivewars:summoner","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/wars/status/red"},"geometry":{"default":"geometry.hive.wars.summoner"},"particle_effects":{"gold":"hivewars:summoner_gold","diamond":"hivewars:summoner_diamond","emerald":"hivewars:summoner_emerald"},"animations":{"idle":"animation.hive.wars.summoner"},"animation_controllers":[{"idle":"controller.animation.hive.wars.summoner"}],"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.wars.summoner"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.wars.summoner"
+      },
+      "geometry": {
+        "default": "geometry.hive.wars.summoner"
+      },
+      "identifier": "hivewars:summoner",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "diamond": "hivewars:summoner_diamond",
+        "emerald": "hivewars:summoner_emerald",
+        "gold": "hivewars:summoner_gold"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/wars/status/red"
+      }
+    }
+  }
+}

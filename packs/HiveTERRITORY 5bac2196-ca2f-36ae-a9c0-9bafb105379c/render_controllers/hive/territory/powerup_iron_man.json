@@ -1,1 +1,29 @@
-{"format_version":"1.8.0","render_controllers":{"controller.render.hive.territory.powerup.iron.man":{"arrays":{"textures":{"array.textures":["Texture.iron_man","Texture.diamond_dave"]},"geometries":{"array.geometries":["Geometry.default"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["array.textures[query.variant]"]}}}
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.territory.powerup.iron.man": {
+      "arrays": {
+        "geometries": {
+          "array.geometries": [
+            "Geometry.default"
+          ]
+        },
+        "textures": {
+          "array.textures": [
+            "Texture.iron_man",
+            "Texture.diamond_dave"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "array.textures[query.variant]"
+      ]
+    }
+  }
+}

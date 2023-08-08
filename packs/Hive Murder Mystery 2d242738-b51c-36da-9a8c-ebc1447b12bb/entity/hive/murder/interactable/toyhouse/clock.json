@@ -1,1 +1,28 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:toyhouse_clock","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/interactable/toyhouse/clock"},"geometry":{"default":"geometry.hive.murder.interactable.toyhouse.clock"},"animations":{"idle":"animation.hive.murder.interactable.toyhouse.clock.idle"},"animation_controllers":[{"idle":"controller.animation.hive.murder.prop.idle"}],"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.murder.prop.idle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.murder.interactable.toyhouse.clock.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.murder.interactable.toyhouse.clock"
+      },
+      "identifier": "hivemurder:toyhouse_clock",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/murder/interactable/toyhouse/clock"
+      }
+    }
+  }
+}

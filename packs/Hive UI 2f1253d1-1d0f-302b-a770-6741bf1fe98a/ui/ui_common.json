@@ -1,1 +1,6 @@
-{"scrollbar_track":{"type":"scroll_track","$focus_for_tts_enabled|default":false}}
+{
+  "scrollbar_track": {
+    "$focus_for_tts_enabled|default": false,
+    "type": "scroll_track"
+  }
+}

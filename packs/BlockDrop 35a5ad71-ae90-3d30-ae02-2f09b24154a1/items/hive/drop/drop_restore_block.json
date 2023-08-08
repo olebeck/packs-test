@@ -1,1 +1,8 @@
-{"format_version":"1.10","minecraft:item":{"description":{"identifier":"hive:drop_restore_blocks"}}}
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "hive:drop_restore_blocks"
+    }
+  }
+}

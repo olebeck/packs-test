@@ -1,1 +1,8 @@
-{"format_version":"1.10","minecraft:item":{"description":{"identifier":"hive:double_speed"}}}
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "hive:double_speed"
+    }
+  }
+}

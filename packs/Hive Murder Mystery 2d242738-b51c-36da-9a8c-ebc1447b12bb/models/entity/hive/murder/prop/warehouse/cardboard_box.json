@@ -1,1 +1,48 @@
-{"format_version":"1.12.0","minecraft:geometry":[{"description":{"identifier":"geometry.hive.murder.prop.warehouse.cardboard.box","texture_width":64,"texture_height":64,"visible_bounds_width":3,"visible_bounds_height":2,"visible_bounds_offset":[0,1,0]},"bones":[{"name":"root","pivot":[0,0,0],"cubes":[{"origin":[-7,1,-7],"size":[14,9,14],"inflate":1.2,"uv":[0,0]}]}]}]}
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "bones": [
+        {
+          "cubes": [
+            {
+              "inflate": 1.2,
+              "origin": [
+                -7,
+                1,
+                -7
+              ],
+              "size": [
+                14,
+                9,
+                14
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            }
+          ],
+          "name": "root",
+          "pivot": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "description": {
+        "identifier": "geometry.hive.murder.prop.warehouse.cardboard.box",
+        "texture_height": 64,
+        "texture_width": 64,
+        "visible_bounds_height": 2,
+        "visible_bounds_offset": [
+          0,
+          1,
+          0
+        ],
+        "visible_bounds_width": 3
+      }
+    }
+  ]
+}

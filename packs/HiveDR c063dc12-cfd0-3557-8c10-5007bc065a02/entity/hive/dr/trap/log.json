@@ -1,1 +1,28 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivedr:trap_log","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/dr/trap/log"},"geometry":{"default":"geometry.hive.dr.trap.log"},"animations":{"trap_log_spin":"animation.hive.dr.trap.log.spin"},"animation_controllers":[{"trap_log_spin":"controller.animation.hive.dr.trap.log.spin"}],"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "trap_log_spin": "controller.animation.hive.dr.trap.log.spin"
+        }
+      ],
+      "animations": {
+        "trap_log_spin": "animation.hive.dr.trap.log.spin"
+      },
+      "geometry": {
+        "default": "geometry.hive.dr.trap.log"
+      },
+      "identifier": "hivedr:trap_log",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/dr/trap/log"
+      }
+    }
+  }
+}

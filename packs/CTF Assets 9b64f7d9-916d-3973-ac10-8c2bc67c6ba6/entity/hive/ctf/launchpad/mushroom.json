@@ -1,1 +1,31 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivectf:launchpad_mushroom","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/ctf/launchpad/mushroom"},"geometry":{"default":"geometry.hive.ctf.launchpad.mushroom"},"animations":{"launch":"animation.hive.ctf.launchpad.mushroom.launch"},"particle_effects":{"launch":"hivectf:launchpad_mushroom_launch"},"animation_controllers":[{"activate":"controller.animation.hive.ctf.launchpad.launch.particles"}],"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "activate": "controller.animation.hive.ctf.launchpad.launch.particles"
+        }
+      ],
+      "animations": {
+        "launch": "animation.hive.ctf.launchpad.mushroom.launch"
+      },
+      "geometry": {
+        "default": "geometry.hive.ctf.launchpad.mushroom"
+      },
+      "identifier": "hivectf:launchpad_mushroom",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "launch": "hivectf:launchpad_mushroom_launch"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/ctf/launchpad/mushroom"
+      }
+    }
+  }
+}

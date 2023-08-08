@@ -1,1 +1,596 @@
-{"namespace":"scoreboard","scoreboard_sidebar":{"type":"panel","size":["100%","100%"],"controls":[{"hive_ui_sidebar_check":{"type":"panel","$flag_ui":"support.playhive.com/ui","size":["100%","100%"],"controls":[{"sidebar@scoreboard.hive_ui_scoreboard_sidebar":{}}],"bindings":[{"binding_name":"#objective_sidebar_name","binding_type":"global"},{"source_property_name":"(#objective_sidebar_name \u003d $flag_ui)","binding_type":"view","target_property_name":"#visible"}]}},{"round_summary_sidebar_check":{"type":"panel","$flag_ui2":"§m§a","size":["100%","100%"],"controls":[{"sidebar@scoreboard.round_summary":{}}],"bindings":[{"binding_name":"#objective_sidebar_name","binding_type":"global"},{"source_property_name":"(not ((#objective_sidebar_name - $flag_ui2) \u003d #objective_sidebar_name)))","binding_type":"view","target_property_name":"#visible"}]}}]},"hive_ui_scoreboard_sidebar":{"type":"panel","size":["100%c",0],"$scoreboard_offset|default":[-2,5],"$scoreboard_alignment":"top_right","offset":"$scoreboard_offset","anchor_from":"$scoreboard_alignment","anchor_to":"$scoreboard_alignment","controls":[{"players":{"type":"stack_panel","anchor_from":"top_right","anchor_to":"top_right","size":["100%c","100%c"],"orientation":"horizontal","collection_name":"scoreboard_players","factory":{"name":"player_list_factory","control_name":"scoreboard.hive_scoreboard_entry_final"},"bindings":[{"binding_name":"#scoreboard_sidebar_size","binding_type":"global","binding_name_override":"#collection_length"}]}}],"bindings":[{"binding_name":"#scoreboard_sidebar_visible","binding_type":"global","binding_name_override":"#visible"}],"variables":[{"requires":"($pocket_screen)","$scoreboard_offset":[0,20],"$scoreboard_alignment":"top_middle"}]},"hive_scoreboard_entry_final":{"type":"panel","size":["100%cm + 3px","100%cm"],"controls":[{"text":{"type":"label","text":"#player_name_sidebar","shadow":false,"layer":2,"anchor_from":"top_left","anchor_to":"top_left","offset":[1,3],"bindings":[{"binding_name":"#player_name_sidebar","binding_type":"collection","binding_collection_name":"scoreboard_players"}]}},{"background":{"type":"image","texture":"textures/ui/hive/hive_scoreboard_entry","alpha":0.55,"size":["100%sm + 4px","100%sm + 6px"],"offset":[0,0],"anchor_from":"top_left","anchor_to":"top_left"}}]},"round_summary":{"type":"stack_panel","size":["100%","100%c"],"layer":50,"orientation":"vertical","anchor_from":"center","anchor_to":"center","controls":[{"title":{"type":"image","texture":"textures/ui/hive/whitetransparency","color":[1,0.6823,0],"keep_ratio":false,"alpha":0.8,"layer":51,"anchor_from":"top_left","anchor_to":"top_left","$size|default":["14% + 100%cm",30],"variables":[{"requires":"($pocket_screen)","$size":["4% + 100%cm",30]}],"size":"$size","controls":[{"title_text":{"type":"label","font_type":"MinecraftTen","localize":false,"text":"#objective_sidebar_name","color":"white","text_alignment":"right","font_scale_factor":2,"anchor_from":"top_right","anchor_to":"top_right","size":["default",20],"offset":[-6,0],"layer":53,"shadow":false,"bindings":[{"binding_name":"#objective_sidebar_name","binding_type":"global"}]}},{"title_text_shadow":{"type":"label","font_type":"MinecraftTen","localize":false,"text":"#objective_sidebar_name","color":"black","alpha":0.21,"text_alignment":"right","font_scale_factor":2,"anchor_from":"top_right","anchor_to":"top_right","offset":[-5,1],"size":["default",20],"layer":52,"shadow":false,"bindings":[{"binding_name":"#objective_sidebar_name","binding_type":"global"}]}}]}},{"below_title_padding":{"type":"panel","size":["100%c",10],"anchor_from":"top_left","anchor_to":"top_left"}},{"score_container":{"type":"image","texture":"textures/ui/hive/whitetransparency","color":[0,0.7764,1],"keep_ratio":false,"alpha":0.7,"layer":51,"size":["100%","100%c"],"controls":[{"players":{"offset":[0,10],"anchor_from":"top_middle","anchor_to":"top_middle","type":"grid","$size|default":["75%","100%c"],"variables":[{"requires":"($pocket_screen)","$size":["95%","100%c"]}],"size":"$size","collection_name":"scoreboard_players","grid_rescaling_type":"horizontal","grid_item_template":"scoreboard.round_summary_entry_switcher","bindings":[{"binding_name":"#scoreboard_sidebar_size","binding_type":"global","binding_name_override":"#maximum_grid_items"}]}},{"after_score_padding":{"type":"panel","size":["100%c",30],"anchor_from":"top_left","anchor_to":"top_left"}}]}}],"bindings":[{"binding_name":"#scoreboard_sidebar_visible","binding_type":"global","binding_name_override":"#visible"}]},"round_summary_entry_switcher":{"type":"panel","layer":52,"size":["50%","100%c"],"controls":[{"normal_entry_check":{"type":"panel","$flag_timer":"§m§a","size":["100%","100%c"],"controls":[{"entry@scoreboard.round_summary_entry":{}}],"bindings":[{"binding_name":"#player_name_sidebar","binding_type":"collection","binding_collection_name":"scoreboard_players"},{"source_property_name":"((#player_name_sidebar - $flag_timer) \u003d #player_name_sidebar))","binding_type":"view","target_property_name":"#visible"}]}},{"countdown_entry_check":{"type":"panel","$flag_timer":"§m§a","size":["50%","100%c"],"controls":[{"text":{"type":"label","text":"#player_name_sidebar","shadow":false,"layer":53,"anchor_from":"center","anchor_to":"center","text_alignment":"left","offset":["100%",10],"bindings":[{"binding_name":"#player_name_sidebar","binding_type":"collection","binding_collection_name":"scoreboard_players"}]}}],"bindings":[{"binding_name":"#player_name_sidebar","binding_type":"collection","binding_collection_name":"scoreboard_players"},{"source_property_name":"(not ((#player_name_sidebar - $flag_timer) \u003d #player_name_sidebar)))","binding_type":"view","target_property_name":"#visible"}]}}]},"round_summary_entry":{"type":"panel","size":["100%","20px"],"offset":[1,1],"controls":[{"text@scoreboard.round_summary_entry_text":{}},{"background":{"type":"image","texture":"textures/ui/hive/hive_rounded_corners","color":[0.031,0.0705,0.145],"keep_ratio":false,"alpha":0.80,"layer":52,"size":["100% - 3px","100% - 3px"],"offset":[0,0],"anchor_from":"top_left","anchor_to":"top_left"}}]},"round_summary_entry_text":{"type":"panel","size":["100% - 10px","10px"],"offset":[-1,-1],"controls":[{"text_1@scoreboard.clipped_text":{"$line_number":0,"$text_binding":"#player_name_sidebar","$bindings":[{"binding_name":"#player_name_sidebar","binding_type":"collection","binding_collection_name":"scoreboard_players"}]}},{"text_2@scoreboard.clipped_text":{"$line_number":1,"$layer":54,"$align":"right","$text_binding":"#player_name_sidebar","$bindings":[{"binding_name":"#player_name_sidebar","binding_type":"collection","binding_collection_name":"scoreboard_players"}]}}]},"clipped_text":{"$line_number|default":0,"$layer|default":53,"$bindings|default":[],"$text_binding|default":"","$align|default":"left","$width|default":"100%","type":"panel","size":["100%","10px"],"allow_clipping":true,"clips_children":true,"controls":[{"text":{"type":"label","text":"$text_binding","shadow":false,"layer":"$layer","font_scale_factor":1,"$offset|default":[0,0],"variables":[{"requires":"($align \u003d \u0027left\u0027)","$anchor":"top_left","$text_alignment":"left"},{"requires":"($align \u003d \u0027right\u0027)","$anchor":"top_right","$text_alignment":"right"},{"requires":"($line_number \u003d 1)","$offset":[0,-10]},{"requires":"($line_number \u003d 2)","$offset":[0,-20]},{"requires":"($line_number \u003d 3)","$offset":[0,-30]},{"requires":"($line_number \u003d 4)","$offset":[0,-40]}],"anchor_from":"$anchor","anchor_to":"$anchor","text_alignment":"$text_alignment","offset":"$offset","bindings":"$bindings"}}]}}
+{
+  "clipped_text": {
+    "$align|default": "left",
+    "$bindings|default": [],
+    "$layer|default": 53,
+    "$line_number|default": 0,
+    "$text_binding|default": "",
+    "$width|default": "100%",
+    "allow_clipping": true,
+    "clips_children": true,
+    "controls": [
+      {
+        "text": {
+          "$offset|default": [
+            0,
+            0
+          ],
+          "anchor_from": "$anchor",
+          "anchor_to": "$anchor",
+          "bindings": "$bindings",
+          "font_scale_factor": 1,
+          "layer": "$layer",
+          "offset": "$offset",
+          "shadow": false,
+          "text": "$text_binding",
+          "text_alignment": "$text_alignment",
+          "type": "label",
+          "variables": [
+            {
+              "$anchor": "top_left",
+              "$text_alignment": "left",
+              "requires": "($align = 'left')"
+            },
+            {
+              "$anchor": "top_right",
+              "$text_alignment": "right",
+              "requires": "($align = 'right')"
+            },
+            {
+              "$offset": [
+                0,
+                -10
+              ],
+              "requires": "($line_number = 1)"
+            },
+            {
+              "$offset": [
+                0,
+                -20
+              ],
+              "requires": "($line_number = 2)"
+            },
+            {
+              "$offset": [
+                0,
+                -30
+              ],
+              "requires": "($line_number = 3)"
+            },
+            {
+              "$offset": [
+                0,
+                -40
+              ],
+              "requires": "($line_number = 4)"
+            }
+          ]
+        }
+      }
+    ],
+    "size": [
+      "100%",
+      "10px"
+    ],
+    "type": "panel"
+  },
+  "hive_scoreboard_entry_final": {
+    "controls": [
+      {
+        "text": {
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "bindings": [
+            {
+              "binding_collection_name": "scoreboard_players",
+              "binding_name": "#player_name_sidebar",
+              "binding_type": "collection"
+            }
+          ],
+          "layer": 2,
+          "offset": [
+            1,
+            3
+          ],
+          "shadow": false,
+          "text": "#player_name_sidebar",
+          "type": "label"
+        }
+      },
+      {
+        "background": {
+          "alpha": 0.55,
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "offset": [
+            0,
+            0
+          ],
+          "size": [
+            "100%sm + 4px",
+            "100%sm + 6px"
+          ],
+          "texture": "textures/ui/hive/hive_scoreboard_entry",
+          "type": "image"
+        }
+      }
+    ],
+    "size": [
+      "100%cm + 3px",
+      "100%cm"
+    ],
+    "type": "panel"
+  },
+  "hive_ui_scoreboard_sidebar": {
+    "$scoreboard_alignment": "top_right",
+    "$scoreboard_offset|default": [
+      -2,
+      5
+    ],
+    "anchor_from": "$scoreboard_alignment",
+    "anchor_to": "$scoreboard_alignment",
+    "bindings": [
+      {
+        "binding_name": "#scoreboard_sidebar_visible",
+        "binding_name_override": "#visible",
+        "binding_type": "global"
+      }
+    ],
+    "controls": [
+      {
+        "players": {
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "bindings": [
+            {
+              "binding_name": "#scoreboard_sidebar_size",
+              "binding_name_override": "#collection_length",
+              "binding_type": "global"
+            }
+          ],
+          "collection_name": "scoreboard_players",
+          "factory": {
+            "control_name": "scoreboard.hive_scoreboard_entry_final",
+            "name": "player_list_factory"
+          },
+          "orientation": "horizontal",
+          "size": [
+            "100%c",
+            "100%c"
+          ],
+          "type": "stack_panel"
+        }
+      }
+    ],
+    "offset": "$scoreboard_offset",
+    "size": [
+      "100%c",
+      0
+    ],
+    "type": "panel",
+    "variables": [
+      {
+        "$scoreboard_alignment": "top_middle",
+        "$scoreboard_offset": [
+          0,
+          20
+        ],
+        "requires": "($pocket_screen)"
+      }
+    ]
+  },
+  "namespace": "scoreboard",
+  "round_summary": {
+    "anchor_from": "center",
+    "anchor_to": "center",
+    "bindings": [
+      {
+        "binding_name": "#scoreboard_sidebar_visible",
+        "binding_name_override": "#visible",
+        "binding_type": "global"
+      }
+    ],
+    "controls": [
+      {
+        "title": {
+          "$size|default": [
+            "14% + 100%cm",
+            30
+          ],
+          "alpha": 0.8,
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "color": [
+            1,
+            0.6823,
+            0
+          ],
+          "controls": [
+            {
+              "title_text": {
+                "anchor_from": "top_right",
+                "anchor_to": "top_right",
+                "bindings": [
+                  {
+                    "binding_name": "#objective_sidebar_name",
+                    "binding_type": "global"
+                  }
+                ],
+                "color": "white",
+                "font_scale_factor": 2,
+                "font_type": "MinecraftTen",
+                "layer": 53,
+                "localize": false,
+                "offset": [
+                  -6,
+                  0
+                ],
+                "shadow": false,
+                "size": [
+                  "default",
+                  20
+                ],
+                "text": "#objective_sidebar_name",
+                "text_alignment": "right",
+                "type": "label"
+              }
+            },
+            {
+              "title_text_shadow": {
+                "alpha": 0.21,
+                "anchor_from": "top_right",
+                "anchor_to": "top_right",
+                "bindings": [
+                  {
+                    "binding_name": "#objective_sidebar_name",
+                    "binding_type": "global"
+                  }
+                ],
+                "color": "black",
+                "font_scale_factor": 2,
+                "font_type": "MinecraftTen",
+                "layer": 52,
+                "localize": false,
+                "offset": [
+                  -5,
+                  1
+                ],
+                "shadow": false,
+                "size": [
+                  "default",
+                  20
+                ],
+                "text": "#objective_sidebar_name",
+                "text_alignment": "right",
+                "type": "label"
+              }
+            }
+          ],
+          "keep_ratio": false,
+          "layer": 51,
+          "size": "$size",
+          "texture": "textures/ui/hive/whitetransparency",
+          "type": "image",
+          "variables": [
+            {
+              "$size": [
+                "4% + 100%cm",
+                30
+              ],
+              "requires": "($pocket_screen)"
+            }
+          ]
+        }
+      },
+      {
+        "below_title_padding": {
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "size": [
+            "100%c",
+            10
+          ],
+          "type": "panel"
+        }
+      },
+      {
+        "score_container": {
+          "alpha": 0.7,
+          "color": [
+            0,
+            0.7764,
+            1
+          ],
+          "controls": [
+            {
+              "players": {
+                "$size|default": [
+                  "75%",
+                  "100%c"
+                ],
+                "anchor_from": "top_middle",
+                "anchor_to": "top_middle",
+                "bindings": [
+                  {
+                    "binding_name": "#scoreboard_sidebar_size",
+                    "binding_name_override": "#maximum_grid_items",
+                    "binding_type": "global"
+                  }
+                ],
+                "collection_name": "scoreboard_players",
+                "grid_item_template": "scoreboard.round_summary_entry_switcher",
+                "grid_rescaling_type": "horizontal",
+                "offset": [
+                  0,
+                  10
+                ],
+                "size": "$size",
+                "type": "grid",
+                "variables": [
+                  {
+                    "$size": [
+                      "95%",
+                      "100%c"
+                    ],
+                    "requires": "($pocket_screen)"
+                  }
+                ]
+              }
+            },
+            {
+              "after_score_padding": {
+                "anchor_from": "top_left",
+                "anchor_to": "top_left",
+                "size": [
+                  "100%c",
+                  30
+                ],
+                "type": "panel"
+              }
+            }
+          ],
+          "keep_ratio": false,
+          "layer": 51,
+          "size": [
+            "100%",
+            "100%c"
+          ],
+          "texture": "textures/ui/hive/whitetransparency",
+          "type": "image"
+        }
+      }
+    ],
+    "layer": 50,
+    "orientation": "vertical",
+    "size": [
+      "100%",
+      "100%c"
+    ],
+    "type": "stack_panel"
+  },
+  "round_summary_entry": {
+    "controls": [
+      {
+        "text@scoreboard.round_summary_entry_text": {}
+      },
+      {
+        "background": {
+          "alpha": 0.8,
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "color": [
+            0.031,
+            0.0705,
+            0.145
+          ],
+          "keep_ratio": false,
+          "layer": 52,
+          "offset": [
+            0,
+            0
+          ],
+          "size": [
+            "100% - 3px",
+            "100% - 3px"
+          ],
+          "texture": "textures/ui/hive/hive_rounded_corners",
+          "type": "image"
+        }
+      }
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "size": [
+      "100%",
+      "20px"
+    ],
+    "type": "panel"
+  },
+  "round_summary_entry_switcher": {
+    "controls": [
+      {
+        "normal_entry_check": {
+          "$flag_timer": "§m§a",
+          "bindings": [
+            {
+              "binding_collection_name": "scoreboard_players",
+              "binding_name": "#player_name_sidebar",
+              "binding_type": "collection"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "((#player_name_sidebar - $flag_timer) = #player_name_sidebar))",
+              "target_property_name": "#visible"
+            }
+          ],
+          "controls": [
+            {
+              "entry@scoreboard.round_summary_entry": {}
+            }
+          ],
+          "size": [
+            "100%",
+            "100%c"
+          ],
+          "type": "panel"
+        }
+      },
+      {
+        "countdown_entry_check": {
+          "$flag_timer": "§m§a",
+          "bindings": [
+            {
+              "binding_collection_name": "scoreboard_players",
+              "binding_name": "#player_name_sidebar",
+              "binding_type": "collection"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "(not ((#player_name_sidebar - $flag_timer) = #player_name_sidebar)))",
+              "target_property_name": "#visible"
+            }
+          ],
+          "controls": [
+            {
+              "text": {
+                "anchor_from": "center",
+                "anchor_to": "center",
+                "bindings": [
+                  {
+                    "binding_collection_name": "scoreboard_players",
+                    "binding_name": "#player_name_sidebar",
+                    "binding_type": "collection"
+                  }
+                ],
+                "layer": 53,
+                "offset": [
+                  "100%",
+                  10
+                ],
+                "shadow": false,
+                "text": "#player_name_sidebar",
+                "text_alignment": "left",
+                "type": "label"
+              }
+            }
+          ],
+          "size": [
+            "50%",
+            "100%c"
+          ],
+          "type": "panel"
+        }
+      }
+    ],
+    "layer": 52,
+    "size": [
+      "50%",
+      "100%c"
+    ],
+    "type": "panel"
+  },
+  "round_summary_entry_text": {
+    "controls": [
+      {
+        "text_1@scoreboard.clipped_text": {
+          "$bindings": [
+            {
+              "binding_collection_name": "scoreboard_players",
+              "binding_name": "#player_name_sidebar",
+              "binding_type": "collection"
+            }
+          ],
+          "$line_number": 0,
+          "$text_binding": "#player_name_sidebar"
+        }
+      },
+      {
+        "text_2@scoreboard.clipped_text": {
+          "$align": "right",
+          "$bindings": [
+            {
+              "binding_collection_name": "scoreboard_players",
+              "binding_name": "#player_name_sidebar",
+              "binding_type": "collection"
+            }
+          ],
+          "$layer": 54,
+          "$line_number": 1,
+          "$text_binding": "#player_name_sidebar"
+        }
+      }
+    ],
+    "offset": [
+      -1,
+      -1
+    ],
+    "size": [
+      "100% - 10px",
+      "10px"
+    ],
+    "type": "panel"
+  },
+  "scoreboard_sidebar": {
+    "controls": [
+      {
+        "hive_ui_sidebar_check": {
+          "$flag_ui": "support.playhive.com/ui",
+          "bindings": [
+            {
+              "binding_name": "#objective_sidebar_name",
+              "binding_type": "global"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "(#objective_sidebar_name = $flag_ui)",
+              "target_property_name": "#visible"
+            }
+          ],
+          "controls": [
+            {
+              "sidebar@scoreboard.hive_ui_scoreboard_sidebar": {}
+            }
+          ],
+          "size": [
+            "100%",
+            "100%"
+          ],
+          "type": "panel"
+        }
+      },
+      {
+        "round_summary_sidebar_check": {
+          "$flag_ui2": "§m§a",
+          "bindings": [
+            {
+              "binding_name": "#objective_sidebar_name",
+              "binding_type": "global"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "(not ((#objective_sidebar_name - $flag_ui2) = #objective_sidebar_name)))",
+              "target_property_name": "#visible"
+            }
+          ],
+          "controls": [
+            {
+              "sidebar@scoreboard.round_summary": {}
+            }
+          ],
+          "size": [
+            "100%",
+            "100%"
+          ],
+          "type": "panel"
+        }
+      }
+    ],
+    "size": [
+      "100%",
+      "100%"
+    ],
+    "type": "panel"
+  }
+}

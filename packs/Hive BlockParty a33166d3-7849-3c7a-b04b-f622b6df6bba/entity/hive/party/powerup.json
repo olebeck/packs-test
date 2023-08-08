@@ -1,1 +1,31 @@
-{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hiveparty:powerup","materials":{"default":"entity_alphatest","glow":"slime_outer"},"textures":{"default":"textures/entity/hive/party/powerup"},"geometry":{"default":"geometry.hive.party.powerup"},"animations":{"idle":"animation.hive.party.powerup.idle","spawn":"animation.hive.party.powerup.spawn"},"scripts":{"animate":["idle","spawn"]},"render_controllers":["controller.render.hive.party.powerup"]}}}
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animations": {
+        "idle": "animation.hive.party.powerup.idle",
+        "spawn": "animation.hive.party.powerup.spawn"
+      },
+      "geometry": {
+        "default": "geometry.hive.party.powerup"
+      },
+      "identifier": "hiveparty:powerup",
+      "materials": {
+        "default": "entity_alphatest",
+        "glow": "slime_outer"
+      },
+      "render_controllers": [
+        "controller.render.hive.party.powerup"
+      ],
+      "scripts": {
+        "animate": [
+          "idle",
+          "spawn"
+        ]
+      },
+      "textures": {
+        "default": "textures/entity/hive/party/powerup"
+      }
+    }
+  }
+}

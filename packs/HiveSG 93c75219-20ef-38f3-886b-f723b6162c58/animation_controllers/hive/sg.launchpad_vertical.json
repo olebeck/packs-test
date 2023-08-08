@@ -1,1 +1,29 @@
-{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.sg.launchpad_vertical":{"states":{"ambient":{"animations":["base_pose"],"transitions":[{"launch":"query.is_baby"}]},"launch":{"animations":["launch"],"transitions":[{"ambient":"!query.is_baby"}]}}}}}
+{
+  "animation_controllers": {
+    "controller.animation.hive.sg.launchpad_vertical": {
+      "states": {
+        "ambient": {
+          "animations": [
+            "base_pose"
+          ],
+          "transitions": [
+            {
+              "launch": "query.is_baby"
+            }
+          ]
+        },
+        "launch": {
+          "animations": [
+            "launch"
+          ],
+          "transitions": [
+            {
+              "ambient": "!query.is_baby"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

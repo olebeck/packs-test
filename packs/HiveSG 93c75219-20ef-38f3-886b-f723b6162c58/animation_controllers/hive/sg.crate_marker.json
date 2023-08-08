@@ -1,1 +1,20 @@
-{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.sg.crate_marker":{"states":{"default":{"animations":["base_pose"],"particle_effects":[{"effect":"marker","locator":"center"}]}}}}}
+{
+  "animation_controllers": {
+    "controller.animation.hive.sg.crate_marker": {
+      "states": {
+        "default": {
+          "animations": [
+            "base_pose"
+          ],
+          "particle_effects": [
+            {
+              "effect": "marker",
+              "locator": "center"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

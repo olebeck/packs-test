@@ -1,1 +1,8 @@
-{"format_version":"1.8.0","animations":{"animation.hive.sg.base_pose":{"loop":true}}}
+{
+  "animations": {
+    "animation.hive.sg.base_pose": {
+      "loop": true
+    }
+  },
+  "format_version": "1.8.0"
+}

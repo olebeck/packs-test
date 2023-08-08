@@ -1,1 +1,31 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hive:flare","materials":{"default":"hive_entity"},"textures":{"default":"textures/hive/flare"},"geometry":{"default":"geometry.hive.sg.flare"},"particle_effects":{"flare":"hive:flare_particle"},"animations":{"base_pose":"animation.hive.sg.base_pose"},"animation_controllers":[{"general":"controller.animation.hive.sg.flare"}],"render_controllers":["controller.render.hive.sg.flare"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "general": "controller.animation.hive.sg.flare"
+        }
+      ],
+      "animations": {
+        "base_pose": "animation.hive.sg.base_pose"
+      },
+      "geometry": {
+        "default": "geometry.hive.sg.flare"
+      },
+      "identifier": "hive:flare",
+      "materials": {
+        "default": "hive_entity"
+      },
+      "particle_effects": {
+        "flare": "hive:flare_particle"
+      },
+      "render_controllers": [
+        "controller.render.hive.sg.flare"
+      ],
+      "textures": {
+        "default": "textures/hive/flare"
+      }
+    }
+  }
+}

@@ -1,1 +1,21 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:warehouse_vending_machine","materials":{"default":"entity_alphatest"},"textures":{"invisibility":"textures/entity/hive/murder/interactable/warehouse/vending_machine_invisibility","speed":"textures/entity/hive/murder/interactable/warehouse/vending_machine_speed"},"geometry":{"default":"geometry.hive.murder.interactable.warehouse.vending.machine"},"render_controllers":["controller.render.hive.murder.interactable.warehouse.vending.machine"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "geometry": {
+        "default": "geometry.hive.murder.interactable.warehouse.vending.machine"
+      },
+      "identifier": "hivemurder:warehouse_vending_machine",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.hive.murder.interactable.warehouse.vending.machine"
+      ],
+      "textures": {
+        "invisibility": "textures/entity/hive/murder/interactable/warehouse/vending_machine_invisibility",
+        "speed": "textures/entity/hive/murder/interactable/warehouse/vending_machine_speed"
+      }
+    }
+  }
+}

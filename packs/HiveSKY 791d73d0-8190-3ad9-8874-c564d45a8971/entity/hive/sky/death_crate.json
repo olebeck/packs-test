@@ -1,1 +1,65 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivesky:death_crate","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/sky/deathcrates/default","adventurers_backpack":"textures/entity/hive/sky/deathcrates/adventurers_backpack","package":"textures/entity/hive/sky/deathcrates/package","grand_ender_chest":"textures/entity/hive/sky/deathcrates/grand_ender_chest","sunken_chest":"textures/entity/hive/sky/deathcrates/sunken_chest","trash_can":"textures/entity/hive/sky/deathcrates/trash_can","barrel":"textures/entity/hive/sky/deathcrates/barrel","cat_chest":"textures/entity/hive/sky/deathcrates/cat_chest","royal_chest":"textures/entity/hive/sky/deathcrates/royal_chest","toolbox":"textures/entity/hive/sky/deathcrates/toolbox","dark_magma":"textures/entity/hive/sky/deathcrates/dark_magma","golden_pegasus":"textures/entity/hive/sky/deathcrates/golden_pegasus","present":"textures/entity/hive/sky/deathcrates/present","ice_chest":"textures/entity/hive/sky/deathcrates/ice_chest"},"geometry":{"default":"geometry.hive.sky.death.crate.default","adventurers_backpack":"geometry.hive.sky.death.crate.adventurers.backpack","package":"geometry.hive.sky.death.crate.package","grand_ender_chest":"geometry.hive.sky.death.crate.grand.ender.chest","sunken_chest":"geometry.hive.sky.death.crate.sunken.chest","trash_can":"geometry.hive.sky.death.crate.trash.can","barrel":"geometry.hive.sky.death.crate.barrel","cat_chest":"geometry.hive.sky.death.crate.cat.chest","royal_chest":"geometry.hive.sky.death.crate.royal.chest","toolbox":"geometry.hive.sky.death.crate.toolbox","dark_magma":"geometry.hive.sky.death.crate.dark_magma","golden_pegasus":"geometry.hive.sky.death.crate.golden_pegasus","present":"geometry.hive.sky.death.crate.present","ice_chest":"geometry.hive.sky.death.crate.ice.chest"},"animations":{"grand_ender_chest_idle":"animation.hive.sky.death.crate.grand.ender.chest.idle","sunken_chest_idle":"animation.hive.sky.death.crate.sunken.chest.idle","sunken_chest_open":"animation.hive.sky.death.crate.sunken.chest.open","dark_magma_idle":"animation.hive.sky.death.crate.dark_magma.idle","golden_pegasus_idle":"animation.hive.sky.death.crate.golden_pegasus.idle"},"particle_effects":{"grand_ender_chest":"hivesky:grand_ender_chest","sunken_chest_bubble_burst":"hivesky:sunken_chest_bubble_burst","sunken_chest_bubble_out":"hivesky:sunken_chest_bubble_out","dark_magma_smoke":"hivesky:dark_magma_smoke","golden_pegasus":"hivesky:golden_pegasus"},"animation_controllers":[{"default":"controller.animation.hive.sky.death.crate"}],"render_controllers":["controller.render.hive.sky.death.crate"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.sky.death.crate"
+        }
+      ],
+      "animations": {
+        "dark_magma_idle": "animation.hive.sky.death.crate.dark_magma.idle",
+        "golden_pegasus_idle": "animation.hive.sky.death.crate.golden_pegasus.idle",
+        "grand_ender_chest_idle": "animation.hive.sky.death.crate.grand.ender.chest.idle",
+        "sunken_chest_idle": "animation.hive.sky.death.crate.sunken.chest.idle",
+        "sunken_chest_open": "animation.hive.sky.death.crate.sunken.chest.open"
+      },
+      "geometry": {
+        "adventurers_backpack": "geometry.hive.sky.death.crate.adventurers.backpack",
+        "barrel": "geometry.hive.sky.death.crate.barrel",
+        "cat_chest": "geometry.hive.sky.death.crate.cat.chest",
+        "dark_magma": "geometry.hive.sky.death.crate.dark_magma",
+        "default": "geometry.hive.sky.death.crate.default",
+        "golden_pegasus": "geometry.hive.sky.death.crate.golden_pegasus",
+        "grand_ender_chest": "geometry.hive.sky.death.crate.grand.ender.chest",
+        "ice_chest": "geometry.hive.sky.death.crate.ice.chest",
+        "package": "geometry.hive.sky.death.crate.package",
+        "present": "geometry.hive.sky.death.crate.present",
+        "royal_chest": "geometry.hive.sky.death.crate.royal.chest",
+        "sunken_chest": "geometry.hive.sky.death.crate.sunken.chest",
+        "toolbox": "geometry.hive.sky.death.crate.toolbox",
+        "trash_can": "geometry.hive.sky.death.crate.trash.can"
+      },
+      "identifier": "hivesky:death_crate",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "dark_magma_smoke": "hivesky:dark_magma_smoke",
+        "golden_pegasus": "hivesky:golden_pegasus",
+        "grand_ender_chest": "hivesky:grand_ender_chest",
+        "sunken_chest_bubble_burst": "hivesky:sunken_chest_bubble_burst",
+        "sunken_chest_bubble_out": "hivesky:sunken_chest_bubble_out"
+      },
+      "render_controllers": [
+        "controller.render.hive.sky.death.crate"
+      ],
+      "textures": {
+        "adventurers_backpack": "textures/entity/hive/sky/deathcrates/adventurers_backpack",
+        "barrel": "textures/entity/hive/sky/deathcrates/barrel",
+        "cat_chest": "textures/entity/hive/sky/deathcrates/cat_chest",
+        "dark_magma": "textures/entity/hive/sky/deathcrates/dark_magma",
+        "default": "textures/entity/hive/sky/deathcrates/default",
+        "golden_pegasus": "textures/entity/hive/sky/deathcrates/golden_pegasus",
+        "grand_ender_chest": "textures/entity/hive/sky/deathcrates/grand_ender_chest",
+        "ice_chest": "textures/entity/hive/sky/deathcrates/ice_chest",
+        "package": "textures/entity/hive/sky/deathcrates/package",
+        "present": "textures/entity/hive/sky/deathcrates/present",
+        "royal_chest": "textures/entity/hive/sky/deathcrates/royal_chest",
+        "sunken_chest": "textures/entity/hive/sky/deathcrates/sunken_chest",
+        "toolbox": "textures/entity/hive/sky/deathcrates/toolbox",
+        "trash_can": "textures/entity/hive/sky/deathcrates/trash_can"
+      }
+    }
+  }
+}

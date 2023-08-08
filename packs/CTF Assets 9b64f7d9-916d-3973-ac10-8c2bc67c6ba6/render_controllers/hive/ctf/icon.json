@@ -1,1 +1,32 @@
-{"format_version":"1.8.0","render_controllers":{"controller.render.hive.ctf.icon":{"arrays":{"textures":{"array.textures":["Texture.a","Texture.b"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"},{"front":"Material.front"},{"back":"Material.back"}],"textures":["array.textures[query.variant]"],"light_color_multiplier":1.0,"ignore_lighting":true}}}
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.ctf.icon": {
+      "arrays": {
+        "textures": {
+          "array.textures": [
+            "Texture.a",
+            "Texture.b"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "ignore_lighting": true,
+      "light_color_multiplier": 1,
+      "materials": [
+        {
+          "*": "Material.default"
+        },
+        {
+          "front": "Material.front"
+        },
+        {
+          "back": "Material.back"
+        }
+      ],
+      "textures": [
+        "array.textures[query.variant]"
+      ]
+    }
+  }
+}

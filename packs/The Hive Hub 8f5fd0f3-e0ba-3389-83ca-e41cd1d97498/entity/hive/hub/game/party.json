@@ -1,1 +1,31 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivehub:game_party","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/hub/game/party"},"geometry":{"default":"geometry.hive.hub.game.party"},"animations":{"idle":"animation.hive.hub.game.party.idle"},"particle_effects":{"idle":"hivehub:game_party"},"animation_controllers":[{"default":"controller.animation.hive.hub.game.idle.particle"}],"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.hub.game.idle.particle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.hub.game.party.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.game.party"
+      },
+      "identifier": "hivehub:game_party",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "idle": "hivehub:game_party"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/hub/game/party"
+      }
+    }
+  }
+}

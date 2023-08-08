@@ -1,1 +1,23 @@
-{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.territory.projectile.rotate":{"states":{"default":{"animations":["rotate"]}}},"controller.animation.hive.territory.projectile.spawn":{"states":{"default":{"animations":["spawn"]}}}}}
+{
+  "animation_controllers": {
+    "controller.animation.hive.territory.projectile.rotate": {
+      "states": {
+        "default": {
+          "animations": [
+            "rotate"
+          ]
+        }
+      }
+    },
+    "controller.animation.hive.territory.projectile.spawn": {
+      "states": {
+        "default": {
+          "animations": [
+            "spawn"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

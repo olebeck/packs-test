@@ -1,1 +1,30 @@
-{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hiveparty:color_tunnel","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/party/color_tunnel"},"geometry":{"default":"geometry.hive.party.color.tunnel"},"animations":{"idle":"animation.hive.party.color.tunnel.idle","idle2":"animation.hive.party.color.tunnel.idle2"},"scripts":{"animate":["idle","idle2"]},"render_controllers":["controller.render.hive.party.color.tunnel"]}}}
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animations": {
+        "idle": "animation.hive.party.color.tunnel.idle",
+        "idle2": "animation.hive.party.color.tunnel.idle2"
+      },
+      "geometry": {
+        "default": "geometry.hive.party.color.tunnel"
+      },
+      "identifier": "hiveparty:color_tunnel",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.hive.party.color.tunnel"
+      ],
+      "scripts": {
+        "animate": [
+          "idle",
+          "idle2"
+        ]
+      },
+      "textures": {
+        "default": "textures/entity/hive/party/color_tunnel"
+      }
+    }
+  }
+}

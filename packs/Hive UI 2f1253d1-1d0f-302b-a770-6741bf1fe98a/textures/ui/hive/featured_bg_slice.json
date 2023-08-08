@@ -1,1 +1,12 @@
-{"nineslice_size":[3,3,3,3],"base_size":[5,10]}
+{
+  "base_size": [
+    5,
+    10
+  ],
+  "nineslice_size": [
+    3,
+    3,
+    3,
+    3
+  ]
+}

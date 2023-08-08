@@ -1,1 +1,29 @@
-{"format_version":"1.8.0","animations":{"animation.hive.hub.game.hologram.face":{"loop":true,"bones":{"root":{"rotation":["query.rotation_to_camera(0)","query.rotation_to_camera(1)",0.0]}}},"animation.hive.hub.game.hologram.center":{"loop":true,"bones":{"playerCount":{"position":["-(((variable.length * 6) + 11) / 8.0)",0.0,0.0]}}}}}
+{
+  "animations": {
+    "animation.hive.hub.game.hologram.center": {
+      "bones": {
+        "playerCount": {
+          "position": [
+            "-(((variable.length * 6) + 11) / 8.0)",
+            0,
+            0
+          ]
+        }
+      },
+      "loop": true
+    },
+    "animation.hive.hub.game.hologram.face": {
+      "bones": {
+        "root": {
+          "rotation": [
+            "query.rotation_to_camera(0)",
+            "query.rotation_to_camera(1)",
+            0
+          ]
+        }
+      },
+      "loop": true
+    }
+  },
+  "format_version": "1.8.0"
+}

@@ -1,1 +1,31 @@
-{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivehub:game_dr","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/hub/game/dr"},"geometry":{"default":"geometry.hive.hub.game.dr"},"animations":{"idle":"animation.hive.hub.game.dr.idle"},"particle_effects":{"idle":"hivehub:game_dr"},"animation_controllers":[{"default":"controller.animation.hive.hub.game.idle.particle"}],"render_controllers":["controller.render.default"]}}}
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.hub.game.idle.particle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.hub.game.dr.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.game.dr"
+      },
+      "identifier": "hivehub:game_dr",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "idle": "hivehub:game_dr"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/hub/game/dr"
+      }
+    }
+  }
+}

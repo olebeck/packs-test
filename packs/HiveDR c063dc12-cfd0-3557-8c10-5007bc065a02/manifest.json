@@ -1,1 +1,30 @@
-{"format_version":2,"header":{"description":"HiveDR","name":"HiveDR","uuid":"c063dc12-cfd0-3557-8c10-5007bc065a02","version":[0,0,1],"min_engine_version":[1,16,0]},"modules":[{"description":"HiveDR","type":"resources","uuid":"039c0ca4-9443-45c4-a3c8-8abbfb8ba104","version":[0,0,1]}]}
+{
+  "format_version": 2,
+  "header": {
+    "description": "HiveDR",
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ],
+    "name": "HiveDR",
+    "uuid": "c063dc12-cfd0-3557-8c10-5007bc065a02",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "HiveDR",
+      "type": "resources",
+      "uuid": "039c0ca4-9443-45c4-a3c8-8abbfb8ba104",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

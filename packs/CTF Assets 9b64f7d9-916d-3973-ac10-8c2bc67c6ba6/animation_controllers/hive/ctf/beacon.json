@@ -1,1 +1,37 @@
-{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.ctf.beacon":{"states":{"default":{"transitions":[{"pickup":"query.mark_variant \u003d\u003d 0"},{"drop":"query.mark_variant \u003d\u003d 1"},{"capture":"query.mark_variant \u003d\u003d 2"}]},"pickup":{"animations":["pickup"]},"drop":{"animations":["drop"]},"capture":{"animations":["capture"]}}}}}
+{
+  "animation_controllers": {
+    "controller.animation.hive.ctf.beacon": {
+      "states": {
+        "capture": {
+          "animations": [
+            "capture"
+          ]
+        },
+        "default": {
+          "transitions": [
+            {
+              "pickup": "query.mark_variant == 0"
+            },
+            {
+              "drop": "query.mark_variant == 1"
+            },
+            {
+              "capture": "query.mark_variant == 2"
+            }
+          ]
+        },
+        "drop": {
+          "animations": [
+            "drop"
+          ]
+        },
+        "pickup": {
+          "animations": [
+            "pickup"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

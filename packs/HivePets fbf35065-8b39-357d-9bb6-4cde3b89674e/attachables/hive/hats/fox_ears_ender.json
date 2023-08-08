@@ -1,1 +1,26 @@
-{"format_version":"1.10.0","minecraft:attachable":{"description":{"identifier":"hivehats:fox_ears_ender","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/hats/fox_ears/ender"},"geometry":{"default":"geometry.hive.hats.fox.ears"},"scripts":{"parent_setup":"variable.helmet_layer_visible \u003d 1.0;","pre_animation":["variable.is_first_person \u003d c.is_first_person;"]},"render_controllers":["controller.render.hive.hats.hide.first.person"]}}}
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "geometry": {
+        "default": "geometry.hive.hats.fox.ears"
+      },
+      "identifier": "hivehats:fox_ears_ender",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.hive.hats.hide.first.person"
+      ],
+      "scripts": {
+        "parent_setup": "variable.helmet_layer_visible = 1.0;",
+        "pre_animation": [
+          "variable.is_first_person = c.is_first_person;"
+        ]
+      },
+      "textures": {
+        "default": "textures/entity/hive/hats/fox_ears/ender"
+      }
+    }
+  }
+}

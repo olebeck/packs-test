@@ -1,1 +1,32 @@
-{"format_version":"1.8.0","render_controllers":{"controller.render.hive.murder.graveyard.npc":{"arrays":{"textures":{"array.textures":["Texture.hub","Texture.play","Texture.spectate"]},"geometries":{"array.geometries":["Geometry.hub","Geometry.play","Geometry.spectate"]}},"geometry":"array.geometries[query.variant]","materials":[{"*":"Material.default"}],"textures":["array.textures[query.variant]"]}}}
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.murder.graveyard.npc": {
+      "arrays": {
+        "geometries": {
+          "array.geometries": [
+            "Geometry.hub",
+            "Geometry.play",
+            "Geometry.spectate"
+          ]
+        },
+        "textures": {
+          "array.textures": [
+            "Texture.hub",
+            "Texture.play",
+            "Texture.spectate"
+          ]
+        }
+      },
+      "geometry": "array.geometries[query.variant]",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "array.textures[query.variant]"
+      ]
+    }
+  }
+}
