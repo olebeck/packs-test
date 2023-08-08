@@ -1,1 +1,0 @@
-{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.dr.trap.dragons.breath.activate":{"states":{"default":{"transitions":[{"activate":"query.is_baby"}]},"activate":{"animations":["activate"],"transitions":[{"default":"!query.is_baby"}]}}}}}
