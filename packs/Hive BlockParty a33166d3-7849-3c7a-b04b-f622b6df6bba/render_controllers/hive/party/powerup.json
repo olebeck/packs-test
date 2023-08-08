@@ -1,1 +1,0 @@
-{"format_version":"1.8.0","render_controllers":{"controller.render.hive.party.powerup":{"geometry":"Geometry.default","materials":[{"*":"Material.default","glow":"Material.glow"}],"textures":["Texture.default"],"light_color_multiplier":0.9,"ignore_lighting":true}}}
