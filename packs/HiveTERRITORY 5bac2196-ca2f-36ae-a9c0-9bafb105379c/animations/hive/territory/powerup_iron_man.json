@@ -1,9 +1,0 @@
-{
-  "animations": {
-    "animation.hive.territory.powerup.iron.man.idle": {
-      "animation_length": 4.52,
-      "loop": true
-    }
-  },
-  "format_version": "1.8.0"
-}
