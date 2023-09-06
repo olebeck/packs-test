@@ -1,0 +1,14 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.sky.kits.bridge.builder": {
+      "states": {
+        "default": {
+          "animations": [
+            "idle"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "The Hive: Hub",
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ],
+    "name": "The Hive: Hub",
+    "uuid": "0a6cbf66-0bb1-3dda-bcb5-d80105658d4a",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "The Hive: Hub",
+      "type": "resources",
+      "uuid": "42488a07-c7ef-43a2-b289-c0ba07c98e4a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

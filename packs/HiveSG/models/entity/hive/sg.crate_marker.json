@@ -1,0 +1,54 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "bones": [
+        {
+          "cubes": [
+            {
+              "origin": [
+                -14,
+                0.25,
+                -14
+              ],
+              "size": [
+                28,
+                0,
+                28
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            }
+          ],
+          "locators": {
+            "center": [
+              0,
+              0,
+              0
+            ]
+          },
+          "name": "root",
+          "pivot": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "description": {
+        "identifier": "geometry.hive.sg.crate_marker",
+        "texture_height": 64,
+        "texture_width": 64,
+        "visible_bounds_height": 1,
+        "visible_bounds_offset": [
+          0,
+          0.5,
+          0
+        ],
+        "visible_bounds_width": 3
+      }
+    }
+  ]
+}

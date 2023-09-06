@@ -1,0 +1,105 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "bones": [
+        {
+          "cubes": [
+            {
+              "origin": [
+                -9,
+                0,
+                -9
+              ],
+              "size": [
+                18,
+                30,
+                18
+              ],
+              "uv": {
+                "down": {
+                  "uv": [
+                    38,
+                    21
+                  ],
+                  "uv_size": [
+                    -18,
+                    -18
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    41,
+                    0
+                  ],
+                  "uv_size": [
+                    18,
+                    30
+                  ]
+                },
+                "north": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    18,
+                    30
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    27,
+                    0
+                  ],
+                  "uv_size": [
+                    18,
+                    30
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    62,
+                    30
+                  ],
+                  "uv_size": [
+                    -18,
+                    -18
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    13,
+                    0
+                  ],
+                  "uv_size": [
+                    18,
+                    30
+                  ]
+                }
+              }
+            }
+          ],
+          "name": "root",
+          "pivot": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "description": {
+        "identifier": "geometry.hive.sky.kits.shield.cocoon",
+        "texture_height": 32,
+        "texture_width": 64,
+        "visible_bounds_height": 4,
+        "visible_bounds_offset": [
+          0,
+          1,
+          0
+        ],
+        "visible_bounds_width": 4
+      }
+    }
+  ]
+}

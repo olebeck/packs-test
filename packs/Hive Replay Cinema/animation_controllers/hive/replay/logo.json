@@ -1,0 +1,14 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.replay.logo": {
+      "states": {
+        "default": {
+          "animations": [
+            "reveal"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

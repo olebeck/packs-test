@@ -1,0 +1,1584 @@
+{
+  "content": [
+    {
+      "key": "Q7FKB7DC667EJF37U47TR7V7ML7ZJ6SN",
+      "path": "entity/hive/hub/game/grav.json"
+    },
+    {
+      "key": "LCUEVVA2QIMQCJOZ25KPO3KF2GYQUP5A",
+      "path": "entity/hive/hub/train/carriage.json"
+    },
+    {
+      "key": "EXFXZLZZ5KYXF3UMI67UM4PXGCM5RID5",
+      "path": "particles/emote/skull_burst.json"
+    },
+    {
+      "key": "SGJ5I3LD3MCQXYU2HJHVP5F6D6BYYESO",
+      "path": "textures/entity/hive/hub/game/hologram/party_plate.png"
+    },
+    {
+      "key": "GOGLJGDEHO5L3BUNX5QEKFUXQFRER5MJ",
+      "path": "models/entity/hive/hub/game/drop.json"
+    },
+    {
+      "key": "LKA6DOLJ5ZEK4A4JPIE3ONOVWEHRZLH4",
+      "path": "render_controllers/hive/hub/game/drop.json"
+    },
+    {
+      "key": "IX7S6VX67FMEQ2VHHF77HK4EBLMZJ2QI",
+      "path": "models/entity/hive/hub/game/hologram/cta_book_of_souls.json"
+    },
+    {
+      "key": "WW2QKE3HZPXE3IBELYPJTZUMDNZRBMWQ",
+      "path": "textures/particle/hive/emote/skull.png"
+    },
+    {
+      "key": "2LJCEXOXXC54Z4SAIZ7VYK2VC2EQZKLG",
+      "path": "textures/entity/hive/hub/game/ctf/female.png"
+    },
+    {
+      "key": "6PQ664B273SCWNDD7HVWUCWK3QYIJIJZ",
+      "path": "particles/emote/smile_burst.json"
+    },
+    {
+      "key": "C5SBO7JJBFVUXCD62VAQ2YXRP2YBGOR3",
+      "path": "entity/hive/hub/game/murder.json"
+    },
+    {
+      "key": "5KNY5PWXAL6HIVTL53DQKLC33G7D347I",
+      "path": "entity/hive/hub/game/dr.json"
+    },
+    {
+      "key": "RVOVRSLUBGI3F4JMZXMR7DR52QMI75PO",
+      "path": "textures/entity/hive/hub/game/hologram/cta/book_of_souls.png"
+    },
+    {
+      "key": "EJPPDUXRWAKK7IWDBSCCZ4ZSCR7DLT57",
+      "path": "models/entity/hive/hub/game/hide.json"
+    },
+    {
+      "key": "4T5LA7XEYRGYJGVC22EILMK5XTQGWI44",
+      "path": "textures/particle/hive/emote/mailbot.png"
+    },
+    {
+      "key": "M6US36CYFGPJME72KWGGYZ42FABLKIYO",
+      "path": "animation_controllers/hive/hub/npc/animals/owl.json"
+    },
+    {
+      "key": "P77A2HRWN7WJD53EXOKOYYMMJA27X6D4",
+      "path": "textures/entity/hive/hub/game/dr.png"
+    },
+    {
+      "key": "KSS5W2LDF4YEBAKWAQVCNI7OZVGWFE7H",
+      "path": "particles/npc/game/kits.particle.json"
+    },
+    {
+      "key": "TJHOU3LROAWWE457SBNNVZIXZXWSVJ35",
+      "path": "models/entity/hive/hub/game/hologram/digit_2.json"
+    },
+    {
+      "key": "46Q45UQG3ZD6FUY5XVFJZQAMYD5MVJR7",
+      "path": "animations/hive/hub/teleporter.json"
+    },
+    {
+      "key": "GJ5RQTFDFG3XB5MVQV36KGFUICXNR5XF",
+      "path": "textures/entity/hive/hub/game/hologram/ctf.png"
+    },
+    {
+      "key": "S25SLZ2CNDEZNF5DCOHXZB5U5W2J44LZ",
+      "path": "textures/entity/hive/hub/game/hologram/wars.png"
+    },
+    {
+      "key": "NWEAVZ3LX4OVC3MUVU24GWF2CVQOZCXP",
+      "path": "entity/hive/hub/mailbot.json"
+    },
+    {
+      "key": "4DHMIP6FVDW4UYMDLHSCA22GJ2BV4Y4Q",
+      "path": "particles/emote/mailbot.json"
+    },
+    {
+      "key": "VUN2QL56WBORRJYWYQI3GAOZDEFUXFNS",
+      "path": "textures/entity/hive/hub/clock.png"
+    },
+    {
+      "key": "P7TNTXVLNHUKABVGXOVZ2CM3WEPUEGQ3",
+      "path": "textures/entity/hive/hub/game/drop/female.png"
+    },
+    {
+      "key": "SMUTNWBJAK4K4RFX3YMXZQ42TKMX57BB",
+      "path": "models/entity/hive/hub/npc/plus.json"
+    },
+    {
+      "key": "QVTN6T733DAQKO5WZRBRTIURA5ORXPVU",
+      "path": "textures/entity/hive/hub/game/hologram/murder_plate.png"
+    },
+    {
+      "key": "L7AN5JR23AZMMIBZIASDUDTHKGWMK4SX",
+      "path": "models/entity/hive/hub/game/hologram/plate_grav.json"
+    },
+    {
+      "key": "XXHOPGCR6KAYYNZJFNSNQIVRUFATZQGQ",
+      "path": "textures/entity/hive/hub/game/hologram/digit/0.png"
+    },
+    {
+      "key": "IHSQ5JJC3CELC5ZLUGYBTUGCLMG5IQAR",
+      "path": "textures/entity/hive/hub/game/soon.png"
+    },
+    {
+      "key": "UO6CDRCVSRAKVZ5MHCPNNGZH3OSW7NTG",
+      "path": "textures/entity/hive/hub/game/build/female.png"
+    },
+    {
+      "key": "KK7DN2SHM4DHO6HZFJ3Q2PK5KQCVBE2K",
+      "path": "items/hive/hub/checkpoint.json"
+    },
+    {
+      "key": "6QRUHRWJS3HFWXY4QGZHCURYPUM37A7K",
+      "path": "models/entity/hive/hub/game/soon.json"
+    },
+    {
+      "key": "HP5O5EEGEZGM6XQFEGWZQEID4TY2E6OG",
+      "path": "textures/entity/hive/hub/npc/replay.png"
+    },
+    {
+      "key": "UB4IN6ZVOPGY4UHXQA7X5L7X366MIFVK",
+      "path": "textures/particle/hive/emote/zany.png"
+    },
+    {
+      "key": "LMWKWY66Z5RHMZGJTV6VTIEVLNAAYDTF",
+      "path": "particles/emote/gg.json"
+    },
+    {
+      "key": "EW7O6UQMP3BHBBGO5IV46IR7IFMFWUQ7",
+      "path": "textures/entity/hive/hub/train/carriage.png"
+    },
+    {
+      "key": "BQCMJ463LM3T556JCOZPLBHXOBIDCRCG",
+      "path": "particles/emote/nauseated_face_burst.json"
+    },
+    {
+      "key": "NPWOIBJ4HO5YSVZIQYS75UQ6GEZ6VCIA",
+      "path": "animations/hive/hub/game/ctf.json"
+    },
+    {
+      "key": "KKNHWIZ2LMKZTZWDVIC452ERIJALSPY7",
+      "path": "models/entity/hive/hub/game/hologram/plate_sky.json"
+    },
+    {
+      "key": "5IIAM65WRZPO5IOF3J3YR2U2IZOFOLQX",
+      "path": "animations/hive/hub/npc/animals/bear.json"
+    },
+    {
+      "key": "FZ3V2CWUMPRHN5SKB3QIDL2RQUEVHMV5",
+      "path": "textures/entity/hive/hub/game/hologram/drop_plate.png"
+    },
+    {
+      "key": "2GJMGR5SC4W42W4C6XTJRNX6K6KP4T5C",
+      "path": "textures/entity/hive/hub/game/hologram/digit/7.png"
+    },
+    {
+      "key": "5FIDSZSWKGLNP6CUUJBP5CVWMQX2LZU2",
+      "path": "textures/entity/hive/hub/npc/questmaster.png"
+    },
+    {
+      "key": "4SMRRGF3X5YW7F576NXLJDFPTXRX3HFS",
+      "path": "textures/entity/hive/hub/game/hologram/dr.png"
+    },
+    {
+      "key": "7QSOLICXNHFXXHTZ6J7IMOUHM7INBY2D",
+      "path": "textures/entity/hive/hub/game/hologram/murder.png"
+    },
+    {
+      "key": "7RWQ4QEKMIWI4T5OEWH7CMPYRFJKFYT3",
+      "path": "animation_controllers/hive/hub/game/idle_particle.json"
+    },
+    {
+      "key": "IQOXF3BTUI26PL437JPTH54KQFRXR2JB",
+      "path": "entity/hive/hub/game/soon.json"
+    },
+    {
+      "key": "ZETHRQ6WKCNEY2J5ABKB65DZLLLXQWUJ",
+      "path": "items/hive/hub/party.json"
+    },
+    {
+      "key": "7MAI7RK3KYB6LCNK25EHEJSF2FNKDREX",
+      "path": "particles/npc/plus.json"
+    },
+    {
+      "key": "4763T5HXAQ5S5TS4AOOE4OQSDERMB2DI",
+      "path": "textures/entity/hive/hub/game/sky/male.png"
+    },
+    {
+      "key": "N7C5V7RS6BMGI4B2UYA5L63DBGJVRDFN",
+      "path": "animations/hive/hub/game/sg.json"
+    },
+    {
+      "key": "JMA4JOWU7RYQQXG7HC7EG4B4T6JVXJFB",
+      "path": "particles/world/fall/fall_leaves_yellow.particle.json"
+    },
+    {
+      "key": "3E5SXBMOEZV7F4NGKCATXY6ZHUT74XPW",
+      "path": "particles/npc/game/sky.particle.json"
+    },
+    {
+      "key": "JCFLOTTFETIMRTAYVG5ZZF3FSK3EXQRS",
+      "path": "particles/emote/nauseated_face.json"
+    },
+    {
+      "key": "DNSJEGMHLUSDSQWS44YEKWFTN4IYCSAE",
+      "path": "textures/entity/hive/hub/teleporter.png"
+    },
+    {
+      "key": "Z43DJOGAHJLZY2C57LRQDELZJHFGZPMJ",
+      "path": "textures/entity/hive/hub/game/hide.png"
+    },
+    {
+      "key": "3CL7KU67J5L2JCYHIIGGI7DDYOWNFABU",
+      "path": "models/entity/hive/hub/game/hologram/plate_murder.json"
+    },
+    {
+      "key": "53H2YMB3XEIAQWKJAYQV57H7K4LF26RF",
+      "path": "models/entity/hive/hub/game/wars/female.json"
+    },
+    {
+      "key": "3KM5S3CPNOYUJQYBSQXXX4W6XILU3BA4",
+      "path": "textures/particle/hive/emote/cold_face.png"
+    },
+    {
+      "key": "DOIEGN7OMHGB5C3DDNUFQIUXCWLQJILK",
+      "path": "items/hive/hub/compass.json"
+    },
+    {
+      "key": "QYAI5HSPEEL3PMBKE67DL7DJDTGQJZHC",
+      "path": "models/entity/hive/hub/npc/animals/hedgehog.json"
+    },
+    {
+      "key": "J353XJFEYRGXYHHGNXO4B2IPZZXYJCYB",
+      "path": "particles/emote/blush_burst.json"
+    },
+    {
+      "key": "2YLWD3SGXDQMP36DDPGIAMJXFHDLP4UE",
+      "path": "models/entity/hive/hub/npc/animals/bear.json"
+    },
+    {
+      "key": "WOVP6KOJMDT5QJ4Y4HZDUFGFQJNWWYQQ",
+      "path": "textures/particle/hive/emote/eyes.png"
+    },
+    {
+      "key": "N5FKRYY3LLAE36CRLRXC4PL6G7CBTEEB",
+      "path": "textures/entity/hive/hub/npc/pirates.png"
+    },
+    {
+      "key": "YJW3RXX6EWVKTI5N2HYDZVZ4CC52TFU2",
+      "path": "particles/emote/neutral.json"
+    },
+    {
+      "key": "LCRQJL6XVIJBHHYXM653TRGLBSTR24CB",
+      "path": "particles/npc/game/build.particle.json"
+    },
+    {
+      "key": "XHUWG7LIEIX3IRJX5IOT5WGXQH5CXXV6",
+      "path": "textures/entity/hive/hub/game/snow.png"
+    },
+    {
+      "key": "QJLDTVXUGYVF4VYNRH4PFLQC2H62XR3S",
+      "path": "models/entity/hive/hub/backpack.json"
+    },
+    {
+      "key": "KQKEOU44MAFU4NTVAYRLEVA7LKNMBQAG",
+      "path": "animations/hive/hub/clock.json"
+    },
+    {
+      "key": "YDOJAIIYSZAXJ7HPT2GJWYI4BP64FRZ3",
+      "path": "models/entity/hive/hub/game/bridge.json"
+    },
+    {
+      "key": "YUGTGMN3LGDICUOL5EK65VYN4I2JXOKA",
+      "path": "models/entity/hive/hub/npc/postbox.json"
+    },
+    {
+      "key": "FER2XSC5ZMHGLPFCGRVXRP55CGH3ILRO",
+      "path": "entity/hive/hub/game/snow.json"
+    },
+    {
+      "key": "TWV5JTK5ZB27YVA2L2AKHZOTLPP2S7SD",
+      "path": "animations/hive/hub/npc/locker.json"
+    },
+    {
+      "key": "NC3ICM626IWSG7YPZVXISIZCW2PQDJSH",
+      "path": "animations/hive/hub/game/snow.json"
+    },
+    {
+      "key": "GDCFHS32EUJSSGUA7OI6IN2RVOUI25BN",
+      "path": "particles/emote/sob.json"
+    },
+    {
+      "key": "XVZKID5QTPOCRYSHRPPUCAXDFDNEZCOK",
+      "path": "textures/entity/hive/hub/game/hologram/kits_plate.png"
+    },
+    {
+      "key": "TB4N44LEICMAUPKBHHL7OYJUXBUDFUMU",
+      "path": "particles/emote/flushed_burst.json"
+    },
+    {
+      "key": "TGOPFXBL77PPTV7CO3YHJCUY5LVTCZID",
+      "path": "textures/entity/hive/hub/npc/animals/bear.png"
+    },
+    {
+      "key": "NUEVASBZ6MVLMGQPYQY23SRZMKAZAZZM",
+      "path": "items/hive/hub/friends.json"
+    },
+    {
+      "key": "3O5F3XSUAXLI6M4OTL7XZ2ADL4GE3EKC",
+      "path": "textures/particle/hive/emote/smirk.png"
+    },
+    {
+      "key": "QPHKRSGA2XTBFRFTKLNA7FLY6JTQDAFA",
+      "path": "animations/hive/hub/train/engine.json"
+    },
+    {
+      "key": "46XGSZKQV6VBDTRTP5CPBIYDNLOFUWGD",
+      "path": "models/entity/hive/hub/clock.json"
+    },
+    {
+      "key": "4LLITE7RMPY55LDQQKRYBCO4RMOYMBPB",
+      "path": "particles/emote/dizzy_face_burst.json"
+    },
+    {
+      "key": "NV7JGY7WHKXKA3TFXNFBDQ7M3XMN6U6T",
+      "path": "entity/hive/hub/npc/region.json"
+    },
+    {
+      "key": "SXAJ6E4XZEBAZ7AKIA3TAIREV3R5KGMC",
+      "path": "textures/entity/hive/hub/game/party.png"
+    },
+    {
+      "key": "X5SEX2VEIHWW26C4FDFP3ZG4HWLZ4J7Z",
+      "path": "entity/hive/hub/npc/animals/hedgehog.json"
+    },
+    {
+      "key": "2OAAIAPYZ7DCXEO3U6XTUSJNQNSE7SVZ",
+      "path": "models/entity/hive/hub/train/engine.json"
+    },
+    {
+      "key": "RZL5PORTPVOJAUA3Q2H3CEOTLTC7F2IM",
+      "path": "textures/entity/hive/hub/game/hologram/digit/8.png"
+    },
+    {
+      "key": "LVLQYE5AKN4L3AKDRJ6PP6TRRCVPAXWM",
+      "path": "particles/npc/game/murder.particle.json"
+    },
+    {
+      "key": "JOBTRTL4TGAMZNJTG53GYUSLF5GBRSTN",
+      "path": "models/entity/hive/hub/npc/replay.json"
+    },
+    {
+      "key": "GGMKHCIALH45JQFP7WUV4N557CSB5IGT",
+      "path": "particles/emote/sick.json"
+    },
+    {
+      "key": "MSVDXASLWQFBXLQ42R7VFV7LLYAUV72B",
+      "path": "particles/emote/kekw.json"
+    },
+    {
+      "key": "43SIBYABA4RZSMAFCSQV5WKEEPM2JHR2",
+      "path": "textures/entity/hive/hub/game/hologram/grav_plate.png"
+    },
+    {
+      "key": "K7WKO3ISYZUOUU53GZHEXVILWMLN23B4",
+      "path": "particles/emote/kekw_burst.json"
+    },
+    {
+      "key": "PONJUE4XKXVUG52QVPHKZVSXLTX3HI7O",
+      "path": "models/entity/hive/hub/game/party.json"
+    },
+    {
+      "key": "MGZD2JHBF2JKRSWIMYA3USA5J3DWKWNW",
+      "path": "particles/emote/skull.json"
+    },
+    {
+      "key": "JRSA3PVJYZXO6V3Z25EC2YY3KN6JCEH3",
+      "path": "entity/hive/hub/game/ground.json"
+    },
+    {
+      "key": "SB7QF3DBXTXUHNV6FRBIQOCJ7HFXB6KA",
+      "path": "render_controllers/hive/hub/billboard.json"
+    },
+    {
+      "key": "T6KDPD27JSRR53IQ5ARVB5NJCI7XXT5H",
+      "path": "models/entity/hive/hub/game/hologram/plate_hide.json"
+    },
+    {
+      "key": "TSYUWUUBUKQMTFC3HJUEDJ53WULZPN6L",
+      "path": "textures/entity/hive/hub/game/hologram/dr_plate.png"
+    },
+    {
+      "key": "6M5SNSYM75MOHOKDJ46PO3B254Z3ZX37",
+      "path": "textures/entity/hive/hub/game/hologram/kits.png"
+    },
+    {
+      "key": "RWGL4PLIJXT27WESE67TJUMYAUIJWJRX",
+      "path": "textures/entity/hive/hub/game/bridge/male.png"
+    },
+    {
+      "key": "3TUKHRMM4E3MZRPEEZFIJLJEDDTU74ZT",
+      "path": "textures/entity/hive/hub/npc/animals/hedgehog.png"
+    },
+    {
+      "key": "OAM5LHVKYYOIWPM7MXAH47ZC7CEMDHGY",
+      "path": "animation_controllers/hive/hub/mailbot.json"
+    },
+    {
+      "key": "2FZLVG2BPFIHAIAGUIRSDTRLWA4IIMYL",
+      "path": "models/entity/hive/hub/game/hologram/plate_drop.json"
+    },
+    {
+      "key": "WRIY575PJ2TLIHG3L4BT4B2JNU3A3K7N",
+      "path": "textures/entity/hive/hub/game/hologram/ground_plate.png"
+    },
+    {
+      "key": "VRU67WPQB3OP3DJB5KVBIU4WTPSVKHW7",
+      "path": "textures/entity/hive/hub/backpack.png"
+    },
+    {
+      "key": "UJQADVRPUJ2GLGNNVS5FEIZZ3CUVGVSD",
+      "path": "entity/hive/hub/game/party.json"
+    },
+    {
+      "key": "6LBS647PMU2H2NYPKZELNEQYQB75DZFY",
+      "path": "animations/hive/hub/game/grav.json"
+    },
+    {
+      "key": "USPDGCBWH62CVKJUFATOHUFIQLPIPVLY",
+      "path": "models/entity/hive/hub/game/hologram/plate_dr.json"
+    },
+    {
+      "key": "NZRCPZXLQZV74DPWYDRMQFCHKHBS3QDR",
+      "path": "entity/hive/hub/game/gi.json"
+    },
+    {
+      "key": "MFRB2JRLH4UCCCOOL7QYQTAP4NW5F76Y",
+      "path": "textures/particle/hive/emote/neutral.png"
+    },
+    {
+      "key": "ONNFXUI5QYX2N34HTULKDXKENN6V4RQN",
+      "path": "textures/entity/hive/hub/game/hologram/hide.png"
+    },
+    {
+      "key": "BRIBWUKJSZ4O7PI6PB2JD57VIMOKN7Y5",
+      "path": "textures/entity/hive/hub/game/hologram/cta/updated.png"
+    },
+    {
+      "key": "BYQKXVLGBJD2CEWTLIBCEAPVMP4I6UCZ",
+      "path": "models/entity/hive/hub/game/hologram/digit_5.json"
+    },
+    {
+      "key": "FKL7C44WZT7VYBY6UEVZ462DNVYJLQ3R",
+      "path": "models/entity/hive/hub/npc/questmaster.json"
+    },
+    {
+      "key": "UQDBRYCBQGCJXCG3DWWVBSCDP2LA76Z6",
+      "path": "textures/entity/hive/hub/game/hologram/icon.png"
+    },
+    {
+      "key": "2QTUBY24CGJ4CJP225VZ6UPSRGL6GUN2",
+      "path": "particles/emote/smile_tear.json"
+    },
+    {
+      "key": "PHLCRCMXMEIEVGJ5XMAHKN5OQK75V4CB",
+      "path": "animations/hive/hub/game/wars.json"
+    },
+    {
+      "key": "HKWWATQZRNEAVSC3ECW7QNLF73YZDGSM",
+      "path": "textures/entity/hive/hub/game/sg/female.png"
+    },
+    {
+      "key": "4AOW32VXNSAODPBY6IIAZXQ3GWZSKOOL",
+      "path": "models/entity/hive/hub/game/ctf/male.json"
+    },
+    {
+      "key": "JQKE3KOWKYJ5IKQ24H3BZ7IQBCCV3HG3",
+      "path": "models/entity/hive/hub/game/sg/female.json"
+    },
+    {
+      "key": "TQ2KCJ6QCZUHDVSMLYHFYBS22SJXNWUO",
+      "path": "entity/hive/hub/npc/animals/owl.json"
+    },
+    {
+      "key": "U4DAEODGXPNXFZPLN5LTJ6KFV45FEH6X",
+      "path": "models/entity/hive/hub/game/hologram/name.json"
+    },
+    {
+      "key": "WMZ2XD7JFBKBAEU566Y5GNZ5Z2LPD2M6",
+      "path": "textures/particle/hive/emote/pleading.png"
+    },
+    {
+      "key": "QBQXCOU2SSTGPYJVUNVKKR5SNVYCQDGE",
+      "path": "entity/hive/hub/npc/plus.json"
+    },
+    {
+      "key": "3Z4ABRHUO3MQO2B5LI6SGRGKNXZHDCCG",
+      "path": "textures/entity/hive/hub/game/hologram/cta/map.png"
+    },
+    {
+      "key": "G2ILY36LSH7AUMG6US4UTCJASBDRLEC5",
+      "path": "textures/entity/hive/hub/game/hologram/digit/9.png"
+    },
+    {
+      "key": "DZ344I3S7QZTY7RZKRHZIGRPCK2O6NZQ",
+      "path": "entity/hive/hub/golden_cubee.json"
+    },
+    {
+      "key": "QNAXN5ZCBNORJBY53QT2DAFFEDHAIIMC",
+      "path": "models/entity/hive/hub/game/hologram/digit_3.json"
+    },
+    {
+      "key": "3L765F6J6QALFBY4QX2TCS2WXZPQUC43",
+      "path": "particles/emote/raised_eyebrow.json"
+    },
+    {
+      "key": "AHMKN5Q2AHD6U63DX5T3JVQGLOS6ATNC",
+      "path": "particles/npc/game/hide.particle.json"
+    },
+    {
+      "key": "B5XLBWEXCWBVBWNVNDMKNKEDLHPYD5NE",
+      "path": "textures/entity/hive/hub/golden_cubee.png"
+    },
+    {
+      "key": "DVKTVFPYQCYBIOXBZ7476MIPK4NBTYP3",
+      "path": "particles/npc/game/grav.particle.json"
+    },
+    {
+      "key": "6WUC6UB7ZE2LIOFYFQPRYDGBGRFV2AEX",
+      "path": "textures/particle/hive/emote/sunglasses.png"
+    },
+    {
+      "key": "XPKDGPBHY3F3QAYPSU7IILGULZSOHCSV",
+      "path": "textures/particle/hive/emote/vomiting.png"
+    },
+    {
+      "key": "QQTLKCBEI2RO666ATVT5S3BYFROEKO6Y",
+      "path": "textures/entity/hive/hub/game/hologram/hide_plate.png"
+    },
+    {
+      "key": "YVJXHPRKZLYSJHCKRE5DQO26EC2Z57KW",
+      "path": "textures/entity/hive/hub/game/hologram/bridge_plate.png"
+    },
+    {
+      "key": "YGXG5H4JUTAIOMJMGODFJ4BKUGZCFYQO",
+      "path": "particles/emote/sleeping_burst.json"
+    },
+    {
+      "key": "IZPY3RZ6QHLT32ZQYML4CXYICHBKWMJW",
+      "path": "models/entity/hive/hub/game/build/female.json"
+    },
+    {
+      "key": "MJQLJXBP6QQXJ6ZCTPMMNUKNAGQHJ5UI",
+      "path": "textures/entity/hive/hub/train/engine.png"
+    },
+    {
+      "key": "A4UKPPW7SG3OM64R7NK7ZENRQ5LVLCGQ",
+      "path": "particles/emote/robot_face_burst.json"
+    },
+    {
+      "key": "6AARYA47ERYBMEU4CDOOMYIM7PNRWKCC",
+      "path": "textures/entity/hive/hub/npc/animals/deer.png"
+    },
+    {
+      "key": "JBFDFWQX4ZDHUW6WLI5ATWQCXTMTAPXL",
+      "path": "particles/emote/innocent_burst.json"
+    },
+    {
+      "key": "J4W7Y7CKHGQNWLRAFJWL65OC7Y5O2W4Q",
+      "path": "models/entity/hive/hub/game/ground.json"
+    },
+    {
+      "key": "SGKCUBQMQZDQP6JVBURW2Z3WWPFTSTCF",
+      "path": "textures/particle/hive/emote/innocent.png"
+    },
+    {
+      "key": "YRN53PGEVE6MJ2GVOXULI2EM62S3LLHZ",
+      "path": "particles/emote/sunglasses_burst.json"
+    },
+    {
+      "key": "FBF2PSXMOTZBOE7Q2WQEYAO5YPFII3VS",
+      "path": "textures/particle/hive/emote/flushed.png"
+    },
+    {
+      "key": "P3BQX666D4H7YHBKL35ZZWRITK55P4J6",
+      "path": "particles/npc/game/drop.particle.json"
+    },
+    {
+      "key": "TL2SY744NQRITCMWPNEL65FERXN3SJDL",
+      "path": "particles/emote/zany_burst.json"
+    },
+    {
+      "key": "5UMCZZ5ATRSTHGQEV2RNH33BSQ4RKRWN",
+      "path": "entity/hive/hub/npc/replay.json"
+    },
+    {
+      "key": "TIPQVT7HFDFR6YFYPONNQVWVAS7FCMDU",
+      "path": "textures/particle/hive/emote/gg.png"
+    },
+    {
+      "key": "VLD2V3CNMJOQSORJZT2Y3EHWOSTKNHCL",
+      "path": "animations/hive/hub/train/carriage.json"
+    },
+    {
+      "key": "XLY3SHRL6RYOVXCR3MRUYV4S3UMB3IDT",
+      "path": "animation_controllers/hive/hub/game/idle.json"
+    },
+    {
+      "key": "WAUB24UAMU37UQJ427FELR3JEIWAONWQ",
+      "path": "entity/hive/hub/npc/postbox.json"
+    },
+    {
+      "key": "6TF4JVUX6CVSC4TMJMS6WYN6VN37EPK5",
+      "path": "models/entity/hive/hub/game/hologram/plate_build.json"
+    },
+    {
+      "key": "5RL6GEDRGCOVFMFO7RVK6X4Q4QU5A7A7",
+      "path": "animations/hive/hub/npc/plus.json"
+    },
+    {
+      "key": "3FC6FRKHRPUPNVMKHN577RV3UZCZIZI7",
+      "path": "models/entity/hive/hub/train/carriage.json"
+    },
+    {
+      "key": "DJQM2B7X56BC3NCP62YMZGDKVTGLOSYT",
+      "path": "entity/hive/hub/logo.json"
+    },
+    {
+      "key": "54CR6H52KVTOJG2XAKV2KYMTBPG5KQT5",
+      "path": "particles/npc/game/wars.particle.json"
+    },
+    {
+      "key": "TI264NJHSAQIVQJXQYYKT25N3OLOEQHZ",
+      "path": "textures/particle/hive/emote/nerd.png"
+    },
+    {
+      "key": "MLYQ556OVOIY2UDLHDNJCZA2BE4GD236",
+      "path": "animations/hive/hub/game/murder.json"
+    },
+    {
+      "key": "2WR6HKYDHQ6KQLMXW7DH7SOJXPADTZW7",
+      "path": "particles/npc/game/gi.particle.json"
+    },
+    {
+      "key": "24GN7W454UJ6622PEFNP6H2COZPJO72O",
+      "path": "textures/entity/hive/hub/game/hologram/digit/2.png"
+    },
+    {
+      "key": "MBRHJGFGVS5L7XATPI5AKLEOTGU5POSH",
+      "path": "models/entity/hive/hub/game/sky/male.json"
+    },
+    {
+      "key": "WQU2RT4VZD6MY3MREQMM7EDR4JQBEEIX",
+      "path": "models/entity/hive/hub/billboard/animals/graphic.json"
+    },
+    {
+      "key": "J6FJYWOHDM4A6WTG3F243MYQ43L4XNHX",
+      "path": "particles/npc/game/bridge.particle.json"
+    },
+    {
+      "key": "TESRZPMJI276IPT3JPRK6SS74Z2TUI2D",
+      "path": "textures/entity/hive/hub/game/hologram/digit/1.png"
+    },
+    {
+      "key": "S32GOESY7N2HTNZKJK4BM6QMDSF24RB2",
+      "path": "particles/emote/eyes.json"
+    },
+    {
+      "key": "VFRYFQIGSDT6K5XJOGPSHY67TOVXAY6F",
+      "path": "textures/item_texture.json"
+    },
+    {
+      "key": "NGIWZ5MJUCKDQIS5AAYDKMVVMSDVYZ3W",
+      "path": "particles/emote/sleeping.json"
+    },
+    {
+      "key": "RZPJC6OCLKB4SR4WDHIHC3KJFFNPQ3O5",
+      "path": "textures/entity/hive/hub/npc/animals/owl.png"
+    },
+    {
+      "key": "ZAT2EMUR6YLIQNRBFWY4OI2QS7FMEPCP",
+      "path": "textures/items/hive/hub/checkpoint.png"
+    },
+    {
+      "key": "OPCCMT4VYYPE2JTKABUJXE4E3JNFLTWN",
+      "path": "models/entity/hive/hub/game/hologram/plate_kits.json"
+    },
+    {
+      "key": "ZISUOCM4KFQO7DV7NJON7I6SOAHQJFMK",
+      "path": "models/entity/hive/hub/game/grav.json"
+    },
+    {
+      "key": "WFESHAVKYWOGHCWAH3V4JUVCLDX575DB",
+      "path": "models/entity/hive/hub/game/sky/female.json"
+    },
+    {
+      "key": "LXRWQ5S2AJNNQFMAKOWCFCDD7TW3WR5L",
+      "path": "textures/items/hive/hub/party.png"
+    },
+    {
+      "key": "CXSRCCOSGNPL7LA7NB7RE42YNCAUYQ7E",
+      "path": "textures/particle/hive/emote/stuck_out_tongue.png"
+    },
+    {
+      "key": "GQY33QABCIVPAPHIDWP6QUZ7FGFQMMSX",
+      "path": "entity/hive/hub/billboard/animals.json"
+    },
+    {
+      "key": "W3XBKNHBEMEOMWB7CYHKNXHHU6PTRWNB",
+      "path": "entity/hive/hub/clock.json"
+    },
+    {
+      "key": "66YGSWHDQBVZRHG52FFUFPSW7UFP34QO",
+      "path": "animation_controllers/hive/hub/npc/postbox.json"
+    },
+    {
+      "key": "WGE6YXVKPCCALWDVX6P4GXVY5Y7MGA7O",
+      "path": "models/entity/hive/hub/game/hologram/plate_sg.json"
+    },
+    {
+      "key": "HJPFG5JOW7DHQJPVRE4XUJJTDSV77N52",
+      "path": "textures/items/hive/hub/locker.png"
+    },
+    {
+      "key": "65XDSDJ7PPDLIGTZU6WX5Q3ENETMVMHH",
+      "path": "textures/entity/hive/hub/game/ground.png"
+    },
+    {
+      "key": "AV2XGG576B7GGTRZDWIXSUS5ZJLCBKBC",
+      "path": "items/hive/hub/locker.json"
+    },
+    {
+      "key": "ASB3A72U7M5FLD25YQUQO4MU57QPKFPY",
+      "path": "textures/entity/hive/hub/game/sky/female.png"
+    },
+    {
+      "key": "P3NCVB5I7U6MJSK7R3TVDEN6C7VX4OFB",
+      "path": "textures/entity/hive/hub/game/hologram/build.png"
+    },
+    {
+      "key": "UZVSMCTKZIG3TXCSC7NWVLL2MKVAXYAQ",
+      "path": "particles/emote/pleading.json"
+    },
+    {
+      "key": "TJAUUOHYKIGRH2W3FUCVX4GNXQ53YFOS",
+      "path": "texts/en_US.lang"
+    },
+    {
+      "key": "CRO5OAGJPGWR5DDJS335AHYO6HMMSMNQ",
+      "path": "items/hive/hub/pet_egg.json"
+    },
+    {
+      "key": "DAHHVJXW745ITA3CIYSNHVLTT52OE3P5",
+      "path": "entity/hive/hub/teleporter.json"
+    },
+    {
+      "key": "KCDE3YSVNLAEMXHVJJTAYLO2W36TQQTH",
+      "path": "models/entity/hive/hub/game/hologram/icon.json"
+    },
+    {
+      "key": "SE67VDAYWGLK7BA4QSOATKX6CPNY2VEO",
+      "path": "particles/emote/confounded.json"
+    },
+    {
+      "key": "XFZXFOHQVDPJAGHRLG3UDHFKLFQJIOWG",
+      "path": "models/entity/hive/hub/game/hologram/digit_4.json"
+    },
+    {
+      "key": "P3CL4D4Z7X6YLJKFQZE6FNVO2CG5IDI6",
+      "path": "models/entity/hive/hub/mailbot.json"
+    },
+    {
+      "key": "JNB5W4E5Y4T452L4K4EW4XOAUP65NNT4",
+      "path": "particles/emote/smirk_burst.json"
+    },
+    {
+      "key": "3GE5YTZBLFEISAWQP45AHSFWB2TDVUOP",
+      "path": "models/entity/hive/hub/teleporter.json"
+    },
+    {
+      "key": "D5YE22WZ4HMM24WHZNUSLGN6PPQSR3TF",
+      "path": "textures/entity/hive/hub/billboard/animals/graphic.jpg"
+    },
+    {
+      "key": "H3CC6DY54XF4L4VYET7DOKUMY5PUIK4B",
+      "path": "entity/hive/hub/game/kits.json"
+    },
+    {
+      "key": "LDWFD5GRTLTMGTNLYJC6PHALQXHZSW76",
+      "path": "models/entity/hive/hub/game/hologram/plate_gi.json"
+    },
+    {
+      "key": "M2MESDAQDRD4GSE7PCHQM466SHDYB45U",
+      "path": "particles/emote/shocked.json"
+    },
+    {
+      "key": "CEJRTGXNXDY4VCOZFWF6WUHPTOZYGAFR",
+      "path": "textures/entity/hive/hub/logo.png"
+    },
+    {
+      "key": "HLYK2HKPMQ5CYKB6HWUIGZJGDGK2ANRV",
+      "path": "textures/particle/hive/emote/thinking_face.png"
+    },
+    {
+      "key": "3RYTP63FSEHFY2N4NFMHWK6LSTDVX5F6",
+      "path": "textures/entity/hive/hub/game/bridge/female.png"
+    },
+    {
+      "key": "G7325GBUUKJ72NDLFYDJFTV2QLHMVUIT",
+      "path": "textures/entity/hive/hub/game/hologram/digit/3.png"
+    },
+    {
+      "key": "GNF3AT73L5OG3ZSFOQOH65WQAL5WY4BB",
+      "path": "animations/hive/hub/golden_cubee.json"
+    },
+    {
+      "key": "Y2YYPC2I34P2CYLBDMO3YBCZ67RNN4VO",
+      "path": "animations/hive/hub/game/sky.json"
+    },
+    {
+      "key": "TZXP5UWPQULNJF7PIYVMFF7T5G72JSA4",
+      "path": "particles/emote/smile.json"
+    },
+    {
+      "key": "LDXC6VBJOOBH62737UUUFLAWCFISUHOZ",
+      "path": "animation_controllers/hive/hub/train/carriage.json"
+    },
+    {
+      "key": "HD3OR73VSHLTLEXJP4ESIQEBZFX245CE",
+      "path": "textures/entity/hive/hub/game/hologram/bridge.png"
+    },
+    {
+      "key": "PCLDHQ4KJXFFWD7TYXV7B5YPNJRPETWM",
+      "path": "render_controllers/hive/hub/game/murder.json"
+    },
+    {
+      "key": "2KEOKQ2FO6C2NCQWF5TYUXXUNOJO6S5E",
+      "path": "models/entity/hive/hub/game/hologram/plate_wars.json"
+    },
+    {
+      "key": "RHKTRQXX3MSWWYML2WAQYDTEP2XJ44C4",
+      "path": "entity/hive/hub/npc/questmaster.json"
+    },
+    {
+      "key": "P5GGLORJ3YHVFZDGMJTGECSRKX47WH3I",
+      "path": "entity/hive/hub/game/wars.json"
+    },
+    {
+      "key": "ADTOT274QN3H62U2MPZAGJXO6E6E3KHI",
+      "path": "textures/entity/hive/hub/game/hologram/sg.png"
+    },
+    {
+      "key": "DWY2OLPAP4XUSCD2ICBJSLK4ED2V5AML",
+      "path": "textures/particle/hive/emote/exclamation.png"
+    },
+    {
+      "key": "V6KO52VWMN2DZWDPBADEBERAI2U7RBMD",
+      "path": "textures/entity/hive/hub/game/hologram/snow_plate.png"
+    },
+    {
+      "key": "IJAPVKX2P3AX4IPBZ2UXF6Y6XT5EKT6K",
+      "path": "animation_controllers/hive/hub/game/hologram.json"
+    },
+    {
+      "key": "CYFYMP33QPNQWF273DK36WBLOFWACR4G",
+      "path": "textures/entity/hive/hub/npc/postbox.png"
+    },
+    {
+      "key": "S5QUOIC355P4KAPSYRG7D3DNAEEO7EGS",
+      "path": "models/entity/hive/hub/npc/animals/owl.json"
+    },
+    {
+      "key": "DW7QZRZVRWJW6XZFPCZW4FCNZ45TT735",
+      "path": "particles/train/steam.particle.json"
+    },
+    {
+      "key": "B5NH3XDCIJ7JK4RJHB5ARHZRYTV6GEJB",
+      "path": "models/entity/hive/hub/game/hologram/plate_ctf.json"
+    },
+    {
+      "key": "TZRL7ZQFGJND5EXK6AATJNFFKZYJDCXY",
+      "path": "models/entity/hive/hub/game/dr.json"
+    },
+    {
+      "key": "J3OGDIDSWKMQJLKH2DEE6L6R7RPR4YLG",
+      "path": "particles/npc/game/ground.particle.json"
+    },
+    {
+      "key": "VCM724I3UJOQ7DLFVX3O7YPQIHIHUMHU",
+      "path": "render_controllers/hive/hub/logo.json"
+    },
+    {
+      "key": "OX4GZMBYTN25KJMAI4WMMK54X6WH2ERS",
+      "path": "textures/entity/hive/hub/billboard/animals/frame.png"
+    },
+    {
+      "key": "OMRMMU4IEHGZQLCMV324EM2NWQ3OC6C2",
+      "path": "textures/entity/hive/hub/game/hologram/drop.png"
+    },
+    {
+      "key": "XAW75VDCTMFKVUCOGBOPDL3O5FT466HM",
+      "path": "particles/npc/game/ctf.particle.json"
+    },
+    {
+      "key": "JNB2F463FV64YU55ERXSBPYL2XU3VAC5",
+      "path": "animations/hive/hub/game/hide.json"
+    },
+    {
+      "key": "UBGDRCQZ2A4HMHJW52SX5XDXA42EIT24",
+      "path": "models/entity/hive/hub/npc/animals/deer.json"
+    },
+    {
+      "key": "MT5SAI77L4BBWPWUHAZLFSSF7NFNTVFX",
+      "path": "models/entity/hive/hub/game/ctf/female.json"
+    },
+    {
+      "key": "JL3UPW2KGHZRCJ2A5LY4JABPIODBGLU7",
+      "path": "particles/emote/exclamation_burst.json"
+    },
+    {
+      "key": "NFBWVA3F2ATHG5P4L77OMZCTVDVK5NNI",
+      "path": "particles/emote/kissing_heart_burst.json"
+    },
+    {
+      "key": "IU6ZL472HNQHHCIKWCJ22EX4RWZP4F7A",
+      "path": "textures/particle/hive/emote/smile.png"
+    },
+    {
+      "key": "ACAGLUHMPM7GGU2V6Q2CZJNE4CJOMOBB",
+      "path": "particles/emote/neutral_burst.json"
+    },
+    {
+      "key": "VFTW7GLKPURGMHQXY6EIG44MZLH6HLD5",
+      "path": "particles/emote/confounded_burst.json"
+    },
+    {
+      "key": "S7RSG7DX3BYY4EPGDGJTHTGKI36NOERP",
+      "path": "textures/entity/hive/hub/game/hologram/gi.png"
+    },
+    {
+      "key": "YXZKLQM3ALDF6HDHXNHITS4URPV4M2EE",
+      "path": "textures/entity/hive/hub/game/sg/male.png"
+    },
+    {
+      "key": "PEW76RDFSM32TLFT4GI5IXUISURIOJQW",
+      "path": "particles/emote/rolling_on_the_floor_laughing.json"
+    },
+    {
+      "key": "YDHCIEEQ66DMDNMAA6DFOVIOKLQZCZMA",
+      "path": "animations/hive/hub/game/drop.json"
+    },
+    {
+      "key": "VPU5G7CDNYORMHXBZKZCZ6JFTQIU2I3K",
+      "path": "particles/emote/innocent.json"
+    },
+    {
+      "key": "AC4KQVZ5YKNJEM5VDLSVCBD3BXLREWDB",
+      "path": "particles/world/fall/fall_leaves_red.particle.json"
+    },
+    {
+      "key": "JLWIX3BFKYRZO7W6FKAF3VTGIKZCG6SD",
+      "path": "render_controllers/hive/hub/golden_cubee.json"
+    },
+    {
+      "key": "TJ3L5IGXYWXIG33RD7RTMXYX4AY7Y3E5",
+      "path": "particles/emote/exclamation.json"
+    },
+    {
+      "key": "ZT3CRYZ23JV63UQWKWB4NT4ZCDZRS2KJ",
+      "path": "particles/emote/expressionless.json"
+    },
+    {
+      "key": "WLUNIGMRWHQBDR6NYWY5FMY2GLNNHJ5D",
+      "path": "particles/emote/expressionless_burst.json"
+    },
+    {
+      "key": "JB3SXR65FS3T7STUWQF4HYN2R2S47GIK",
+      "path": "animations/hive/hub/game/bridge.json"
+    },
+    {
+      "key": "3H4MSWIP3GJLSG5GBUG7N5KQ5OQCK6CA",
+      "path": "models/entity/hive/hub/game/snow.json"
+    },
+    {
+      "key": "Y2EO3YZQ37UF7SGV2M4JLWS2OFHAYEFM",
+      "path": "textures/entity/hive/hub/game/hologram/wars_plate.png"
+    },
+    {
+      "key": "OD6EEF7634L2QT4N3JQI77JOWMENXZFS",
+      "path": "models/entity/hive/hub/game/hologram/plate_party.json"
+    },
+    {
+      "key": "BCTH6N7D4BQCKKG7DV4PV6RV6VRBGBXW",
+      "path": "particles/emote/sunglasses.json"
+    },
+    {
+      "key": "WH6GD6CJH5J56UVG5G26K2A4VVC3XRJ7",
+      "path": "textures/particle/hive/emote/smile_tear.png"
+    },
+    {
+      "key": "VQE6MEN762LN3DIDWOR2STMBID2XJOXH",
+      "path": "textures/entity/hive/hub/game/hologram/digit/4.png"
+    },
+    {
+      "key": "LKNIPR37VPP7RFFAWSXBTOZ6M7WZ6TCA",
+      "path": "particles/emote/blush.particle.json"
+    },
+    {
+      "key": "BSQDFRQQDJONL2TYIPNPO6KHX7CHWMHK",
+      "path": "particles/emote/stuck_out_tongue.json"
+    },
+    {
+      "key": "QP5VJN3ISU72E5TUR7PRB7OJ2CLOTXGS",
+      "path": "textures/particle/hive/emote/raised_eyebrow.png"
+    },
+    {
+      "key": "XO2PKRGNDIRPQJNAJCMSSE2EB47A2273",
+      "path": "animations/hive/hub/game/hologram.json"
+    },
+    {
+      "key": "RB5HJF4H4OUAO2D6VEOPZYJHM3COAXWB",
+      "path": "entity/hive/hub/game/hologram.json"
+    },
+    {
+      "key": "TOHKSA3CHMXUEGRY5VDRJ76VM7LBRFIE",
+      "path": "textures/entity/hive/hub/game/murder.png"
+    },
+    {
+      "key": "FCSSMSUGGB2XIQLMEOVWAOHDM3Q5PIHI",
+      "path": "textures/entity/hive/hub/game/wars/male.png"
+    },
+    {
+      "key": "RPNKQYKR5YRK5JUOVUZK5OBXF4WLWIOR",
+      "path": "animation_controllers/hive/hub/npc/questmaster.json"
+    },
+    {
+      "key": "MDWK6NPUFW5ACVZWST5UVFZ3JNUYFTDL",
+      "path": "render_controllers/hive/hub/game/hologram.json"
+    },
+    {
+      "key": "SX2SGSLD7C2GETV7YJ5SDA3Z34B5ESLH",
+      "path": "particles/emote/sob_burst.json"
+    },
+    {
+      "key": "X3DQYNEJXUGMLB7C7Y2BXF2PVQGFBCTM",
+      "path": "textures/entity/hive/hub/game/hologram/digit/blank.png"
+    },
+    {
+      "key": "KGS2JTXQFRPBWCDHN2DNPEGHRAYUSEKJ",
+      "path": "textures/entity/hive/hub/game/grav.png"
+    },
+    {
+      "key": "5K6SZKE6NELSHFXRQGVDKU3GEE5OLCDI",
+      "path": "textures/particle/hive/emote/kekw.png"
+    },
+    {
+      "key": "F6QEL2S72TJPZVS3BISHSN6HLSJOEJPK",
+      "path": "particles/npc/game/sg.particle.json"
+    },
+    {
+      "key": "GEWX3LPXYY3EEX5ZMFMOJDPOTQZDALJZ",
+      "path": "models/entity/hive/hub/game/hologram/digit_1.json"
+    },
+    {
+      "key": "NUDEAKZ6C4E4FIHAKSC4DIFBGIAT57QT",
+      "path": "particles/emote/smirk.json"
+    },
+    {
+      "key": "XPRYKKH4UABGQOBOR3XJAJBQ4NK2C4KI",
+      "path": "textures/particle/hive/emote/confounded.png"
+    },
+    {
+      "key": "UP5GNTGTY265MCEP2I2KHVBVZIMK26OS",
+      "path": "animations/hive/hub/game/build.json"
+    },
+    {
+      "key": "6XX7PXR5UVS4YGRWCRNIABZY6HW6MHWR",
+      "path": "animation_controllers/hive/hub/train/engine.json"
+    },
+    {
+      "key": "DI2IH2JJ32JTKKSECHLMP6UZAKAZ76L4",
+      "path": "entity/hive/hub/game/ctf.json"
+    },
+    {
+      "key": "7GQZ7HI5YCJT6WBCAHJQAGKNWGCZJRDS",
+      "path": "particles/emote/cold_face.json"
+    },
+    {
+      "key": "HZF6KYPVI7KGSL2X3FUEVDQCFVMNTNY5",
+      "path": "textures/particle/hive/emote/dizzy_face.png"
+    },
+    {
+      "key": "43Z447NHKA76PRCS2TJ7PWV4PJZGFR55",
+      "path": "particles/emote/smile_tear_burst.json"
+    },
+    {
+      "key": "YGRF64ECSBFOMRSFXSP6MGQDFBVQUNED",
+      "path": "textures/particle/hive/emote/robot_face.png"
+    },
+    {
+      "key": "EPWXSHX3ZZFNYQAWPBLTGQAW4WOUDBUY",
+      "path": "textures/particle/hive/train/steam.png"
+    },
+    {
+      "key": "UH4DOSR2Z6BNSHBZYGONU2KRAG6IHPE7",
+      "path": "particles/emote/sick_burst.json"
+    },
+    {
+      "key": "762XKDDBFLAO3I7TPSOJFAGEPWOQRKZ6",
+      "path": "textures/particle/hive/world/fall/leaf.png"
+    },
+    {
+      "key": "37YPFR26JIN3AU3ATP7BJ547U3J7EMKB",
+      "path": "models/entity/hive/hub/logo.json"
+    },
+    {
+      "key": "ENTV4HH6USZROYCZYFTN4C5HN5U7DSZX",
+      "path": "textures/items/hive/hub/pet/egg_alert.png"
+    },
+    {
+      "key": "DMR22SYQFJSFS5VHQKYZTOKDBK7OIKRI",
+      "path": "textures/entity/hive/hub/game/build/male.png"
+    },
+    {
+      "key": "TRE7PQ5EFNMXT3WUSHQR43ZUXKLHJNEB",
+      "path": "particles/npc/game/party.particle.json"
+    },
+    {
+      "key": "N4NHHNIKMNN65YVCI6GSD2AXIF434U5P",
+      "path": "animations/hive/hub/logo.json"
+    },
+    {
+      "key": "XCKW2D4ZFVWBRJKVK7WTFV7H7V7KRWMB",
+      "path": "particles/emote/thinking_face_burst.json"
+    },
+    {
+      "key": "YX3QVJHHREI2VCMSZVHE3KVRBKD4CUZW",
+      "path": "particles/emote/flushed.json"
+    },
+    {
+      "key": "JAVBFNZKHRU4QERD7NYTHYTMZZZKOHEH",
+      "path": "models/entity/hive/hub/game/wars/male.json"
+    },
+    {
+      "key": "M6ADSKWFEHUKZBDL6SKN4PMDXBB7DKMQ",
+      "path": "textures/entity/hive/hub/game/hologram/sg_plate.png"
+    },
+    {
+      "key": "5AB7IUHUZO36AK7OJXDT4MROIIJSHKZL",
+      "path": "models/entity/hive/hub/game/hologram/plate_ground.json"
+    },
+    {
+      "key": "ZWWAPSZG3KIOXMF5DOFOIWNB5RQR5WKD",
+      "path": "entity/hive/hub/npc/locker.json"
+    },
+    {
+      "key": "DGIP2YSKEUXYGE4A5TOCS75SZ2P4QSIK",
+      "path": "textures/entity/hive/hub/game/wars/female.png"
+    },
+    {
+      "key": "L7S3CECX6Z6OX4XMLNRAGZAFMZHK5X4G",
+      "path": "animations/hive/hub/npc/animals/deer.json"
+    },
+    {
+      "key": "EQVTI4RDJYQCNH2SIO7RKZRCGXUFUAMB",
+      "path": "models/entity/hive/hub/npc/locker.json"
+    },
+    {
+      "key": "PCXCCAQ22K4T5PMXLD7S3HOIPBBFNDGO",
+      "path": "animations/hive/hub/npc/animals/owl.json"
+    },
+    {
+      "key": "HSUZWS2J5VRQN7DFMTZTTSK5VJYTBK6B",
+      "path": "animations/hive/hub/generic.json"
+    },
+    {
+      "key": "FH43LIYEN54GJGZFFNA63NKMMOQELN3H",
+      "path": "entity/hive/hub/game/build.json"
+    },
+    {
+      "key": "KUTEO2RR3WEBS5N3JBHA4V2IDVVZ7HIR",
+      "path": "animations/hive/hub/game/kits.json"
+    },
+    {
+      "key": "7W5JDVQQJPJA5FJ7LVYDHFD2WSW7DXCB",
+      "path": "textures/entity/hive/hub/game/drop/male.png"
+    },
+    {
+      "key": "CNIAVRHV2TU75PILFUUOAPYPCNVKBF73",
+      "path": "textures/entity/hive/hub/game/hologram/digit/5.png"
+    },
+    {
+      "key": "VIPZYAWAMO3OUSXH4JJKNH6GWV272O3Y",
+      "path": "particles/emote/raised_eyebrow_burst.json"
+    },
+    {
+      "key": "73JAAW3RV3QP5ANGS4CKUHTDI6LWCAK3",
+      "path": "particles/emote/vomiting_burst.json"
+    },
+    {
+      "key": "CM3KNGJZL4Q27U5BBXKBDTJ7WJDKM7MR",
+      "path": "textures/entity/hive/hub/npc/locker.png"
+    },
+    {
+      "key": "UYIC3GPJRPZIM5ANRH3BWAF3WSL6AWBZ",
+      "path": "models/entity/hive/hub/game/hologram/cta_updated.json"
+    },
+    {
+      "key": "JXOF6OX2R47IRR5UQZ47F7JOU52MR3D6",
+      "path": "particles/emote/mailbot_burst.json"
+    },
+    {
+      "key": "KN3L3RFDFQKBKSEV46IHVLYULCODQDLN",
+      "path": "animations/hive/hub/npc/region.json"
+    },
+    {
+      "key": "QIYW7ARVOCXF5A442MHO4PKXFJT4IYDG",
+      "path": "textures/items/hive/hub/compass.png"
+    },
+    {
+      "key": "YDOQDUKPPRQT6BOE7WG6GZ3E5KPRJNAW",
+      "path": "particles/emote/thinking_face.json"
+    },
+    {
+      "key": "FMTIEYJYUH7GJAUVAZRDRGJLVYMLKKHA",
+      "path": "particles/emote/kissing_heart.json"
+    },
+    {
+      "key": "LU4IF4TPLPFBU4TNUI3HBOFD5N4ACV4Y",
+      "path": "particles/emote/nerd.json"
+    },
+    {
+      "key": "MLCO3PQNRT7C5ARX45DYCSSPZT7BB5VC",
+      "path": "textures/entity/hive/hub/game/hologram/build_plate.png"
+    },
+    {
+      "key": "LT6HAIJBBJRFI2BES3YB4YS7LXPU6Y5N",
+      "path": "models/entity/hive/hub/game/hologram/plate_generic.json"
+    },
+    {
+      "key": "SSKSRYXXMMKW5VO32ZYNAOGP6XB63UMD",
+      "path": "entity/hive/hub/npc/animals/deer.json"
+    },
+    {
+      "key": "SPURPAJAGU7WP22ZW5C3IRXTB4DZI2ZU",
+      "path": "particles/emote/eyes_burst.json"
+    },
+    {
+      "key": "LAKOEABSJFTSTXELINZEHLCCH2DR3B4L",
+      "path": "entity/hive/hub/game/drop.json"
+    },
+    {
+      "key": "3ACX47OHVW377AH3ZOSLZEUKPE4IBR7A",
+      "path": "models/entity/hive/hub/game/build/male.json"
+    },
+    {
+      "key": "HBQCXF4BBWMUGPAYUB2CRWBLKE4E6J4H",
+      "path": "textures/particle/hive/emote/shocked.png"
+    },
+    {
+      "key": "7DJJ7JH4ZIWZPNYFMRJDG72XZBL5MI2U",
+      "path": "render_controllers/hive/hub/mailbot.json"
+    },
+    {
+      "key": "V2ZE4WVJO4K5UW3NT4CTTBIHWVZC2WXC",
+      "path": "textures/entity/hive/hub/game/hologram/grav.png"
+    },
+    {
+      "key": "QSOMOEUFQMLWTRYUJJI6M7XZ6LRVIJRH",
+      "path": "materials/entity.material"
+    },
+    {
+      "key": "ZZDXKOZNIQAS265Q53MZGQUJ7AL5E5G7",
+      "path": "render_controllers/hive/hub/game/male_female.json"
+    },
+    {
+      "key": "CJV4EN4U4ABRMSLYVBOOTWSXWGPD5YG2",
+      "path": "textures/particle/hive/npc/plus.png"
+    },
+    {
+      "key": "CA545YL4F6MLVH35SE2UMV72W3CRR5JD",
+      "path": "entity/hive/hub/game/bridge.json"
+    },
+    {
+      "key": "PHOFM6IBCFDKFRVS7WLHYOIOAUCPNN25",
+      "path": "models/entity/hive/hub/game/sg/male.json"
+    },
+    {
+      "key": "32K77XAATB7HRUZEOGCLDUW3XYI77NV2",
+      "path": "textures/items/hive/hub/pet/egg.png"
+    },
+    {
+      "key": "QDCGFNNMOJLF4FBVCRETOQJ4QCGR6GC5",
+      "path": "particles/npc/game/snow.particle.json"
+    },
+    {
+      "key": "C6I4EUMJ5MFOENCFRI36UNX3XKYNA6KY",
+      "path": "particles/npc/game/dr.particle.json"
+    },
+    {
+      "key": "KQWBBU33R63CQNDKBQY6LZEL7PENMDO3",
+      "path": "models/entity/hive/hub/game/hologram/plate_bridge.json"
+    },
+    {
+      "key": "RG3VMNQX2UHT7HT4VXPUDCWO7KBSGCZ3",
+      "path": "particles/emote/joy_burst.json"
+    },
+    {
+      "key": "XC67E2Q6DOTKLD4I2VUGMM2GGT4WBDAR",
+      "path": "animations/hive/hub/game/gi.json"
+    },
+    {
+      "key": "LJCUUT5EAY6J4ZAW6OISBITPYO3Y3NNT",
+      "path": "animations/hive/hub/npc/postbox.json"
+    },
+    {
+      "key": "6Z3SI5D2436YIRSGLH4JP4GUDAFA3LT2",
+      "path": "models/entity/hive/hub/billboard/animals/frame.json"
+    },
+    {
+      "key": "QKWJWHEHI3OF4LQLA3TX7RZAZCPW4PJV",
+      "path": "textures/entity/hive/hub/npc/plus.png"
+    },
+    {
+      "key": "JXVMX7OQXWFYRINNWSM72ZPQ64OISO26",
+      "path": "entity/hive/hub/game/hide.json"
+    },
+    {
+      "key": "KVRPNF6P2JNBHQR6P2S2R2STMVDG2G4U",
+      "path": "textures/entity/hive/hub/game/hologram/gi_plate.png"
+    },
+    {
+      "key": "IXUMVEGWDP2HGDO7YRGV4H26YKGLQBBT",
+      "path": "models/entity/hive/hub/game/murder.json"
+    },
+    {
+      "key": "VGQ46VWNEBLN2HB6WZYFFKVP4676LNMI",
+      "path": "textures/entity/hive/hub/game/hologram/party.png"
+    },
+    {
+      "key": "YKNQZ7QJRWSK4V6WHI4FBZM7CW6PUZGJ",
+      "path": "animation_controllers/hive/hub/npc/plus.json"
+    },
+    {
+      "key": "CGQVJZ3WXFT5AHBRYLICUNO6CVE5OWUG",
+      "path": "models/entity/hive/hub/game/hologram/cta_map.json"
+    },
+    {
+      "key": "5YOTEL4CLPUOGVDYAYEZNQ65SLDBRGN7",
+      "path": "textures/entity/hive/hub/game/hologram/cta/competition.png"
+    },
+    {
+      "key": "ZINXAFNWMYSS4Z4BXNMOXAGL6ABWR25M",
+      "path": "particles/emote/shocked_burst.json"
+    },
+    {
+      "key": "5J3OICWYYS42MDAJFYA6ZOXPBQX4OFFF",
+      "path": "animation_controllers/hive/hub/npc/animals/deer.json"
+    },
+    {
+      "key": "AD7GQPTNHLTEMCBXYMROKS67W5D26YIJ",
+      "path": "models/entity/hive/hub/game/hologram/plate_snow.json"
+    },
+    {
+      "key": "TO73UTBYXGVS5UR23TGTX6YVL5EXZ4RN",
+      "path": "textures/entity/hive/hub/game/hologram/digit/6.png"
+    },
+    {
+      "key": "LQXT65CF4L7HQVS7XFFBR2HDUA6A7VIE",
+      "path": "render_controllers/hive/hub/teleporter.json"
+    },
+    {
+      "key": "EIAFN6D7TXHJTRHFKFGDHUIXJ4CZGJJ6",
+      "path": "textures/entity/hive/hub/game/kits.png"
+    },
+    {
+      "key": "DT6MLSUJFNWZG5ISNSPECBOBK24YV3PK",
+      "path": "particles/emote/gg_burst.json"
+    },
+    {
+      "key": "X5LJRNN7E6M3GEVACZ7NLGMFQBXT7VTY",
+      "path": "particles/emote/nerd_burst.json"
+    },
+    {
+      "key": "JKVN2U6FBF47SAPRMOAR2FYCK7PRKUK5",
+      "path": "textures/entity/hive/hub/game/ctf/male.png"
+    },
+    {
+      "key": "ESYFZVRIZH3L5O5RTKWLR2YWN2LPDNVB",
+      "path": "particles/emote/robot_face.json"
+    },
+    {
+      "key": "GA4IEA6PC2UTWRDLYRLD7NSNGYRFEJ6N",
+      "path": "textures/particle/hive/emote/sob.png"
+    },
+    {
+      "key": "SVBW2XBWGJX46OJCDTBH24YL6URLBE7V",
+      "path": "models/entity/hive/hub/golden_cubee.json"
+    },
+    {
+      "key": "ZKNXDJNA7V6SMOPPOGDFXF6E5KY7IXXS",
+      "path": "particles/emote/pleading_burst.json"
+    },
+    {
+      "key": "HGFPPBY3WS2XPGPGXCU2L3RIH37TJLKA",
+      "path": "particles/emote/joy.json"
+    },
+    {
+      "key": "GVIPMQ3OSBPMB7LJRGYXJY4LAGI3IZMW",
+      "path": "entity/hive/hub/game/sg.json"
+    },
+    {
+      "key": "SGT3WUNI3MCHO6HZGPJBBHZKMNKQOQCG",
+      "path": "animations/hive/hub/mailbot.json"
+    },
+    {
+      "key": "W2SKKBPECHJBQCIB5M5A7PE47NFW2FCY",
+      "path": "entity/hive/hub/npc/animals/bear.json"
+    },
+    {
+      "key": "RGNP7DC6QVK3LOTXQQJQJ7DRFSXPJZNH",
+      "path": "particles/emote/zany.json"
+    },
+    {
+      "key": "4T44EDI73ELXMHVW5TX5O57LDRIVH2TD",
+      "path": "entity/hive/hub/game/sky.json"
+    },
+    {
+      "key": "WQT756ZBGGPS6Y63G3SKDKR5BWYC5CE5",
+      "path": "particles/emote/stuck_out_tongue_burst.json"
+    },
+    {
+      "key": "7YY5QXCSZZZWIPNV6FQKLE4PO6IBPM6U",
+      "path": "animations/hive/hub/game/dr.json"
+    },
+    {
+      "key": "THIKF5K7UU52VI2PFAYX7YWNLT34EXD7",
+      "path": "textures/entity/hive/hub/game/hologram/sky.png"
+    },
+    {
+      "key": "NHYOMF2O22VN46JNK62BDOLNP2KRA2XN",
+      "path": "models/entity/hive/hub/game/kits.json"
+    },
+    {
+      "key": "POQHVZO4MR2P7AAYDGC63EMTKY7NEXAC",
+      "path": "textures/entity/hive/hub/mailbot.png"
+    },
+    {
+      "key": "BBDEOCI7VQUNGRNMFQGBGPW5FDFOBXNF",
+      "path": "models/entity/hive/hub/npc/region.json"
+    },
+    {
+      "key": "M3JXTNBQ4V73CQC2KPH2LLAO7IX7ZYGQ",
+      "path": "textures/entity/hive/hub/game/hologram/sky_plate.png"
+    },
+    {
+      "key": "G23EPMQPFJRV7C3SR276RTAY2HXIC4FK",
+      "path": "textures/entity/hive/hub/game/gi.png"
+    },
+    {
+      "key": "73RHQP6JVW2VAI7T5SBVO2BPW2YFYOHK",
+      "path": "textures/particle/hive/emote/sweat_smile.png"
+    },
+    {
+      "key": "BZOEZ5JGAEL56MLX47FV6HQQNVHJOPPW",
+      "path": "animations/hive/hub/game/ground.json"
+    },
+    {
+      "key": "D2QFYFBMGKJVWGM4ULSVJROUS625SEDO",
+      "path": "particles/emote/rolling_on_the_floor_laughing_burst.json"
+    },
+    {
+      "key": "FYRJFA3BOGVYJTQLOFKGI3M3O3NYXN7H",
+      "path": "textures/entity/hive/hub/game/hologram/ground.png"
+    },
+    {
+      "key": "7JLUWQAQZKC55IKRZFBY52OJUZE3G7DB",
+      "path": "textures/entity/hive/hub/npc/region.png"
+    },
+    {
+      "key": "O6QW42RDRL5TAFUWZ4DH3ZSI4ZLHBBCW",
+      "path": "textures/items/hive/hub/friends.png"
+    },
+    {
+      "key": "RSLB3DQV4C6KPFDSVM3IE2DPRSZFHEKV",
+      "path": "textures/particle/hive/emote/joy.png"
+    },
+    {
+      "key": "AKBUZY3VFUJJOKOYMIHLPDH23CW2KZRO",
+      "path": "particles/emote/cold_face_burst.json"
+    },
+    {
+      "key": "BRNOIUJ6VETLMGV4QEP7VEAWSUFCCC2H",
+      "path": "models/entity/hive/hub/game/gi.json"
+    },
+    {
+      "key": "XK5I6MRQ6DB6N3V47EW4VBZBUR6O3LHN",
+      "path": "textures/particle/hive/emote/blush.png"
+    },
+    {
+      "key": "GIHK6CX6WR5O53GD7GIQNTHH5LL6R73E",
+      "path": "animations/hive/hub/npc/questmaster.json"
+    },
+    {
+      "key": "TQQDEURQFFMXPSN5N6UZ7WGJY3BFXORO",
+      "path": "particles/emote/vomiting.json"
+    },
+    {
+      "key": "CD6MXEFO4QEQL3NGTD24GCOD2ARGZAYV",
+      "path": "models/entity/hive/hub/game/hologram/cta_competition.json"
+    },
+    {
+      "key": "ZJEKWKJWF4L7PWQTOJ5VAYQIPDJASDC7",
+      "path": "textures/particle/hive/emote/expressionless.png"
+    },
+    {
+      "key": "KXRMBP4VT4ASVL4JV2NG6KDCVZD6LHSL",
+      "path": "animations/hive/hub/npc/replay.json"
+    },
+    {
+      "key": "IWN3HE6YQUCGSRHOQFKY6XCDPH32YT6R",
+      "path": "animations/hive/hub/game/party.json"
+    },
+    {
+      "key": "F4B27YIXL4IVN6KRCX5VVTDRWO55TSRM",
+      "path": "textures/particle/hive/emote/sick.png"
+    },
+    {
+      "key": "25ZT6BKEIVI22XVGBQNOCKMG3V75Y7PW",
+      "path": "textures/entity/hive/hub/game/hologram/snow.png"
+    },
+    {
+      "key": "AXCGHVSWLAILDYELGELZM33EO3EPQ47G",
+      "path": "entity/hive/hub/train/engine.json"
+    },
+    {
+      "key": "EUPWXDOMOD457TVRKJFD6K4OZXKGF4AG",
+      "path": "textures/entity/hive/hub/game/hologram/ctf_plate.png"
+    },
+    {
+      "key": "DJ7TPSXR3XH3MUCORICY2DL4LDYKN3A5",
+      "path": "textures/particle/hive/emote/sleeping.png"
+    },
+    {
+      "key": "JRPKIGRMA3BH2GYRGNTMH4DK2ZYAS4DA",
+      "path": "items/hive/hub/pet_egg_alert.json"
+    },
+    {
+      "key": "BGJKU2L6R76EC6WNSXJXBWTMDHQ3GCXR",
+      "path": "particles/emote/dizzy_face.json"
+    },
+    {
+      "key": "XHGV6ML6KC3QULB5C2VFVPUJDDD7KY2B",
+      "path": "entity/hive/hub/backpack.json"
+    },
+    {
+      "key": "BMTNINS74YVE2MW35TFOY2WZDOEA2EXG",
+      "path": "animations/hive/hub/npc/animals/hedgehog.json"
+    }
+  ]
+}

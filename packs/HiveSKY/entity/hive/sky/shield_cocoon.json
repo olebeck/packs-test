@@ -1,0 +1,31 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.sky.shield.cocoon"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.sky.kits.shield.cocoon.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.sky.kits.shield.cocoon"
+      },
+      "identifier": "hivesky:shield_cocoon",
+      "materials": {
+        "default": "charged_creeper"
+      },
+      "particle_effects": {
+        "shield": "hivesky:shield"
+      },
+      "render_controllers": [
+        "controller.render.hive.sky.kits.shield.cocoon"
+      ],
+      "textures": {
+        "default": "textures/entity/creeper/creeper_armor"
+      }
+    }
+  }
+}

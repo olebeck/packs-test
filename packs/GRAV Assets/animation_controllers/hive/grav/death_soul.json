@@ -1,0 +1,14 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.grav.death.soul": {
+      "states": {
+        "default": {
+          "animations": [
+            "default"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

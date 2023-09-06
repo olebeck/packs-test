@@ -1,0 +1,48 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.murder.interactable.remnants.rune.box.idle"
+        },
+        {
+          "spawn": "controller.animation.hive.murder.interactable.remnants.rune.box.spawn"
+        },
+        {
+          "open": "controller.animation.hive.murder.interactable.remnants.rune.box.open"
+        },
+        {
+          "hold": "controller.animation.hive.murder.interactable.remnants.rune.box.hold"
+        },
+        {
+          "close": "controller.animation.hive.murder.interactable.remnants.rune.box.close"
+        },
+        {
+          "expired": "controller.animation.hive.murder.interactable.remnants.rune.box.expired"
+        }
+      ],
+      "animations": {
+        "close": "animation.hive.murder.interactable.remnants.rune.box.close",
+        "expired": "animation.hive.murder.interactable.remnants.rune.box.expired",
+        "hold": "animation.hive.murder.interactable.remnants.rune.box.hold",
+        "idle": "animation.hive.murder.interactable.remnants.rune.box.idle",
+        "open": "animation.hive.murder.interactable.remnants.rune.box.open",
+        "spawn": "animation.hive.murder.interactable.remnants.rune.box.spawn"
+      },
+      "geometry": {
+        "default": "geometry.hive.murder.interactable.remnants.rune.box"
+      },
+      "identifier": "hivemurder:remnants_rune_box",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/murder/interactable/remnants/rune_box"
+      }
+    }
+  }
+}

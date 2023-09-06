@@ -1,0 +1,26 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.ctf.progress.bar": {
+      "arrays": {
+        "textures": {
+          "array.textures": [
+            "Texture.red",
+            "Texture.blue"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "ignore_lighting": true,
+      "light_color_multiplier": 1,
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "array.textures[query.mark_variant]"
+      ]
+    }
+  }
+}

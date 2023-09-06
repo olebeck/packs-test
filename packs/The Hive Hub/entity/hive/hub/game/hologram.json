@@ -1,0 +1,127 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.hub.game.hologram"
+        }
+      ],
+      "animations": {
+        "center": "animation.hive.hub.game.hologram.center",
+        "face": "animation.hive.hub.game.hologram.face"
+      },
+      "geometry": {
+        "cta_book_of_souls": "geometry.hive.hub.game.hologram.cta.book.of.souls",
+        "cta_competition": "geometry.hive.hub.game.hologram.cta.competition",
+        "cta_map": "geometry.hive.hub.game.hologram.cta.map",
+        "cta_updated": "geometry.hive.hub.game.hologram.cta.updated",
+        "digit_1": "geometry.hive.hub.game.hologram.digit.1",
+        "digit_2": "geometry.hive.hub.game.hologram.digit.2",
+        "digit_3": "geometry.hive.hub.game.hologram.digit.3",
+        "digit_4": "geometry.hive.hub.game.hologram.digit.4",
+        "digit_5": "geometry.hive.hub.game.hologram.digit.5",
+        "icon": "geometry.hive.hub.game.hologram.icon",
+        "name": "geometry.hive.hub.game.hologram.name",
+        "plate": "geometry.hive.hub.game.hologram.plate",
+        "plate_bridge": "geometry.hive.hub.game.hologram.plate.bridge",
+        "plate_build": "geometry.hive.hub.game.hologram.plate.build",
+        "plate_ctf": "geometry.hive.hub.game.hologram.plate.ctf",
+        "plate_dr": "geometry.hive.hub.game.hologram.plate.dr",
+        "plate_drop": "geometry.hive.hub.game.hologram.plate.drop",
+        "plate_gi": "geometry.hive.hub.game.hologram.plate.wars",
+        "plate_grav": "geometry.hive.hub.game.hologram.plate.grav",
+        "plate_ground": "geometry.hive.hub.game.hologram.plate.ground",
+        "plate_hide": "geometry.hive.hub.game.hologram.plate.hide",
+        "plate_kits": "geometry.hive.hub.game.hologram.plate.kits",
+        "plate_murder": "geometry.hive.hub.game.hologram.plate.murder",
+        "plate_party": "geometry.hive.hub.game.hologram.plate.party",
+        "plate_sg": "geometry.hive.hub.game.hologram.plate.sg",
+        "plate_sky": "geometry.hive.hub.game.hologram.plate.sky",
+        "plate_snow": "geometry.hive.hub.game.hologram.plate.snow",
+        "plate_wars": "geometry.hive.hub.game.hologram.plate.wars"
+      },
+      "identifier": "hivehub:game_hologram",
+      "materials": {
+        "alpha": "entity_alphatest",
+        "default": "hive_hologram",
+        "new": "hive_hologram_new",
+        "text": "hive_hologram_text"
+      },
+      "render_controllers": [
+        "controller.render.hive.hub.game.hologram.plate",
+        "controller.render.hive.hub.game.hologram.name",
+        "controller.render.hive.hub.game.hologram.icon",
+        "controller.render.hive.hub.game.hologram.digit.1",
+        "controller.render.hive.hub.game.hologram.digit.2",
+        "controller.render.hive.hub.game.hologram.digit.3",
+        "controller.render.hive.hub.game.hologram.digit.4",
+        "controller.render.hive.hub.game.hologram.digit.5",
+        "controller.render.hive.hub.game.hologram.cta"
+      ],
+      "scripts": {
+        "pre_animation": [
+          "variable.number = query.variant;",
+          "variable.requireUpdate = variable.number != (variable.lastNumber ?? 0);",
+          "variable.length = variable.requireUpdate ? Math.max(1, Math.ceil(Math.ln(variable.number + 1) / 2.302585092994046)) : (variable.length ?? 1);",
+          "variable.digit1 = variable.requireUpdate ? Math.floor(Math.mod((variable.number / Math.pow(10, ((variable.length + 1 - 1) - 1))), 10)) : (variable.digit1 ?? 0);",
+          "variable.digit2 = variable.requireUpdate ? Math.floor(Math.mod((variable.number / Math.pow(10, ((variable.length + 1 - 2) - 1))), 10)) : (variable.digit2 ?? 0);",
+          "variable.digit3 = variable.requireUpdate ? Math.floor(Math.mod((variable.number / Math.pow(10, ((variable.length + 1 - 3) - 1))), 10)) : (variable.digit3 ?? 0);",
+          "variable.digit4 = variable.requireUpdate ? Math.floor(Math.mod((variable.number / Math.pow(10, ((variable.length + 1 - 4) - 1))), 10)) : (variable.digit4 ?? 0);",
+          "variable.digit5 = variable.requireUpdate ? Math.floor(Math.mod((variable.number / Math.pow(10, ((variable.length + 1 - 5) - 1))), 10)) : (variable.digit5 ?? 0);",
+          "variable.lastNumber = query.variant;"
+        ]
+      },
+      "textures": {
+        "bridge": "textures/entity/hive/hub/game/hologram/bridge",
+        "bridge_plate": "textures/entity/hive/hub/game/hologram/bridge_plate",
+        "build": "textures/entity/hive/hub/game/hologram/build",
+        "build_plate": "textures/entity/hive/hub/game/hologram/build_plate",
+        "cta_book_of_souls": "textures/entity/hive/hub/game/hologram/cta/book_of_souls",
+        "cta_competition": "textures/entity/hive/hub/game/hologram/cta/competition",
+        "cta_map": "textures/entity/hive/hub/game/hologram/cta/map",
+        "cta_updated": "textures/entity/hive/hub/game/hologram/cta/updated",
+        "ctf": "textures/entity/hive/hub/game/hologram/ctf",
+        "ctf_plate": "textures/entity/hive/hub/game/hologram/ctf_plate",
+        "digit_0": "textures/entity/hive/hub/game/hologram/digit/0",
+        "digit_1": "textures/entity/hive/hub/game/hologram/digit/1",
+        "digit_2": "textures/entity/hive/hub/game/hologram/digit/2",
+        "digit_3": "textures/entity/hive/hub/game/hologram/digit/3",
+        "digit_4": "textures/entity/hive/hub/game/hologram/digit/4",
+        "digit_5": "textures/entity/hive/hub/game/hologram/digit/5",
+        "digit_6": "textures/entity/hive/hub/game/hologram/digit/6",
+        "digit_7": "textures/entity/hive/hub/game/hologram/digit/7",
+        "digit_8": "textures/entity/hive/hub/game/hologram/digit/8",
+        "digit_9": "textures/entity/hive/hub/game/hologram/digit/9",
+        "digit_blank": "textures/entity/hive/hub/game/hologram/digit/blank",
+        "dr": "textures/entity/hive/hub/game/hologram/dr",
+        "dr_plate": "textures/entity/hive/hub/game/hologram/dr_plate",
+        "drop": "textures/entity/hive/hub/game/hologram/drop",
+        "drop_plate": "textures/entity/hive/hub/game/hologram/drop_plate",
+        "gi": "textures/entity/hive/hub/game/hologram/gi",
+        "gi_plate": "textures/entity/hive/hub/game/hologram/gi_plate",
+        "grav": "textures/entity/hive/hub/game/hologram/grav",
+        "grav_plate": "textures/entity/hive/hub/game/hologram/grav_plate",
+        "ground": "textures/entity/hive/hub/game/hologram/ground",
+        "ground_plate": "textures/entity/hive/hub/game/hologram/ground_plate",
+        "hide": "textures/entity/hive/hub/game/hologram/hide",
+        "hide_plate": "textures/entity/hive/hub/game/hologram/hide_plate",
+        "icon": "textures/entity/hive/hub/game/hologram/icon",
+        "kits": "textures/entity/hive/hub/game/hologram/kits",
+        "kits_plate": "textures/entity/hive/hub/game/hologram/kits_plate",
+        "murder": "textures/entity/hive/hub/game/hologram/murder",
+        "murder_plate": "textures/entity/hive/hub/game/hologram/murder_plate",
+        "party": "textures/entity/hive/hub/game/hologram/party",
+        "party_plate": "textures/entity/hive/hub/game/hologram/party_plate",
+        "sg": "textures/entity/hive/hub/game/hologram/sg",
+        "sg_plate": "textures/entity/hive/hub/game/hologram/sg_plate",
+        "sky": "textures/entity/hive/hub/game/hologram/sky",
+        "sky_plate": "textures/entity/hive/hub/game/hologram/sky_plate",
+        "snow": "textures/entity/hive/hub/game/hologram/snow",
+        "snow_plate": "textures/entity/hive/hub/game/hologram/snow_plate",
+        "wars": "textures/entity/hive/hub/game/hologram/wars",
+        "wars_plate": "textures/entity/hive/hub/game/hologram/wars_plate"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "format_version": "1.10.0",
+  "particle_effect": {
+    "components": {
+      "minecraft:emitter_lifetime_looping": {
+        "active_time": 3.3
+      },
+      "minecraft:emitter_rate_steady": {
+        "max_particles": 100,
+        "spawn_rate": 10
+      },
+      "minecraft:emitter_shape_disc": {
+        "direction": [
+          "math.random(-1,1)",
+          2,
+          1
+        ],
+        "radius": 0.3,
+        "surface_only": true
+      },
+      "minecraft:particle_appearance_billboard": {
+        "facing_camera_mode": "rotate_xyz",
+        "size": [
+          "variable.particle_age \u003e 0.5 ? (1-(variable.particle_age/variable.particle_lifetime))*0.1 : variable.particle_age*0.2",
+          "variable.particle_age \u003e 0.5 ? (1-(variable.particle_age/variable.particle_lifetime))*0.1 : variable.particle_age*0.2"
+        ],
+        "uv": {
+          "flipbook": {
+            "base_UV": [
+              16,
+              0
+            ],
+            "frames_per_second": 8,
+            "max_frame": 6,
+            "size_UV": [
+              8,
+              8
+            ],
+            "step_UV": [
+              8,
+              0
+            ]
+          },
+          "texture_height": 128,
+          "texture_width": 128
+        }
+      },
+      "minecraft:particle_appearance_tinting": {
+        "color": {
+          "gradient": {
+            "0.0": "#FFECECEC",
+            "1.5": "#FF878787"
+          },
+          "interpolant": "variable.particle_age"
+        }
+      },
+      "minecraft:particle_initial_speed": 1,
+      "minecraft:particle_lifetime_expression": {
+        "max_lifetime": 1
+      },
+      "minecraft:particle_motion_dynamic": {
+        "linear_acceleration": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    "description": {
+      "basic_render_parameters": {
+        "material": "particles_alpha",
+        "texture": "textures/particle/particles"
+      },
+      "identifier": "hivepets:babydragon_idle_dust"
+    }
+  }
+}

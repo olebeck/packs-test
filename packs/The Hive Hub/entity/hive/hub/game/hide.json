@@ -1,0 +1,31 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.hub.game.idle.particle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.hub.game.hide.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.game.hide"
+      },
+      "identifier": "hivehub:game_hide",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "idle": "hivehub:game_hide"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/hub/game/hide"
+      }
+    }
+  }
+}

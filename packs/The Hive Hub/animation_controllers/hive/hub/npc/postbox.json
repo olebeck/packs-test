@@ -1,0 +1,28 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.hub.npc.postbox": {
+      "states": {
+        "dance": {
+          "animations": [
+            "dance"
+          ],
+          "blend_transition": 0.2,
+          "transitions": [
+            {
+              "default": "query.distance_from_camera \u003e= 6"
+            }
+          ]
+        },
+        "default": {
+          "blend_transition": 0.2,
+          "transitions": [
+            {
+              "dance": "query.distance_from_camera \u003c 6"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "trapdoor": "controller.animation.hive.bridge.trapdoor"
+        }
+      ],
+      "animations": {
+        "open": "animation.hive.bridge.trapdoor.open",
+        "open_hold": "animation.hive.bridge.trapdoor.open.hold"
+      },
+      "geometry": {
+        "default": "geometry.hive.bridge.trapdoor"
+      },
+      "identifier": "hivebridge:trapdoor",
+      "materials": {
+        "blend": "slime_outer",
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.hive.bridge.trapdoor"
+      ],
+      "textures": {
+        "blue": "textures/entity/hive/bridge/trapdoor/blue",
+        "red": "textures/entity/hive/bridge/trapdoor/red"
+      }
+    }
+  }
+}

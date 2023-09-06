@@ -1,0 +1,14 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.murder.prop.idle": {
+      "states": {
+        "default": {
+          "animations": [
+            "idle"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

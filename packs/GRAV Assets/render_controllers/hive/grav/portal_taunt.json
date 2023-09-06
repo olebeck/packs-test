@@ -1,0 +1,33 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.grav.portal.taunt": {
+      "arrays": {
+        "geometries": {
+          "array.geometries": [
+            "Geometry.default"
+          ]
+        },
+        "textures": {
+          "array.textures": [
+            "Texture.clown",
+            "Texture.cool_shades",
+            "Texture.gg",
+            "Texture.haha",
+            "Texture.skull",
+            "Texture.sleepy"
+          ]
+        }
+      },
+      "geometry": "array.geometries[query.mark_variant]",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "array.textures[query.variant]"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.ctf.capture.zone": {
+      "states": {
+        "default": {
+          "animations": [
+            "idle",
+            "spawn"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

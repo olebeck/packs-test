@@ -1,0 +1,34 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "general": "controller.animation.hive.sg.cache_cow"
+        }
+      ],
+      "animations": {
+        "base_pose": "animation.hive.sg.base_pose"
+      },
+      "geometry": {
+        "default": "geometry.hive.sg.cache_cow"
+      },
+      "identifier": "hive:cache_cow",
+      "materials": {
+        "default": "hive_alpha"
+      },
+      "particle_effects": {
+        "green": "hive:totem_particle"
+      },
+      "render_controllers": [
+        "controller.render.hive.sg.cache_cow"
+      ],
+      "textures": {
+        "blue": "textures/hive/cow/blue",
+        "gold": "textures/hive/cow/gold",
+        "green": "textures/hive/cow/green",
+        "red": "textures/hive/cow/red"
+      }
+    }
+  }
+}

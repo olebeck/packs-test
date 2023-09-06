@@ -1,0 +1,30 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.dr.trap.falling.bricks": {
+      "arrays": {
+        "geometries": {
+          "array.geometries": [
+            "Geometry.default",
+            "Geometry.variant"
+          ]
+        },
+        "textures": {
+          "array.textures": [
+            "Texture.default",
+            "Texture.variant"
+          ]
+        }
+      },
+      "geometry": "array.geometries[query.mark_variant]",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "array.textures[query.variant]"
+      ]
+    }
+  }
+}

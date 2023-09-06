@@ -1,0 +1,44 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.mounts.hoverbike.idle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.mounts.hoverbike.idle",
+        "move_forward": "animation.hive.mounts.hoverbike.move.forward",
+        "move_left": "animation.hive.mounts.hoverbike.move.left",
+        "move_right": "animation.hive.mounts.hoverbike.move.right"
+      },
+      "geometry": {
+        "default": "geometry.hive.mounts.hoverbike"
+      },
+      "identifier": "hivemounts:hoverbike",
+      "materials": {
+        "default": "entity_alphatest",
+        "emissive": "entity_emissive"
+      },
+      "particle_effects": {
+        "booster": "hivepets:hoverbike_boosters"
+      },
+      "render_controllers": [
+        "controller.render.hive.mounts.hoverbike"
+      ],
+      "scripts": {
+        "pre_animation": [
+          "variable.turn_amount = Math.max(Math.min(query.yaw_speed * 0.6, 100), -100) / 100;",
+          "variable.turn_lerped = Math.lerp(variable.turn_lerped ?? 0, variable.turn_amount, 0.04);"
+        ]
+      },
+      "textures": {
+        "blue": "textures/entity/hive/mounts/hoverbike/blue",
+        "green": "textures/entity/hive/mounts/hoverbike/green",
+        "red": "textures/entity/hive/mounts/hoverbike/red",
+        "yellow": "textures/entity/hive/mounts/hoverbike/yellow"
+      }
+    }
+  }
+}

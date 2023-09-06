@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "BlockDrop Assets",
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ],
+    "name": "BlockDrop",
+    "uuid": "35a5ad71-ae90-3d30-ae02-2f09b24154a1",
+    "version": [
+      0,
+      0,
+      2
+    ]
+  },
+  "modules": [
+    {
+      "description": "BlockDrop Assets",
+      "type": "resources",
+      "uuid": "4b6ea855-60f1-419b-a3ba-c2a90572b385",
+      "version": [
+        0,
+        0,
+        2
+      ]
+    }
+  ]
+}

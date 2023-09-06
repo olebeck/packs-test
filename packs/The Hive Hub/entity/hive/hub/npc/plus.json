@@ -1,0 +1,31 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.hub.npc.plus"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.hub.npc.plus.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.npc.plus"
+      },
+      "identifier": "hivehub:npc_plus",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "plus": "hivehub:npc_plus"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/hub/npc/plus"
+      }
+    }
+  }
+}

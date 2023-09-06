@@ -1,0 +1,888 @@
+{
+  "anim_hive_notification_alpha_in": {
+    "anim_type": "alpha",
+    "duration": 0.5,
+    "easing": "linear",
+    "from": 0,
+    "next": "@hud.anim_hive_notification_alpha_wait",
+    "to": 1
+  },
+  "anim_hive_notification_alpha_out": {
+    "anim_type": "alpha",
+    "duration": 1,
+    "easing": "in_expo",
+    "from": 1,
+    "to": 0
+  },
+  "anim_hive_notification_alpha_wait": {
+    "anim_type": "wait",
+    "duration": 4,
+    "next": "@hud.anim_hive_notification_alpha_out"
+  },
+  "anim_hive_notification_offset_in": {
+    "anim_type": "offset",
+    "duration": 0.25,
+    "easing": "linear",
+    "from": [
+      0,
+      25
+    ],
+    "to": [
+      0,
+      0
+    ]
+  },
+  "anim_hive_notification_size_in": {
+    "anim_type": "size",
+    "duration": 0,
+    "easing": "linear",
+    "from": [
+      150,
+      "100%c + 5px"
+    ],
+    "next": "@hud.anim_hive_notification_size_wait",
+    "to": [
+      150,
+      "100%c + 5px"
+    ]
+  },
+  "anim_hive_notification_size_out": {
+    "anim_type": "size",
+    "destroy_at_end": "chat_grid_item",
+    "duration": 0.5,
+    "easing": "in_expo",
+    "from": [
+      150,
+      "100%c + 5px"
+    ],
+    "to": [
+      150,
+      0
+    ]
+  },
+  "anim_hive_notification_size_wait": {
+    "anim_type": "wait",
+    "duration": 5,
+    "next": "@hud.anim_hive_notification_size_out"
+  },
+  "chat_grid_item": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "control_name": "chat_background",
+        "operation": "replace",
+        "value": [
+          {
+            "chat_background": {
+              "$flag_notif": "§m§a",
+              "alpha": 0.7,
+              "anims": [
+                "@hud.anim_chat_bg_wait"
+              ],
+              "bindings": [
+                {
+                  "binding_collection_name": "chat_text_grid",
+                  "binding_condition": "once",
+                  "binding_name": "#chat_text",
+                  "binding_name_override": "#text",
+                  "binding_type": "collection"
+                },
+                {
+                  "binding_condition": "once",
+                  "binding_type": "view",
+                  "source_property_name": "(((#text - $flag_notif) = #text) or (not ((#text - '§h§i§v§e') = #text)))",
+                  "target_property_name": "#visible"
+                },
+                {
+                  "binding_condition": "once",
+                  "binding_type": "view",
+                  "source_property_name": "(((#text - $flag_notif) = #text) or (not ((#text - '§h§i§v§e') = #text)))",
+                  "target_property_name": "#enabled"
+                }
+              ],
+              "controls": [
+                {
+                  "chat_text@chat_label": {
+                    "anchor_from": "top_left",
+                    "anchor_to": "top_left",
+                    "offset": [
+                      2,
+                      2
+                    ]
+                  }
+                }
+              ],
+              "size": [
+                "100%",
+                "100%c + 4px"
+              ],
+              "texture": "textures/ui/Black",
+              "type": "image"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "chat_label": {
+    "$flag_notif": "§m§a",
+    "bindings": [
+      {
+        "binding_collection_name": "chat_text_grid",
+        "binding_condition": "once",
+        "binding_name": "#chat_text",
+        "binding_name_override": "#text",
+        "binding_type": "collection"
+      },
+      {
+        "binding_condition": "once",
+        "binding_type": "view",
+        "source_property_name": "(((#text - $flag_notif) = #text) or (not ((#text - '§h§i§v§e') = #text)))",
+        "target_property_name": "#visible"
+      },
+      {
+        "binding_condition": "once",
+        "binding_type": "view",
+        "source_property_name": "(((#text - $flag_notif) = #text) or (not ((#text - '§h§i§v§e') = #text)))",
+        "target_property_name": "#enabled"
+      }
+    ]
+  },
+  "hive_dynamic_hud_title_text": {
+    "controls": [
+      {
+        "title_check": {
+          "$flag_ui": "§m§a",
+          "bindings": [
+            {
+              "binding_name": "#hud_title_text_string",
+              "binding_type": "global"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "(((#hud_title_text_string - $flag_ui) = #hud_title_text_string)) or (not ((#hud_title_text_string - '§h§i§v§e') = #hud_title_text_string)))",
+              "target_property_name": "#visible"
+            }
+          ],
+          "controls": [
+            {
+              "hud_title_text@hud.hud_title_text": {}
+            }
+          ],
+          "size": [
+            "100%",
+            "100%"
+          ],
+          "type": "panel"
+        }
+      },
+      {
+        "hive_info_title_check": {
+          "$flag_ui": "§m§a",
+          "bindings": [
+            {
+              "binding_name": "#hud_title_text_string",
+              "binding_type": "global"
+            },
+            {
+              "binding_type": "view",
+              "source_property_name": "(not ((#hud_title_text_string - $flag_ui) = #hud_title_text_string))) and ((#hud_title_text_string - '§h§i§v§e') = #hud_title_text_string))",
+              "target_property_name": "#visible"
+            }
+          ],
+          "controls": [
+            {
+              "hud_title_text@hud.hive_info_hud_title_text": {}
+            }
+          ],
+          "size": [
+            "100%",
+            "100%"
+          ],
+          "type": "panel"
+        }
+      }
+    ],
+    "size": [
+      "100%",
+      "100%"
+    ],
+    "type": "panel"
+  },
+  "hive_info_hud_title_text": {
+    "alpha": "@hud.anim_title_text_alpha_in",
+    "anchor_from": "center",
+    "anchor_to": "center",
+    "controls": [
+      {
+        "title": {
+          "alpha": 0.8,
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "color": [
+            0.29,
+            0,
+            0.4235
+          ],
+          "controls": [
+            {
+              "modal_title": {
+                "anchor_from": "top_left",
+                "anchor_to": "top_left",
+                "bindings": [
+                  {
+                    "binding_condition": "once",
+                    "binding_name": "#hud_title_text_string",
+                    "binding_type": "global"
+                  }
+                ],
+                "color": "white",
+                "font_scale_factor": 2,
+                "font_type": "MinecraftTen",
+                "layer": 53,
+                "localize": false,
+                "offset": [
+                  10,
+                  1
+                ],
+                "shadow": false,
+                "size": [
+                  "default",
+                  20
+                ],
+                "text": "#hud_title_text_string",
+                "text_alignment": "left",
+                "type": "label"
+              }
+            },
+            {
+              "modal_title_shadow": {
+                "alpha": 0.21,
+                "anchor_from": "top_left",
+                "anchor_to": "top_left",
+                "bindings": [
+                  {
+                    "binding_condition": "once",
+                    "binding_name": "#hud_title_text_string",
+                    "binding_type": "global"
+                  }
+                ],
+                "color": "black",
+                "font_scale_factor": 2,
+                "font_type": "MinecraftTen",
+                "layer": 52,
+                "localize": false,
+                "offset": [
+                  11,
+                  2
+                ],
+                "shadow": false,
+                "size": [
+                  "default",
+                  21
+                ],
+                "text": "#hud_title_text_string",
+                "text_alignment": "left",
+                "type": "label"
+              }
+            }
+          ],
+          "keep_ratio": false,
+          "layer": 51,
+          "size": [
+            "100%",
+            30
+          ],
+          "texture": "textures/ui/hive/hive_rounded_corners",
+          "type": "image"
+        }
+      },
+      {
+        "bottom_padding": {
+          "anchor_from": "top_left",
+          "anchor_to": "top_left",
+          "size": [
+            "100%c",
+            5
+          ],
+          "type": "panel"
+        }
+      },
+      {
+        "body_wrapper": {
+          "alpha": 0.7,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "controls": [
+            {
+              "text": {
+                "anchor_from": "top_left",
+                "anchor_to": "top_left",
+                "bindings": [
+                  {
+                    "binding_name": "#hud_subtitle_text_string",
+                    "binding_type": "global"
+                  }
+                ],
+                "font_scale_factor": 1,
+                "layer": 52,
+                "line_padding": 5,
+                "offset": [
+                  10,
+                  10
+                ],
+                "shadow": false,
+                "size": [
+                  "100% - 20px",
+                  "default"
+                ],
+                "text": "#hud_subtitle_text_string",
+                "text_alignment": "left",
+                "type": "label"
+              }
+            },
+            {
+              "bottom_padding": {
+                "anchor_from": "top_left",
+                "anchor_to": "top_left",
+                "size": [
+                  "100%c",
+                  20
+                ],
+                "type": "panel"
+              }
+            }
+          ],
+          "keep_ratio": false,
+          "layer": 51,
+          "size": [
+            "100%",
+            "100%c"
+          ],
+          "texture": "textures/ui/hive/hive_rounded_corners",
+          "type": "image"
+        }
+      }
+    ],
+    "layer": 50,
+    "orientation": "vertical",
+    "propagate_alpha": true,
+    "size": [
+      "40%",
+      "100%c"
+    ],
+    "type": "stack_panel"
+  },
+  "hud_screen@common.base_screen": {
+    "$screen_content": "hud.hud_content"
+  },
+  "hud_tip_text@hud.item_name_text": {
+    "$offset|default": [
+      0,
+      "50%-78px"
+    ],
+    "offset": "$offset",
+    "variables": [
+      {
+        "$offset": [
+          0,
+          "50%-55px"
+        ],
+        "requires": "$pocket_screen"
+      }
+    ]
+  },
+  "inner_notification": {
+    "alpha": "@hud.anim_hive_notification_alpha_in",
+    "anchor_from": "top_right",
+    "anchor_to": "top_right",
+    "controls": [
+      {
+        "body_wrapper": {
+          "alpha": 0.7,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "controls": [
+            {
+              "icon_body": {
+                "controls": [
+                  {
+                    "icon_wrapper_wrapper": {
+                      "controls": [
+                        {
+                          "icon_wrapper": {
+                            "alpha": 0.4,
+                            "color": "black",
+                            "controls": [
+                              {
+                                "icon@hud.notification_icon_renderer": {}
+                              }
+                            ],
+                            "keep_ratio": false,
+                            "layer": 52,
+                            "offset": [
+                              0,
+                              1
+                            ],
+                            "size": [
+                              "100%c + 4px",
+                              "100%c + 4px"
+                            ],
+                            "texture": "textures/ui/hive/hive_rounded_corners",
+                            "type": "image"
+                          }
+                        }
+                      ],
+                      "size": [
+                        "100%c",
+                        "100%c"
+                      ],
+                      "type": "panel"
+                    }
+                  },
+                  {
+                    "spacer": {
+                      "size": [
+                        5,
+                        2.5
+                      ],
+                      "type": "panel"
+                    }
+                  },
+                  {
+                    "text_body": {
+                      "controls": [
+                        {
+                          "title_text_content_wrapper": {
+                            "controls": [
+                              {
+                                "title_text_content": {
+                                  "anchor_from": "top_left",
+                                  "anchor_to": "top_left",
+                                  "bindings": [
+                                    {
+                                      "binding_condition": "once",
+                                      "binding_name": "#jukebox_text",
+                                      "binding_type": "global"
+                                    },
+                                    {
+                                      "binding_condition": "once",
+                                      "binding_type": "view",
+                                      "source_property_name": "(('%.100s' * (#jukebox_text - ('%.16s' * #jukebox_text))) - '\t')",
+                                      "target_property_name": "#title_text"
+                                    }
+                                  ],
+                                  "font_scale_factor": 1.2,
+                                  "font_type": "MinecraftTen",
+                                  "layer": 52,
+                                  "line_padding": 0,
+                                  "offset": [
+                                    -0.5,
+                                    -1
+                                  ],
+                                  "shadow": false,
+                                  "size": [
+                                    "100%",
+                                    "default"
+                                  ],
+                                  "text": "#title_text",
+                                  "text_alignment": "left",
+                                  "type": "label"
+                                }
+                              },
+                              {
+                                "title_text_content_shadow": {
+                                  "alpha": 0.3,
+                                  "anchor_from": "top_left",
+                                  "anchor_to": "top_left",
+                                  "bindings": [
+                                    {
+                                      "binding_condition": "once",
+                                      "binding_name": "#jukebox_text",
+                                      "binding_type": "global"
+                                    },
+                                    {
+                                      "binding_condition": "once",
+                                      "binding_type": "view",
+                                      "source_property_name": "(('%.100s' * (#jukebox_text - ('%.16s' * #jukebox_text))) - '\t')",
+                                      "target_property_name": "#title_text"
+                                    }
+                                  ],
+                                  "font_scale_factor": 1.2,
+                                  "font_type": "MinecraftTen",
+                                  "layer": 51,
+                                  "line_padding": 0,
+                                  "offset": [
+                                    0.5,
+                                    0
+                                  ],
+                                  "shadow": false,
+                                  "size": [
+                                    "100%",
+                                    "default"
+                                  ],
+                                  "text": "#title_text",
+                                  "text_alignment": "left",
+                                  "type": "label"
+                                }
+                              }
+                            ],
+                            "size": [
+                              "100%",
+                              "100%cm"
+                            ],
+                            "type": "panel"
+                          }
+                        },
+                        {
+                          "main_text_content_wrapper": {
+                            "controls": [
+                              {
+                                "main_text_content": {
+                                  "anchor_from": "top_left",
+                                  "anchor_to": "top_left",
+                                  "bindings": [
+                                    {
+                                      "binding_condition": "once",
+                                      "binding_name": "#jukebox_text",
+                                      "binding_type": "global"
+                                    },
+                                    {
+                                      "binding_condition": "once",
+                                      "binding_type": "view",
+                                      "source_property_name": "(#jukebox_text - ('%.116s' * #jukebox_text))",
+                                      "target_property_name": "#content_text"
+                                    }
+                                  ],
+                                  "font_scale_factor": 1,
+                                  "layer": 52,
+                                  "offset": [
+                                    0,
+                                    -0.5
+                                  ],
+                                  "shadow": false,
+                                  "size": [
+                                    "100%",
+                                    "default"
+                                  ],
+                                  "text": "#content_text",
+                                  "text_alignment": "left",
+                                  "type": "label"
+                                }
+                              }
+                            ],
+                            "size": [
+                              "100%",
+                              "100%c"
+                            ],
+                            "type": "panel"
+                          }
+                        }
+                      ],
+                      "orientation": "vertical",
+                      "size": [
+                        "fill",
+                        "100%c"
+                      ],
+                      "type": "stack_panel"
+                    }
+                  }
+                ],
+                "offset": [
+                  0,
+                  3
+                ],
+                "orientation": "horizontal",
+                "size": [
+                  "100% - 6px",
+                  "100%cm + 7px"
+                ],
+                "type": "stack_panel"
+              }
+            }
+          ],
+          "keep_ratio": false,
+          "layer": 51,
+          "size": [
+            "100%",
+            "100%c"
+          ],
+          "texture": "textures/ui/hive/hive_rounded_corners",
+          "type": "image"
+        }
+      }
+    ],
+    "layer": 50,
+    "offset": "@hud.anim_hive_notification_offset_in",
+    "orientation": "vertical",
+    "propagate_alpha": true,
+    "size": "@hud.anim_hive_notification_size_in",
+    "type": "stack_panel"
+  },
+  "jukebox_popup_text": {
+    "visible": false
+  },
+  "notification": {
+    "$flag_notif": "§m§a",
+    "controls": [
+      {
+        "inner_notification@inner_notification": {
+          "bindings": [
+            {
+              "binding_condition": "once",
+              "binding_name": "#jukebox_text",
+              "binding_type": "global"
+            },
+            {
+              "binding_collection_name": "chat_text_grid",
+              "binding_condition": "once",
+              "binding_name": "#chat_text",
+              "binding_name_override": "#text",
+              "binding_type": "collection"
+            },
+            {
+              "binding_condition": "once",
+              "binding_type": "view",
+              "source_property_name": "((not ((#text - $flag_notif) = #text)) and (not ((#jukebox_text - '\t') = #jukebox_text)))",
+              "target_property_name": "#visible"
+            },
+            {
+              "binding_condition": "once",
+              "binding_type": "view",
+              "source_property_name": "(not ((#text - $flag_notif) = #text))",
+              "target_property_name": "#enabled"
+            }
+          ]
+        }
+      }
+    ],
+    "size": [
+      "100%",
+      "100%c"
+    ],
+    "type": "panel"
+  },
+  "notification_icon_renderer": {
+    "$flag_item": "§m§a",
+    "controls": [
+      {
+        "icon_text_content_wrapper": {
+          "bindings": [
+            {
+              "binding_condition": "once",
+              "binding_name": "#jukebox_text",
+              "binding_type": "global"
+            },
+            {
+              "binding_condition": "once",
+              "binding_type": "view",
+              "source_property_name": "(('%.16s' * #jukebox_text) - '\t')",
+              "target_property_name": "#icon_text"
+            },
+            {
+              "binding_condition": "once",
+              "binding_type": "view",
+              "source_property_name": "((#icon_text - $flag_item) = #icon_text)",
+              "target_property_name": "#visible"
+            }
+          ],
+          "controls": [
+            {
+              "text_icon": {
+                "bindings": [
+                  {
+                    "binding_condition": "once",
+                    "binding_name": "#jukebox_text",
+                    "binding_type": "global"
+                  },
+                  {
+                    "binding_condition": "once",
+                    "binding_type": "view",
+                    "source_property_name": "(('%.16s' * #jukebox_text) - '\t')",
+                    "target_property_name": "#icon_text"
+                  },
+                  {
+                    "binding_condition": "once",
+                    "binding_type": "view",
+                    "source_property_name": "((#icon_text - $flag_item) = #icon_text)",
+                    "target_property_name": "#visible"
+                  }
+                ],
+                "font_scale_factor": 1.5,
+                "layer": 52,
+                "offset": [
+                  -1,
+                  1
+                ],
+                "size": [
+                  "default",
+                  "default"
+                ],
+                "text": "#icon_text",
+                "text_alignment": "left",
+                "type": "label"
+              }
+            }
+          ],
+          "size": [
+            "100%c + 3px",
+            "100%c"
+          ],
+          "type": "panel"
+        }
+      },
+      {
+        "item_icon": {
+          "bindings": [
+            {
+              "binding_condition": "once",
+              "binding_name": "#jukebox_text",
+              "binding_type": "global"
+            },
+            {
+              "binding_condition": "once",
+              "binding_type": "view",
+              "source_property_name": "(('%.16s' * #jukebox_text) - '\t')",
+              "target_property_name": "#icon_text"
+            },
+            {
+              "binding_condition": "once",
+              "binding_type": "view",
+              "source_property_name": "(not ((#icon_text - $flag_item) = #icon_text))",
+              "target_property_name": "#visible"
+            },
+            {
+              "binding_condition": "once",
+              "binding_type": "view",
+              "source_property_name": "(#icon_text - $flag_item)",
+              "target_property_name": "#item_id_aux"
+            }
+          ],
+          "layer": 52,
+          "property_bag": {
+            "#item_id_aux": 3538944
+          },
+          "renderer": "inventory_item_renderer",
+          "size": [
+            "100%",
+            "100%"
+          ],
+          "type": "custom"
+        }
+      }
+    ],
+    "size": [
+      18,
+      18
+    ],
+    "type": "panel"
+  },
+  "root_panel": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "control_name": "hud_title_text_area",
+        "operation": "replace",
+        "value": [
+          {
+            "hud_title_text_area": {
+              "factory": {
+                "control_ids": {
+                  "hud_title_text": "hud_title_text@hud.hive_dynamic_hud_title_text"
+                },
+                "name": "hud_title_text_factory"
+              },
+              "type": "panel"
+            }
+          },
+          {
+            "notification_panel": {
+              "$flag_scoreboard_ui": "support.playhive.com/ui",
+              "$offset|default": [
+                -5,
+                5
+              ],
+              "anchor_from": "top_right",
+              "anchor_to": "top_right",
+              "controls": [
+                {
+                  "notification_tray": {
+                    "controls": [
+                      {
+                        "scoreboard_padding": {
+                          "$size|default": [
+                            0,
+                            20
+                          ],
+                          "bindings": [
+                            {
+                              "binding_name": "#objective_sidebar_name",
+                              "binding_type": "global"
+                            },
+                            {
+                              "binding_name": "#scoreboard_sidebar_size",
+                              "binding_type": "global"
+                            },
+                            {
+                              "binding_type": "view",
+                              "source_property_name": "(#objective_sidebar_name = $flag_scoreboard_ui and #scoreboard_sidebar_size \u003e 0)",
+                              "target_property_name": "#visible"
+                            }
+                          ],
+                          "size": "$size",
+                          "type": "panel",
+                          "variables": [
+                            {
+                              "$size": [
+                                0,
+                                25
+                              ],
+                              "requires": "$pocket_screen"
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "factory": {
+                      "control_ids": {
+                        "chat_item": "chat_item@hud.notification"
+                      },
+                      "max_children_size": 50,
+                      "name": "chat_item_factory"
+                    },
+                    "type": "stack_panel"
+                  }
+                }
+              ],
+              "max_size": [
+                "100%",
+                "100%"
+              ],
+              "offset": "$offset",
+              "size": [
+                "100%",
+                "100%c"
+              ],
+              "type": "panel",
+              "variables": [
+                {
+                  "$offset": [
+                    -5,
+                    15
+                  ],
+                  "requires": "$pocket_screen"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

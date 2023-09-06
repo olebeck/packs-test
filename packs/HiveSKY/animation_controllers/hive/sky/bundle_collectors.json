@@ -1,0 +1,19 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.sky.bundle.collectors": {
+      "states": {
+        "default": {
+          "animations": [
+            "golden_pegasus_idle"
+          ],
+          "particle_effects": [
+            {
+              "effect": "golden_pegasus"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

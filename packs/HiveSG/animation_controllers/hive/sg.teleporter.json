@@ -1,0 +1,44 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.sg.teleporter.general": {
+      "states": {
+        "default": {
+          "animations": [
+            "spin"
+          ]
+        }
+      }
+    },
+    "controller.animation.hive.sg.teleporter.particles": {
+      "states": {
+        "active": {
+          "particle_effects": [
+            {
+              "effect": "portal_active",
+              "locator": "portal"
+            }
+          ],
+          "transitions": [
+            {
+              "ambient": "!query.is_baby"
+            }
+          ]
+        },
+        "ambient": {
+          "particle_effects": [
+            {
+              "effect": "portal",
+              "locator": "portal"
+            }
+          ],
+          "transitions": [
+            {
+              "active": "query.is_baby"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

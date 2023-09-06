@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "HiveCommon",
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ],
+    "name": "HiveCommon",
+    "uuid": "4a166ef1-d780-3b01-b04e-0527b3aff405",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "HiveCommon",
+      "type": "resources",
+      "uuid": "3ff37d6f-2869-4046-9cf0-f257b0e852a0",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

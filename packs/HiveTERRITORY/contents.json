@@ -1,0 +1,296 @@
+{
+  "content": [
+    {
+      "key": "IJJTYIELJE2BQ3BZUBIQK3TZQI6L4EAL",
+      "path": "models/entity/hive/territory/powerups/golden/powerup_golden_rain_of_pain.json"
+    },
+    {
+      "key": "GWVNPGGPEID374TUOIO7A4GARKPU2UVY",
+      "path": "models/entity/hive/territory/projectiles/projectile_default_egg.json"
+    },
+    {
+      "key": "JVVUKJF2TKI5CVTV7CA6P5Y2JZUXV5XD",
+      "path": "entity/hive/territory/powerup/powerup_knockback_projectile.json"
+    },
+    {
+      "key": "2MIUJFKJONXK3FG6LMGEVVAJ5YGTFWRD",
+      "path": "models/entity/hive/territory/powerups/powerup_iron_man.json"
+    },
+    {
+      "key": "QSNYX5YA4SJ5OCQUFZMEVS3ZKYAX4I6X",
+      "path": "models/entity/hive/territory/powerups/golden/powerup_golden_territory_expansion.json"
+    },
+    {
+      "key": "2WBEVAFRENH6HIOINHN5XXSZ3RTC2GOC",
+      "path": "textures/entity/hive/territory/powerups/golden/powerup_golden_territory_expansion.png"
+    },
+    {
+      "key": "D7DT4PPTSLJLRAEFUJ7M3E4LJMNIRCGU",
+      "path": "textures/entity/hive/territory/powerups/powerup_refill_snow.png"
+    },
+    {
+      "key": "U6CKZTNRU4VP5ZFQNDWP4AWA434HJAFG",
+      "path": "textures/entity/hive/territory/projectiles/powerup/projectile_blindness_powerup.png"
+    },
+    {
+      "key": "3K67ESXTWFYWK76N5GIX3CU6DGCVTRWB",
+      "path": "textures/entity/hive/territory/projectiles/projectile_default_egg.png"
+    },
+    {
+      "key": "4EJBPWT7WILGTHBR3N5VO623UFT7U3M6",
+      "path": "textures/entity/hive/territory/projectiles/projectile_earth.png"
+    },
+    {
+      "key": "A2LMPWAUZ4IVQ7OXFY3XKJ2X3WMOOG3D",
+      "path": "entity/hive/territory/powerup/golden/powerup_golden_territory_expansion.json"
+    },
+    {
+      "key": "RQLWFM57QJ53N5CVHQXTWBT6SWZXV32F",
+      "path": "entity/hive/territory/powerup/golden/powerup_golden_destruction.json"
+    },
+    {
+      "key": "LDVC2ZOMMZCMCM7V2VGMSPVANJD4EOBC",
+      "path": "entity/hive/territory/powerup/powerup_explosive_projectile.json"
+    },
+    {
+      "key": "LPHPBPLQXE6BW7OG62IWEN7KJNLBSG6F",
+      "path": "textures/entity/hive/territory/powerups/powerup_explosive_projectile.png"
+    },
+    {
+      "key": "TEQTEKI2VWOA6JK4BL7B5OG264OSHKAT",
+      "path": "models/entity/hive/territory/projectiles/projectile_puzzle_cube.json"
+    },
+    {
+      "key": "4UZATJZOPCE4GZNOPEEWACEKBM47OQQ3",
+      "path": "textures/entity/hive/territory/projectiles/projectile_grass_block.png"
+    },
+    {
+      "key": "DUDWAOSUVRW724HDK2QNH6JIMSQDI7WF",
+      "path": "render_controllers/hive/territory/powerup.json"
+    },
+    {
+      "key": "POZIRS3XPZ5KK52TYZA2IV4MJJNIK5JU",
+      "path": "models/entity/hive/territory/powerups/powerup_refill_ground.json"
+    },
+    {
+      "key": "EYPZGNP45KLPIAYOVDDX6JWHSZEXU2BQ",
+      "path": "models/entity/hive/territory/projectiles/powerup/projectile_knockback_powerup.json"
+    },
+    {
+      "key": "DFL2DZ4YMYDJGJA3CEGWGD5WDYBMTGZ5",
+      "path": "models/entity/hive/territory/powerups/powerup_blindness_projectile.json"
+    },
+    {
+      "key": "OKJGNZU3CCEPRS7ZNQPYGGDXONRTE632",
+      "path": "models/entity/hive/territory/projectiles/projectile_cupcake.json"
+    },
+    {
+      "key": "QVHGJXBDIFGXVCUOF4ILXLH334TLPPXP",
+      "path": "models/entity/hive/territory/powerups/powerup_imposter.json"
+    },
+    {
+      "key": "JSQMPHLD4HXZQC6THANFCBRDOMGEP7R6",
+      "path": "models/entity/hive/territory/powerups/powerup_explosive_projectile.json"
+    },
+    {
+      "key": "DL347LYJUYZIDRKXXGDQMWKWZ76DHSYL",
+      "path": "textures/entity/hive/territory/powerups/powerup_iron_man.png"
+    },
+    {
+      "key": "JQIJPUZZNYYNI6Z4X6XANHSS7KVIJO7X",
+      "path": "models/entity/hive/territory/powerups/powerup_knockback_projectile.json"
+    },
+    {
+      "key": "RTTDMCNCREXSDBDJVG5C7JOBQXZY35Y3",
+      "path": "textures/entity/hive/territory/powerups/powerup_imposter.png"
+    },
+    {
+      "key": "4Q6S6I5CU6ABUXNK6AJ37I343TZ2FK2L",
+      "path": "animations/hive/territory/powerup_imposter.json"
+    },
+    {
+      "key": "EXXPSBQLKZJFKULPC7ROIRWBQGV4JWEU",
+      "path": "animations/hive/territory/projectile.json"
+    },
+    {
+      "key": "N522XPLZAKRKSMKNMEHW5VBCEXOM7FCU",
+      "path": "animation_controllers/hive/territory/projectile.json"
+    },
+    {
+      "key": "ORDA7RNQIRN2CCLLIYZ22JSGXONHGJGM",
+      "path": "entity/hive/territory/projectile.json"
+    },
+    {
+      "key": "LFQKWVBFPA3FAAQIL4KMFJGFTHALIFPZ",
+      "path": "models/entity/hive/territory/projectiles/powerup/projectile_explosive_powerup.json"
+    },
+    {
+      "key": "B6SKFTYZLJSUMDXKBH6Q577AODFC5JIX",
+      "path": "animations/hive/territory/golden/powerup_golden_territory_expansion.json"
+    },
+    {
+      "key": "URUVJ4CG4CGMD3L5ZGCITWYBTZAJLBWH",
+      "path": "textures/entity/hive/territory/projectiles/projectile_eight_ball.png"
+    },
+    {
+      "key": "Z2S5R2KVAPXAMPE6QJMIVRE4UKZQ2XEI",
+      "path": "entity/hive/territory/powerup/powerup_refill_snow.json"
+    },
+    {
+      "key": "746JXXKCWOF37UWQIUWX6KP3TJ4LIFOF",
+      "path": "models/entity/hive/territory/projectiles/projectile_apple.json"
+    },
+    {
+      "key": "BM3M2WERH75JFA7J74DWHKYMZXFDQWSU",
+      "path": "textures/entity/hive/territory/projectiles/projectile_beach_ball.png"
+    },
+    {
+      "key": "Z6GAI6TNKK2VXNFPKZIGX5TDQYZUL65G",
+      "path": "animations/hive/territory/golden/powerup_golden_destruction.json"
+    },
+    {
+      "key": "BGYRI3IGUOISOIJAUBZ5MXVHHJLLP7WD",
+      "path": "models/entity/hive/territory/projectiles/projectile_eight_ball.json"
+    },
+    {
+      "key": "5ANHQECETTDV3PMRWFA2CN4TWGXNEYDF",
+      "path": "models/entity/hive/territory/projectiles/projectile_beach_ball.json"
+    },
+    {
+      "key": "K7NIDEK75EMJEZ44VZK5QDNXY32OPS7V",
+      "path": "textures/entity/hive/territory/powerups/powerup_diamond_dave.png"
+    },
+    {
+      "key": "4L2WWUQGXKM5OYDLE757L737N623SG2I",
+      "path": "textures/entity/hive/territory/projectiles/projectile_apple.png"
+    },
+    {
+      "key": "6R2NXEWTGGUW33Z5FDCKMWZU433Y3BLX",
+      "path": "render_controllers/hive/territory/powerup_iron_man.json"
+    },
+    {
+      "key": "KAQY6DEBLXWKQNZUMNKOHMUYFU4N2G4N",
+      "path": "entity/hive/territory/powerup/golden/powerup_golden_rain_of_pain.json"
+    },
+    {
+      "key": "7BM62EFKU25G33SPQQK7KFTBYDWPIMRV",
+      "path": "textures/entity/hive/territory/projectiles/powerup/projectile_explosive_powerup.png"
+    },
+    {
+      "key": "HXA7YGPXCBZ6PWIW2NRKR6HVVPU2ZXY7",
+      "path": "textures/entity/hive/territory/powerups/powerup_blindness_projectile.png"
+    },
+    {
+      "key": "DI2IYCF35K6SUZE3TQHVKH3SGGF7JPQ4",
+      "path": "textures/entity/hive/territory/powerups/golden/powerup_golden_destruction.png"
+    },
+    {
+      "key": "AMP64M74MABZJP3TNJCZ6DQG3TBIPLQ4",
+      "path": "textures/entity/hive/territory/projectiles/powerup/projectile_knockback_powerup.png"
+    },
+    {
+      "key": "ZY6UC3HPHN435GRNKSZMMDHI535NC72Z",
+      "path": "models/entity/hive/territory/powerups/golden/powerup_golden_destruction.json"
+    },
+    {
+      "key": "IJPT36GYWDNVKNPLIQRNPOGOU4QI5WVZ",
+      "path": "models/entity/hive/territory/powerups/powerup_refill_snow.json"
+    },
+    {
+      "key": "E6JIG4VTLV72C6WZHJ5HYC532MW7XE2F",
+      "path": "animations/hive/territory/powerup_knockback_projectile.json"
+    },
+    {
+      "key": "EH6VSFYQ4VIT4EM5DWE7QE3JV3UEORKO",
+      "path": "models/entity/hive/territory/projectiles/projectile_grass_block.json"
+    },
+    {
+      "key": "EVEA6RNRFXAYWBEWEMJ2IXY7MVAHQCIG",
+      "path": "textures/entity/hive/territory/projectiles/projectile_cupcake.png"
+    },
+    {
+      "key": "ATN6VGJW4DLQO7PMLOWB37XSXRK6SLJH",
+      "path": "textures/entity/hive/territory/projectiles/projectile_cheese_burger.png"
+    },
+    {
+      "key": "D4Q6R6PLK5OEOONE7NT7RJAFPR2WTGPT",
+      "path": "animations/hive/territory/golden/powerup_golden_rain_of_pain.json"
+    },
+    {
+      "key": "RQDEMD3RQRKYFZOCONFDE6HA7DBMHLP7",
+      "path": "animations/hive/territory/powerup_refill_snow.json"
+    },
+    {
+      "key": "CPAMPPMVNVED7SX6E67SOGVHIKT5VAXR",
+      "path": "animation_controllers/hive/territory/powerup.json"
+    },
+    {
+      "key": "B2ENF6UPS7HAX2XOXY5VJ3K2U7JS4DJW",
+      "path": "entity/hive/territory/powerup/powerup_refill_ground.json"
+    },
+    {
+      "key": "QU4VMORYX56HK5IXHKXS27H3MEMKC4MV",
+      "path": "models/entity/hive/territory/projectiles/powerup/projectile_blindness_powerup.json"
+    },
+    {
+      "key": "ORDIIBY64SHEVMI6AHEXRD5JZUGCBKX7",
+      "path": "entity/hive/territory/powerup/powerup_iron_man.json"
+    },
+    {
+      "key": "FFKAZHVPOC2IT4C7AEH4H2V2QXXIJS2F",
+      "path": "animations/hive/territory/powerup.json"
+    },
+    {
+      "key": "YQRR35INNFIRMLPOV3K6PF3SXPWYTUCQ",
+      "path": "animations/hive/territory/powerup_explosive_projectile.json"
+    },
+    {
+      "key": "ZP2H66DWG7R6VV7FV5KOG3434X6O5PY6",
+      "path": "animations/hive/territory/powerup_blindness_projectile.json"
+    },
+    {
+      "key": "KC3LAQWLMAQLCZYM6FKLZNEPRN43X2OB",
+      "path": "entity/hive/territory/powerup/powerup_blindness_projectile.json"
+    },
+    {
+      "key": "JWZEAUPHQHR55HDVLQJ6BJ5PZS6UNZZS",
+      "path": "models/entity/hive/territory/projectiles/projectile_cheese_burger.json"
+    },
+    {
+      "key": "TWPDFAZ3BTFORL5CBMDZMVX5MPIFPCNV",
+      "path": "textures/entity/hive/territory/powerups/golden/powerup_golden_rain_of_pain.png"
+    },
+    {
+      "key": "PLHJAWLDY7U5FPTQJAAIZC3MNQJEYAYN",
+      "path": "entity/hive/territory/powerup/powerup_imposter.json"
+    },
+    {
+      "key": "NQXD62DOQFONEQDPI7XOKTVBWDLWG6GB",
+      "path": "textures/entity/hive/territory/projectiles/projectile_puzzle_cube.png"
+    },
+    {
+      "key": "CSB7WIJGH7FDIDM2SPQLGRYNGIGCCIZG",
+      "path": "animations/hive/territory/powerup_iron_man.json"
+    },
+    {
+      "key": "YTKN36WHBSQT5YC6RBHXPLNNXZ34R6HZ",
+      "path": "render_controllers/hive/territory/projectile.json"
+    },
+    {
+      "key": "TYVD76TJTL434TOWD3DJ3Q2CQHH2TUAB",
+      "path": "textures/entity/hive/territory/powerups/powerup_knockback_projectile.png"
+    },
+    {
+      "key": "ZTYO3NFR3OOLUJNLH2M7Z5XPMN2RQLNN",
+      "path": "animations/hive/territory/powerup_refill_ground.json"
+    },
+    {
+      "key": "OI3ZC3JMCONLQHVWVE2HYJFRXQJSXG62",
+      "path": "textures/entity/hive/territory/powerups/powerup_refill_ground.png"
+    },
+    {
+      "key": "7NSRI3XTK4HCUSVRDDR34XA6NXKUSXCY",
+      "path": "models/entity/hive/territory/projectiles/projectile_earth.json"
+    }
+  ]
+}

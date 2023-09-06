@@ -1,0 +1,28 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animations": {
+        "default": "animation.hive.grav.forcefield.default"
+      },
+      "geometry": {
+        "default": "geometry.hive.grav.forcefield"
+      },
+      "identifier": "hivegrav:forcefield",
+      "materials": {
+        "default": "hive_grav_forcefield"
+      },
+      "render_controllers": [
+        "controller.render.hive.grav.forcefield"
+      ],
+      "scripts": {
+        "animate": [
+          "default"
+        ]
+      },
+      "textures": {
+        "default": "textures/entity/hive/grav/forcefield"
+      }
+    }
+  }
+}

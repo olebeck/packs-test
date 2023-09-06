@@ -1,0 +1,25 @@
+{
+  "animations": {
+    "animation.hive.dr.trap.log.spin": {
+      "animation_length": 1,
+      "bones": {
+        "mass": {
+          "rotation": {
+            "0.0": [
+              0,
+              0,
+              0
+            ],
+            "1": [
+              360,
+              0,
+              0
+            ]
+          }
+        }
+      },
+      "loop": true
+    }
+  },
+  "format_version": "1.8.0"
+}

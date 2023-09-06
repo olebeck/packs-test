@@ -1,0 +1,122 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "bones": [
+        {
+          "name": "root",
+          "pivot": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                -3,
+                0,
+                -3
+              ],
+              "size": [
+                6,
+                38,
+                6
+              ],
+              "uv": [
+                0,
+                37
+              ]
+            },
+            {
+              "origin": [
+                -45,
+                2,
+                -1
+              ],
+              "size": [
+                42,
+                34,
+                2
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            },
+            {
+              "mirror": true,
+              "origin": [
+                -45,
+                -23,
+                0
+              ],
+              "size": [
+                43,
+                25,
+                0
+              ],
+              "uv": [
+                27,
+                71
+              ]
+            },
+            {
+              "origin": [
+                -8,
+                10,
+                -15
+              ],
+              "size": [
+                0,
+                15,
+                27
+              ],
+              "uv": [
+                0,
+                69
+              ]
+            },
+            {
+              "mirror": true,
+              "origin": [
+                -39,
+                22,
+                -12
+              ],
+              "size": [
+                0,
+                15,
+                27
+              ],
+              "uv": [
+                0,
+                85
+              ]
+            }
+          ],
+          "name": "flag",
+          "parent": "root",
+          "pivot": [
+            0,
+            24,
+            0
+          ]
+        }
+      ],
+      "description": {
+        "identifier": "geometry.hive.sky.island.flag.pirate_tavern",
+        "texture_height": 128,
+        "texture_width": 128,
+        "visible_bounds_height": 5,
+        "visible_bounds_offset": [
+          0,
+          1.5,
+          0
+        ],
+        "visible_bounds_width": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.wars.upgrade.bot.idle": {
+      "states": {
+        "default": {
+          "blend_transition": 0.2,
+          "transitions": [
+            {
+              "idleDance": "variable.idleRandom == 0"
+            }
+          ]
+        },
+        "idleDance": {
+          "animations": [
+            "idle2"
+          ],
+          "blend_transition": 0.2,
+          "transitions": [
+            {
+              "default": "query.all_animations_finished"
+            }
+          ]
+        }
+      }
+    },
+    "controller.animation.hive.wars.upgrade.bot.idleBase": {
+      "states": {
+        "default": {
+          "animations": [
+            "idle1"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

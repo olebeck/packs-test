@@ -1,0 +1,37 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.ctf.beacon": {
+      "states": {
+        "capture": {
+          "animations": [
+            "capture"
+          ]
+        },
+        "default": {
+          "transitions": [
+            {
+              "pickup": "query.mark_variant == 0"
+            },
+            {
+              "drop": "query.mark_variant == 1"
+            },
+            {
+              "capture": "query.mark_variant == 2"
+            }
+          ]
+        },
+        "drop": {
+          "animations": [
+            "drop"
+          ]
+        },
+        "pickup": {
+          "animations": [
+            "pickup"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

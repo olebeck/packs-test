@@ -1,0 +1,33 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.hub.game.idle.particle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.hub.game.bridge.idle"
+      },
+      "geometry": {
+        "female": "geometry.hive.hub.game.bridge",
+        "male": "geometry.hive.hub.game.bridge"
+      },
+      "identifier": "hivehub:game_bridge",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "idle": "hivehub:game_bridge"
+      },
+      "render_controllers": [
+        "controller.render.hive.hub.game.male.female"
+      ],
+      "textures": {
+        "female": "textures/entity/hive/hub/game/bridge/female",
+        "male": "textures/entity/hive/hub/game/bridge/male"
+      }
+    }
+  }
+}

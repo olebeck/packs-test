@@ -1,0 +1,284 @@
+{
+  "content": [
+    {
+      "key": "H7PPWSAECTKM6ULTNGJBBKI5MP5RZSCL",
+      "path": "entity/hive/party/color_bomb.json"
+    },
+    {
+      "key": "57KTGJR23IF6A3BPGGM2HNNXKP2EUOEB",
+      "path": "textures/entity/hive/party/screen/background_waiting.png"
+    },
+    {
+      "key": "OC72KS5X5W56SUWNE7GHIMDHRJEBU7UJ",
+      "path": "render_controllers/hive/party/elimination_beacon.json"
+    },
+    {
+      "key": "K6SP4EOJLJEP62ROU2LSBV7XFXUA36YH",
+      "path": "animations/hive/party/sign.json"
+    },
+    {
+      "key": "4QUWGVHBOWKADZHO2DHNG4JFMBLUHU4K",
+      "path": "models/entity/hive/party/studio_light/beam.json"
+    },
+    {
+      "key": "NJPIQTRL633VSAJQA73KKA5O7MBWVGEQ",
+      "path": "sounds/hive/party/sfx/ticking.ogg"
+    },
+    {
+      "key": "DCAPUSJBWZ7FPFB6IAS2ELXHEWTRCL6Q",
+      "path": "animations/hive/party/studio_light.json"
+    },
+    {
+      "key": "PGHRBFBZO22QE5UKPDSOWME5JQ5IFEIV",
+      "path": "textures/entity/hive/party/screen/frame.png"
+    },
+    {
+      "key": "CGGXQ4REK6ATCSCGP2K73MGCOXEEULZU",
+      "path": "models/entity/hive/party/screen/frame.json"
+    },
+    {
+      "key": "6AOGLICANAJO2VJRBTQRODFBLBX7RAPQ",
+      "path": "sounds/sound_definitions.json"
+    },
+    {
+      "key": "MUDM44F3FXMWU5Y3S5ZKEW5YMPBIP66C",
+      "path": "textures/items/hive/party/color_teleporter.png"
+    },
+    {
+      "key": "JOCHBIIFITBJEJVLSFOYCWDQ7JZQWDB3",
+      "path": "models/entity/hive/party/color_bomb.json"
+    },
+    {
+      "key": "2PTWP3DOFBZF4BXADL7ZTGIHXTHPO6KK",
+      "path": "textures/entity/hive/party/screen/background_lobby.png"
+    },
+    {
+      "key": "IAX2DP47Z7IQKV2LN7YG6SGTZLK76SQR",
+      "path": "entity/hive/party/color_tunnel.json"
+    },
+    {
+      "key": "MYSRQJWCRYJO7BER6DPNOQDOAQQAW5TK",
+      "path": "items/hive/party/speed_potion.json"
+    },
+    {
+      "key": "3MCMNSSKRE4A5JWLFTN3KWRC6WXOB5QF",
+      "path": "render_controllers/hive/party/studio_light_beam.json"
+    },
+    {
+      "key": "23QGCEEMKNQXLXQFGWDBHOC6STJNCSBO",
+      "path": "models/entity/hive/party/powerup.json"
+    },
+    {
+      "key": "T3AEETQOKKC35SK7H643RCMLQWN47ULU",
+      "path": "textures/entity/hive/party/studio_light/light.png"
+    },
+    {
+      "key": "DIYTJPMIKI2AIZ4EUDNMNXVH2HAJ55J5",
+      "path": "sounds/hive/party/sfx/powerup_collect.ogg"
+    },
+    {
+      "key": "XLEQGMFCZVRH32S3AKQ54GS5KIK4EJ53",
+      "path": "models/entity/hive/party/screen/visualizer.json"
+    },
+    {
+      "key": "KL5V2QUHVGEUESH7L6NDPLZRTUZLBV4L",
+      "path": "items/hive/party/color_teleporter.json"
+    },
+    {
+      "key": "2WDXYN6SAFC7RDXOOTXRRKZSXKJSBTDL",
+      "path": "sounds/hive/party/sfx/intro.ogg"
+    },
+    {
+      "key": "DPTSEICOWZYK4DKYJSYIQJXGGI7HRTAW",
+      "path": "animations/hive/party/color_tunnel.json"
+    },
+    {
+      "key": "PJA5LLU5ZWCQJEWPGVIMLPUNSUQ6JI73",
+      "path": "textures/items/hive/party/speed_potion.png"
+    },
+    {
+      "key": "3RHVZRSLLAPDFWVPK3STOVMVAFV5YNWN",
+      "path": "models/entity/hive/party/sign.json"
+    },
+    {
+      "key": "JJZ5LJX2YAO7HTFUYDUQZXS44GNXHSGK",
+      "path": "models/entity/hive/party/color_tunnel.json"
+    },
+    {
+      "key": "NMYZA2ZLLEYTVHBLZKPNXFQNTINWXUDO",
+      "path": "textures/items/hive/party/jump_boost_potion.png"
+    },
+    {
+      "key": "MUXS22GLZC5GZRNDKSNJFP4HKOMBA24R",
+      "path": "sounds/hive/party/sfx/stop.ogg"
+    },
+    {
+      "key": "YHHLIX2XFLPR47ZCU2QQE2YIYUCWIZE4",
+      "path": "animations/hive/party/elimination_beacon.json"
+    },
+    {
+      "key": "NOQBPI5C2XPHZOJEQ5M6OYN2YNXPVIAZ",
+      "path": "textures/entity/hive/party/studio_light/beam.png"
+    },
+    {
+      "key": "IRX3X7GNHCZ4KE3MYYPNLDGEX5WVPPG7",
+      "path": "textures/items/hive/party/settings.png"
+    },
+    {
+      "key": "Q7QBUW3MFCPFQDX7N3NWY7YFBI3SGBUJ",
+      "path": "render_controllers/hive/party/color_tunnel.json"
+    },
+    {
+      "key": "YW7J5TBZZZA6QXWRFU3O4VDDGAYM7REZ",
+      "path": "sounds/hive/party/sfx/color_explode.ogg"
+    },
+    {
+      "key": "AUKLC3ZH5COSNDE5SBBH4VYRRITE2JK5",
+      "path": "animations/hive/party/color_bomb.json"
+    },
+    {
+      "key": "JWNHYHULNECRJI52KHUQGEG6NKJJFHN3",
+      "path": "models/entity/hive/party/screen/reveal.json"
+    },
+    {
+      "key": "5OUXZSQVJEFJQR3EXY2YNJGL2JMUGP65",
+      "path": "sounds/hive/party/sfx/beep.ogg"
+    },
+    {
+      "key": "SVB6FIEOKJKS7Q3QZUPKTWGNJKSTXE3S",
+      "path": "textures/entity/hive/party/color_bomb.png"
+    },
+    {
+      "key": "EPNPXQOBQZSLRBQ2WCZAYPSZ2UAELQWM",
+      "path": "textures/entity/hive/party/screen/background_reveal.png"
+    },
+    {
+      "key": "TKCPZAF5T77SZBTUZGUM4SK5MRRQKM5Y",
+      "path": "textures/item_texture.json"
+    },
+    {
+      "key": "AVM7YT5DIVIKBA7JHUFPJIXC4IANHYSB",
+      "path": "items/hive/party/settings.json"
+    },
+    {
+      "key": "LOZLBDXD2YIUUK6W7UNWAXNNF227GNVB",
+      "path": "materials/entity.material"
+    },
+    {
+      "key": "E7TVVTOCQRSQYXSB6V2B7JYXJKDYNUZQ",
+      "path": "sounds/hive/party/sfx/elimination_sound/8bit.ogg"
+    },
+    {
+      "key": "DFBRXPLXTZLRYX3CQBD5RODVA3Y6BCCF",
+      "path": "entity/hive/party/elimination_beacon.json"
+    },
+    {
+      "key": "QRYKSOTXMNH5X4FB6CKIOQD5QWWBGZHE",
+      "path": "models/entity/hive/party/screen/screen.json"
+    },
+    {
+      "key": "UURKSG2AKGNK3CDFT735PCRM2L34RBUK",
+      "path": "textures/entity/hive/party/elimination_beacon.png"
+    },
+    {
+      "key": "ZM4SH3EEH3QXMBWE555UEUEVZ7LHCYGR",
+      "path": "textures/entity/hive/party/color_tunnel.png"
+    },
+    {
+      "key": "J4YN52TLO4SPXPPBF2O5OBO5R5PNROAX",
+      "path": "models/entity/hive/party/elimination_beacon.json"
+    },
+    {
+      "key": "KGW4O6M3OFM4QH3H2GDIZEG3HTP6V2M2",
+      "path": "textures/entity/hive/party/screen/visualizer.png"
+    },
+    {
+      "key": "5UUC5SIFH4FNKLWYNW3ZC5ANSKHKKASN",
+      "path": "models/entity/hive/party/studio_light/light.json"
+    },
+    {
+      "key": "3ECVQLVDIRJJE2WQHPQ6CQ2PVXHL3S4F",
+      "path": "render_controllers/hive/party/powerup.json"
+    },
+    {
+      "key": "OODO2W3OXGLUTVVRHRXB3JUBZUP3OLTR",
+      "path": "items/hive/party/leap_feather.json"
+    },
+    {
+      "key": "C2PYHEL4GJT5VGJXTHA6JT6JXEOYFHC6",
+      "path": "textures/entity/hive/party/screen/background_floor_removed.png"
+    },
+    {
+      "key": "MNUHRN4NQSQLANPYSHUIRUJSDQ334VFJ",
+      "path": "textures/entity/hive/party/screen/background_visualizer.png"
+    },
+    {
+      "key": "6RX2EOJKV6FCGTUWKMKHFLJW3QTOY5NM",
+      "path": "textures/entity/hive/party/screen/background_game_over.png"
+    },
+    {
+      "key": "XOTNSFKT36VL4JMIM3FDXAMJPGRUZHE6",
+      "path": "textures/entity/hive/party/sign.png"
+    },
+    {
+      "key": "BKOSMDAESB765GQ6QWXQLB43ELKAPDI4",
+      "path": "animation_controllers/hive/party/screen.json"
+    },
+    {
+      "key": "EGRD7DRCVSWZMPLTHWEF7VY467XMUONY",
+      "path": "entity/hive/party/screen.json"
+    },
+    {
+      "key": "TWPXM65I6J4I3OLQBFX7V6WL3MLTL657",
+      "path": "textures/entity/hive/party/powerup.png"
+    },
+    {
+      "key": "F3IXN3A7LXBZOXSUEQTZRXF3QQC6J452",
+      "path": "entity/hive/party/powerup.json"
+    },
+    {
+      "key": "SN66YRYA7H4POLERMZWBWNTQ7X3C3AJ6",
+      "path": "animations/hive/party/powerup.json"
+    },
+    {
+      "key": "M6RZGHTZLF642QVZPCEKW5BXCFCTVQ56",
+      "path": "textures/items/hive/party/leap_feather.png"
+    },
+    {
+      "key": "ME47RO3V4YIXYN47QJFGMSMNQZ2CQR75",
+      "path": "entity/hive/party/sign.json"
+    },
+    {
+      "key": "HXWDJ76CZKTAIWZC52SMFJNS2PVYE5FK",
+      "path": "sounds/hive/party/sfx/elimination_sound/oof.ogg"
+    },
+    {
+      "key": "RQOTELZPDCT2N4TINEUEHGRDTMSQMY3V",
+      "path": "sounds/hive/party/sfx/elimination_sound/default.ogg"
+    },
+    {
+      "key": "R6YEMDIQFDEHI63UOO3ZLPZQ6LF765OD",
+      "path": "textures/entity/hive/party/screen/background_warmup.png"
+    },
+    {
+      "key": "V6DE2DSPP4URQBVUM6YGUHBANASU7BLW",
+      "path": "render_controllers/hive/party/screen.json"
+    },
+    {
+      "key": "XP75N4EYY4FAPHD3MOE2JUD7ECCNIDCK",
+      "path": "animations/hive/party/screen.json"
+    },
+    {
+      "key": "TID5QXLQGAYGATIYONKMMM3CV2PVBRA7",
+      "path": "entity/hive/party/studio_light.json"
+    },
+    {
+      "key": "INZ6WFP6HY3XLHZRHJ25UOCDOUSK5RIK",
+      "path": "items/hive/party/jump_boost_potion.json"
+    },
+    {
+      "key": "VYRQYJ2TMKT2HQH43Y53KAVA46LAQPA3",
+      "path": "fogs/hive/party/arena.json"
+    }
+  ]
+}

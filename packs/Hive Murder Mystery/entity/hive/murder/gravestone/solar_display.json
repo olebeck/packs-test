@@ -1,0 +1,28 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.murder.gravestone.solar.display.idle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.murder.gravestone.solar.display.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.murder.gravestone.solar.display"
+      },
+      "identifier": "hivemurder:gravestone_solar_display",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/murder/gravestone/solar_display"
+      }
+    }
+  }
+}

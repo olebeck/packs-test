@@ -1,0 +1,8 @@
+{
+  "animations": {
+    "animation.hive.sky.kits.shield.cocoon.idle": {
+      "loop": true
+    }
+  },
+  "format_version": "1.8.0"
+}

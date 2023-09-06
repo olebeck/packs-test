@@ -1,0 +1,17 @@
+{
+  "animations": {
+    "animation.hive.dr.trap.swinging.axe": {
+      "bones": {
+        "axe": {
+          "rotation": [
+            0,
+            0,
+            "variable.swing_angle"
+          ]
+        }
+      },
+      "loop": true
+    }
+  },
+  "format_version": "1.8.0"
+}

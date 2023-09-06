@@ -1,0 +1,42 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animations": {
+        "action_a": "animation.hive.hub.npc.questmaster.action.a",
+        "action_b": "animation.hive.hub.npc.questmaster.action.b",
+        "controller_action": "controller.animation.hive.hub.npc.questmaster.action",
+        "controller_idle": "controller.animation.hive.hub.npc.questmaster.idle",
+        "controller_interact": "controller.animation.hive.hub.npc.questmaster.interact",
+        "idle": "animation.hive.hub.npc.questmaster.idle",
+        "idle_blink": "animation.hive.hub.npc.questmaster.idle.blink",
+        "idle_look": "animation.hive.hub.npc.questmaster.idle.look",
+        "interact": "animation.hive.hub.npc.questmaster.interact",
+        "pose": "animation.hive.hub.npc.questmaster.idle.pose"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.npc.questmaster"
+      },
+      "identifier": "hivehub:npc_questmaster",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "scripts": {
+        "animate": [
+          "controller_idle",
+          "controller_action",
+          "controller_interact"
+        ],
+        "initialize": [
+          "variable.resume_idle = 0;"
+        ]
+      },
+      "textures": {
+        "default": "textures/entity/hive/hub/npc/questmaster"
+      }
+    }
+  }
+}

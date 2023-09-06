@@ -1,0 +1,14 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.drop.powerup.spin": {
+      "states": {
+        "default": {
+          "animations": [
+            "spin"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

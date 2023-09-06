@@ -1,0 +1,39 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.mounts.broomstick.idle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.mounts.broomstick.idle",
+        "move_forward": "animation.hive.mounts.broomstick.move.forward",
+        "move_left": "animation.hive.mounts.broomstick.move.left",
+        "move_right": "animation.hive.mounts.broomstick.move.right"
+      },
+      "geometry": {
+        "default": "geometry.hive.mounts.broomstick"
+      },
+      "identifier": "hivemounts:broomstick",
+      "materials": {
+        "default": "entity_alphatest",
+        "emissive": "entity_emissive"
+      },
+      "render_controllers": [
+        "controller.render.hive.mounts.broomstick"
+      ],
+      "scripts": {
+        "pre_animation": [
+          "variable.turn_amount = Math.max(Math.min(query.yaw_speed * 0.6, 100), -100) / 100;",
+          "variable.turn_lerped = Math.lerp(variable.turn_lerped ?? 0, variable.turn_amount, 0.02);"
+        ]
+      },
+      "textures": {
+        "cursed": "textures/entity/hive/mounts/broomstick/cursed",
+        "regular": "textures/entity/hive/mounts/broomstick/regular"
+      }
+    }
+  }
+}

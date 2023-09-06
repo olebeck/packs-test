@@ -1,0 +1,39 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.hub.npc.animals.owl.idle"
+        },
+        {
+          "idle2": "controller.animation.hive.hub.npc.animals.owl.idle2"
+        }
+      ],
+      "animations": {
+        "blink": "animation.hive.hub.npc.animals.owl.blink",
+        "idle": "animation.hive.hub.npc.animals.owl.idle",
+        "look": "animation.hive.hub.npc.animals.owl.look",
+        "sleepy": "animation.hive.hub.npc.animals.owl.sleepy"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.npc.animals.owl"
+      },
+      "identifier": "hivehub:npc_animals_owl",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "scripts": {
+        "pre_animation": [
+          "variable.idleRandom = math.random_integer(0, 2500);"
+        ]
+      },
+      "textures": {
+        "default": "textures/entity/hive/hub/npc/animals/owl"
+      }
+    }
+  }
+}

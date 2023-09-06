@@ -1,0 +1,3432 @@
+{
+  "content": [
+    {
+      "key": "UX53YBLHPVXPTOFIOVOQOFENXOGU4MFG",
+      "path": "textures/blocks/hive/olive_shale.png"
+    },
+    {
+      "key": "DLHKECR6UWR7AWGJBZM7L3UG34JYXS62",
+      "path": "textures/blocks/hive/decorated_thin_pot.png"
+    },
+    {
+      "key": "P2GK5FYSQ45EDXO6YJ2CYJDL3NTEAHH5",
+      "path": "textures/blocks/hive/snowy_stone_up.png"
+    },
+    {
+      "key": "6LFHY77AFZSUADSZV567EU5KGURSNSZT",
+      "path": "textures/blocks/hive/studio_floor_orange.png"
+    },
+    {
+      "key": "O7RHMGFTLPJPCG5WTU6HFNRWK2BLGUKI",
+      "path": "textures/blocks/hive/smooth_sand_gradient_3.png"
+    },
+    {
+      "key": "5CVDQTP2GS44RQ6OQKATMFIH6ZRYKGUZ",
+      "path": "models/blocks/hive/tipped_keg.geometry.json"
+    },
+    {
+      "key": "IS5ZARRTCTQ5EEE7WHYLU6TVDTS2PJUT",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_3.png"
+    },
+    {
+      "key": "DRT3H53G7ZZQO7PCZFMCOVHQQOOZWALW",
+      "path": "textures/blocks/hive/wide_gift_box_red.png"
+    },
+    {
+      "key": "TPBY6R3EOOJRL2NDMRLHZT4NJMA4DF24",
+      "path": "textures/blocks/hive/crimson_skirting_up_down.png"
+    },
+    {
+      "key": "KGCODVEKHXAZTS4K2OQ6G3MWH3C2B3FG",
+      "path": "textures/blocks/hive/mixed_terracotta_roof_shingles.png"
+    },
+    {
+      "key": "E6HTUL5PK55QROK2ACM6HTCDO3IP6NM5",
+      "path": "textures/blocks/hive/plaster_frame_x.png"
+    },
+    {
+      "key": "EGPTBYT6QLWGKGPCMDR2OT5POS556ZZK",
+      "path": "textures/blocks/hive/white_flower_patch.png"
+    },
+    {
+      "key": "MFXSSARVWCNAURHJUOP7SNS7EE27ICDA",
+      "path": "textures/blocks/hive/acacia_large_planks.png"
+    },
+    {
+      "key": "O3DW7O4HHTDGESORPP6TNBCHHY4WD6JM",
+      "path": "models/blocks/hive/crooked_fence_corner.geometry.json"
+    },
+    {
+      "key": "TEDVTDRJZ4OCUR5C5P53ACQ5ZP27GOQV",
+      "path": "textures/blocks/hive/cracked_stone_brick_skirting_up_down.png"
+    },
+    {
+      "key": "4JNXX7ZJ3UECGOMAJI5GWJZNIWHOCVQV",
+      "path": "textures/blocks/hive/acacia_skirting.png"
+    },
+    {
+      "key": "UTAMPAOB3WDLKAQY2WE5BQGOY5LECLEM",
+      "path": "textures/blocks/hive/spruce_shutters.png"
+    },
+    {
+      "key": "IAOCEB3YY6QRZXQRMA2EKVF73WFJYOFD",
+      "path": "textures/blocks/hive/roof_tile_aqua_4.png"
+    },
+    {
+      "key": "TEQFDSK5IJDL2HGIHXZOK4MSFO65UWCS",
+      "path": "textures/blocks/hive/broken_plastered_brick.png"
+    },
+    {
+      "key": "VTTBKMYY7ZBC3LVYHKFS246THWLU376M",
+      "path": "models/blocks/hive/fabric_bolt.geometry.json"
+    },
+    {
+      "key": "NSI5PUYVXBWY4K6Y7IENZCARGT742E73",
+      "path": "textures/blocks/hive/acacia_large_joined_planks.png"
+    },
+    {
+      "key": "OXQ2FGMAHIJVJJCVVN5BHCL5GV37W6AA",
+      "path": "models/blocks/hive/plane.geometry.json"
+    },
+    {
+      "key": "TVJ2SMSE3PIKF4QPMWP5Y4RUWIX5USKU",
+      "path": "textures/blocks/hive/thin_stone_bricks.png"
+    },
+    {
+      "key": "CWXOBTX7MUF34KV6YHGJFOU2SCGY46OC",
+      "path": "textures/blocks/hive/lamp_post_l_piece.png"
+    },
+    {
+      "key": "NLWJARNRRMROPKKL2TXLOLYZPRGRM32M",
+      "path": "textures/blocks/hive/tall_popcorn_patch.png"
+    },
+    {
+      "key": "MTQXCJ3NRSOLJYJT3NDQUZZHACOXXSA3",
+      "path": "models/blocks/hive/wooden_table.geometry.json"
+    },
+    {
+      "key": "YK7CO3SWRPQL3BSBKZWP7QFMMDAD3V6G",
+      "path": "textures/blocks/hive/large_red_glowshroom.png"
+    },
+    {
+      "key": "FFWWAJ3TJZFNQDLC3WDPBO6GAQ3YEGEM",
+      "path": "textures/blocks/hive/blue_glowshroom.png"
+    },
+    {
+      "key": "OMOHMQBTIYYTERANQ35GGTY4G4ZJ5VMM",
+      "path": "textures/blocks/hive/sunset_roof_awning.png"
+    },
+    {
+      "key": "Q3KXDOXXE2NMTP66P24R3O5CDB6THPSQ",
+      "path": "textures/blocks/hive/big_leaf_jungle_fern.png"
+    },
+    {
+      "key": "5MZAOR7QLWRNRFFDVCT6VZ6LS5MRAJKB",
+      "path": "textures/blocks/hive/cream_brick_corner.png"
+    },
+    {
+      "key": "DFTTMHJXOS5XRPYWNIND72UUQHZ3PBGF",
+      "path": "textures/blocks/hive/dirty_stone_brick_tiles.png"
+    },
+    {
+      "key": "XXCCKBRBP6AIGQZFLTF4DT3HZABUV5JW",
+      "path": "textures/blocks/hive/right_angled_oak_shutters.png"
+    },
+    {
+      "key": "6KHTJFZ7ZNZGZPOLQNSPOB3QUPJ3JWK5",
+      "path": "textures/blocks/hive/lily_pad_cluster.png"
+    },
+    {
+      "key": "CGDDHARQDDN2442WUXAWKJQACWQEEUJY",
+      "path": "textures/blocks/hive/tankard.png"
+    },
+    {
+      "key": "HU36GK6JOJZFAZXB77RUNYYKCWZX6EJB",
+      "path": "textures/blocks/hive/crooked_fence_corner.png"
+    },
+    {
+      "key": "TAH5SGBUO4HVVQ2GHHC4AIJU2FBIYSRB",
+      "path": "textures/blocks/hive/small_left_scrawled_arrows.png"
+    },
+    {
+      "key": "J3UKVA7VT72I5C6YXHQQMZYTNWVCS6L6",
+      "path": "textures/blocks/hive/pink_snapdragons.png"
+    },
+    {
+      "key": "DVRH56774RXV2YDJKBH34OPYRWFF6ZER",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_2_down.png"
+    },
+    {
+      "key": "A32H3C6A7OHUVH63JGUFV35O5R344FO5",
+      "path": "textures/blocks/hive/dark_oak_shutters.png"
+    },
+    {
+      "key": "MB5QJFA37BOADADPAVIU7Q3UDICJEOXR",
+      "path": "textures/blocks/hive/roof_tile_amber_4.png"
+    },
+    {
+      "key": "3FETCKZ7WBU5M7FIKGN365EK6BIICM3D",
+      "path": "models/blocks/hive/plaster_frame_x.geometry.json"
+    },
+    {
+      "key": "PCC5BGH4XTOUDBJ65HVA6KVLJZXRTBII",
+      "path": "textures/blocks/hive/small_orange_crate.png"
+    },
+    {
+      "key": "A3KBVCKRATC35EB7YTYUPWVOPTFE5ECM",
+      "path": "models/blocks/hive/satcked_crates.geometry.json"
+    },
+    {
+      "key": "UK7BM6DOMTU5UQMEU2DI2EPQTHOYTQRO",
+      "path": "textures/blocks/hive/vertical_stone_bricks.png"
+    },
+    {
+      "key": "XEQBOQ46NCB2KDJALMHGRQBX6EZVYATI",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_4_down.png"
+    },
+    {
+      "key": "UBN7QHXSBURXWZCB33LPIV6E7COI6GIH",
+      "path": "textures/blocks/hive/snaking_ochre_plaster.png"
+    },
+    {
+      "key": "AHLIZQND6OFMFEGOVMMUUW5OIXMDU2WP",
+      "path": "models/blocks/hive/sewing_machine.geometry.json"
+    },
+    {
+      "key": "EZO2CQFRUDBA6Y7SGLF56CASLUEIZH34",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_3_up.png"
+    },
+    {
+      "key": "UQHD3R24QHM5OAJNFOGUQRCRT5PGDZCG",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_6_up.png"
+    },
+    {
+      "key": "PXTXWRI2JQGZIXDQYPF4HCLUZ2FNRYUG",
+      "path": "textures/blocks/hive/studio_floor_symbol_white.png"
+    },
+    {
+      "key": "7UBRYDLSNAD4XEFEUUOORXAX7SXW3UAR",
+      "path": "textures/blocks/hive/snowy_dirt_down.png"
+    },
+    {
+      "key": "3RGQAFMUP7KUSFZAC6I62KPCAMM2FIBM",
+      "path": "models/blocks/hive/climbing_rose_vine.geometry.json"
+    },
+    {
+      "key": "6EFZZGFHLC22XKVUJCUEDZCYHRJJO2VA",
+      "path": "textures/blocks/hive/dirty_stone_brick_tiles_transition.png"
+    },
+    {
+      "key": "LJROGHCHQXATKK6QYDSKUZ5PODPBJWZG",
+      "path": "models/blocks/hive/small_pot.geometry.json"
+    },
+    {
+      "key": "R4IXS3UZNZQID4K5ABVF5B6GPHGV2WWC",
+      "path": "textures/blocks/hive/small_deepslate_bricks.png"
+    },
+    {
+      "key": "Z6OP3IVTHZCPUKLLYLXZ4J2ZJ5JWARYM",
+      "path": "textures/blocks/hive/sealed_crate.png"
+    },
+    {
+      "key": "DL5TXIE6GO3S57ZLRF5UF3NKIYIHKCTT",
+      "path": "textures/blocks/hive/dwarf_shrub_purple.png"
+    },
+    {
+      "key": "JXGUASKMADJL2CSHNESBDZ2EFPHECO2F",
+      "path": "models/blocks/hive/crooked_oak_plank.geometry.json"
+    },
+    {
+      "key": "Y2CZCUUXJXHWHB6EU22HZIHP3QDF4IQQ",
+      "path": "textures/blocks/hive/post_office_boxes.png"
+    },
+    {
+      "key": "YNJND7LNYDEAXC5UU65TECJXWDDZ2PMP",
+      "path": "textures/blocks/hive/inn_sign.png"
+    },
+    {
+      "key": "QQNOGVF232VMUF6PERSIHGWME4F44INY",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_4.png"
+    },
+    {
+      "key": "S73PHF2MVUEZMDO35GTZWIVABO27DU2E",
+      "path": "textures/blocks/hive/spruce_large_jointed_planks.png"
+    },
+    {
+      "key": "CUZAOV6DCMWUBCW6XHOQK5TABOKOC7AZ",
+      "path": "textures/blocks/hive/dwarf_shrub_red.png"
+    },
+    {
+      "key": "NMJHBGS74M52F4OXIEOEBATYZ4UNTGQQ",
+      "path": "textures/blocks/hive/orange_terracotta_brick_skirting.png"
+    },
+    {
+      "key": "FCASLEFKTOP24CRKQU7LSO224RKL54Q4",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_1_up.png"
+    },
+    {
+      "key": "VYFM2DMHNZ2X4NBZUQL7NM3UVQOCORMK",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_4.png"
+    },
+    {
+      "key": "XLSB4IDA6GEZKLYQGDOZOH3ZNCYP63WM",
+      "path": "textures/blocks/hive/small_right_scrawled_arrows.png"
+    },
+    {
+      "key": "ELRPA5DCKFEBBAFKJ7JTTGHVTVUUOVPB",
+      "path": "textures/blocks/hive/andesite_bricks.png"
+    },
+    {
+      "key": "5ZR7265AAJOK62KH56LWC57RIEZAKSBB",
+      "path": "textures/blocks/hive/cat_tail.png"
+    },
+    {
+      "key": "F62ESKT5NOUFDSVDISSG4VLT6YPTYAVE",
+      "path": "textures/blocks/hive/studio_floor_symbol_green.png"
+    },
+    {
+      "key": "5IRMREJ7PYEG34BV5HGCUZ4MYL5ZVGMW",
+      "path": "textures/blocks/hive/white_snapdragons.png"
+    },
+    {
+      "key": "D3WZTRTETUVT74FVGZJBVEEFG6IM72JC",
+      "path": "textures/blocks/hive/orange_terracotta_pillar.png"
+    },
+    {
+      "key": "LABUC4DPNFHFJLKS25T66UXFKGTSISDV",
+      "path": "textures/blocks/hive/thin_pot.png"
+    },
+    {
+      "key": "HQYG5MNTGVPXQG45ERCRYB3ZP5ITHYE4",
+      "path": "textures/blocks/hive/oak_shutters.png"
+    },
+    {
+      "key": "FVILYDS5GKGSJSFIZKBFAX4XZJH3RMBL",
+      "path": "textures/blocks/hive/roof_tile_aqua_3.png"
+    },
+    {
+      "key": "B7RJXKOPOU7AB5QJ56EJVKWKZFYUEUS5",
+      "path": "textures/blocks/hive/vertical_warped_planks.png"
+    },
+    {
+      "key": "ONRAIWEKCDPBZ7ETCPJL7VJD4IM7VEBI",
+      "path": "textures/blocks/hive/axe_wall_rack.png"
+    },
+    {
+      "key": "J726BWOWMJENCZWOL7ZE7KDITSIWI3HM",
+      "path": "textures/blocks/hive/smooth_sand_gradient_4.png"
+    },
+    {
+      "key": "PU6X6ZE5DHLHYKA74GRTLFOB546T4AI5",
+      "path": "models/blocks/hive/axe_wall_rack.geometry.json"
+    },
+    {
+      "key": "4YSWQRPV4U5EKLHHK577LSZV2PRC76Y7",
+      "path": "textures/blocks/hive/roof_tile_amber_3.png"
+    },
+    {
+      "key": "R33ZBO6FR7U6CIDKDKSIRBEVRFIGDANL",
+      "path": "textures/blocks/hive/lapis_snapdragons.png"
+    },
+    {
+      "key": "WCRFDN3JZOSCRE265DTHYFPXO6MRH25V",
+      "path": "textures/blocks/hive/roof_tile_sunset_1.png"
+    },
+    {
+      "key": "AWKZ6HABGW66CSGWA2DQG4U4VJZODMDD",
+      "path": "textures/blocks/hive/tan_shale.png"
+    },
+    {
+      "key": "V2OWU2SZ46WJG5HCCBZEBUHXSHFFGTUZ",
+      "path": "textures/blocks/hive/willow_leaves.png"
+    },
+    {
+      "key": "4A3RCLBSIK6O52CF3OUN6BHCGCG4IFBH",
+      "path": "textures/blocks/hive/mossy_stone_brick_skirting.png"
+    },
+    {
+      "key": "B62AMFPQCIX3Q3SMHVMLNIYYC3NR2ITK",
+      "path": "textures/blocks/hive/post_office_boxes_east_west.png"
+    },
+    {
+      "key": "JVGW3L223GV2OSAI4VUWIKMJ4AIS7XW6",
+      "path": "textures/blocks/hive/birch_skirting.png"
+    },
+    {
+      "key": "TEEDNAE74VVOESKYY26XECJ5735LT5E2",
+      "path": "textures/blocks/hive/rubblestone_corner.png"
+    },
+    {
+      "key": "EYSKBRBHUAS2I7WVDQ36HI5EGVBJLO6R",
+      "path": "textures/blocks/hive/sandstone_pillar_up_down.png"
+    },
+    {
+      "key": "KUVSODMDRPZR6ETNUBNAKEYVCSFPO5VW",
+      "path": "textures/blocks/hive/mossy_mixed_stone_bricks_up_down.png"
+    },
+    {
+      "key": "SVAPPJOJIFQBMNF6IBVJIW7GAFNAU6EF",
+      "path": "textures/blocks/hive/flower_shop_sign.png"
+    },
+    {
+      "key": "FBEYZMZKTG2QUJSUQGML6KQW7Y2VKKCE",
+      "path": "textures/blocks/hive/right_angled_crimson_shutters.png"
+    },
+    {
+      "key": "H5HPO6HMIFP5KL5IQVHPSC3BZ2ERFQZH",
+      "path": "textures/blocks/hive/trailing_ivy.png"
+    },
+    {
+      "key": "3MPWKXUMBP2EZ6UCOEBVO3WEU23RJ6WO",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_1_up.png"
+    },
+    {
+      "key": "G7Y2DNLJ7FM7XSLFMWLLFAFXB3ODVQPY",
+      "path": "textures/blocks/hive/withered_plastered_brick.png"
+    },
+    {
+      "key": "6XYBWTIKW5RIXCKEWI74XQHX46V6QGQU",
+      "path": "textures/blocks/hive/mossy_stone_brick_tiles.png"
+    },
+    {
+      "key": "VZEUVDKFQYWQD3PDCX2BOMSRJFLECM3E",
+      "path": "textures/blocks/hive/large_pink_glowshroom.png"
+    },
+    {
+      "key": "CVKFR63EZKWTKDBOOBCGIS6KGULHEWVT",
+      "path": "textures/blocks/hive/cracked_stone_thin_bricks.png"
+    },
+    {
+      "key": "E4L3LZLRMK7KWBPFJ3PA5VWTSVTMPBSG",
+      "path": "textures/blocks/hive/acacia_skirting_up_down.png"
+    },
+    {
+      "key": "2RKT33U4D2MDST2QWUAONAQPAUPSRDJL",
+      "path": "textures/blocks/hive/left_angled_oak_shutters.png"
+    },
+    {
+      "key": "JRRAHDZJBCT7XLUTVTAKJOYKIBMY75US",
+      "path": "textures/blocks/hive/left_angled_spruce_shutters.png"
+    },
+    {
+      "key": "R3C4FDISVY4AYBZACIAKJFN5IOYICOL7",
+      "path": "models/blocks/hive/lotus_flower_on_lily_pad.geometry.json"
+    },
+    {
+      "key": "RPCXZCBMJW5MECC2N6RMADESS3SMKQ4N",
+      "path": "models/blocks/hive/right_angled_shutters.geometry.json"
+    },
+    {
+      "key": "J7XO5R5XHCDNDI3UF47E3OME5AT6YM5H",
+      "path": "textures/blocks/hive/sakura_large_jointed_planks.png"
+    },
+    {
+      "key": "QOSMLF232REHMNGDEUR3EREADNVCSRLH",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_5.png"
+    },
+    {
+      "key": "3G6HBGCR2XEGQUMQV4C3TTX6KFZQDI7F",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_5_down.png"
+    },
+    {
+      "key": "MTGHR7VBBRHO7V5S4BWDGPFKWD2VFDVB",
+      "path": "textures/blocks/hive/white_picket_corner.png"
+    },
+    {
+      "key": "VOK4KPGCOOULH3GVRZ4X7PELNZPMBV5K",
+      "path": "textures/blocks/hive/tall_lazuli_flower_patch.png"
+    },
+    {
+      "key": "PKQSV3K3FBHK2NZKX5YLV3GQLHCOP45Z",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_1.png"
+    },
+    {
+      "key": "4U7G47DVWVM7QMLP7SRVTEHXNVGFT7O2",
+      "path": "textures/blocks/hive/tiki_torch.png"
+    },
+    {
+      "key": "56HY3QU2YLBEHHXSXOGHV7XGX5FIOTAN",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_2.png"
+    },
+    {
+      "key": "DYXELMT4D4X3XU4YWLVMBGEERKHSIHVW",
+      "path": "textures/blocks/hive/wall_anchor.png"
+    },
+    {
+      "key": "OXEIEVLPZ4MXQCLOJFUSIVJ5PKAIKYO5",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_5_down.png"
+    },
+    {
+      "key": "OAHHR73R24CQ2JPEPVKFCU45Q7FMIEXI",
+      "path": "textures/blocks/hive/oak_skirting.png"
+    },
+    {
+      "key": "V4XS7ZOMQXUSZG52AUR5SFRHGKXUQXUW",
+      "path": "textures/blocks/hive/treasure_map.png"
+    },
+    {
+      "key": "IC5XTEL3MKPCSSSDPLAM3SO2GFWFHG2M",
+      "path": "textures/blocks/hive/toy_bear.png"
+    },
+    {
+      "key": "VLOA7S6JDRHP5W3WXML5YZD2VZN5SO3V",
+      "path": "textures/blocks/hive/tall_gift_box_red.png"
+    },
+    {
+      "key": "7UC5RQSSOSGE5F3MQEGMLRRAZORJGDP5",
+      "path": "textures/blocks/hive/small_cardboard_box.png"
+    },
+    {
+      "key": "34WXRLUPHNSJMT7CGCS76OY7A4GSTMEB",
+      "path": "textures/blocks/hive/yellow_snapdragons.png"
+    },
+    {
+      "key": "D2SKBQH2C2BRVDHKASQR5T6S5IO6BCN6",
+      "path": "textures/blocks/hive/tiny_coin_pile.png"
+    },
+    {
+      "key": "BPPI6KAOY7IZTL33G7GIVQ5FPTHE664Z",
+      "path": "textures/blocks/hive/dirt_slab.png"
+    },
+    {
+      "key": "UURFD4RVN6W3L5TDYPQFH7UG7Z45H22R",
+      "path": "models/blocks/hive/crooked_fence.geometry.json"
+    },
+    {
+      "key": "HBGOT7C2MRLWFY5Y5YCGTWSCLOBEQMQP",
+      "path": "textures/blocks/hive/dwarf_shrub_lapis.png"
+    },
+    {
+      "key": "5WSNXZBVOFDRDTAW2NPTTX54VMSRX5LD",
+      "path": "textures/blocks/hive/tall_candy_patch.png"
+    },
+    {
+      "key": "KGSR3PJBQXIXFV4V4JVUMNRYRXKJPKQR",
+      "path": "textures/blocks/hive/lamp_post_t_piece.png"
+    },
+    {
+      "key": "FC3LII7XMBGKBNKYZ3JRSTJKWDHSPQXQ",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_3.png"
+    },
+    {
+      "key": "AXPFDTQH4VZDZ5ECKQUW6WTY3QXF2MN4",
+      "path": "textures/blocks/hive/terracotta_brick_skirting_up_down.png"
+    },
+    {
+      "key": "TMWNSAW7JCJ3HASXXTQD6XOB3RB4CTZY",
+      "path": "textures/blocks/hive/lilac_vine.png"
+    },
+    {
+      "key": "2Y5CTEZI7D6SUC5MVAKD675RWQDU2R7Z",
+      "path": "textures/blocks/hive/terracotta_pillar.png"
+    },
+    {
+      "key": "BAC44QIH3ONUV47ZH27FU2J5F4YP6436",
+      "path": "models/blocks/hive/plaster_frame_corner_bar.geometry.json"
+    },
+    {
+      "key": "SYEZNCQZBAVFSXZWKC22BGT5Q45F4XKZ",
+      "path": "models/blocks/hive/thin_pot.geometry.json"
+    },
+    {
+      "key": "WPT2JORAYCZ6HZYFPWJIHUH5YS76NOVT",
+      "path": "textures/blocks/hive/granite_pillar_up_down.png"
+    },
+    {
+      "key": "6BZGJMPNRENDJB2VYMSNOFSBPLMGNSTZ",
+      "path": "textures/blocks/hive/jungle_panelling.png"
+    },
+    {
+      "key": "JOYLXHMA7DGXHNRW2TS77P3EI26MHHQD",
+      "path": "models/blocks/hive/wide_gift_box.geometry.json"
+    },
+    {
+      "key": "ZKLF5HLUQORFPRGYKDZB7TYZFEY2IWFX",
+      "path": "textures/blocks/hive/roof_tile_mixed_terracotta.png"
+    },
+    {
+      "key": "WBDGVAQ7CDOPMA3XKY4FDR7MMW2I3MFV",
+      "path": "textures/blocks/hive/orange_terracotta_bricks.png"
+    },
+    {
+      "key": "QLYVNNWZSTQONOPSSJIVZ7RP7QDDVFQH",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_6_up.png"
+    },
+    {
+      "key": "XXRIELICE5AFAUNAIY7P2YGG4MHHJG46",
+      "path": "textures/blocks/hive/sunken_anchor.png"
+    },
+    {
+      "key": "WAAK57CGBGC3ZEC4IRSO5N6R54ZCIEKI",
+      "path": "textures/blocks/hive/red_acacia_leaves.png"
+    },
+    {
+      "key": "G7ENCHIJEZAB4A53TWXEZSZ6UMISZJGZ",
+      "path": "textures/blocks/hive/chiseled_sandstone_pillar.png"
+    },
+    {
+      "key": "FLYILM3FD6TOFODFQINGSG6EAY66W3KI",
+      "path": "textures/blocks/hive/vertical_mangrove_planks.png"
+    },
+    {
+      "key": "JQEILWKBMKN3PB5HX4JYIHZFV7AC64C3",
+      "path": "textures/blocks/hive/deepslate_herringbone_bricks.png"
+    },
+    {
+      "key": "MG7VA2Z64TXJN6JBDLA3PUTRBBIG477W",
+      "path": "textures/blocks/hive/studio_floor_symbol_red.png"
+    },
+    {
+      "key": "DWDNYEILAXNKRE2LW3LKOM772ST77OCV",
+      "path": "textures/blocks/hive/dwarf_shrub_white.png"
+    },
+    {
+      "key": "LSM5P227BQLR52QMOV6IEJRQNT6OX3MA",
+      "path": "models/blocks/hive/lamp_post.geometry.json"
+    },
+    {
+      "key": "FYYYQXTDQVPS7WZ7DEB5ELLMSEEBH7FQ",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_5_down.png"
+    },
+    {
+      "key": "E2WICZUDVECTDHSSEHAFCCM55LFYJKSM",
+      "path": "textures/blocks/hive/large_red_mushroom.png"
+    },
+    {
+      "key": "6SE5XHCG5GFTEDZ6JS6WYHT4DUGGMIIQ",
+      "path": "textures/blocks/hive/terracotta_pot_green.png"
+    },
+    {
+      "key": "N74UYLMZVPFDBIYACL2OY6NFD6NUVKRK",
+      "path": "textures/blocks/hive/dark_oak_skirting.png"
+    },
+    {
+      "key": "BPH2YU77ZQCO7HOWOTVN6DMUUJVYHOR3",
+      "path": "textures/blocks/hive/medium_dried_grass.png"
+    },
+    {
+      "key": "UN2N7ZCVHWB7DSK5NBBCVSPMQEWDQPW4",
+      "path": "textures/blocks/hive/meandering_red_plaster.png"
+    },
+    {
+      "key": "WLPVHFMMGAOK2JBFRFE4CJMKJCB6O3SR",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_1_up.png"
+    },
+    {
+      "key": "77BCN5267NOZLPS7TXZTQVFV7TSGKTJI",
+      "path": "textures/blocks/hive/spruce_stump.png"
+    },
+    {
+      "key": "6QFVFPY7U53XYOUAVQCE3TA7A5HZKMPK",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_1_down.png"
+    },
+    {
+      "key": "HSTN6KCCKXXHNBU6W5XKRWVJ5VTUHBP3",
+      "path": "textures/blocks/hive/stone_plaster.png"
+    },
+    {
+      "key": "O4PMQNZQHSP3SXINKAEIEUDBIX25EVT3",
+      "path": "models/blocks/hive/tall_gift_box.geometry.json"
+    },
+    {
+      "key": "P2OG7CRY5ZC2LBDAIT35AXWIC5OOMYZT",
+      "path": "textures/blocks/hive/ochre_plaster.png"
+    },
+    {
+      "key": "ACVYE3X4YXKN6B2G26HQVE5T4TLGFUI7",
+      "path": "models/blocks/hive/wall_anchor.geometry.json"
+    },
+    {
+      "key": "7JU5HQWORVD7KO27UPDGZ6POKR4W6WH2",
+      "path": "textures/blocks/hive/roof_tile_amethyst_5.png"
+    },
+    {
+      "key": "BS5RTNEMKOLUAGTHX3ZTGJLE4X5X2VZ2",
+      "path": "textures/blocks/hive/roof_tile_aqua_5.png"
+    },
+    {
+      "key": "FSIWJ3RW6BDZ52JX4DVU6ZZ2LLAIACF2",
+      "path": "textures/blocks/hive/orange_acacia_leaves.png"
+    },
+    {
+      "key": "KC7TSUJ3NCFPTMFTX2342HAK2W4NEC74",
+      "path": "textures/blocks/hive/yellow_creeping_thyme.png"
+    },
+    {
+      "key": "5KH7BSV4VOTF2ST5XF5QFG2KDYTAHK6K",
+      "path": "models/blocks/hive/bottle_crate.geometry.json"
+    },
+    {
+      "key": "QYW5FSCDFZCICVHQ772XIJQCGVP5LISD",
+      "path": "textures/blocks/hive/studio_floor_light_gray.png"
+    },
+    {
+      "key": "3AJ57SXR2DCY4HNZFTNYNXBMN3YOAHN3",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_5.png"
+    },
+    {
+      "key": "3SYRQIWNNP63FEVXYCZ6IFFXBCH3E4MH",
+      "path": "textures/blocks/hive/wooden_crate_up_down.png"
+    },
+    {
+      "key": "J4WWEOUUW7G4GS4XUOSVA5J75N5AR2QT",
+      "path": "textures/blocks/hive/coarser_sand.png"
+    },
+    {
+      "key": "2O37G2POFPHQQLB774F2T3WUACCCP474",
+      "path": "textures/blocks/hive/small_blue_glowshroom.png"
+    },
+    {
+      "key": "53JFOUDRCAICDPENJVD6VDDVDOLSG5MM",
+      "path": "textures/blocks/hive/jungle_root_vine_bottom.png"
+    },
+    {
+      "key": "7A3WZLU7ICEOJ3HWD2FIIQK37PN7XNYF",
+      "path": "textures/blocks/hive/small_sandstone_bricks.png"
+    },
+    {
+      "key": "CV6QUV2BZUWUHFTP2L2TD7GGDZ4JEWV5",
+      "path": "textures/blocks/hive/cyan_stone.png"
+    },
+    {
+      "key": "HFUKI5RHWG3BACCAAB6XO7QRGOJQ5EOJ",
+      "path": "textures/blocks/hive/wrought_iron_skirting_corner.png"
+    },
+    {
+      "key": "KEKWJU64AY6EQNTJ2DCCLRAERSTKLNLV",
+      "path": "textures/blocks/hive/lapis_creeping_thyme.png"
+    },
+    {
+      "key": "B6FO5MZHZBZOMEAD7GXVEXHO36FM5LZ2",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_3.png"
+    },
+    {
+      "key": "IPW7XOT7ILHGDYSP4UFPHDJATB23S35C",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_3_up.png"
+    },
+    {
+      "key": "MGL5BN7VV4PBVPDWISPBZ4JM6NHFEJDE",
+      "path": "textures/blocks/hive/decorated_small_blue_pot.png"
+    },
+    {
+      "key": "ACFQIMNEYF2QSD66V4O7JRXDZFAODX5S",
+      "path": "models/blocks/hive/plane_corner.geometry.json"
+    },
+    {
+      "key": "DDDR73GGXC662QO4G5GOMZZH6A7F5P5S",
+      "path": "textures/blocks/hive/thin_blue_pot.png"
+    },
+    {
+      "key": "VWRHHG6LFHVFSTIUELTIJ6IMRCANTXFC",
+      "path": "textures/blocks/hive/large_ships_wheel.png"
+    },
+    {
+      "key": "735E524DLMBXJGTRHAC3GX5GL7ERT4SN",
+      "path": "models/blocks/hive/stone_wall.geometry.json"
+    },
+    {
+      "key": "3MP7POLZPQM4IP5PRZVRRGEIGE22UUYI",
+      "path": "textures/blocks/hive/mixed_stone_bricks_up_down.png"
+    },
+    {
+      "key": "WTMQK5YOKKQAARD4RK4HSB7BUFXPOTMT",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_2.png"
+    },
+    {
+      "key": "JWF6LAB2J6IYFBFOC3JZB6KJVQWCTR6Z",
+      "path": "models/blocks/hive/lattice_corner.geometry.json"
+    },
+    {
+      "key": "TFU4CEX525JVXCUKJBZ5PJXL43TMVL37",
+      "path": "textures/blocks/hive/dwarf_shrub_pink.png"
+    },
+    {
+      "key": "DGBBYWWHFWT43HXKEFFUPEFV2U7YGX52",
+      "path": "textures/blocks/hive/book_crate.png"
+    },
+    {
+      "key": "4MV3MRSNPITFNT4WVPQESUZ7AYYIY57Z",
+      "path": "textures/blocks/hive/orange_terracotta_pillar_up_down.png"
+    },
+    {
+      "key": "RJQ22MEDSML4PO7FY2OZXUAILWLZJV6O",
+      "path": "textures/blocks/hive/left_angled_crimson_shutters.png"
+    },
+    {
+      "key": "WE7WMPAJQAX47EMZ3W5RZWFHYFEVEEVY",
+      "path": "textures/blocks/hive/thin_deepslate_bricks.png"
+    },
+    {
+      "key": "EQPQTZDGU2PZVUQX7HTYSWSYTYQUFSVQ",
+      "path": "textures/blocks/hive/acacia_shutters.png"
+    },
+    {
+      "key": "JOECYG6RO5BNYC45IHOPZONUOC2RANQI",
+      "path": "textures/blocks/hive/terracotta_pot.png"
+    },
+    {
+      "key": "DI4Z4SVPEZK6EJ6EKT6ZIGVJM3JW3QPT",
+      "path": "textures/blocks/hive/studio_floor_symbol_magenta.png"
+    },
+    {
+      "key": "T2ML2LW3QQMJMUITA3MQX26NIH6T3BPA",
+      "path": "textures/blocks/hive/lamp_post.png"
+    },
+    {
+      "key": "4D7CPJDSLFY6UGAJKB67QKD6XAATCQV5",
+      "path": "textures/blocks/hive/wooden_keg.png"
+    },
+    {
+      "key": "RIWPRWNOVYKOG3GRG6ENXRXAJQ7Z2T47",
+      "path": "models/blocks/hive/snake_plant.geometry.json"
+    },
+    {
+      "key": "D3N5XGNJ6PXLTIWC2YOTF2GFFSQZQNAL",
+      "path": "textures/blocks/hive/bookshelf_borderless_half_empty.png"
+    },
+    {
+      "key": "M2Q77VPCBNJUXMSFOLOYCKK2V3WNNUPE",
+      "path": "textures/blocks/hive/decorated_small_pot.png"
+    },
+    {
+      "key": "BCEIIBKGAC6464XNIKJ276DRCGO3LNI3",
+      "path": "textures/blocks/hive/birch_panelling.png"
+    },
+    {
+      "key": "7LJUREYK7IV6FFRE7NDDBC7NLPLYNI2H",
+      "path": "textures/blocks/hive/purple_flowered_jungle_vine.png"
+    },
+    {
+      "key": "4TMUORGAZK2JY3P4IIXTDIUC2SVVEBI5",
+      "path": "models/blocks/hive/slab_complex_bottom.json"
+    },
+    {
+      "key": "YA32LVGVEK7SPDGAHKKRUC75P5OHADJE",
+      "path": "textures/blocks/hive/chiselled_sandstone_target.png"
+    },
+    {
+      "key": "G5F4FR6LHH5OJALVALGD6HJ36U4BR45I",
+      "path": "models/blocks/hive/lamp_post_l.geometry.json"
+    },
+    {
+      "key": "6SQHH6D3NH46QXIVPAGYKCFCCJPOSB6U",
+      "path": "textures/blocks/hive/dark_terracotta_pillar_up_down.png"
+    },
+    {
+      "key": "NJ7HHZ6HAFHGBJNGO4NVMW2WLLQS3TN3",
+      "path": "textures/blocks/hive/pinned_treasure_map.png"
+    },
+    {
+      "key": "WPDOL6IU6Q6REDPAEEHMZB6HH4CQLMYE",
+      "path": "models/blocks/hive/lattice.geometry.json"
+    },
+    {
+      "key": "P5BETEMZV26QYSCFJDCRKXMKAP7RQ42X",
+      "path": "textures/blocks/hive/bookshelf_empty.png"
+    },
+    {
+      "key": "FGRD74YJW5HO2BIYSRQJZ6VD52JJIGLJ",
+      "path": "textures/blocks/hive/big_leaf_taiga_fern.png"
+    },
+    {
+      "key": "7SLNLSAROKILSY2547EM45EWGJZQTOBP",
+      "path": "textures/blocks/hive/weapon_rack.png"
+    },
+    {
+      "key": "5GI5L27NTU2YVIPD4EG7JU3HY2KQREBU",
+      "path": "textures/blocks/hive/terracotta_pot_white.png"
+    },
+    {
+      "key": "UYAM3655MR7XC76ZUMNLEZ5RHUUJKNZP",
+      "path": "models/blocks/hive/slab_complex_top.json"
+    },
+    {
+      "key": "X446G2SLALN4SE5Y7ITYAEBDTMUCG7KX",
+      "path": "textures/blocks/hive/left_angled_acacia_shutters.png"
+    },
+    {
+      "key": "MWC2YJHBSBCP3VQL5CXP6HLIYEK5DSS7",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_4.png"
+    },
+    {
+      "key": "OMPKBEDYDUV5RHLKY3ERTUL2KNOVIRXT",
+      "path": "textures/blocks/hive/tall_purple_flower_patch.png"
+    },
+    {
+      "key": "SDJMAPKDAIJE7ZVHOGVU3JGN5YOQ4LAC",
+      "path": "textures/blocks/hive/ceiling_light.png"
+    },
+    {
+      "key": "KNJDU376OZXELKSFPMEAG4RDGWU3XIK4",
+      "path": "textures/blocks/hive/plaster_frame_corner_bar.png"
+    },
+    {
+      "key": "D7KCJDSGQJHP4CA75CMWKX5CLFIXUGOW",
+      "path": "texts/en_US.lang"
+    },
+    {
+      "key": "KNUH3SUC5AVKKOHF3S5FTSSP3ZTUUJP7",
+      "path": "textures/blocks/hive/roof_tile_aqua_6.png"
+    },
+    {
+      "key": "HLXC5PLUDU3ZGLU5CMAU34IX4MLLR5HD",
+      "path": "models/blocks/hive/gift_box.geometry.json"
+    },
+    {
+      "key": "BKLVXD76R72ZW46FAJHGLUYLIBJ2JOCK",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_5_up.png"
+    },
+    {
+      "key": "IJETGO64GDIWYCNA3C4MHX45NNQO43XU",
+      "path": "textures/blocks/hive/roof_tile_amethyst_4.png"
+    },
+    {
+      "key": "W5PUT2HWXLV7KJ5GYSDAILQMYZV7MVCM",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_2.png"
+    },
+    {
+      "key": "OW3CDMNZZQ26DGTDZ63G2NW3SS2RP3PO",
+      "path": "textures/blocks/hive/tall_lapis_flower_patch.png"
+    },
+    {
+      "key": "WX32QIVPKIGK7IVDNUT73D7DNBKI76RM",
+      "path": "textures/blocks/hive/frost_creeping_thyme.png"
+    },
+    {
+      "key": "5UG7P7XRFOUU2XTCPGTOGNXQR6PIN5Q5",
+      "path": "textures/blocks/hive/decayed_plastered_cream_brick.png"
+    },
+    {
+      "key": "L3E63A4JTE4PQTWDDGIGWIXSGP2ZVOHV",
+      "path": "models/blocks/hive/lattice_top.geometry.json"
+    },
+    {
+      "key": "XQOCN53DABX3PSYPKPWJDXZ766FSHMXY",
+      "path": "textures/blocks/hive/mixed_cream_brick.png"
+    },
+    {
+      "key": "HZHFNL4RCIV5BDWBSHNEABUAHFBEUNY6",
+      "path": "textures/blocks/hive/studio_floor_white.png"
+    },
+    {
+      "key": "OOQFOSYIESW6WOV4MF5IBQLUQMO2TO4G",
+      "path": "textures/blocks/hive/smoothest_sand_gradient_4.png"
+    },
+    {
+      "key": "R6YW6JLJBHSYZBHXGERUIBJFMZURA3LL",
+      "path": "textures/blocks/hive/terracotta_pot_black.png"
+    },
+    {
+      "key": "JP7UHYQE7W2FCPQKXS3F5Q3CZ3EBRWZ3",
+      "path": "models/blocks/hive/crate.geometry.json"
+    },
+    {
+      "key": "VYJA3H2YMRPSO6FN3GA2YS3WO7H4KPEQ",
+      "path": "textures/blocks/hive/studio_floor_symbol_blue.png"
+    },
+    {
+      "key": "DDEIYD6VIJJ44QUDH2KKYAXUU7HCPSH3",
+      "path": "textures/blocks/hive/terracotta_pot_blue.png"
+    },
+    {
+      "key": "M4444Q2637FIOH5AFBYSQK5HCU6H7AV4",
+      "path": "textures/blocks/hive/studio_floor_symbol_purple.png"
+    },
+    {
+      "key": "FXGESMD2QJC63PLAPYI2YTA536L7HV53",
+      "path": "textures/blocks/hive/roof_tile_sunset_4.png"
+    },
+    {
+      "key": "7EWUUOOKOKOMNY4ORCSZUYFOUFL34DBX",
+      "path": "textures/blocks/hive/apple_fruit_crate.png"
+    },
+    {
+      "key": "UQVVQJFSKMDYRRULHCR3BIX7D6BBZ6AZ",
+      "path": "textures/blocks/hive/roof_tile_crimson_2.png"
+    },
+    {
+      "key": "TUV3ZX332KZEMJKYWGERUCNGN4ZGTDJV",
+      "path": "textures/blocks/hive/studio_floor_symbol_brown.png"
+    },
+    {
+      "key": "YWNCUXIVQV56DGEJVBBPPNMCXNVO5LK4",
+      "path": "textures/blocks/hive/cream_brick.png"
+    },
+    {
+      "key": "JBSUU37FPAFPWSCFULQ32FE3JCNDUY7J",
+      "path": "textures/blocks/hive/diamond_stone_brick.png"
+    },
+    {
+      "key": "W7AWKSOQF3N7QFI54SLGWZGGLJCMNO57",
+      "path": "textures/blocks/hive/looped_purple_flowered_jungle_vine_.png"
+    },
+    {
+      "key": "Q5RQKMLHCYM4IEDXNRZDH4GNXLONTYC4",
+      "path": "textures/blocks/hive/snaking_red_plaster.png"
+    },
+    {
+      "key": "DERYUKMS3ZNWXEH3BKGTV7PUFOM4YI55",
+      "path": "textures/blocks/hive/vertical_jungle_planks.png"
+    },
+    {
+      "key": "I2XEANI64WDJOTJNSDIOA5PYXOBXM753",
+      "path": "textures/blocks/hive/decorated_pot_blue.png"
+    },
+    {
+      "key": "RX4SRTLSLQZWB7IPVMLEKIUEC2HJSXDY",
+      "path": "textures/blocks/hive/mossy_mixed_stone_bricks.png"
+    },
+    {
+      "key": "CVFH7D77U2EKFBGCAVU4HXDX3UPZTNY6",
+      "path": "textures/blocks/hive/train_station_sign.png"
+    },
+    {
+      "key": "DEWYQ3Y3PY6WXULNJXATHFNUBZO3CALG",
+      "path": "textures/blocks/hive/mangrove_large_planks.png"
+    },
+    {
+      "key": "AKONYTJ3VHZNAZXPCNVCRLRVGWNOGAG2",
+      "path": "textures/blocks/hive/teal_glowshroom.png"
+    },
+    {
+      "key": "GIECZSR4JK33VSPC6XVBBZCOYU462SJJ",
+      "path": "textures/blocks/hive/tailor_dummy.png"
+    },
+    {
+      "key": "OALHDCY5XUMP5BA2T6DYYGVREGFQZTDR",
+      "path": "models/blocks/hive/plaster_frame_corner.geometry.json"
+    },
+    {
+      "key": "TZ5KJGZ4NPH6AAO5TIWYSXZVNOEBHQAV",
+      "path": "textures/blocks/hive/dark_prismarine_tiles.png"
+    },
+    {
+      "key": "6D3UPRIL6OR6RZPPN6BZOW3UHIXMQ3PQ",
+      "path": "textures/blocks/hive/roof_tile_amber_1.png"
+    },
+    {
+      "key": "PMWVPO5KC5KBVDOEO3Z2TUK5NB5SLPIW",
+      "path": "textures/blocks/hive/dark_prismarine_pillar_up_down.png"
+    },
+    {
+      "key": "5QYY4MWOCNZXKJ4NCP2ZTPHFBZTW4ZQP",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_4_up.png"
+    },
+    {
+      "key": "HR23KKYAOQ5WNT6RFBIOXPAGDAM6LHG4",
+      "path": "textures/blocks/hive/coarse_wavy_sand.png"
+    },
+    {
+      "key": "LWQEMNZHJLN4JERFAUM7365TTRZMWWMZ",
+      "path": "models/blocks/hive/small_cardboard_box.geometry.json"
+    },
+    {
+      "key": "EW35NJAI4RRMBZGC2VCOZO6744YAQ4BJ",
+      "path": "textures/blocks/hive/green_wrapped_gift.png"
+    },
+    {
+      "key": "WNWIYQPCBLAOYIO45VFR3STIPGGMDEHA",
+      "path": "textures/blocks/hive/lily_pad_patch.png"
+    },
+    {
+      "key": "WCQQ5LFIVMXDXZ5Z5QAICGUSGPENOGIE",
+      "path": "textures/blocks/hive/jungle_wooden_table.png"
+    },
+    {
+      "key": "4USI76TEI54U45OVE55LFEBETOWJDJXL",
+      "path": "textures/blocks/hive/roof_tile_emerald_4.png"
+    },
+    {
+      "key": "FAM2GGSO4DBMN2XCE2GYT3YKUDIYDKA3",
+      "path": "models/blocks/hive/lamp_post_base.geometry.json"
+    },
+    {
+      "key": "MWM6TIJLT2OPNL4UZOQRUJOS2R3P2UE4",
+      "path": "textures/blocks/hive/wrought_iron_skirting.png"
+    },
+    {
+      "key": "NILLRASEY3NJS5S736AOCBZQ7FQBCQN2",
+      "path": "textures/blocks/hive/yellow_acacia_leaves.png"
+    },
+    {
+      "key": "ISHFXNVHKDFMVJSER4LLB5QVRWMXKENV",
+      "path": "textures/blocks/hive/blue_mushroom.png"
+    },
+    {
+      "key": "472D7ZGFDB7UP3V34EWSKE6LQ7I76UNT",
+      "path": "models/blocks/hive/wall_rack.geometry.json"
+    },
+    {
+      "key": "BBSN5JK2Z65XLEFXCMWGUJLK6N5GRHOC",
+      "path": "textures/blocks/hive/roof_tile_terracotta_1.png"
+    },
+    {
+      "key": "F3H4CUE3SUFNZSEPTBZUCVPFCSKJW4SA",
+      "path": "textures/blocks/hive/dwarf_shrub_blue.png"
+    },
+    {
+      "key": "ZWNS3QQP4AHHZ2JJN5S5JQD6U2EVOOS4",
+      "path": "models/blocks/hive/crooked_fence_posts.geometry.json"
+    },
+    {
+      "key": "MKRXH2XR7Z6GFEWK6VEUUDV24N6EIJZT",
+      "path": "models/blocks/hive/poster.geometry.json"
+    },
+    {
+      "key": "DLHH5CSUSBDUIBSMX6KRKMIU3PHWDXIS",
+      "path": "textures/blocks/hive/roof_tile_sunset_5.png"
+    },
+    {
+      "key": "BF2JJRLMBBQIJCLZ6C4OLKBQIJMZWQKZ",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_4_up.png"
+    },
+    {
+      "key": "JRSFQG25II4RHI6P3WV4GN2NJW3NUBY4",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_4_up.png"
+    },
+    {
+      "key": "RVLIEOAQVRRXJTHJ4IUM43T7JY3NAZAF",
+      "path": "textures/blocks/hive/granite_pillar.png"
+    },
+    {
+      "key": "MCNXKZQIPMVEIOD3AIS65LXFDWRMIONF",
+      "path": "textures/blocks/hive/dark_prismarine_bricks.png"
+    },
+    {
+      "key": "IN3QZ4OZI3P62FD4RYVV7KPKHINHII2D",
+      "path": "textures/blocks/hive/roof_tile_crimson_3.png"
+    },
+    {
+      "key": "2NKM7XO2H47X26MIYBK6SCY3G5HXH7BK",
+      "path": "textures/blocks/hive/red_snapdragons.png"
+    },
+    {
+      "key": "X57ZKG3OLRZJ7S2SNKDO6MR2WP6NOQ3V",
+      "path": "textures/blocks/hive/snowy_stone.png"
+    },
+    {
+      "key": "QNAO2EUP7XHWJPYCUZIW6WUNREHBSNCY",
+      "path": "textures/blocks/hive/studio_floor_red.png"
+    },
+    {
+      "key": "ZGYKAT4SE7ODBF2E7FZFKTXHXN4T75HJ",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_2.png"
+    },
+    {
+      "key": "KIAO4KJGOKEZMMUGMENNNBZG6WJUPR27",
+      "path": "textures/blocks/hive/large_lamp.png"
+    },
+    {
+      "key": "575EZRYVHPYU5I7HRLOJOPYOYPRJXNM4",
+      "path": "textures/blocks/hive/broken_plastered_tan_brick.png"
+    },
+    {
+      "key": "SEXAUPLZ4FDPY2TABM7G4AS5XOJGJZFM",
+      "path": "textures/blocks/hive/birch_large_jointed_planks.png"
+    },
+    {
+      "key": "ZE45PGWFAGE4XGVXTQZ6XD76DLUTCFKV",
+      "path": "textures/blocks/hive/plaster_frame_middle_bar.png"
+    },
+    {
+      "key": "2RZ5LLAQQO2XVOSV37UXV6YEXVUJIOUP",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_1.png"
+    },
+    {
+      "key": "4PJ2XA27KMTB5MDV7INBVAMAESK7KQKW",
+      "path": "textures/blocks/hive/oak_skirting_up_down.png"
+    },
+    {
+      "key": "VXYDPWQAVCNUMMQGZF6QEGNRUTP7BQPW",
+      "path": "textures/blocks/hive/small_stone_bricks.png"
+    },
+    {
+      "key": "LBNRNY2KPASXR6PRKCUAI4EZGQSDBEDN",
+      "path": "models/blocks/hive/tankards.geometry.json"
+    },
+    {
+      "key": "XDMRM2QEYRDWODP6FP6IUTNLAB6ZTGAC",
+      "path": "models/blocks/hive/small_treasure_pile.geometry.json"
+    },
+    {
+      "key": "VYNXZXJUBSSJPM22TNV3KIMRRI5IVHG5",
+      "path": "textures/blocks/hive/terracotta_pot_red.png"
+    },
+    {
+      "key": "D6AVAC6Q645ZFQ3QA2K7B6BPJSXE2DRF",
+      "path": "textures/blocks/hive/roof_tile_amber_2.png"
+    },
+    {
+      "key": "WDQAJ5MWR6YP3QTR5YRFBNA7QSAZC3XP",
+      "path": "textures/blocks/hive/spruce_large_planks.png"
+    },
+    {
+      "key": "HIFSQQ5CZ5C4GUZCRNANKFQUEVEIWLLO",
+      "path": "textures/blocks/hive/andesite_herringbone_bricks.png"
+    },
+    {
+      "key": "NNLWKGJSTYTHHDDSAZP2OSXRLNKLMUUI",
+      "path": "textures/blocks/hive/snowball_pile.png"
+    },
+    {
+      "key": "A5VID7Z3SY3BJJ26Q33MUUDLLKRAIZL7",
+      "path": "models/blocks/hive/medium_pebbles.geometry.json"
+    },
+    {
+      "key": "HP6YJ2EWEWHBDLYOF6QZNWSLLVMAW6HQ",
+      "path": "textures/blocks/hive/crimson_large_jointed_planks.png"
+    },
+    {
+      "key": "UBZVDT4SE3V3BT4B37S2WJATF55IYZX6",
+      "path": "textures/blocks/hive/andesite_pillar_up_down.png"
+    },
+    {
+      "key": "RSGFA65N36PVB4OVDUSI4DZ7AMP43XTU",
+      "path": "textures/blocks/hive/vertical_acacia_planks.png"
+    },
+    {
+      "key": "CGLJLKWM4GHKMK4TWX4ZBW57LHJ36JRJ",
+      "path": "models/blocks/hive/snowball_pile.geometry.json"
+    },
+    {
+      "key": "H2ARFTTYEO3DN64JSL3HSF6VPKMDXSMO",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_3.png"
+    },
+    {
+      "key": "R5IDSV4XDMO2KB7I2SZA4GZXAC4ZN2HI",
+      "path": "textures/blocks/hive/lilac_oak_leaves.png"
+    },
+    {
+      "key": "GHGGVHPK4ZACGUFIE6GKTPXSSLFGLUBX",
+      "path": "textures/blocks/hive/dark_terracotta_pillar.png"
+    },
+    {
+      "key": "RPYF2DEE2HC46ZPGE42KYLEDQIQ2AICQ",
+      "path": "models/blocks/hive/lily_pad_big.geometry.json"
+    },
+    {
+      "key": "WZCB4NVW27Z4GU735BNJOWYJ25L4BXCH",
+      "path": "textures/blocks/hive/cracked_mixed_stone_bricks_up_down.png"
+    },
+    {
+      "key": "OCKDDVMHNXCAJHOE63ALAV6WVGCAVOOD",
+      "path": "textures/blocks/hive/small_red_glowshroom.png"
+    },
+    {
+      "key": "HEKR5ARZO2DV2PLLY2O74MK7BLC2BDOL",
+      "path": "textures/blocks/hive/red_painted_toy_train.png"
+    },
+    {
+      "key": "ZDCMSSPGA4MUFPK6OBFETJOF2IQDRPRH",
+      "path": "textures/blocks/hive/studio_floor_symbol_yellow.png"
+    },
+    {
+      "key": "DLUFZTYNPVS4GOQKZCTR2OVVI4VZ6ATW",
+      "path": "textures/blocks/hive/sakura_planks.png"
+    },
+    {
+      "key": "P3M6IXHGIDQ75QZCNTDQYWFBKEL7ZU4B",
+      "path": "textures/blocks/hive/sunken_wall_anchor.png"
+    },
+    {
+      "key": "NL5CKJT6MOSRRAB43N5YN2CFXNDQQNFM",
+      "path": "textures/blocks/hive/sakura_skirting_up_down.png"
+    },
+    {
+      "key": "YCKFIE5OVPLABKIBF7BMSLCC3N4GFFDZ",
+      "path": "textures/blocks/hive/tailor_sign.png"
+    },
+    {
+      "key": "LPNZTONUUUYUW65HZADNWATWREB64WM5",
+      "path": "textures/blocks/hive/studio_floor_symbol_pink.png"
+    },
+    {
+      "key": "CIIEANSBG5MK4H4ZA4NEDNIWHATFQONM",
+      "path": "models/blocks/hive/cardboard_box_short.geometry.json"
+    },
+    {
+      "key": "N63UOKTOM4EHPIRWDM5VJOAMRSVMPGT2",
+      "path": "textures/blocks/hive/purple_mushroom.png"
+    },
+    {
+      "key": "6AMDULL6PQJ4LSXSTQYEN5ZKKOGH3SO2",
+      "path": "textures/blocks/hive/roof_tile_emerald_5.png"
+    },
+    {
+      "key": "N6WOEKKXLSYS2XW6LE7IM4MY4QWKGOC5",
+      "path": "models/blocks/hive/lattice_corner_top.geometry.json"
+    },
+    {
+      "key": "CDBE2YFALWS4WPYMJHP3GPNZK7THYBF7",
+      "path": "textures/blocks/hive/broken_stacked_crates.png"
+    },
+    {
+      "key": "RGM6FRACJACWPUM2T4U25PXKJIRAKOMW",
+      "path": "textures/blocks/hive/smoothest_sand_gradient_3.png"
+    },
+    {
+      "key": "MRWKCTEE6IDOYBLHVUZXPGK2DQ3ODGXH",
+      "path": "textures/blocks/hive/stone_plaster_corner.png"
+    },
+    {
+      "key": "FHH6D4HS2JSAWCSB5R752O36JFPD3S7M",
+      "path": "models/blocks/hive/metal_truss_connector.geometry.json"
+    },
+    {
+      "key": "H3PTQHAINLHVJJTO5UVNSO7F4CEXUU44",
+      "path": "textures/blocks/hive/mixed_stone_bricks.png"
+    },
+    {
+      "key": "7ADRCP6TSDGLSXDYN472FTW66VOXQYQ3",
+      "path": "textures/blocks/hive/terracotta_roof_awning.png"
+    },
+    {
+      "key": "T4WFBSG3BGY4RNK5REH7LBNPG4OYSFJN",
+      "path": "textures/blocks/hive/wrought_iron_bars.png"
+    },
+    {
+      "key": "TIVEA6VDRUV6H7INW7GBHAIIQR2X2U6O",
+      "path": "textures/blocks/hive/jungle_shutters.png"
+    },
+    {
+      "key": "PK4SQGE5Y6CS32QSQWH2SIBV5GNBSL5B",
+      "path": "textures/blocks/hive/withered_plastered_tan_brick.png"
+    },
+    {
+      "key": "73SJU6UPBATYN72BD6LNA7BAXDH6OLGJ",
+      "path": "models/blocks/hive/big_leaf.geometry.json"
+    },
+    {
+      "key": "DECP5NU5K5A5HZVEWFWUPAAYA3PJQHRO",
+      "path": "textures/blocks/hive/small_purple_glowshroom.png"
+    },
+    {
+      "key": "XNODVRMEHY7HCVNPBDJCK22RGG2DVPOE",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_3_down.png"
+    },
+    {
+      "key": "2R2IYEE7QDAGLRQGFYXFLJ3T7XVYCE76",
+      "path": "textures/blocks/hive/smooth_sand_gradient_1.png"
+    },
+    {
+      "key": "O5FBTINQKSVSVCQXCCCETAALKPM6TCSQ",
+      "path": "textures/blocks/hive/oak_large_planks.png"
+    },
+    {
+      "key": "XSGB6TMDJXGLQK3PTTX5HRCQTFHF763Z",
+      "path": "textures/blocks/hive/mangrove_shutters.png"
+    },
+    {
+      "key": "SZR5G43RR56YLEK3NKAEVJQ46IIPU73U",
+      "path": "textures/blocks/hive/big_leaf_swamp_fern.png"
+    },
+    {
+      "key": "ICXBPXIFJT3ENDHXFLFDAQCTSZ5EXCWZ",
+      "path": "textures/blocks/hive/terracotta_pillar_up_down.png"
+    },
+    {
+      "key": "FHGFYJOFWA2BLGZ5M2AL4FJVJESXWJUD",
+      "path": "textures/blocks/hive/mossy_sand.png"
+    },
+    {
+      "key": "S46FEK2L4GDD5ZFYXNNGTZGVFLSJCEEP",
+      "path": "models/blocks/hive/snowy_path.geometry.json"
+    },
+    {
+      "key": "EBSWSCNZKSGO26AFTQRH3NE6CVZZAUCC",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_3_down.png"
+    },
+    {
+      "key": "VR6UGGQ4G5CPHRD6QFKXFIUWQZWR5UK2",
+      "path": "textures/blocks/hive/mixed_deepslate_bricks.png"
+    },
+    {
+      "key": "CGATLEERBVR56G7MKAH7APAFIITGC5RT",
+      "path": "models/blocks/hive/terracotta_pot.geometry.json"
+    },
+    {
+      "key": "OZF4NTAGJFU5SNL5IAT4TB4HXPHEZJJD",
+      "path": "textures/blocks/hive/terracotta_brick_skirting.png"
+    },
+    {
+      "key": "DJFMMUIDOA7AA2S5LYL7F3LL2PBA6XNK",
+      "path": "blocks.json"
+    },
+    {
+      "key": "AD43NXUP2LKU2SY2SUZ4674RSDTTPFTT",
+      "path": "textures/blocks/hive/granite_bricks.png"
+    },
+    {
+      "key": "JGWBUY4DSBWNQ5QOJCSFQC7DIS6CBAHM",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_5.png"
+    },
+    {
+      "key": "H3KUUVRQ3D3Y6BZ6LJVWMXHNQZZETASZ",
+      "path": "textures/blocks/hive/dark_metal_truss_connector.png"
+    },
+    {
+      "key": "N2SRWTGOHZ3LZO6YQBUO2QG5AL36ZCFX",
+      "path": "textures/blocks/hive/cardboard_box_short.png"
+    },
+    {
+      "key": "PG6E6FN2R3TX2Z4QZFJCJIQBN3INAZW3",
+      "path": "textures/blocks/hive/purple_glowshroom.png"
+    },
+    {
+      "key": "MQR34K35MR6BHT5ZNVK3JN2GUGDIKMTT",
+      "path": "textures/blocks/hive/vertical_sakura_planks.png"
+    },
+    {
+      "key": "NWOJRUVK3EIYPAVW2PYY5PU2HQS4QVJJ",
+      "path": "textures/blocks/hive/dirt_path_slab.png"
+    },
+    {
+      "key": "6BCETKV7X5BMWEQETNN4RXPQRSC6VW35",
+      "path": "textures/blocks/hive/roof_tile_sunset_2.png"
+    },
+    {
+      "key": "OHGWDZENVQQ5NIKK4RYGLURSYMKQR52M",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_1.png"
+    },
+    {
+      "key": "2MKVXSOUB465QRKGHSP4MLRAH5EROUSM",
+      "path": "textures/blocks/hive/cobbled_terracotta_brick.png"
+    },
+    {
+      "key": "J5ZUWWLNNT4TNO2PEEVRSTVF7MX7U5KB",
+      "path": "textures/blocks/hive/sakura_log_up_down.png"
+    },
+    {
+      "key": "FRTQSSPMDL6NYI5MHWGBD46A4SAUWUGU",
+      "path": "textures/blocks/hive/vertical_dark_oak_planks.png"
+    },
+    {
+      "key": "KNCH7K4ILIRONXCHCZKZ6BYEVXWA7XS5",
+      "path": "models/blocks/hive/small_mushroom.geometry.json"
+    },
+    {
+      "key": "FPDDQR2LJBOI2RRXDRMDNWOZX5UDFMY6",
+      "path": "textures/blocks/hive/roof_tile_aqua_2.png"
+    },
+    {
+      "key": "OMCURL72O2AP5MZ7I2L4ZVGDYQ52CJKA",
+      "path": "textures/blocks/hive/snowy_dirt.png"
+    },
+    {
+      "key": "XXNTBMAUXR4PDHPJATHW67EHPY4Z2GJF",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_2_up.png"
+    },
+    {
+      "key": "TU7XPXSCLGEK5PCYRMDAX4BN7JQ3LZZQ",
+      "path": "textures/blocks/hive/sewing_machine.png"
+    },
+    {
+      "key": "PND4MLUR3E7W62Y3T4I67WA7TEMS25SV",
+      "path": "textures/blocks/hive/dark_metal_truss_pillar.png"
+    },
+    {
+      "key": "RMMEQL3ZQALKFFJR4FHVKNCKONGXHQXA",
+      "path": "textures/blocks/hive/lilac_vine_bottom.png"
+    },
+    {
+      "key": "2X3RDJG5LXWAJOOR4P764DSTZBR362OC",
+      "path": "textures/blocks/hive/stripped_sakura_log_up_down.png"
+    },
+    {
+      "key": "S65N2YYQ2VVOG3C5AJCTCCQDFMRJ6Y2M",
+      "path": "textures/blocks/hive/white_creeping_thyme.png"
+    },
+    {
+      "key": "QERHQGMYREJD2D2KFVISXVLLSFXRES5V",
+      "path": "models/blocks/hive/weapon_rack.geometry.json"
+    },
+    {
+      "key": "VQGEQ7BAP3FXY27HFMMGP7A7NUC3AKBL",
+      "path": "textures/blocks/hive/studio_tiles_purple.png"
+    },
+    {
+      "key": "GRNWF7N5RVJGNRR265RUWG3ALPUIELTC",
+      "path": "textures/blocks/hive/right_angled_sakura_shutters.png"
+    },
+    {
+      "key": "VQN3LZCDP5YXHGOC45W6V5VCNOPCHJH2",
+      "path": "models/blocks/hive/large_mushroom.geometry.json"
+    },
+    {
+      "key": "CKXF4UBAXC5PU62FZ4GZ23IJDJKCUPZG",
+      "path": "textures/blocks/hive/lamp_post_base.png"
+    },
+    {
+      "key": "O65K6EJFLMPRDT3TIPKXLOJ643ARIKVW",
+      "path": "textures/blocks/hive/dirty_cobblestone_transition.png"
+    },
+    {
+      "key": "5JOJGXKCXOI32TM3UNXBBQGEEK5UBWB2",
+      "path": "textures/blocks/hive/right_scrawled_arrows.png"
+    },
+    {
+      "key": "73GAC35YHULOAG3E7OUHGDEGXWHJXGLX",
+      "path": "textures/blocks/hive/sakura_wood.png"
+    },
+    {
+      "key": "NPST7C67OPANZDVT3WIGRRZU36CT2FTX",
+      "path": "models/blocks/hive/plaster_frame_middle.geometry.json"
+    },
+    {
+      "key": "R3F5ZIFVCFP5BOEE24TI3BRNC3KQQKOR",
+      "path": "models/blocks/hive/tailor_dummy.geometry.json"
+    },
+    {
+      "key": "AQEMQHZ4R7UVJSPASJ3PEMZLK64H3BLT",
+      "path": "textures/blocks/hive/white_picket_inner_corner.png"
+    },
+    {
+      "key": "IMQ5SJVOMVRC7BPCALG7EL2JUEQNENKA",
+      "path": "textures/blocks/hive/tall_red_patch.png"
+    },
+    {
+      "key": "YMUA47YNLY2RATNMOIR2Y3ZRV4SSBX32",
+      "path": "textures/blocks/hive/stacked_sealed_crates.png"
+    },
+    {
+      "key": "6ZE7XI77S4XN3BKWCN5TKH2NBEF7434R",
+      "path": "textures/blocks/hive/plaster.png"
+    },
+    {
+      "key": "PTP6WMP5JPLQIHSU7SEPBA7SWFT2E34N",
+      "path": "textures/blocks/hive/smooth_sand_gradient_2.png"
+    },
+    {
+      "key": "3AJ3DCQEJETDBPU7GRTQWQGWUGFCNRRL",
+      "path": "textures/blocks/hive/stone_brick_corner.png"
+    },
+    {
+      "key": "V5CIPS4DSTMEWQYMN4VDWAW54VS2Y2LY",
+      "path": "textures/blocks/hive/plaster_frame_corner.png"
+    },
+    {
+      "key": "CFFIJ2WRTHQVL2DTMKMT76NAXRVUBH2Q",
+      "path": "textures/blocks/hive/mossy_small_stone_bricks.png"
+    },
+    {
+      "key": "AMVTPDA5ISCRITH2BEP47K5M3AB3GRGB",
+      "path": "textures/blocks/hive/roof_tile_aqua_1.png"
+    },
+    {
+      "key": "X22QYLG4D737FNAMUXXR7NYFWOFMPTR3",
+      "path": "models/blocks/hive/wrapped_gift.geometry.json"
+    },
+    {
+      "key": "ZAOEUPOHO5K6GE7ZUL22ITAR4HTILNRX",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_6_down.png"
+    },
+    {
+      "key": "L5CVB7Q64H7XUPKYYX7ZJVQS674MMJZV",
+      "path": "models/blocks/hive/default_shutters.geometry.json"
+    },
+    {
+      "key": "GCQ37KLYNY7D2OXFQX4SEUHXXZAPNEA6",
+      "path": "textures/blocks/hive/studio_tiles.png"
+    },
+    {
+      "key": "R7S56ATJB5QLJTELQBEB3CQYLNJP7NMK",
+      "path": "textures/blocks/hive/tall_lily_pad_patch.png"
+    },
+    {
+      "key": "VIWPS2HPI273A3RSQS7V4MDOYRJFGHZM",
+      "path": "textures/blocks/hive/dark_oak_skirting_up_down.png"
+    },
+    {
+      "key": "QEUHNQL2HH7YM3II3OY56ALBVR7TV5YO",
+      "path": "textures/blocks/hive/rooftile_sunset_6_slab.png"
+    },
+    {
+      "key": "XDAGT675GLWTCTB56ACQC54QFMUPKI3P",
+      "path": "textures/blocks/hive/tan_brick_corner.png"
+    },
+    {
+      "key": "PCV7SVVYDCHFKGF6P2VQ45KBG6AWE2J5",
+      "path": "textures/blocks/hive/taupe_shale.png"
+    },
+    {
+      "key": "7QDQJJ5QNGCF2DULBHB7X3XERMXLUF7T",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_2_up.png"
+    },
+    {
+      "key": "2SWT5TWVPS5CTKH5UMGIW5VIMEUUQMOP",
+      "path": "textures/blocks/hive/warped_shutters.png"
+    },
+    {
+      "key": "YKLYG6T46MMFKDO2V725OMRPOVBQX46P",
+      "path": "textures/blocks/hive/roof_tile_sunset_3.png"
+    },
+    {
+      "key": "HUKFSPBOEILC7EQMLGT5OVAAGPJIJSMI",
+      "path": "textures/blocks/hive/rose_creeping_thyme.png"
+    },
+    {
+      "key": "BI2JXREJMOI5MTMISNI67DU2KIEUQTUN",
+      "path": "models/blocks/hive/mushroom.geometry.json"
+    },
+    {
+      "key": "FLDFLYMBNVKQZGOIPMBJ7XANBCSVAMQQ",
+      "path": "textures/blocks/hive/warped_large_planks.png"
+    },
+    {
+      "key": "PGLLVCDQW7GLQLZTJLCKAYGPVLIU7LBA",
+      "path": "textures/blocks/hive/roof_tile_crimson_1.png"
+    },
+    {
+      "key": "VQXRSXTK5HX4JNDUZ265DJFVFGZEGLY6",
+      "path": "models/blocks/hive/small_fruit_crate.geometry.json"
+    },
+    {
+      "key": "2EAQLDE5MJJVBFPTKIJYQAMQ2JJE44E4",
+      "path": "textures/blocks/hive/wrought_iron_bars_corner.png"
+    },
+    {
+      "key": "5JW6YPDH54PPJJHR2F5MJF2V3WDND3CA",
+      "path": "textures/blocks/hive/deepslate_pillar.png"
+    },
+    {
+      "key": "POAQD3PYDLUESCXTC5BQLHXBMFCDZD5J",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_6.png"
+    },
+    {
+      "key": "7T6JUAODKZIG3HD4VBE45FFIMBUZYZGW",
+      "path": "textures/blocks/hive/purple_creeping_thyme.png"
+    },
+    {
+      "key": "7DYWWDN6GZ3TRTZCCHZZBSIDRYYH5ABF",
+      "path": "textures/blocks/hive/cardboard_box.png"
+    },
+    {
+      "key": "KELDFQ45NIKFSRKXAMA45RBMA5MEIJAF",
+      "path": "textures/blocks/hive/jungle_ivy.png"
+    },
+    {
+      "key": "ZY7T2Q5NV4OIURYJYHHARAOGLK7OAU4V",
+      "path": "textures/blocks/hive/mangrove_skirting_up_down.png"
+    },
+    {
+      "key": "AAIM3HRD54P4O5VYEVHQ5TGDTPEZ4Y2W",
+      "path": "textures/blocks/hive/small_purple_mushroom.png"
+    },
+    {
+      "key": "EE5FDJYY26CTBXH7JATQJXP6URWLDOWA",
+      "path": "models/blocks/hive/tankard.geometry.json"
+    },
+    {
+      "key": "N4NPEJWONWU2E4SIOWHTR74G2WCVYLB7",
+      "path": "textures/blocks/hive/mossy_granite_herringbone_bricks.png"
+    },
+    {
+      "key": "J35RMUIYGBO76E6V6YB3P3D5MMIOAOU3",
+      "path": "textures/blocks/hive/crimson_shutters.png"
+    },
+    {
+      "key": "YPX7DIWTZH3OX2UILGOYZZCNE5IEQCLT",
+      "path": "textures/blocks/hive/oak_lattice_corner.png"
+    },
+    {
+      "key": "GXGG55MF4MNN5ZISGVRAQEEI3G4IIMVI",
+      "path": "textures/blocks/hive/looped_jungle_vine_.png"
+    },
+    {
+      "key": "O3ECIHKFZNMQXT2JUOOZASQ4DNBAMVFL",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_6_down.png"
+    },
+    {
+      "key": "5F4TW6I2C7H4YPS7UZX3U5VKXG6CZ4EK",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_2_down.png"
+    },
+    {
+      "key": "L5LTZEU7H664I4I35W62M57KJMQGQPAH",
+      "path": "textures/blocks/hive/old_ceiling_tile.png"
+    },
+    {
+      "key": "A4VDVYHCTF6YHSCXFN3RKMCWCZAK36WN",
+      "path": "textures/blocks/hive/lilac_willow_leaves.png"
+    },
+    {
+      "key": "PMKH4X5QUKQWSLUU737GTWIFF4X5D4Q7",
+      "path": "textures/blocks/hive/mixed_deepslate_bricks_up_down.png"
+    },
+    {
+      "key": "HMSFXA25OCTL3TUGETM3MWYRYV3NWM42",
+      "path": "textures/blocks/hive/sakura_skirting.png"
+    },
+    {
+      "key": "ORPSOHK46TUPZ5RYZNIB3DVZZ3XAI2W4",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_3_down.png"
+    },
+    {
+      "key": "SPHATGTU62LD6XP76WL4HBFEDLMM6G73",
+      "path": "models/blocks/hive/patch_high.geometry.json"
+    },
+    {
+      "key": "SGWXQ4TP63ABFCXYNHY6IMW6EKFAQKST",
+      "path": "textures/blocks/hive/left_angled_jungle_shutters.png"
+    },
+    {
+      "key": "PMB6YW6OFRCGJYZXXGDYWEMXKLBNS424",
+      "path": "textures/blocks/hive/left_angled_warped_shutters.png"
+    },
+    {
+      "key": "PIELGSW3J4I7ATVIARMWTYEMDIFJHZPK",
+      "path": "textures/blocks/hive/roof_tile_amber_5.png"
+    },
+    {
+      "key": "AANOPVVKTUMR3MZIFTKJKWCFLH3GAK5F",
+      "path": "textures/blocks/hive/small_blue_mushroom.png"
+    },
+    {
+      "key": "37NAAKVKKFVY2NYSGHNRH4X2UUJSGJ6Q",
+      "path": "models/blocks/hive/vine.geometry.json"
+    },
+    {
+      "key": "PRQLDWRZPCTR24ZVZXANAXQWVNWLK5DK",
+      "path": "textures/blocks/hive/red_creeping_thyme.png"
+    },
+    {
+      "key": "XNYAOAWL73WVQVIRQOCUWSUAQBXF2Q7Q",
+      "path": "models/blocks/hive/plaster_frame_right_diagonal.geometry.json"
+    },
+    {
+      "key": "S44F4ST72QTXD6NFU6I7AIA5UAIN23C2",
+      "path": "models/blocks/hive/large_pebbles.geometry.json"
+    },
+    {
+      "key": "YZUI62XWDISOHA2XZH35SKIUY7WJYSDU",
+      "path": "models/blocks/hive/picket_fence_inner_corner.geometry.json"
+    },
+    {
+      "key": "CLTKVDCWX3O7SFIWWQSISWX4NOXMTRQP",
+      "path": "textures/blocks/hive/dark_terracotta_bricks.png"
+    },
+    {
+      "key": "C22A7IWUGBYYKZDCKYVIXY7PLEHXZGMP",
+      "path": "models/blocks/hive/picket_fence.geometry.json"
+    },
+    {
+      "key": "EJQTQELGZWQS4TYTKJYFIK6J6RNKFAN7",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_5_down.png"
+    },
+    {
+      "key": "DHDQEV66GIOIDDH5SY5T3ZHTQ3PKWCL4",
+      "path": "textures/blocks/hive/thin_andesite_bricks.png"
+    },
+    {
+      "key": "XELD44FWGR52YYYYATUSYI5GZOCZAAN6",
+      "path": "models/blocks/hive/arrow_glyphs.geometry.json"
+    },
+    {
+      "key": "DMPGRW4TV5533AJ4RJL4MAOYVXDHL6XJ",
+      "path": "textures/blocks/hive/sword_wall_rack.png"
+    },
+    {
+      "key": "PVVVJBVR25B36L4KCCKE4QQ4KJSWEZHV",
+      "path": "textures/blocks/hive/cardboard_box_up_down.png"
+    },
+    {
+      "key": "5OUCZREF4U2AQGF4ILSW7YYL22PF336V",
+      "path": "models/blocks/hive/stone_wall_corner.geometry.json"
+    },
+    {
+      "key": "4OK32JR5LWKIEKGQTNANS5ECBQZ76EXW",
+      "path": "textures/blocks/hive/right_angled_dark_oak_shutters.png"
+    },
+    {
+      "key": "CBVFE2VPQRHN6F4ZKCGP25E53Q3IHYVM",
+      "path": "textures/blocks/hive/orange_cobbled_terracotta_bricks.png"
+    },
+    {
+      "key": "WK7QQJ22D6TEEK253Q5MKRWLRKKSJZM2",
+      "path": "textures/blocks/hive/snake_plant.png"
+    },
+    {
+      "key": "N3SVGFLH6KGOD5ZL6JHU6XZW57GXE4ZP",
+      "path": "textures/blocks/hive/wonky_spruce_plank.png"
+    },
+    {
+      "key": "NKW2PO5WPG2GZXVUWGIKEQQOMTULLQ7L",
+      "path": "textures/blocks/hive/decayed_plastered_tan_brick.png"
+    },
+    {
+      "key": "LTJZ554HUNGIEV4U52YR6NGR5GGFTLBQ",
+      "path": "textures/blocks/hive/popcorn_creeping_thyme.png"
+    },
+    {
+      "key": "YDTNMHXKKKE2VH3OVMIVZ5BIQZOUHGN7",
+      "path": "textures/blocks/hive/left_angled_dark_oak_shutters.png"
+    },
+    {
+      "key": "MUFFQ3KEYLEIN3SY2K4FOS4QUB44NRXJ",
+      "path": "textures/blocks/hive/sea_shells.png"
+    },
+    {
+      "key": "ZPD2AJQ3TJX7TSV3M5ELOXUJIK6FSMSC",
+      "path": "textures/blocks/hive/old_wallpaper_skirting_up.png"
+    },
+    {
+      "key": "4EL2TY6T3MAY2ZG4E7UVUI43A6AXBHDE",
+      "path": "textures/blocks/hive/blacksmith_sign.png"
+    },
+    {
+      "key": "NAMAPKFKGLPH2CVS7TAE7U6JEAOWACJX",
+      "path": "textures/blocks/hive/climbing_rose_vine.png"
+    },
+    {
+      "key": "TJNKTVBX5QJ5PPSIWJB2WGXCFVBWM3TQ",
+      "path": "textures/blocks/hive/sand_gradient_4.png"
+    },
+    {
+      "key": "4DMLDNYVR4O424T4IXLPKDD2FVFSXULI",
+      "path": "textures/blocks/hive/bookshelf_borderless.png"
+    },
+    {
+      "key": "SALU2F2TCLGUIIL4JT5R76CFBSVCBT2P",
+      "path": "textures/blocks/hive/lily_pad_big.png"
+    },
+    {
+      "key": "EB4VZOO5DTQOMC7X37WBZV3Z56DZASWT",
+      "path": "models/blocks/hive/hanging_tiki_lantern.geometry.json"
+    },
+    {
+      "key": "64PR7YIPGJVYN2GGWTJ5VHKAROFD6DWJ",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_4_down.png"
+    },
+    {
+      "key": "23LOCNWYRAYNL2LYIARVAGZN5EHJ24C7",
+      "path": "textures/blocks/hive/crooked_fence_posts.png"
+    },
+    {
+      "key": "STMGL5X23WQ2VKMTLFENMR5JK3CO2PFX",
+      "path": "textures/blocks/hive/right_angled_jungle_shutters.png"
+    },
+    {
+      "key": "MFBJGADG42HOHU2PUZZJY52PY3KETOYH",
+      "path": "textures/blocks/hive/mixed_andesite_bricks.png"
+    },
+    {
+      "key": "RKZZ7CN5LCEUFADKTZKOUBJ4AKKHAKY5",
+      "path": "textures/blocks/hive/snowy_pawprints.png"
+    },
+    {
+      "key": "SNJYCYU3XIG4BZ7J5G6RPGWJAWRPJGNT",
+      "path": "textures/blocks/hive/standing_spyglass.png"
+    },
+    {
+      "key": "UKGPL76E5YRYPWWR3T3ZVDSXB3FQTVDW",
+      "path": "models/blocks/hive/fruit_crate.geometry.json"
+    },
+    {
+      "key": "VOF57XU5J6XF5EMBGYRD44JOA56Q3RKA",
+      "path": "textures/blocks/hive/orange_terracotta_brick_skirting_up_down.png"
+    },
+    {
+      "key": "AP6T5RXVH42STR6NYPSWP2HTUPWW3WVK",
+      "path": "textures/blocks/hive/sparse_ivy.png"
+    },
+    {
+      "key": "SMH4B7DXE42GV4KXVGKWCJW3DECH6A26",
+      "path": "models/blocks/hive/sword_weapon_rack.geometry.json"
+    },
+    {
+      "key": "WHAZ4YPM5CCB6BSTGFQ2CPUPG5PX5A2M",
+      "path": "textures/blocks/hive/sakura_panelling.png"
+    },
+    {
+      "key": "BHMYJNALZAZTKISVW2JGQR5PR2VHB4F6",
+      "path": "textures/blocks/hive/bottle_crate.png"
+    },
+    {
+      "key": "7RHRSAOJKRJ4G4KPD4YNI5RXO5VGLZ2S",
+      "path": "textures/blocks/hive/mossy_thin_stone_bricks.png"
+    },
+    {
+      "key": "2M775U3TJVR6N5VWPRQZ66HZ72JBD6WH",
+      "path": "textures/blocks/hive/gift_box_red.png"
+    },
+    {
+      "key": "R2QS4YWH5JOHWFWLAVD422OUY75CIMWZ",
+      "path": "models/blocks/hive/sea_shells.geometry.json"
+    },
+    {
+      "key": "OJMNU2N24LQJBIXH4KK4SSEHQXBJZNGB",
+      "path": "textures/blocks/hive/hanging_tiki_lantern.png"
+    },
+    {
+      "key": "RY7K7P4IC4PXSNQGR2V64NUG6PJW3XFO",
+      "path": "models/blocks/hive/small_patch.geometry.json"
+    },
+    {
+      "key": "2WMGJT53KHL5PLHSKLS765FM6T6HTT7F",
+      "path": "textures/blocks/hive/lotus_flower.png"
+    },
+    {
+      "key": "BHQDB5B2IGW6YAUNCX7WQ4EURDERARGZ",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_4_down.png"
+    },
+    {
+      "key": "M5IIQZRP6V63NMZALHCK475J4GQEJ5RF",
+      "path": "textures/blocks/hive/studio_floor_yellow.png"
+    },
+    {
+      "key": "SLSHZ2KELPBBJUTV2ECWWXAL7OPUKIDV",
+      "path": "textures/blocks/hive/emerald_roof_awning.png"
+    },
+    {
+      "key": "EW6R3ZCAUU7AVGHQEVS3TU5LNLVZASWX",
+      "path": "textures/blocks/hive/studio_floor_symbol_light_blue.png"
+    },
+    {
+      "key": "UEP3QMMNDFX7DCO2BSY6CNMCEPG7YR4O",
+      "path": "models/blocks/hive/tiki_torch.geometry.json"
+    },
+    {
+      "key": "IY6X2RSS3TSSRCOCZTKIDIWQ3GCSWQCO",
+      "path": "textures/blocks/hive/dark_metal_truss_pane.png"
+    },
+    {
+      "key": "FMUVB476TI27IIUH3R2NA6XF3M7XQ7RA",
+      "path": "textures/blocks/hive/yellow_wrapped_gift.png"
+    },
+    {
+      "key": "NNMVOWILGV2WSFWZL43P7RI62R5PMYZY",
+      "path": "textures/blocks/hive/granite_herringbone_bricks.png"
+    },
+    {
+      "key": "7ZKPOH3WXIILIJEQ3XZC6D2WKB5S5GZS",
+      "path": "textures/blocks/hive/rooftile_aqua_2_slab.png"
+    },
+    {
+      "key": "LRHIQE7M54ZS75C4T3NUNMCWY4DPXASZ",
+      "path": "textures/blocks/hive/medium_pebbles.png"
+    },
+    {
+      "key": "OIMGDQ6YBH6WGJOELB5HPMDHGDM7FVSV",
+      "path": "models/blocks/hive/plaster_frame_bar.geometry.json"
+    },
+    {
+      "key": "QARSV6AY7WO3FJGFVZOCIVG2GFIWO7YR",
+      "path": "textures/blocks/hive/oak_lattice_top.png"
+    },
+    {
+      "key": "ZIDXG4B3DJAE2CF67MILP6AL2NMQPJUL",
+      "path": "textures/blocks/hive/snowy_dirt_transition.png"
+    },
+    {
+      "key": "FVU73PX35SQV2D4FP5YAHZRILVTGIVAU",
+      "path": "textures/blocks/hive/fabric_bolts.png"
+    },
+    {
+      "key": "I4DCR4UI4SJ3RHGMSSPS7VQQJLJCBCCG",
+      "path": "textures/blocks/hive/roof_tile_crimson_5.png"
+    },
+    {
+      "key": "B2I7IE7HWLQX4VZHDXRB5ZIIEWEFF2NQ",
+      "path": "textures/blocks/hive/blue_snapdragons.png"
+    },
+    {
+      "key": "5U2B75TROJKRAO33UGYTRDTU7CLSZYQF",
+      "path": "textures/blocks/hive/polished_stone_brick.png"
+    },
+    {
+      "key": "JGGU27JWXULYNCJMBGPJPL4Q24UD7SY3",
+      "path": "models/blocks/hive/anchor.geometry.json"
+    },
+    {
+      "key": "IEBXRQMPBVUMGT54K5LYOK2PHEFV653C",
+      "path": "textures/blocks/hive/small_teal_glowshroom.png"
+    },
+    {
+      "key": "GYUZUHRTM5ZZQDYH2NI4ZUPHRSJGYZFQ",
+      "path": "textures/blocks/hive/wooden_crate.png"
+    },
+    {
+      "key": "PGDV2TM26R4DG3RFABMRT7ABYZIB2GD5",
+      "path": "textures/blocks/hive/moss_gradient_4.png"
+    },
+    {
+      "key": "M356RJJVTCSHCR6OAB344K5PRHN4JITW",
+      "path": "textures/blocks/hive/roof_tile_amethyst_1.png"
+    },
+    {
+      "key": "HPUORZYTDIEHDHK4JVZMR2WXEY67LUCB",
+      "path": "textures/blocks/hive/wonky_jungle_plank.png"
+    },
+    {
+      "key": "3ZTMS3AKP7X4FGTT2V2RTEA6BNJVOOXK",
+      "path": "textures/blocks/hive/oak_panelling.png"
+    },
+    {
+      "key": "R546IU4KLUI3VGE5QO3X75DCSJ6JQSCE",
+      "path": "textures/blocks/hive/bookshelf_half_empty_up_down.png"
+    },
+    {
+      "key": "V6F7OCUX7B4HSV56BGSC2UQ7LOP3OCYR",
+      "path": "textures/blocks/hive/apple_tree_leaves.png"
+    },
+    {
+      "key": "A5IFDOL2UVZPYPMSZTTOZOXVB7PAPZNW",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_2_up.png"
+    },
+    {
+      "key": "O4FTCLGG27ISS6BKRZQ4YCSBUBH2OCVN",
+      "path": "models/blocks/hive/metal_truss_pillar.geometry.json"
+    },
+    {
+      "key": "JB4IFAGOWKAISVD6MZFCNLNEOBLNJKGI",
+      "path": "textures/blocks/hive/lapis_flower_patch.png"
+    },
+    {
+      "key": "5KHPDC5M5HA6A54WPCMNGL63E6TKEOTF",
+      "path": "textures/blocks/hive/cracked_stone_brick_skirting.png"
+    },
+    {
+      "key": "Q2NOFBJKDSQSY5VJYT2FO6U473F4KGKB",
+      "path": "textures/blocks/hive/small_studio_tiles_purple.png"
+    },
+    {
+      "key": "Z4HN3R4RTF47BUEIVWJF5MGV7VTUMCW2",
+      "path": "textures/blocks/hive/jungle_willow_leaves.png"
+    },
+    {
+      "key": "AF4734OR7RUWLBU3BH2WR24EGNO4LKJD",
+      "path": "textures/blocks/hive/studio_floor_brown.png"
+    },
+    {
+      "key": "TTTEE7JPIHLX4H7VL6CM35EN54SE2M3E",
+      "path": "textures/blocks/hive/bookshelf_empty_up_down.png"
+    },
+    {
+      "key": "VL2NK2Z2HLBWXCXZ64XIX3QSKWKM7P6E",
+      "path": "textures/blocks/hive/plaster_frame_bar.png"
+    },
+    {
+      "key": "HAWUTIBR6T2B4LNELQNKASZEFDQTBO6Y",
+      "path": "textures/blocks/hive/broken_keg.png"
+    },
+    {
+      "key": "HLOL3W6MLJ2ZTSHPWMMYDRZ4EBCTZK27",
+      "path": "models/blocks/hive/plaster_frame_upper_x.geometry.json"
+    },
+    {
+      "key": "VXU723COEDURNLHMO3B33NRUGBOZCYSN",
+      "path": "textures/blocks/hive/spools_of_thread.png"
+    },
+    {
+      "key": "LV62ZDOQVKTJ575FAWGNY7IATI473B6Q",
+      "path": "textures/blocks/hive/aqua_roof_awning.png"
+    },
+    {
+      "key": "RAQHR5UNG6EFEJS6QN5SUKUT4W4OOXPQ",
+      "path": "textures/blocks/hive/large_blue_glowshroom.png"
+    },
+    {
+      "key": "ILHQISTNJLEGZY7ULKWRUJ433FUFPUNB",
+      "path": "textures/blocks/hive/spruce_roof_awning.png"
+    },
+    {
+      "key": "CASQPYCSCGBKGIAMT3LQQOJL53TNN3IS",
+      "path": "textures/blocks/hive/mixed_andesite_bricks_up_down.png"
+    },
+    {
+      "key": "O2L2J7HDRG6GBCEEADJXZT22UGKJTVYN",
+      "path": "textures/blocks/hive/right_angled_warped_shutters.png"
+    },
+    {
+      "key": "UOHUPR4FKYWCJQZKBEACHEPUQN7KTAZF",
+      "path": "textures/blocks/hive/jungle_vine.png"
+    },
+    {
+      "key": "UCACWH7OZFMG4FURVV2KXOVXGUD44JFJ",
+      "path": "textures/blocks/hive/wide_gift_box_blue.png"
+    },
+    {
+      "key": "JAIKPQPVX3DX4FWVQIYL2QHXR2BXI765",
+      "path": "textures/blocks/hive/large_purple_mushroom.png"
+    },
+    {
+      "key": "VIK5ESAIQUAO2SX4WUDA5SVCSDEOSX3A",
+      "path": "textures/blocks/hive/small_pot.png"
+    },
+    {
+      "key": "HJYWSOV5VR4R3NS5KLIQAEFKXHYJLEMI",
+      "path": "textures/blocks/hive/plaster_frame_upper_x.png"
+    },
+    {
+      "key": "CBLGWWAQCAGZBVIIPH2M6P3IKSOH3UEJ",
+      "path": "textures/blocks/hive/red_flower_patch.png"
+    },
+    {
+      "key": "J7BFF2V6MUXDIPMYTTRP2MTQA4YFJ233",
+      "path": "textures/blocks/hive/studio_floor_symbol_gray.png"
+    },
+    {
+      "key": "CCVTYBXK42JWHXWLS7UAILER6NKTQIIV",
+      "path": "models/blocks/hive/toy_train.geometry.json"
+    },
+    {
+      "key": "NCSM3K7PFDMKDOW3ZP7KMD7FHCJLIBBT",
+      "path": "textures/blocks/hive/right_angled_acacia_shutters.png"
+    },
+    {
+      "key": "WGOPWLCR4HVMJ653R3DV57NQE5L3CBSO",
+      "path": "textures/blocks/hive/big_leaf_swamp_plant.png"
+    },
+    {
+      "key": "VZOHZRM2Y6NCQ3ID3PMQDOIKJWQD62OI",
+      "path": "textures/blocks/hive/cracked_mixed_stone_bricks.png"
+    },
+    {
+      "key": "2OATS4FQQJ6K46X7SDPNIHMJOY5OBHRV",
+      "path": "textures/blocks/hive/studio_floor_gray.png"
+    },
+    {
+      "key": "RZX7CXLTVLQ74NVJLLYSCBCCYFGPX5Y6",
+      "path": "textures/blocks/hive/small_stone_brick_tiles.png"
+    },
+    {
+      "key": "5NDCKV35XXMFC5FZDASFGMDHOGUXTA7H",
+      "path": "textures/blocks/hive/vertical_birch_planks.png"
+    },
+    {
+      "key": "EGWBQ6JDCUWF5QUW2WCWOGPQWZ3G72BP",
+      "path": "textures/blocks/hive/stone_herring_bone_bricks.png"
+    },
+    {
+      "key": "JVFBAI22DLTPF52JBZHEGEBRGIOELQ7J",
+      "path": "textures/blocks/hive/terracotta_roof_shingles.png"
+    },
+    {
+      "key": "242KOLU2KN4HSHXYZZHXOFOKULIREQW2",
+      "path": "models/blocks/hive/lamp_post_t.geometry.json"
+    },
+    {
+      "key": "7KRQAFVMJZX2IAZMRL54GERZ5SWNG5OJ",
+      "path": "textures/blocks/hive/tall_blue_flower_patch.png"
+    },
+    {
+      "key": "QRW6BAFJKOV6OXQIRWSABTTX62ZAP7ZM",
+      "path": "textures/blocks/hive/snowy_stone_transition.png"
+    },
+    {
+      "key": "FYWWO5V3EWEXBDILIYFMPWFXHYAXWDZQ",
+      "path": "textures/blocks/hive/wide_gift_box_yellow.png"
+    },
+    {
+      "key": "QUN66FKZX3ZMFB4XW5NPZGI66FFI64ON",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_1_down.png"
+    },
+    {
+      "key": "QCFPXB5A642KP52CMQ4YQ2RTGALJXFYW",
+      "path": "textures/blocks/hive/tipped_wooden_keg.png"
+    },
+    {
+      "key": "K6DQVF3TYGXIFED4NAGLX57K67KW4MXU",
+      "path": "textures/blocks/hive/wide_gift_box_green.png"
+    },
+    {
+      "key": "YFQWIFBSOCZHFYYWDDY6ADFNDFSFDS6T",
+      "path": "textures/blocks/hive/meandering_ochre_plaster.png"
+    },
+    {
+      "key": "CO2IODBZUW2NFP3GJXQGHDJEI2WGWWOG",
+      "path": "textures/blocks/hive/tall_gift_box_blue.png"
+    },
+    {
+      "key": "YTCIUG6QH34ARGTUIHTS22GCOURPPUHV",
+      "path": "textures/blocks/hive/jungle_skirting_up_down.png"
+    },
+    {
+      "key": "26JXHZQ42TPRM2UEW4KNYFFZ3XRZCVYT",
+      "path": "models/blocks/hive/metal_truss_pane.geometry.json"
+    },
+    {
+      "key": "KPRXFZMDE35ILYHHBX5FQYOP6VXOBKZB",
+      "path": "textures/blocks/hive/roof_tile_sunset_6.png"
+    },
+    {
+      "key": "XACZBI42JEE6UI44F2CV4LJ4N7HHKZVD",
+      "path": "textures/blocks/hive/small_studio_tiles.png"
+    },
+    {
+      "key": "EZ72WMGTEA6ZFIZ2TPQAQBTUZVIZNAHI",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_3_down.png"
+    },
+    {
+      "key": "H5XL6NDCTB4YMHCTFDE6IYTAGFFJSES3",
+      "path": "textures/blocks/hive/dark_prismarine_pillar.png"
+    },
+    {
+      "key": "RNMWDS6MUAFBNZJZ5OXBP3UJYOD7KX5V",
+      "path": "textures/blocks/hive/oak_stump.png"
+    },
+    {
+      "key": "QH4MY2U64GCUEWGNWWEEYCEZGHRNCI7T",
+      "path": "models/blocks/hive/axe_weapon_rack.geometry.json"
+    },
+    {
+      "key": "FBRWSHEBC25FETULNKPLRSDDAOLCAUZX",
+      "path": "models/blocks/hive/plaster_frame_middle_bar.geometry.json"
+    },
+    {
+      "key": "XAZL542BDBE5DYDCR6THMIERUBUXON6X",
+      "path": "textures/blocks/hive/mixed_tan_brick.png"
+    },
+    {
+      "key": "7SPAKM6EGVYQ4RWT2K5BI3NRB2MMIKBM",
+      "path": "textures/blocks/hive/roof_tile_crimson_4.png"
+    },
+    {
+      "key": "BMLDWL4H6CYRHMBQZYBHSBUI3E5NVP6P",
+      "path": "textures/blocks/hive/birch_stump.png"
+    },
+    {
+      "key": "B2V5XQ5KZMPXD5FZN43DGIYR5I3MFJ25",
+      "path": "textures/blocks/hive/left_scrawled_arrows.png"
+    },
+    {
+      "key": "HH547A4X6PN7VXCDHT3DDF6SNKJ2RXIY",
+      "path": "textures/blocks/hive/purple_flowered_jungle_ivy.png"
+    },
+    {
+      "key": "5JLFCVFJDMZKV3CNTUWGVNJ5TEAAB7ZC",
+      "path": "textures/blocks/hive/brown_shelf_fungus.png"
+    },
+    {
+      "key": "LFSGY6RLXT2NYI5NTPNYWDB3UTBOPNJT",
+      "path": "textures/blocks/hive/roof_tile_amethyst_2.png"
+    },
+    {
+      "key": "D4EHIUJ6ULZYEBSG3ELGU22X2AAMTN5Q",
+      "path": "textures/blocks/hive/sakura_log.png"
+    },
+    {
+      "key": "B2LOQPEJ3EUDTLMVSI4UODR7AGZPLZLC",
+      "path": "textures/blocks/hive/deepslate_pillar_up_down.png"
+    },
+    {
+      "key": "M4TTN2E5EV5Q7A5JVPOQ7EPZ2YGLI2YT",
+      "path": "textures/blocks/hive/small_dark_prismarine_bricks.png"
+    },
+    {
+      "key": "U73QIIBGY6RCCE42QQQ37UUQG7YROOYP",
+      "path": "models/blocks/hive/hanging_signs.geometry.json"
+    },
+    {
+      "key": "IWAHMFSXGBGVJRFKT3XW6EDMQ6D5CE2D",
+      "path": "textures/blocks/hive/tall_gift_box_white.png"
+    },
+    {
+      "key": "TEHGBGWTUEPY3ZN2HXYH2S53XHDCKAGB",
+      "path": "textures/blocks/hive/sand_gradient_2.png"
+    },
+    {
+      "key": "BNRH7CKRQS2KDXEWKRGUDJDVE5PCMFMW",
+      "path": "textures/blocks/hive/tiki_table_lamp.png"
+    },
+    {
+      "key": "LYTQ7TKPT5KPRECXTSTRFK3PL32J4D4K",
+      "path": "textures/blocks/hive/gift_box_white.png"
+    },
+    {
+      "key": "TUKCO5PJUIUYIOC4UR2GPV53DC2M46DE",
+      "path": "textures/blocks/hive/vertical_crimson_planks.png"
+    },
+    {
+      "key": "XBXX247CQKJWS3QOSQ4KAMYQ2RSJXGXW",
+      "path": "models/blocks/hive/half_plant.geometry.json"
+    },
+    {
+      "key": "2PNLZCSKH3UUTL6CADBVR4TB455UZ3BF",
+      "path": "textures/blocks/hive/stone_gradient_2.png"
+    },
+    {
+      "key": "52E7HKDDU3E6BOT5T7TV452DT5D2A6QI",
+      "path": "textures/blocks/hive/stone_wall_corner.png"
+    },
+    {
+      "key": "XBJ7KNMOWK34DMQ73LZO6UYJQWZ5J5XI",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_4_up.png"
+    },
+    {
+      "key": "HJZCAPPDO3I4R6JAP55CMLDDAVURTEM7",
+      "path": "textures/blocks/hive/roof_tile_emerald_1.png"
+    },
+    {
+      "key": "LNQEVIIZJ7C6LIMLVZSTFTF3KY2TAN6J",
+      "path": "textures/blocks/hive/explosive_keg.png"
+    },
+    {
+      "key": "GGNUTMNT6PGTEVW5AHIAKF7SIOSQZDI4",
+      "path": "textures/blocks/hive/left_angled_mangrove_shutters.png"
+    },
+    {
+      "key": "IJSXNQ6URTEPU6HRNGNZJALVFJTIVAFL",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_4.png"
+    },
+    {
+      "key": "PEE3WWUKCTDUYYHZ7ZRG3UEUFYWG3LKL",
+      "path": "textures/blocks/hive/dark_terracotta_brick_skirting_up_down.png"
+    },
+    {
+      "key": "322LPARAIOXMHMDY5W5LX4DJIXCZNSMK",
+      "path": "models/blocks/hive/double_plant.geometry.json"
+    },
+    {
+      "key": "5TD2F73ZQBO7OKX45QJLDIDJ76VI7V4B",
+      "path": "textures/blocks/hive/cobblestone_brick_corner.png"
+    },
+    {
+      "key": "UHPH77XCF6KBPLMOOEXMZMNA2XVFFGCK",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_1_down.png"
+    },
+    {
+      "key": "JIBD5WC6DS2YR45TWFSR2KLE76BL5YXR",
+      "path": "textures/blocks/hive/mixed_orange_brick.png"
+    },
+    {
+      "key": "XK3TDRGV3J2GF3GJEB3F4UPYCVPQ5G43",
+      "path": "models/blocks/hive/chain.geometry.json"
+    },
+    {
+      "key": "FEURMF2XMESBL2VUTV2WJDDJ56DYRYXB",
+      "path": "textures/blocks/hive/ships_wheel.png"
+    },
+    {
+      "key": "VNYDV446SHO52UMI3KEH43WRZBD5FFAZ",
+      "path": "textures/blocks/hive/lilac_acacia_leaves.png"
+    },
+    {
+      "key": "MUEG5KND6WWNHKAGTUTQFATLLQNMVJMJ",
+      "path": "textures/blocks/hive/dirty_cobbstone.png"
+    },
+    {
+      "key": "LCGPFVMBDGFJX2H64SNBWDP5PUQBO6IS",
+      "path": "textures/blocks/hive/tall_gift_box_green.png"
+    },
+    {
+      "key": "HSQDP55VBPVRSD6A3HOQ7K7C7CNEQJK4",
+      "path": "textures/blocks/hive/left_angled_birch_shutters.png"
+    },
+    {
+      "key": "UPEP7V4ZMKGY2HIA5KEPKHVQXKFHYCH5",
+      "path": "textures/blocks/hive/small_dried_grass.png"
+    },
+    {
+      "key": "KHZZKJIKUAMQHJIIYM6PF6YKK4SZ6KD6",
+      "path": "textures/blocks/hive/anchor.png"
+    },
+    {
+      "key": "J7FARVUPV2QBNGRX3C2TAKRYDTABAZ47",
+      "path": "textures/blocks/hive/decorated_pot.png"
+    },
+    {
+      "key": "5PSQQZ6MKSCP3Y2AL7RLUPCVNMIPC6U4",
+      "path": "textures/blocks/hive/chiseled_terracotta_pillar_up_down.png"
+    },
+    {
+      "key": "HOFZEFOXTJHJ6X4JZVXD56WQGQE3EKJU",
+      "path": "models/blocks/hive/ivy.geometry.json"
+    },
+    {
+      "key": "R6FXJRYQKRZVKRZSTJNZ7RSQH3DVZCVP",
+      "path": "textures/blocks/hive/gift_box_green.png"
+    },
+    {
+      "key": "SUNEULSS3EQE6WP3VU775LW6F5NCVI6E",
+      "path": "textures/blocks/hive/rope_hanging.png"
+    },
+    {
+      "key": "O4JDGCD5LFAQE42VDSDRCRXFT3Q46VZT",
+      "path": "textures/blocks/hive/smoothest_sand_gradient_2.png"
+    },
+    {
+      "key": "UNBQ37M2LMMQLCR4C6CJHBOPKBSPZQD5",
+      "path": "textures/blocks/hive/warped_panelling.png"
+    },
+    {
+      "key": "IKMLRFGYE4RCWPQ34HFXPAZEMBZC7CUV",
+      "path": "textures/blocks/hive/blue_flower_patch.png"
+    },
+    {
+      "key": "H4JDYHOCJCCSIQZPPMQY2ALVKBBUN57V",
+      "path": "textures/blocks/hive/cookies_and_milk.png"
+    },
+    {
+      "key": "5S4L2HRFQHVHD6AJQODPIVOG476VGPSY",
+      "path": "textures/blocks/hive/chiseled_orange_terracotta_pillar_up_down.png"
+    },
+    {
+      "key": "TVK2HK43BAUJDW5ABLSUKUWDSCHZLPB3",
+      "path": "textures/blocks/hive/purple_snapdragons.png"
+    },
+    {
+      "key": "FZUY5JMOSSCL74TZBLCBRGRCSBCGIGUD",
+      "path": "textures/blocks/hive/studio_floor_magenta.png"
+    },
+    {
+      "key": "6RMAU3NBVYYGSTJWENYSRXSXAXGM3PFT",
+      "path": "models/blocks/hive/small_coin_pile.geometry.json"
+    },
+    {
+      "key": "THVNOVX4BNCA4XGGH364ROF7KSSSJJQD",
+      "path": "textures/blocks/hive/white_flowered_jungle_vine.png"
+    },
+    {
+      "key": "OEJLVXEV7CCLIEDQA36PTQKQTWFA2G23",
+      "path": "textures/blocks/hive/orange_brick.png"
+    },
+    {
+      "key": "IRUCGDGBAZMQSF5PYFJ2C2K4VTTQUQAH",
+      "path": "textures/blocks/hive/tankards.png"
+    },
+    {
+      "key": "FIAQFBOL3MUODE5XTNS7OWNAYXLFVQJN",
+      "path": "textures/blocks/hive/wall_rack.png"
+    },
+    {
+      "key": "YEZLO35GEQL63PENRNV37VQ3VG7IGYLA",
+      "path": "textures/blocks/hive/terracotta_bricks.png"
+    },
+    {
+      "key": "SZEFO2OLJWIN4XCXZLH7QZYK7QVFXWCU",
+      "path": "textures/blocks/hive/red_mushroom.png"
+    },
+    {
+      "key": "VN5DVW6DE6JK7S4WSGDEQXW5UYXGODKR",
+      "path": "textures/blocks/hive/jungle_large_planks.png"
+    },
+    {
+      "key": "DJZK4QEQRWYPJ3AEK5R6FFLFYLYZDXJR",
+      "path": "textures/blocks/hive/roof_tile_amethyst_3.png"
+    },
+    {
+      "key": "NZ4U7YUNZFQNVTKXYTGUNKCCVONU4KLS",
+      "path": "models/blocks/hive/plaster_frame_left_diagonal.geometry.json"
+    },
+    {
+      "key": "NLMZ2BUQ42FAKUBZUZKJOOP4R4XWHPNB",
+      "path": "textures/blocks/hive/warped_skirting_up_down.png"
+    },
+    {
+      "key": "PI2YGRXRDLKWNSASBJDEOKDHNX4UVT2V",
+      "path": "textures/blocks/hive/bookshelf_borderless_empty_up_down.png"
+    },
+    {
+      "key": "HUG3MQQXRA23GG7U4BP4XIFUGDNQV573",
+      "path": "textures/blocks/hive/crimson_large_planks.png"
+    },
+    {
+      "key": "QVPMZ2EIBK7BTEUGTYYLNCH5RL6G6GMG",
+      "path": "textures/blocks/hive/oak_wooden_table.png"
+    },
+    {
+      "key": "52JDUX6CRWVTRFO3FVELLESQJ5FQFOO5",
+      "path": "textures/blocks/hive/right_angled_birch_shutters.png"
+    },
+    {
+      "key": "G75AZF6ZU2BXTGXXAGYFN4XOYXLC5Z7J",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_5_up.png"
+    },
+    {
+      "key": "A5BVVQHO4NJE5AEU42JIGCVQU6VM73FR",
+      "path": "textures/blocks/hive/studio_floor_blue.png"
+    },
+    {
+      "key": "XLJ4Y54RBDCNUK36ZXD7LM3J64K72WJ3",
+      "path": "textures/blocks/hive/orange_oak_leaves.png"
+    },
+    {
+      "key": "RE5HNF3GWJN5TLPHXDB2O6XWBYTVJELH",
+      "path": "textures/blocks/hive/crooked_oak_plank.png"
+    },
+    {
+      "key": "DZP5MXQKGCK6Z7HDJSW6TESF3BDF3AAR",
+      "path": "textures/blocks/hive/red_glowshroom.png"
+    },
+    {
+      "key": "CFK3BXMOSL5TIDCYOPDBHRL7DGNZYFSI",
+      "path": "models/blocks/hive/sword_wall_rack.geometry.json"
+    },
+    {
+      "key": "DVGTLNHT45QMLHRMQFWW3M35AFMZZGI5",
+      "path": "textures/blocks/hive/oak_lattice_corner_top.png"
+    },
+    {
+      "key": "C23CW6N4BFNK7MWDBJH4H6D52IFFQYY3",
+      "path": "textures/blocks/hive/stone_gradient_1.png"
+    },
+    {
+      "key": "4TPYUEXZ5BTQEHQ6UUSCMSXOZCYKRG7U",
+      "path": "models/blocks/hive/picket_fence_corner.geometry.json"
+    },
+    {
+      "key": "CNQHZFY3M56TBQZG5D7KBFYHQF3NMOBS",
+      "path": "textures/blocks/hive/roof_tile_emerald_2.png"
+    },
+    {
+      "key": "Q5TORSUOL2NKBVWJGEJ34DQGGYPU22GY",
+      "path": "textures/blocks/hive/terracotta_shingle_awning.png"
+    },
+    {
+      "key": "I4KCTH44SMUAMERNFRTYH4VS6D7PY2PN",
+      "path": "models/blocks/hive/keg.geometry.json"
+    },
+    {
+      "key": "HBXVV2HTHLCW4KKGXUWXTEIJT4GUVEPR",
+      "path": "textures/blocks/hive/crooked_spruce_plank.png"
+    },
+    {
+      "key": "M3S44ADZFEBOMOATSAC3OY34UQ3ZLOLL",
+      "path": "textures/blocks/hive/mossy_granite_tiles.png"
+    },
+    {
+      "key": "RGFRVG3COWGE4ULXSYY543WO4OG75TL2",
+      "path": "textures/blocks/hive/broken_crate.png"
+    },
+    {
+      "key": "JVD7HWO5NT3W43GW7EJTLRPJYXX73G5H",
+      "path": "textures/blocks/hive/sparse_jungle_ivy.png"
+    },
+    {
+      "key": "J7ZTIWOMRJVTOVIMABXN7MEKVBCAWCJ6",
+      "path": "textures/blocks/hive/old_wallpaper_skirting_down.png"
+    },
+    {
+      "key": "K6JR5NSHDMMFFXRPSV2R6XGUCCKTD42D",
+      "path": "textures/blocks/hive/small_coin_pile.png"
+    },
+    {
+      "key": "CLGYL5Q6STQHNXWNVPS7CD5D2F6UCFWW",
+      "path": "textures/blocks/hive/thin_dark_prismarine_bricks.png"
+    },
+    {
+      "key": "7POHM7KBJ7YIWYTXUFIJHRAY74VMDNDL",
+      "path": "textures/blocks/hive/jungle_root_vine.png"
+    },
+    {
+      "key": "YQKJRQV6PJ63UQDIK7D3LGYJFQF5BK33",
+      "path": "textures/blocks/hive/sand_gradient_3.png"
+    },
+    {
+      "key": "NLV5FCSIPV7ZYK3D57DDXO7FINA2JIT5",
+      "path": "textures/blocks/hive/blossom_creeping_thyme.png"
+    },
+    {
+      "key": "H5VLF4OZ3C7HOJBD7ZQUA3T73UJ4I5TW",
+      "path": "textures/blocks/hive/mossy_stone.png"
+    },
+    {
+      "key": "PQJMXEAAOI5PPOK7UN7GEBH3SGYF2GOG",
+      "path": "textures/blocks/hive/studio_floor_cyan.png"
+    },
+    {
+      "key": "3IBQI2AVFWSOOSTUQJNQEHW7GLPS77GT",
+      "path": "textures/blocks/hive/blue_creeping_thyme.png"
+    },
+    {
+      "key": "LAHPRR3L6N3NZUKZQCOEVEDOUMGTILI4",
+      "path": "textures/blocks/hive/decayed_plastered_brick.png"
+    },
+    {
+      "key": "GCKGKTSGFV6DOM7FCJWSQUJYOVCUP5JB",
+      "path": "textures/blocks/hive/acacia_panelling.png"
+    },
+    {
+      "key": "7JT6VPARELZ7FY2LUEE4I22EFBROY7WQ",
+      "path": "textures/blocks/hive/red_oak_leaves.png"
+    },
+    {
+      "key": "DGSDKK5CEWTKHSJLT7FX7JR7LQTOEKGF",
+      "path": "textures/blocks/hive/small_andesite_bricks.png"
+    },
+    {
+      "key": "W2QOO23W6IRSJN37ESVLT5VX4EQUDASG",
+      "path": "textures/blocks/hive/sword_weapon_rack.png"
+    },
+    {
+      "key": "GQWDIJTULWZAQJU3LJYUAW3AWTBOLGLC",
+      "path": "textures/blocks/hive/big_leaf_jungle_plant.png"
+    },
+    {
+      "key": "3YJSYDYY42LXELKBXYTDM24GZITQF4OO",
+      "path": "models/blocks/hive/treasure_map.geometry.json"
+    },
+    {
+      "key": "B5IL7ZJ6OUCUQ3IZNXCMKL3EVISKU7BK",
+      "path": "textures/blocks/hive/smoothest_sand_gradient_1.png"
+    },
+    {
+      "key": "4TFPRFIDTBWIS2HI5U3DILJHARYRQDUX",
+      "path": "textures/blocks/hive/roof_tile_emerald_3.png"
+    },
+    {
+      "key": "J2TMIY7BE5LUSDZSLG6VIFZXYFKEUZUL",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_2_up.png"
+    },
+    {
+      "key": "QULYYIHRRALOP7FHMI3W5CGEVA26ZQOJ",
+      "path": "textures/blocks/hive/stone_brick_tiles.png"
+    },
+    {
+      "key": "2DWY2YBQ4ZKGS6ASLWANTCFLRCTIHEWD",
+      "path": "models/blocks/hive/sparse_ivy.geometry.json"
+    },
+    {
+      "key": "T4EJP73SMHVZOKPYXCVRE6HRAQ6YHUP2",
+      "path": "textures/blocks/hive/wavy_sand.png"
+    },
+    {
+      "key": "C6KC7CAJ35ISD3AANY4UXPPVYZQSBTM4",
+      "path": "textures/blocks/hive/diamond_dark_prismarine_brick.png"
+    },
+    {
+      "key": "5ZXP4YUSQZPDNXQW4O46DQU5PBEWXVSU",
+      "path": "models/blocks/hive/cookies_milk.geometry.json"
+    },
+    {
+      "key": "YWEKUZKZ5DVVZLJTPH63YT2XP4EEWE7F",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_5.png"
+    },
+    {
+      "key": "ED7TTBUDB5JHOJC2Q7T52EEP5OGG6T44",
+      "path": "models/blocks/hive/ground_cover.geometry.json"
+    },
+    {
+      "key": "JIVMTJYJDRECHYERETWEWJVDKWVF4XSV",
+      "path": "textures/blocks/hive/bookshelf_half_empty.png"
+    },
+    {
+      "key": "6AGGZL3QES3HRURFM7JWNUQP3XDS73FM",
+      "path": "textures/blocks/hive/pink_toy_bear.png"
+    },
+    {
+      "key": "ZD5GDDQM4EVGOYOPR27MR663QMB7E7H7",
+      "path": "textures/blocks/hive/cobbled_andesite_bricks.png"
+    },
+    {
+      "key": "A3RMQTGZBFM2AEL3DK6BXVRL2DO4T3ML",
+      "path": "textures/blocks/hive/tall_blossom_patch.png"
+    },
+    {
+      "key": "7ZXED22RPQ5ISN52BYO6NFJ6CI5OUS7M",
+      "path": "textures/blocks/hive/andesite_pillar.png"
+    },
+    {
+      "key": "TKPYKCNUAAQJ7AW3PIMVFV5K4BJOCGNK",
+      "path": "textures/blocks/hive/chiseled_terracotta_pillar.png"
+    },
+    {
+      "key": "5NGYEA2FOIW2Z4Z2GBSUZ7B2PVETWG6K",
+      "path": "textures/blocks/hive/sakura_large_planks.png"
+    },
+    {
+      "key": "IAIKD4QXOFW5TM5K566T3ZW2JMUU7AL4",
+      "path": "models/blocks/hive/roof_awning.geometry.json"
+    },
+    {
+      "key": "7SREO3HMVG65GKSLN2LVZEPDUTY6Z36N",
+      "path": "textures/blocks/hive/bookseller_sign.png"
+    },
+    {
+      "key": "GCSOMN3GFYRYH2XFJDY43VTC6DFGKQXF",
+      "path": "textures/blocks/hive/studio_floor_green.png"
+    },
+    {
+      "key": "4GDISYHWHASSNWYINKQDWPAEOMRYYXNA",
+      "path": "textures/blocks/hive/wonky_oak_plank.png"
+    },
+    {
+      "key": "WIGYANQXDHKZRDRG4FRRCRLT3PL7D62T",
+      "path": "textures/blocks/hive/lazuli_creeping_thyme.png"
+    },
+    {
+      "key": "B7VPTKF65QI4QGZXYYPLNO66NXOEJGAB",
+      "path": "textures/blocks/hive/oak_lattice.png"
+    },
+    {
+      "key": "UPDEZGMODQRRUMOJ4VJPSPLIESBQ34CS",
+      "path": "textures/blocks/hive/studio_floor_symbol_light_gray.png"
+    },
+    {
+      "key": "T2NSQ5KJRDLA2XC62FG4I6Y6IUJYEHQD",
+      "path": "textures/blocks/hive/hanging_sign.png"
+    },
+    {
+      "key": "AJEBCQTHLOZMVFWR3QA4VYIALYXQ5YLM",
+      "path": "models/blocks/hive/thread_spools.geometry.json"
+    },
+    {
+      "key": "JQBZ6TDBVMM27YXL2NTC5SKEK62JP4YG",
+      "path": "textures/blocks/hive/stone_gradient_4.png"
+    },
+    {
+      "key": "LC2H6TICWBCNRQ4374MCL5EILBYILX3P",
+      "path": "textures/blocks/hive/red_wrapped_gift.png"
+    },
+    {
+      "key": "B4G22PIDA3G3WFHINVEBED3QIPESRUG6",
+      "path": "textures/blocks/hive/fawn_shale.png"
+    },
+    {
+      "key": "4JRJRGO52VJJSNADG3A3TBUSVS73FAHZ",
+      "path": "textures/blocks/hive/moss_gradient_1.png"
+    },
+    {
+      "key": "ZSP24CP7TXP7TK3CRSLO5MO2MIH6I5Z3",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_4_down.png"
+    },
+    {
+      "key": "IYBNQ7T7O2ANOKWJMSLY6F3X6RIITQTY",
+      "path": "textures/blocks/hive/yellow_oak_leaves.png"
+    },
+    {
+      "key": "VEJURESLT7AEU4SNVSJZFQWJOPBPDPQA",
+      "path": "textures/blocks/hive/plaster_frame_lower_x.png"
+    },
+    {
+      "key": "J5BTMRB3XMJ6RZBVC5RIT56GMVSDIHIP",
+      "path": "textures/blocks/hive/umber_shale.png"
+    },
+    {
+      "key": "Q24C2G56O4SDICFLYIA5IQFTVLZK4A4N",
+      "path": "textures/blocks/hive/lime_wrapped_gift.png"
+    },
+    {
+      "key": "U2DI4RFKO7LTUHYVQIP5LYMKMPJN5KDB",
+      "path": "textures/blocks/hive/studio_floor_lime.png"
+    },
+    {
+      "key": "OOY4XUJEBIOHXRPYFKHYG6KPLJ4NNEGA",
+      "path": "textures/blocks/hive/bookshelf_borderless_half_empty_up_down.png"
+    },
+    {
+      "key": "LHYRPJDUEOYKCSUKH2GNMMCALOL7NZ4I",
+      "path": "textures/blocks/hive/snowy_footprints.png"
+    },
+    {
+      "key": "BQIZDC4GVHWJASXG4IJYEAKMP52TED2U",
+      "path": "textures/blocks/hive/small_apple_crate.png"
+    },
+    {
+      "key": "OQQ52WLPLPVPXYD35QTNL3X6BSUSKODR",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_2_down.png"
+    },
+    {
+      "key": "HU454WHUO4KHF6GVJBN6PA7WLTY3ZYHO",
+      "path": "textures/blocks/hive/unpowered_ceiling_light.png"
+    },
+    {
+      "key": "Y4NYUOCQ2UGAJRPN5Z3ZY7SFZT6E2CWZ",
+      "path": "models/blocks/hive/plaster_frame_lower_x.geometry.json"
+    },
+    {
+      "key": "6UMN26NHO3NS4F7RMSXJNLJRJWNZWJBY",
+      "path": "models/blocks/hive/shelf_fungus.geometry.json"
+    },
+    {
+      "key": "DK5NBLL7YIOLISKYSNSQNL5Z2GAWEFZ3",
+      "path": "textures/blocks/hive/snowy_dirt_up.png"
+    },
+    {
+      "key": "SUBSLXOLQHXFWA4ULTMP4MAW46CMYCIG",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_1.png"
+    },
+    {
+      "key": "FTG3IUUHQZBAR3LYN7SNC66IDVK23PD7",
+      "path": "textures/blocks/hive/old_wallpaper.png"
+    },
+    {
+      "key": "IBBDYQ6GLIP6HGLLPE4PVBBAAVL6KEBL",
+      "path": "textures/blocks/hive/orange_brick_corner.png"
+    },
+    {
+      "key": "6SWCOULIV67F4PCBOUTJJAJMXJNBUORC",
+      "path": "textures/blocks/hive/birch_shutters.png"
+    },
+    {
+      "key": "L4ADPYXOA7PABEBKLWLU36RM3K5PWSPF",
+      "path": "textures/blocks/hive/dark_stone_wall_corner.png"
+    },
+    {
+      "key": "OOKYDSSVXG3CAKFTXIBWEPM4FJVKDEAF",
+      "path": "textures/blocks/hive/dark_prismarine_herringbone_bricks.png"
+    },
+    {
+      "key": "VKRO5OWXPM6666QTUEMD3J46RWBWH6F7",
+      "path": "textures/blocks/hive/large_purple_glowshroom.png"
+    },
+    {
+      "key": "RRWKRX5LRQM7EBMMCF5XM6HCDS2I6A5Y",
+      "path": "textures/blocks/hive/broken_plastered_cream_brick.png"
+    },
+    {
+      "key": "DSU5WYQIBZXZSTWFBPGPINUPQEJM5I5D",
+      "path": "textures/blocks/hive/old_wallpaper_skirting.png"
+    },
+    {
+      "key": "FRXG3TC6QSZZMUDAPENNIJGKGWYK3QDG",
+      "path": "textures/blocks/hive/dark_oak_large_planks.png"
+    },
+    {
+      "key": "HJFILM6UZZ2S7IKRNJDHJOFI47RJIGDO",
+      "path": "textures/blocks/hive/smooth_stone_pillar_up_down.png"
+    },
+    {
+      "key": "SSODRH5NY5F6CKZ73NWHTAQPIF5KNPDT",
+      "path": "textures/blocks/hive/sand_gradient_1.png"
+    },
+    {
+      "key": "UFVZPVZXDMSKRW2XSKODOD5QSEB5AJW6",
+      "path": "textures/blocks/hive/dark_prismarine_skirting.png"
+    },
+    {
+      "key": "ZONZFBBRAZHZZ34L6E5CTLQJ7LPIDPB3",
+      "path": "textures/blocks/hive/purple_wrapped_gift.png"
+    },
+    {
+      "key": "DV4WSMNIPA35WFOOVUY25FMS7IMCA4V2",
+      "path": "textures/blocks/hive/jurassic_grass.png"
+    },
+    {
+      "key": "5HGWTFUMAXICXMAUVDQETMVJEODPWTE2",
+      "path": "textures/blocks/hive/studio_floor_symbol_black.png"
+    },
+    {
+      "key": "S2AXBJM5OXG7O4TFB4NDVBJYCF6GSHTN",
+      "path": "textures/blocks/hive/birch_large_planks.png"
+    },
+    {
+      "key": "45GEJWPC24LFFSRSTPRW2OLKSE2RGTU3",
+      "path": "models/blocks/hive/plant.geometry.json"
+    },
+    {
+      "key": "23UYPMT3MV5XO7GOV4P3GBQDSHWQTC56",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_2_down.png"
+    },
+    {
+      "key": "CD3LMJHPWEYZDD4TG2AI7XTSZSTKG5IU",
+      "path": "textures/blocks/hive/chiseled_dark_terracotta_pillar_up_down.png"
+    },
+    {
+      "key": "JFPAYHBDA3WEO5BXCWXMDQXCBUDLUJJA",
+      "path": "textures/blocks/hive/tall_frost_patch.png"
+    },
+    {
+      "key": "T6N447ERAGWW72Z4IAAGXZT7XO7HTC24",
+      "path": "models/blocks/hive/small_pebbles.geometry.json"
+    },
+    {
+      "key": "3VUBXDNC67LYMRQ4A7WHBYA26PCITODX",
+      "path": "textures/blocks/hive/orange_fruit_crate.png"
+    },
+    {
+      "key": "RTCZ4PYHLCB7ZG7JYV52C2ORYQYDBICO",
+      "path": "textures/blocks/hive/cardboard_box_north.png"
+    },
+    {
+      "key": "FI2PKANS4A7RY2Z7X5GWULRT4V5JRFQI",
+      "path": "models/blocks/hive/stacked_bottle_crates.geometry.json"
+    },
+    {
+      "key": "CIF4FZOQBBHQ623BNIXKY5OZ3WKPXFKD",
+      "path": "textures/blocks/hive/warped_large_jointed_planks.png"
+    },
+    {
+      "key": "OM6AMTLXE57CMGHLFTYVLIXECESUBEMV",
+      "path": "textures/blocks/hive/light_blue_wrapped_gift.png"
+    },
+    {
+      "key": "XTTP4GZN7AUI747OQDIPON2QE3ZNWQZR",
+      "path": "textures/blocks/hive/spruce_skirting.png"
+    },
+    {
+      "key": "CKNX2AZ3DUW4J5HYP5BM3JMEMFUEWIOW",
+      "path": "textures/blocks/hive/large_dried_grass.png"
+    },
+    {
+      "key": "7ZTFAQR5CABQNEYAIADEQUF2FGDQF2DC",
+      "path": "textures/blocks/hive/mossy_dirt_transition.png"
+    },
+    {
+      "key": "XXBF6TX2BSLQN6DIIMFRNKOPWEZI2FT7",
+      "path": "textures/blocks/hive/stone_gradient_3.png"
+    },
+    {
+      "key": "WAZGSR7MBSXLH5HT7UOXHRTFFCKAK6K2",
+      "path": "textures/blocks/hive/granite_tiles.png"
+    },
+    {
+      "key": "AAJLH37IZ2I5UBYFW4VWR2FREH7VS35R",
+      "path": "textures/blocks/hive/jungle_large_jointed_planks.png"
+    },
+    {
+      "key": "MX2OW6XIASWUBAJZBTTPBTTPVY6TP3E6",
+      "path": "textures/blocks/hive/chiseled_dark_terracotta_pillar.png"
+    },
+    {
+      "key": "Y2ZNKH4YAXFT2S6GFZUVAYHU3UCSTKGY",
+      "path": "textures/blocks/hive/shattered_crate.png"
+    },
+    {
+      "key": "CHOT5F3AISVPJMSSAX6JFCU6ZRO4GTCR",
+      "path": "textures/blocks/hive/lily_pad.png"
+    },
+    {
+      "key": "BGQTAEUBD2K7F6PE55UXLZZBLCL3NZOW",
+      "path": "textures/blocks/hive/mossy_stone_brick_skirting_up_down.png"
+    },
+    {
+      "key": "LWEYGPKFVML5SSGT5TLPENEOX57D2AXP",
+      "path": "textures/blocks/hive/post_office_boxes_up_down.png"
+    },
+    {
+      "key": "ZYVI52NCFS7LZCQPP37WBZXIVMQHAA2B",
+      "path": "textures/blocks/hive/tipped_explosive_keg.png"
+    },
+    {
+      "key": "5UXDTW77WINJ2ZLUGMJSQUSNG5R6KQUD",
+      "path": "models/blocks/hive/ships_wheel.geometry.json"
+    },
+    {
+      "key": "HER5DHGOKHCF4FTRQWF2G5NWWELIKIN2",
+      "path": "textures/blocks/hive/stone_brick_skirting.png"
+    },
+    {
+      "key": "I5ISOWMERSWEK5HGN4HXS32RJSD6QW65",
+      "path": "textures/blocks/hive/large_teal_glowshroom.png"
+    },
+    {
+      "key": "IHQLTV7LXZSZMAMNQD6JNFRPBCYR6DFA",
+      "path": "models/blocks/hive/book_crate.geometry.json"
+    },
+    {
+      "key": "3JAD324EJZBMYSVZT3WL3B3XX7GOVULE",
+      "path": "models/blocks/hive/slab_bottom.json"
+    },
+    {
+      "key": "AIC6A2SHY5QYVH5NWMRSAALF5YSRP3LV",
+      "path": "textures/blocks/hive/gift_box_blue.png"
+    },
+    {
+      "key": "7UHHT24W4QKCIKWE6KSIGQYJ7KAOQZXU",
+      "path": "textures/blocks/hive/tan_brick.png"
+    },
+    {
+      "key": "T7FIEES5AQT7YVZ5IDZ4XBMT4M3CSNBO",
+      "path": "textures/blocks/hive/magenta_wrapped_gift.png"
+    },
+    {
+      "key": "GHDGYJYCH6ZXUSKMODHGBWACNGM3QC4H",
+      "path": "textures/blocks/hive/large_pebbles.png"
+    },
+    {
+      "key": "B7TFZIVZ6BOYFXOE2TMRAJONOMADXMIP",
+      "path": "textures/blocks/hive/wanted_poster.png"
+    },
+    {
+      "key": "74VY63D2LYWXTKLUAWQ53A5NMIMUXTB6",
+      "path": "textures/blocks/hive/crooked_fence.png"
+    },
+    {
+      "key": "JUPUX2NMDLCVPOXLWYRFV7FC5QBBR4SL",
+      "path": "textures/blocks/hive/dark_terracotta_brick_skirting.png"
+    },
+    {
+      "key": "5YBRUD5SHY3BVQ2TUGNAUAIDZPHGMPZ2",
+      "path": "textures/blocks/hive/lotus_flower_lilypad.png"
+    },
+    {
+      "key": "Z2WDZGHBRII53NEI3OQ5PJUJGKBOARDX",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_6.png"
+    },
+    {
+      "key": "BUCVYKRB5ZMPIDH7OQ3624ZMLEXTP3IE",
+      "path": "textures/blocks/hive/pink_flower_patch.png"
+    },
+    {
+      "key": "HA7BJUCDIFMROUPZIG45I55FSD4LDLLW",
+      "path": "textures/blocks/hive/old_carpet.png"
+    },
+    {
+      "key": "XHKRF4KWSQDSTX4Z6GCKSKP7VF66T7WD",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_3_up.png"
+    },
+    {
+      "key": "YGJCCHQNMHNPCB2HYZKSJCJYRW7FRVBR",
+      "path": "textures/blocks/hive/spruce_skirting_up_down.png"
+    },
+    {
+      "key": "RMLQRIUW6XFJ7XGGCWC7LW5WYRCAY3PB",
+      "path": "textures/blocks/hive/dwarf_shrub_yellow.png"
+    },
+    {
+      "key": "AUJPV6PUEIPR7VBUUBG57GUUXPNUZ6GD",
+      "path": "textures/blocks/hive/large_coin_pile.png"
+    },
+    {
+      "key": "L4PNTZ7IL3KERQPVQNNWZUF53Q7Y5HEO",
+      "path": "textures/blocks/hive/lavender.png"
+    },
+    {
+      "key": "33FUE7TNYZNCCELIL5IFPPJVF7NDB67R",
+      "path": "textures/blocks/hive/vertical_oak_planks.png"
+    },
+    {
+      "key": "OBQF3ZT5THJTBXSH2FXB2DGAHDFSUOC2",
+      "path": "textures/blocks/hive/daffodil_patch.png"
+    },
+    {
+      "key": "BW3GHJOUD763LQ5BNRD4PFSD3NMMKTNF",
+      "path": "textures/blocks/hive/purple_flower_patch.png"
+    },
+    {
+      "key": "RXCTBOYR25NTI5QENQFIU2TWX3SAS3HQ",
+      "path": "textures/blocks/hive/sandstone_bricks.png"
+    },
+    {
+      "key": "F2RIWYFJCZV2SCLIYJHONHKXLOWQY563",
+      "path": "textures/blocks/hive/crimson_panelling.png"
+    },
+    {
+      "key": "YPTSXGZ3S6LNMKX7E3NS3OMDIKAO2T72",
+      "path": "textures/blocks/hive/candy_creeping_thyme.png"
+    },
+    {
+      "key": "6QV76HLMM4VEMGLPOR2SYYGXCKJCHAQS",
+      "path": "textures/blocks/hive/crumbling_cobblestone.png"
+    },
+    {
+      "key": "GNOPIXGSD3IZXOJEMYTMUBJQPOH3CZKX",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_1_down.png"
+    },
+    {
+      "key": "2UJVDXZDGSQDM53FQ3HM3OHXQUGKFDHH",
+      "path": "textures/blocks/hive/stone_wall.png"
+    },
+    {
+      "key": "FR4FY5OVFI5YWPZEXN3L47DEHOVUBYNE",
+      "path": "models/blocks/hive/large_coin_pile.geometry.json"
+    },
+    {
+      "key": "CHFRDF5CGI7WEIAQPY323BQIXDA2CPV4",
+      "path": "textures/blocks/hive/stacked_bottle_crates.png"
+    },
+    {
+      "key": "BQCI23GW7AUEJSPANFUGL7N3QC44TU6X",
+      "path": "textures/blocks/hive/blue_wrapped_gift.png"
+    },
+    {
+      "key": "6PSKDHRB54LXPXVSANYZKLUKHNIYYWSL",
+      "path": "models/blocks/hive/crooked_jungle_plank.geometry.json"
+    },
+    {
+      "key": "U4T2JDYXZUTKTW4WNB6W3YYZFK7UN4DN",
+      "path": "models/blocks/hive/toy_bear.geometry.json"
+    },
+    {
+      "key": "K3REKPL26WQP2U7ZR5HN756LDZPDS45Q",
+      "path": "textures/blocks/hive/birch_skirting_up_down.png"
+    },
+    {
+      "key": "WA7L7ER3AR62NSYSRHIIV7XVOJYRL5PC",
+      "path": "models/blocks/hive/slab_top.json"
+    },
+    {
+      "key": "UYXRHWR2MVZLHZNJPVFS4UEUBFZEI7LQ",
+      "path": "textures/blocks/hive/rubblestone.png"
+    },
+    {
+      "key": "6NA32AMQ755NLWUJZ3QKJVYHCAWWAQRX",
+      "path": "textures/blocks/hive/pink_glowshroom.png"
+    },
+    {
+      "key": "7KTPDPAKMPEPYYTH4IQY5BY4GLKKM6LX",
+      "path": "textures/blocks/hive/studio_floor_pink.png"
+    },
+    {
+      "key": "GJOUHIUAS43L7SPPIMJ4HG6B5W5INDLW",
+      "path": "textures/blocks/hive/bookshelf_borderless_up_down.png"
+    },
+    {
+      "key": "OUREUYF6JLAMTA73YVIWR7MOISGZH2E5",
+      "path": "textures/blocks/hive/snowy_roof_tile_sunset_1_up.png"
+    },
+    {
+      "key": "QEHZYGLIJHELU7DNPLWOSEQVVX2ECERN",
+      "path": "textures/blocks/hive/mossy_dirt.png"
+    },
+    {
+      "key": "3TYMG5LT5QSOBEZ3MAJUMVKEB4NR6WUN",
+      "path": "textures/blocks/hive/mangrove_large_jointed_planks.png"
+    },
+    {
+      "key": "CPZJRGLANVRUVO7TYMUHXDAKU4XBCNHJ",
+      "path": "models/blocks/hive/tiki_table_lamp.geometry.json"
+    },
+    {
+      "key": "5TRTQUHXMRZYPUOFXGM52NPDGIWVWFES",
+      "path": "textures/blocks/hive/plaster_frame_right_diagonal.png"
+    },
+    {
+      "key": "FY3DJWM425SN3FSTVOWWVRZMXS56JCP6",
+      "path": "textures/blocks/hive/cracked_stone_small_bricks.png"
+    },
+    {
+      "key": "WEAR7TMGDGS5GOLRVVAKKPVVSS6R2LWE",
+      "path": "textures/blocks/hive/moss_gradient_3.png"
+    },
+    {
+      "key": "RHZZCKKR4MBK25NNH7DBI2GYIDBOYPFR",
+      "path": "textures/blocks/hive/verticle_dark_prismarine_bricks.png"
+    },
+    {
+      "key": "N2QASDIX7A5W6UF56UQXWV5HCUUOHUHX",
+      "path": "textures/blocks/hive/sandstone_pillar.png"
+    },
+    {
+      "key": "NEGYQQQAPC22UN527NOV3ABNNWSYJCJK",
+      "path": "textures/blocks/hive/roof_tile_stone_1.png"
+    },
+    {
+      "key": "5BTHPAEDEJE3UDFGLOK32KSFN5MZN4H2",
+      "path": "textures/blocks/hive/decorated_thin_blue_pot.png"
+    },
+    {
+      "key": "B6O2XTXNZNHNK4DO53C7GQPUSIH5AQ5W",
+      "path": "textures/blocks/hive/stone_brick_pillar_up_down.png"
+    },
+    {
+      "key": "MBSMDEYPRSJJKPUVWJHKP4DSJPBH6S2R",
+      "path": "textures/blocks/hive/rope_chain.png"
+    },
+    {
+      "key": "ZO25CDBVJRBX3JFOLLRUTQIRJ57Z3MH7",
+      "path": "models/blocks/hive/shattered_crate.geometry.json"
+    },
+    {
+      "key": "TURHRMYSDRKJX3JQ3T33JGRHMI373QS5",
+      "path": "textures/blocks/hive/smooth_stone_pillar.png"
+    },
+    {
+      "key": "GX46LJQBIYHQDAJRIPWE2FUOKXEKIKND",
+      "path": "textures/blocks/hive/crooked_jungle_plank.png"
+    },
+    {
+      "key": "GRUP77RO3BCCIFDR62N3VIEVSODTH55P",
+      "path": "textures/blocks/hive/right_angled_mangrove_shutters.png"
+    },
+    {
+      "key": "JWBOHRBQJ3NTHGC2ZHKOBZECNNPQJW64",
+      "path": "textures/blocks/hive/snowy_stone_down.png"
+    },
+    {
+      "key": "4SLX3BRSDAWJUJTFVBP2H3BR5BD6V63C",
+      "path": "models/blocks/hive/willow_leaves.geometry.json"
+    },
+    {
+      "key": "BUJTKBD6OKNUUKPB5ZKC4DDLOV4BQHU6",
+      "path": "models/blocks/hive/large_lamp.geometry.json"
+    },
+    {
+      "key": "EVSSTCCJMSZHT6EDFDGDJWHXR5MUNLDX",
+      "path": "textures/blocks/hive/mossy_terracotta_roof_shingles.png"
+    },
+    {
+      "key": "T6SAFMDWJKJN7R2S2Z4IQ7THNM4C34BH",
+      "path": "textures/blocks/hive/vertical_spruce_planks.png"
+    },
+    {
+      "key": "E5XVCCYQ5WVEXR6XMEKZZ4NXJQHYJCAT",
+      "path": "textures/blocks/hive/small_red_mushroom.png"
+    },
+    {
+      "key": "O7HK2DN7XXSEWAVAEE2DEJZYFWR24WEP",
+      "path": "textures/blocks/hive/warped_skirting.png"
+    },
+    {
+      "key": "3HIHYOCIPK6FPENED5AT3ZU6UF3DF7HC",
+      "path": "textures/blocks/hive/tall_pink_flower_patch.png"
+    },
+    {
+      "key": "WV3S3MEIWMNXGDVBM635X6DF72QPBIWW",
+      "path": "textures/terrain_texture.json"
+    },
+    {
+      "key": "TFYU2CTZXUV3I5CL2AEACGXW6HP6K3R4",
+      "path": "textures/blocks/hive/wooden_stool.png"
+    },
+    {
+      "key": "KLPVSKTUNIMX4NYNJLDI7B57KKA4ONW6",
+      "path": "textures/blocks/hive/studio_floor_symbol_orange.png"
+    },
+    {
+      "key": "RWLVSHQYQ5ZGJE2R27ZMLYKGVF2DLLCD",
+      "path": "textures/blocks/hive/deepslate_tiles.png"
+    },
+    {
+      "key": "5XQX5V6MTSKZJUBM5MKAT2YIRAIZZ4QW",
+      "path": "textures/blocks/hive/stripped_sakura_log.png"
+    },
+    {
+      "key": "YMGZJ7EYQPW7VYHW7QM24DRXGGDW72WW",
+      "path": "textures/blocks/hive/studio_floor_black.png"
+    },
+    {
+      "key": "TBBV7GJRJH6E3ZXUI44VGNBWJWHPUWAN",
+      "path": "models/blocks/hive/tiny_coin_pile.geometry.json"
+    },
+    {
+      "key": "U57RKGJEXD7YMICWJZT5IZBS4JX6AZOG",
+      "path": "textures/blocks/hive/mossy_terracotta_roof_tile.png"
+    },
+    {
+      "key": "2S7TJNZBOQLJJMTMRU55AACP2KSCL2PB",
+      "path": "textures/blocks/hive/tipped_broken_keg.png"
+    },
+    {
+      "key": "DIUWF2Q6SZQSEZUS3ZA74V7THULEF6XR",
+      "path": "textures/blocks/hive/cracked_stone_brick_tiles.png"
+    },
+    {
+      "key": "YBDZ3CYDAFZFYAYT6APVJWIV6HTZS32K",
+      "path": "textures/blocks/hive/studio_floor_purple.png"
+    },
+    {
+      "key": "IJBRB3DJT2FVQKBXVQC2XHPRAFSSJXGJ",
+      "path": "textures/blocks/hive/dark_oak_panelling.png"
+    },
+    {
+      "key": "AWOUKM4WDUHIQGAS2FAEIPHCFZTN3ORB",
+      "path": "textures/blocks/hive/plaster_frame_left_diagonal.png"
+    },
+    {
+      "key": "7FSQLTK22XMMUVSUV4SH7ZLQZRL5MOXD",
+      "path": "textures/blocks/hive/snowy_roof_tile_amethyst_5_up.png"
+    },
+    {
+      "key": "XUMWYA4A2K6Y7E37BXONPTJTYHOESOJE",
+      "path": "textures/blocks/hive/tall_rose_patch.png"
+    },
+    {
+      "key": "536DB5K7RURH7EJKVPUBTYVO4TRX3LIB",
+      "path": "textures/blocks/hive/white_picket_fence.png"
+    },
+    {
+      "key": "OF2W4FSI27OXUVXCSXUFSPJFDEBRDKFP",
+      "path": "textures/blocks/hive/small_granite_bricks.png"
+    },
+    {
+      "key": "53542KN66FALRCTQKNPX3AOX2F5CQBFQ",
+      "path": "textures/blocks/hive/white_flowered_trailing_ivy.png"
+    },
+    {
+      "key": "P5ZYKMP4HGXGLMQX4HZLFZVH6IYNEXFN",
+      "path": "models/blocks/hive/left_angled_shutters.geometry.json"
+    },
+    {
+      "key": "OOCP2VYSSITWTHROBB3V6TXSJCDCPI3E",
+      "path": "textures/blocks/hive/oak_large_jointed_planks.png"
+    },
+    {
+      "key": "5LQW2JT6PYARDHSEROLXPWAUKH347MQW",
+      "path": "textures/blocks/hive/dark_prismarine_skirting_up_down.png"
+    },
+    {
+      "key": "Y7T4J2ABGFUPY5XBUF54XHF345IB4FSO",
+      "path": "textures/blocks/hive/axe_weapon_rack.png"
+    },
+    {
+      "key": "XIYMJED4F2HFDGLA3ZGYBDQAVTSCTQXN",
+      "path": "textures/blocks/hive/small_blue_pot.png"
+    },
+    {
+      "key": "I7SUOWKCT3Q7PMPVYJZLHVEZMNMDCIHO",
+      "path": "textures/blocks/hive/studio_floor_symbol_lime.png"
+    },
+    {
+      "key": "6VD5WWP6RP37N7RWU3FWAIBIVDMSDNLQ",
+      "path": "textures/blocks/hive/coarse_sand.png"
+    },
+    {
+      "key": "34Z5LSXD3QAPS3F4NEDXHCUGNIRCQTFS",
+      "path": "textures/blocks/hive/left_angled_sakura_shutters.png"
+    },
+    {
+      "key": "MAHJWEBYK7ISI5YRSZ4W5T767CWDXRLR",
+      "path": "textures/blocks/hive/tall_white_flower_patch.png"
+    },
+    {
+      "key": "6OJHY63TT2NK7BU7DZV3BVCM4VM7TG6J",
+      "path": "textures/blocks/hive/bookshelf_borderless_empty.png"
+    },
+    {
+      "key": "JPCN7EBGQ6MFC3J6KUTNZSVFSSJIVSZ4",
+      "path": "textures/blocks/hive/snow_path_block.png"
+    },
+    {
+      "key": "OFU2JVEFQZWAYQIIDAAFX2YTCKLJ6L4M",
+      "path": "textures/blocks/hive/plaster_frame_middle.png"
+    },
+    {
+      "key": "7GMF6APIAKKPPZG4VVEJZML4IOZ4HF6Z",
+      "path": "models/blocks/hive/brick_corner.geometry.json"
+    },
+    {
+      "key": "AG6UGPW5UXJBR4NSOR7WAKQKJQVUH6KT",
+      "path": "textures/blocks/hive/snowy_roof_tile_crimson_3_up.png"
+    },
+    {
+      "key": "PM3LALXQDILWZIHLXV5AFM6M4FRYN3OT",
+      "path": "textures/blocks/hive/jungle_moss.png"
+    },
+    {
+      "key": "MIJYZP4XWNVDID5LNGJYMSGGORJEJMGW",
+      "path": "textures/blocks/hive/small_pebbles.png"
+    },
+    {
+      "key": "FDTOVNMXMLVMN7JVEEFGEKMAA2J2F3NT",
+      "path": "textures/blocks/hive/stone_brick_skirting_up_down.png"
+    },
+    {
+      "key": "2SAHZKEKG2CAPCXNE7AD6V3YIIBS72QD",
+      "path": "textures/blocks/hive/small_treasure_pile.png"
+    },
+    {
+      "key": "F24IGTBG5H4IABRK72VNCUDEJS532VVP",
+      "path": "textures/blocks/hive/post_office_sign.png"
+    },
+    {
+      "key": "2OGVBQFIXEZ2DPCE7JTV4EFMN6EBKVNQ",
+      "path": "textures/blocks/hive/dark_cobbled_terracotta_bricks.png"
+    },
+    {
+      "key": "F2RS53HUDQE6V5FYRCNT2OIDDJZUTN4V",
+      "path": "textures/blocks/hive/snowy_roof_tile_aqua_5_up.png"
+    },
+    {
+      "key": "CTRU53PXKJKUKBW6VVLYNEPBYZL2SS2C",
+      "path": "textures/blocks/hive/aqua_leaves.png"
+    },
+    {
+      "key": "EMVBMPYSCHVYOJTJCYYLGMV5VHU735LA",
+      "path": "textures/blocks/hive/plastered_brick.png"
+    },
+    {
+      "key": "OBI6LX7LQMD2QKP7BMGO2FCGZRGF6MY6",
+      "path": "models/blocks/hive/lotus_flower.geometry.json"
+    },
+    {
+      "key": "D2VZ65HJ5MUJA67IE754BWUKPO6QKHCJ",
+      "path": "textures/blocks/hive/jungle_skirting.png"
+    },
+    {
+      "key": "SE4AKMCT77MMWHCLWEPMJLV6LKC7NOQF",
+      "path": "textures/blocks/hive/moss_gradient_2.png"
+    },
+    {
+      "key": "BIXTEFFZZKYEIOGV65KGV4VQXJXQGEBA",
+      "path": "textures/blocks/hive/mangrove_skirting.png"
+    },
+    {
+      "key": "WQQOBR25C5GICIYHC2DVWSONEP3X7XKT",
+      "path": "models/blocks/hive/stump.geometry.json"
+    },
+    {
+      "key": "WRZVTM4GEVGMWM4O6IRVQARKS3A4BHL4",
+      "path": "textures/blocks/hive/spruce_panelling.png"
+    },
+    {
+      "key": "HJYEKVS7KZTL2QSD4HWPMCL4Z2GPELKY",
+      "path": "textures/blocks/hive/cardboard_box_east_west.png"
+    },
+    {
+      "key": "BZJCXRQSUMBFD7QMYJWWYTBPAQ4OAAJR",
+      "path": "textures/blocks/hive/chiseled_orange_terracotta_pillar.png"
+    },
+    {
+      "key": "RQS7NPJI46EMT3EL6GSZ7UN2RWWTVKRM",
+      "path": "textures/blocks/hive/small_pink_glowshroom.png"
+    },
+    {
+      "key": "O3SBYRQKF5YUQVBR7G5TYBCGIGTRAG5M",
+      "path": "textures/blocks/hive/stone_brick_pillar.png"
+    },
+    {
+      "key": "AJPCD256JWXZLPSBA5R37F75I452H43O",
+      "path": "textures/blocks/hive/withered_plastered_cream_brick.png"
+    },
+    {
+      "key": "IXYRQJ2PGTU7JWBSIAB7YD5MBQQM3QYR",
+      "path": "models/blocks/hive/large_ships_wheel.geometry.json"
+    },
+    {
+      "key": "CPK5SJLCCEFXOFABOMFF6A7F6WBOTFKO",
+      "path": "textures/blocks/hive/dark_stone_wall.png"
+    },
+    {
+      "key": "SDZMORHST63MJVSOU5SF2WPXHUGMRFCI",
+      "path": "textures/blocks/hive/chiseled_sandstone_pillar_up_down.png"
+    },
+    {
+      "key": "LQR64YJLVL6D5PVOXVL7KDYAOPK4EHKS",
+      "path": "textures/blocks/hive/crimson_skirting.png"
+    },
+    {
+      "key": "Z7LEZE3EYRDNZAQOOKVADRZV7AXRI5SJ",
+      "path": "textures/blocks/hive/dark_oak_large_jointed_planks.png"
+    },
+    {
+      "key": "PYEK6GHGMM5PW3V5YP3V6DRC7V3MKTOO",
+      "path": "textures/blocks/hive/mangrove_panelling.png"
+    },
+    {
+      "key": "4FXTEEPYV5E5Y4AZFQ4552AYWEGGKCTT",
+      "path": "textures/blocks/hive/studio_floor_light_blue.png"
+    },
+    {
+      "key": "YZRAVHN3O3QHPTJMTT4UHNIR2G6IUUA6",
+      "path": "models/blocks/hive/pirate_stool.geometry.json"
+    },
+    {
+      "key": "IQ3AXMIEHTTGAWKET6HV7ELNFYZJRPEL",
+      "path": "models/blocks/hive/standing_spyglass.geometry.json"
+    },
+    {
+      "key": "VPM5WX6TP6AJ5SRMISNJZLI4IW44LW3B",
+      "path": "textures/blocks/hive/studio_floor_symbol_cyan.png"
+    },
+    {
+      "key": "O3VAHHB7KQISH7XESW7DWXVI2JKH2MMQ",
+      "path": "textures/blocks/hive/large_blue_mushroom.png"
+    },
+    {
+      "key": "DDM3Z6PFTDXWN4WKIQNPBLECPYKEEGFK",
+      "path": "textures/blocks/hive/toy_train.png"
+    },
+    {
+      "key": "ARDLZSMA2A65XODSZ5LTAG24VY7SX423",
+      "path": "textures/blocks/hive/right_angled_spruce_shutters.png"
+    },
+    {
+      "key": "L3SD2LIFBTCOVINTLHS42LQNDJP67IPC",
+      "path": "textures/blocks/hive/pink_creeping_thyme.png"
+    },
+    {
+      "key": "SU5AQVUJQWI5EKAIHPIQ77EQR2GVVO63",
+      "path": "textures/blocks/hive/tall_daffodil_patch.png"
+    },
+    {
+      "key": "2KQSCEUH7NMJB7MMBPYRJ3FO7YQZL64P",
+      "path": "textures/blocks/hive/sakura_shutters.png"
+    },
+    {
+      "key": "M4LJ6KBAG6HE7XLXLUIJLHP66K2NR65B",
+      "path": "textures/blocks/hive/terracotta_plaster.png"
+    }
+  ]
+}

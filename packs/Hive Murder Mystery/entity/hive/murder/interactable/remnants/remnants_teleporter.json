@@ -1,0 +1,37 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "spawn": "controller.animation.hive.murder.interactable.remnants.teleporter.spawn"
+        },
+        {
+          "idle": "controller.animation.hive.murder.interactable.remnants.teleporter.idle"
+        },
+        {
+          "use": "controller.animation.hive.murder.interactable.remnants.teleporter.use"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.murder.interactable.remnants.teleporter.idle",
+        "spawn": "animation.hive.murder.interactable.remnants.teleporter.spawn",
+        "use": "animation.hive.murder.interactable.remnants.teleporter.use"
+      },
+      "geometry": {
+        "default": "geometry.hive.murder.interactable.remnants.teleporter"
+      },
+      "identifier": "hivemurder:remnants_teleporter",
+      "materials": {
+        "default": "entity_alphatest",
+        "glowInner": "slime_outer"
+      },
+      "render_controllers": [
+        "controller.render.hive.murder.interactable.remnants.teleporter"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/murder/interactable/remnants/remnants_teleporter"
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.hub.npc.questmaster.action": {
+      "states": {
+        "action_a": {
+          "animations": [
+            "action_a"
+          ],
+          "transitions": [
+            {
+              "reset": "query.all_animations_finished"
+            }
+          ]
+        },
+        "action_b": {
+          "animations": [
+            "action_b"
+          ],
+          "transitions": [
+            {
+              "reset": "query.all_animations_finished"
+            }
+          ]
+        },
+        "default": {
+          "animations": [
+            "pose"
+          ],
+          "transitions": [
+            {
+              "action_a": "query.variant == 1"
+            },
+            {
+              "action_b": "query.variant == 2"
+            }
+          ]
+        },
+        "reset": {
+          "animations": [
+            "pose"
+          ],
+          "transitions": [
+            {
+              "default": "variable.resume_idle = 1; return 1;"
+            }
+          ]
+        }
+      }
+    },
+    "controller.animation.hive.hub.npc.questmaster.idle": {
+      "states": {
+        "action": {
+          "blend_transition": 0.4,
+          "transitions": [
+            {
+              "default": "variable.resume_idle ? (variable.resume_idle = 0; return 1;) : 0;"
+            }
+          ]
+        },
+        "default": {
+          "animations": [
+            "idle",
+            "idle_look",
+            "idle_blink"
+          ],
+          "blend_transition": 0.4,
+          "transitions": [
+            {
+              "action": "query.variant != 0"
+            }
+          ]
+        }
+      }
+    },
+    "controller.animation.hive.hub.npc.questmaster.interact": {
+      "states": {
+        "default": {
+          "transitions": [
+            {
+              "interact": "query.is_baby"
+            }
+          ]
+        },
+        "interact": {
+          "animations": [
+            "interact"
+          ],
+          "transitions": [
+            {
+              "default": "query.all_animations_finished"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

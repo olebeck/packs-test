@@ -1,0 +1,21 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "geometry": {
+        "default": "geometry.hive.murder.interactable.pigment.water.glass"
+      },
+      "identifier": "hivemurder:pigment_water_glass",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.hive.murder.interactable.toggleable"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/murder/interactable/pigment/water_glass/glass_full",
+        "toggled": "textures/entity/hive/murder/interactable/pigment/water_glass/glass_empty"
+      }
+    }
+  }
+}

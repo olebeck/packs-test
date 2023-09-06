@@ -1,0 +1,112 @@
+{
+  "content": [
+    {
+      "key": "5KTI2NGFAD7AW4B3M7F2BAUZ24IMPYIB",
+      "path": "models/entity/hive/hide/taunt/balloon/grassblock.json"
+    },
+    {
+      "key": "LSQGTRKYBKLPZD4PMKORXSURP323VBD3",
+      "path": "textures/entity/hive/hide/taunt/balloon/bee.png"
+    },
+    {
+      "key": "YERKTRPJYXQDPGD4WDY7P7VB7GV7HZJS",
+      "path": "textures/entity/hive/hide/taunt/balloon/pig.png"
+    },
+    {
+      "key": "LLEJ3OCC75ZBAPN7SSDKP4R4FEVVGLFG",
+      "path": "animations/hive/hide/taunt.json"
+    },
+    {
+      "key": "ZJQOS3BSYOB6IATHY4EEDBFVIW6X2G75",
+      "path": "render_controllers/hive/hide/taunt.json"
+    },
+    {
+      "key": "5EZI3TIBYM3VWOWMRXLZH2XSLR6CQ3E6",
+      "path": "entity/hive/hide/taunt.json"
+    },
+    {
+      "key": "W46TO6M647FAY6L3ESEPWLOTA3JXP7IT",
+      "path": "models/entity/hive/hide/taunt/balloon/frog.json"
+    },
+    {
+      "key": "HVTKKWS53KJBO4HOY4NX55A3W5PLW6GY",
+      "path": "textures/entity/hive/hide/taunt/balloon/frog.png"
+    },
+    {
+      "key": "4IRLXCM7UDBNJUEOPR7NJ3DFXEX7O2RM",
+      "path": "textures/entity/hive/hide/taunt/balloon/llama.png"
+    },
+    {
+      "key": "OHLBSUVIQIGTDSKIQIN6CVUWJ27XNCU6",
+      "path": "textures/entity/hive/hide/taunt/balloon/shark.png"
+    },
+    {
+      "key": "KKSPEH5446MRU43RFVLQGWRLS3M52OH3",
+      "path": "models/entity/hive/hide/taunt/balloon/axolotl.json"
+    },
+    {
+      "key": "GNKKHA2QBHNYLG2HMINMMDF2OUR5IWJG",
+      "path": "models/entity/hive/hide/taunt/balloon/shark.json"
+    },
+    {
+      "key": "EY3UQFLBJNMH2H5SLW7SN3P26L6HWWT4",
+      "path": "textures/entity/hive/hide/taunt/balloon/banana.png"
+    },
+    {
+      "key": "VOIGWDP6AON6IVMXMEUVNZOA7TPZVQ3S",
+      "path": "models/entity/hive/hide/taunt/balloon/pig.json"
+    },
+    {
+      "key": "7LLOLFIOAIIMT4SFVUFD73FY6GFJDKHD",
+      "path": "models/entity/hive/hide/taunt/balloon/fox.json"
+    },
+    {
+      "key": "FDHVKZC332MR6C4HF4ZBKBB4A6UOPGIV",
+      "path": "models/entity/hive/hide/taunt/balloon/bee.json"
+    },
+    {
+      "key": "NNLDPVTKECVSXMGP3XNK2GADXS26TASU",
+      "path": "models/entity/hive/hide/taunt/balloon/banana.json"
+    },
+    {
+      "key": "DDMQOCBJHTVQRTCZD6G4CQMWHG5WSA3D",
+      "path": "textures/entity/hive/hide/taunt/balloon/guitar.png"
+    },
+    {
+      "key": "CHSOMNCJX22Z7Z4VEYJDFXLZTSEEQV6C",
+      "path": "textures/entity/hive/hide/taunt/balloon/axolotl.png"
+    },
+    {
+      "key": "TDNHGME4P5XERRPSRDJAPLPG7RQNNSFP",
+      "path": "models/entity/hive/hide/taunt/balloon/llama.json"
+    },
+    {
+      "key": "7TY23ZZPT2QHCQ7OA4MZMPSX7Y4CKY5S",
+      "path": "textures/entity/hive/hide/taunt/balloon/redballoon.png"
+    },
+    {
+      "key": "KHIU53FBA4MMPWOKFBD62IYXKUXGAKLX",
+      "path": "models/entity/hive/hide/taunt/balloon/redballoon.json"
+    },
+    {
+      "key": "N57V5A3XP3SUWGW6XEPAH3ED37QFSLAB",
+      "path": "models/entity/hive/hide/taunt/balloon/creeper.json"
+    },
+    {
+      "key": "UMEXLFIEQ3ADNDKWEIZOOZYOQERAEIB2",
+      "path": "textures/entity/hive/hide/taunt/balloon/creeper.png"
+    },
+    {
+      "key": "774Z6YVA6ZCBHNA6Z47CHTBRKDLVP45Y",
+      "path": "textures/entity/hive/hide/taunt/balloon/fox.png"
+    },
+    {
+      "key": "ENV2ENT5SKVNKT4X672J2KPLKXY67YW6",
+      "path": "textures/entity/hive/hide/taunt/balloon/grassblock.png"
+    },
+    {
+      "key": "2GKOYSVE7IGWTHQJA256HFMU37OZELZI",
+      "path": "models/entity/hive/hide/taunt/balloon/guitar.json"
+    }
+  ]
+}

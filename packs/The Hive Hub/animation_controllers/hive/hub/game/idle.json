@@ -1,0 +1,14 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.hub.game.idle": {
+      "states": {
+        "default": {
+          "animations": [
+            "idle"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

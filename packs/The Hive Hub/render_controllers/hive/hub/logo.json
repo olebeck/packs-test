@@ -1,0 +1,18 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.hub.logo": {
+      "geometry": "Geometry.default",
+      "ignore_lighting": true,
+      "light_color_multiplier": 1,
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.default"
+      ]
+    }
+  }
+}

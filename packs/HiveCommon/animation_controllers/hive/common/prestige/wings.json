@@ -1,0 +1,14 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.common.prestige.wings": {
+      "states": {
+        "default": {
+          "animations": [
+            "wings"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

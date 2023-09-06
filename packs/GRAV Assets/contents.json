@@ -1,0 +1,336 @@
+{
+  "content": [
+    {
+      "key": "ZLRZ4UGQW6XID6OXEGQVEAL6PEYPJXDJ",
+      "path": "sounds/hive/grav/game/death_sound/zap.ogg"
+    },
+    {
+      "key": "2I22CB2GRWE2JZG4BECELWCLQRSYGA3R",
+      "path": "sounds/hive/grav/game/item/item_skip.ogg"
+    },
+    {
+      "key": "2GBD57IANC5B2CFSCGSJDMCRYQ7B6JFS",
+      "path": "sounds/hive/grav/game/death_sound/honk.ogg"
+    },
+    {
+      "key": "CM6GYHQRRDSFT3C7SJO4ZWYV7QXEIMD3",
+      "path": "sounds/hive/grav/env/bounce.ogg"
+    },
+    {
+      "key": "GO2KXUNZTYBKE7KIR2H7DPM2RMQBOFEY",
+      "path": "sounds/hive/grav/game/death_sound/horn.ogg"
+    },
+    {
+      "key": "R4JZYSGPZJG2GWQOSH7QFKH62B5BXDHQ",
+      "path": "textures/entity/hive/grav/portal_taunt/haha.png"
+    },
+    {
+      "key": "2CRUEO6ZNMQCJMZZ5KQ2K2S2MNGKXN6C",
+      "path": "textures/entity/hive/grav/death_soul/flying_saucer.png"
+    },
+    {
+      "key": "3ARGD6ZQTXQ27OZLF2HXADC75LS7MCHG",
+      "path": "sounds/hive/grav/env/player_land.ogg"
+    },
+    {
+      "key": "CSCRVQI56UOYRSKDJN2QISRLP3C2MNP3",
+      "path": "sounds/hive/grav/game/death_sound/bubble.ogg"
+    },
+    {
+      "key": "ERW4C6FXABTJMFMZIVQYZJVLUNFGQZJZ",
+      "path": "textures/entity/hive/grav/portal_taunt/sleepy.png"
+    },
+    {
+      "key": "5X6YJGLTOUSWFXAKESWG3FOJ3NHJU3ZZ",
+      "path": "items/hive/grav/respawn.json"
+    },
+    {
+      "key": "X6N52DC4NDXILAOPXWNP6BERVPX5P4S7",
+      "path": "sounds/hive/grav/game/death_sound/whoopee.ogg"
+    },
+    {
+      "key": "F4H22U7AUA5ZJBKJSCV7IPL4RYYYUDOE",
+      "path": "models/entity/hive/grav/forcefield.json"
+    },
+    {
+      "key": "MBCKPAGOPE6WAKQ4IBQFYLP5UHXCMW54",
+      "path": "render_controllers/hive/grav/portal_taunt.json"
+    },
+    {
+      "key": "OQA7I3WEOSAR4QUS3PJSEN6VMOW2UFDY",
+      "path": "sounds/hive/grav/game/ui_tip.ogg"
+    },
+    {
+      "key": "G2PYJPRQJDCLF6VRMXYFGXS4PUZHNJTZ",
+      "path": "sounds/sound_definitions.json"
+    },
+    {
+      "key": "KSOJDQE4K6HX7UO2ZKPWLASZ2HIR6S5G",
+      "path": "entity/hive/grav/airlock_door.json"
+    },
+    {
+      "key": "EMDW2BZG3VDZDFWTPTGYENNKNKQH74BA",
+      "path": "models/entity/hive/grav/death_soul/ghostly_soul.json"
+    },
+    {
+      "key": "XYZUO4ZFRX7A4YHRFLZAELOA7LSOERAV",
+      "path": "sounds/hive/grav/game/timer_shortened.ogg"
+    },
+    {
+      "key": "JLDDTTQ3HCG2W4DPP4SAGHCJW6BCJ4V2",
+      "path": "models/entity/hive/grav/death_soul/astronaut.json"
+    },
+    {
+      "key": "QV6ZDNV72O6AYWBSGP74XMISRDNJ6NPV",
+      "path": "models/entity/hive/grav/death_soul/flying_saucer.json"
+    },
+    {
+      "key": "RH3IR5PGIKF7HATOWU2VS3Y3LISVIKRL",
+      "path": "models/entity/hive/grav/death_soul/satellite.json"
+    },
+    {
+      "key": "NJ24QHN3O4LGHEUMPIWMG3TEC2BPZUQA",
+      "path": "sounds/hive/grav/env/falling_end.ogg"
+    },
+    {
+      "key": "T4P4364FMPNQYKP7RO25C6LH5MXDJTYR",
+      "path": "animation_controllers/hive/grav/airlock_door.json"
+    },
+    {
+      "key": "XA5KL7YECOLKKJSG77D2LEJMYUD7U7TZ",
+      "path": "sounds/hive/grav/env/close_call/close_call_04.ogg"
+    },
+    {
+      "key": "5VST2JOUZLEYHZO5A24SZPXETQYTWSNH",
+      "path": "animations/hive/grav/portal_taunt.json"
+    },
+    {
+      "key": "AXRR4GID3NOAZ3YJLGLBITCQ6SSODDPU",
+      "path": "sounds/hive/grav/env/portal_taunt.ogg"
+    },
+    {
+      "key": "MJ4ZSXPRJMYQWCESLOHYMF3LQXDCBEM7",
+      "path": "sounds/hive/grav/game/endgame_placement_runnerups.ogg"
+    },
+    {
+      "key": "3GT7ZAV4RWVDOVLW53FQO6ECXKIDY5KM",
+      "path": "sounds/hive/grav/game/death_sound/dark_bass.ogg"
+    },
+    {
+      "key": "EDATHZQMFRTSGYXDED5OAFPCZ4QHIIRA",
+      "path": "animation_controllers/hive/grav/portal_taunt.json"
+    },
+    {
+      "key": "5YR6KH2MRHZOPW3JAUA5F76TC7NDVIQP",
+      "path": "entity/hive/grav/death_soul.json"
+    },
+    {
+      "key": "SGIUQ3R44HYVAZ3KGJEA2RTM7XNIAUS6",
+      "path": "render_controllers/hive/grav/death_soul.json"
+    },
+    {
+      "key": "XVCDWE6MT4ZLSPMFXFLAVNUGUALFKCGQ",
+      "path": "textures/entity/hive/grav/death_soul/satellite.png"
+    },
+    {
+      "key": "NYQNGE7GFJUJNOGOZWD4XTTSUFSO3XDM",
+      "path": "animations/hive/grav/death_soul.json"
+    },
+    {
+      "key": "G4B4TMXWD2BIEVTGLFKBXWOZZX6ANKAS",
+      "path": "sounds/hive/grav/env/falling_start.ogg"
+    },
+    {
+      "key": "MZR3WL5WJWQWV7VHCFMRMD323VO3JL62",
+      "path": "textures/entity/hive/grav/death_soul/astronaut.png"
+    },
+    {
+      "key": "XLBDO4ZIVOUKJXW6TNNMU63SUH2YSKOM",
+      "path": "animations/hive/grav/airlock_door.json"
+    },
+    {
+      "key": "IE6YRP4ZHYGUIVI5XK36UOVJHZTG2X3W",
+      "path": "animation_controllers/hive/grav/death_soul.json"
+    },
+    {
+      "key": "IG3K4QHLUC753DDXKU5L5US6ZPXVLAJF",
+      "path": "sounds/hive/grav/game/portal/final_portal_reached.ogg"
+    },
+    {
+      "key": "PH45WMWF6V5XC3HJOO2KK4JHK6T5L55G",
+      "path": "textures/entity/hive/grav/portal_taunt/gg.png"
+    },
+    {
+      "key": "JODCPWPABT25E6FM2VT7CLCHGNDOBHMK",
+      "path": "textures/entity/hive/grav/portal_taunt/skull.png"
+    },
+    {
+      "key": "YV475FAYY52NYRA5446FI534O5KI4IIS",
+      "path": "sounds/hive/grav/game/countdown.ogg"
+    },
+    {
+      "key": "RF2YO5SUWTDGENJVN6VQARMIZRODA6R4",
+      "path": "textures/entity/hive/grav/forcefield.png"
+    },
+    {
+      "key": "QFYR6MUQ72NEH4S7RIQD36Q7LL4MGVL7",
+      "path": "entity/hive/grav/forcefield.json"
+    },
+    {
+      "key": "6DXJHA3Q3WSOXGHZACVBNVCAU7B5DIQL",
+      "path": "sounds/hive/grav/game/endgame_placement_first.ogg"
+    },
+    {
+      "key": "7YDXSIZ2ZWDBVZBSDCGXWHTRC3CQCOGZ",
+      "path": "sounds/hive/grav/env/close_call/close_call_06.ogg"
+    },
+    {
+      "key": "4HHPAIDFG4FJ7BXAJUDWVHCJQVLXIJNQ",
+      "path": "models/entity/hive/grav/death_soul/earth.json"
+    },
+    {
+      "key": "FVFNDOALWCHCYPTTTD2LRLLQYN6NN3F4",
+      "path": "textures/item_texture.json"
+    },
+    {
+      "key": "W37EU6EV7YI3RV5A3KDQO7GW7EXA2F6U",
+      "path": "items/hive/grav/skip_level.json"
+    },
+    {
+      "key": "LPJ6JEEIXUVAQSJVSF5C3GOPGAP7O2D5",
+      "path": "sounds/hive/grav/game/death_sound/bouncy_ball.ogg"
+    },
+    {
+      "key": "GFY2VSNGBLTQZLNCLEFUJZBKIOATBDXE",
+      "path": "sounds/hive/grav/env/endgame_fireworks_undertone.ogg"
+    },
+    {
+      "key": "4TPRYBUYOOIKDAJ4OUNJDAR4MKMQAW7Y",
+      "path": "materials/entity.material"
+    },
+    {
+      "key": "MOJPOP7F7LZ3KTEF3O62AYG5G2WNEAJV",
+      "path": "sounds/hive/grav/env/endgame_fireworks.ogg"
+    },
+    {
+      "key": "PI6YK5QVB452RHLDEBU6ONPVEBMSISLO",
+      "path": "sounds/hive/grav/game/death_sound/bark.ogg"
+    },
+    {
+      "key": "MXI2V35LXIVQIFSNK2GAER7BXFDXVBCA",
+      "path": "textures/entity/hive/grav/death_soul/earth.png"
+    },
+    {
+      "key": "UADSWF3Q74L2FV2AFDLLGHE2FVPLCCUY",
+      "path": "fogs/gravity.fog.json"
+    },
+    {
+      "key": "3XEHHY4EIEZQFPJ2OCDR6LXHSFWGSE3X",
+      "path": "render_controllers/hive/grav/forcefield.json"
+    },
+    {
+      "key": "4M7ZOXLNYH43NIAALWEXWHTVZSETY5U2",
+      "path": "animations/hive/grav/forcefield.json"
+    },
+    {
+      "key": "FU773FD4ZIEYNRE3PVBLYBKEARULHBX5",
+      "path": "sounds/hive/grav/game/death_sound/bam.ogg"
+    },
+    {
+      "key": "VKLTX2TCNUWJKHFZGJ2GDFTNKOYWNPGK",
+      "path": "sounds/hive/grav/game/life_lost_grace.ogg"
+    },
+    {
+      "key": "TTSBTZKUV4ARVRMN6URLXHJZK4C7OKK5",
+      "path": "textures/entity/hive/grav/airlock_door.png"
+    },
+    {
+      "key": "MDHWLDRG3BWZ3YWGNIRVGQFFR53QLFVD",
+      "path": "sounds/hive/grav/env/close_call/close_call_02.ogg"
+    },
+    {
+      "key": "63XK5PNT62O3JDGLZSA22VJHSTLUWSZU",
+      "path": "sounds/hive/grav/game/portal/portal_reached.ogg"
+    },
+    {
+      "key": "PS3FFLG3IAYFYHON5RYTEG6Z2TCPY3HP",
+      "path": "sounds/hive/grav/env/endgame_clapping.ogg"
+    },
+    {
+      "key": "H4G32KSG6IQAFECQ6EAKP3VF65BFCPVI",
+      "path": "textures/entity/hive/grav/portal_taunt/clown.png"
+    },
+    {
+      "key": "GT4DGHDJUUCOQJKNAOFO47DIAH7X54ZP",
+      "path": "sounds/hive/grav/env/door_open.ogg"
+    },
+    {
+      "key": "EVVKUHYDN7MBSQH6CZO6XF3JLOKEQXH6",
+      "path": "sounds/hive/grav/game/item/item_respawn.ogg"
+    },
+    {
+      "key": "L6B3L2CE72RC45Q6AP4OROKQ5B3IMKHH",
+      "path": "textures/entity/hive/grav/portal_taunt/cool_shades.png"
+    },
+    {
+      "key": "KQXCWN36N3VOJEMC5C3SSOXG5FIKH3XF",
+      "path": "models/entity/hive/grav/portal_taunt.json"
+    },
+    {
+      "key": "RT347LLDPWMSHIS3TM522ZURBZKDGX2I",
+      "path": "sounds/hive/grav/env/close_call/close_call_01.ogg"
+    },
+    {
+      "key": "VXRDONUDRMHNADZFTE2RR6NSIAPURYLT",
+      "path": "sounds/hive/grav/game/death_sound/glass_shatter.ogg"
+    },
+    {
+      "key": "WS26V7SDSFADD5DF6LAGAIID6G6RSTRG",
+      "path": "textures/entity/hive/grav/death_soul/ghostly_soul.png"
+    },
+    {
+      "key": "6EIAFL4GS7LJDIC2KORVWFVOP3PLVNJI",
+      "path": "sounds/hive/grav/game/death_sound/ding.ogg"
+    },
+    {
+      "key": "JEDHYTHSAX2D33NMWNJ2Z5IKT7NS5XP7",
+      "path": "sounds/hive/grav/game/death_sound/squeak.ogg"
+    },
+    {
+      "key": "D6M5O73LMSNL2P4BWZWGZHN7INKD6G2M",
+      "path": "sounds/hive/grav/game/timer_10s.ogg"
+    },
+    {
+      "key": "QNVT6XALNTFQ7QROOX36DFNFJMYPDKLC",
+      "path": "sounds/hive/grav/env/forcefield_loop.ogg"
+    },
+    {
+      "key": "WHCU7FFDO524OYKNPE2D5LX6CKLQCPNP",
+      "path": "textures/items/hive/grav/skip_level.png"
+    },
+    {
+      "key": "T6KY6AB2P2MPOWDQCOQJN3LPKDHSKSLX",
+      "path": "entity/hive/grav/portal_taunt.json"
+    },
+    {
+      "key": "ATN2B62XDDMP2C4X4ETM7CFE6QCJFLEP",
+      "path": "models/entity/hive/grav/airlock_door.json"
+    },
+    {
+      "key": "YM5Z3MDMNUGYRMUPRWXPW5NJKYBNTWQE",
+      "path": "sounds/hive/grav/env/airlock_activate.ogg"
+    },
+    {
+      "key": "HB45SNHMOZAMOVHXDGIMM4P4DCILMV6Y",
+      "path": "sounds/hive/grav/env/door_close.ogg"
+    },
+    {
+      "key": "OXNITLWJ6CEOZP45KFR2A5H5AYHRENZP",
+      "path": "textures/items/hive/grav/respawn.png"
+    },
+    {
+      "key": "MMBW7XM5N45FJOAPQLM2HJS74WVTEYK7",
+      "path": "sounds/hive/grav/door_open.ogg"
+    }
+  ]
+}

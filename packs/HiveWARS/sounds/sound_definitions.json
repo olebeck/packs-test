@@ -1,0 +1,10 @@
+{
+  "hive.wars.chorus.tp": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/hive/wars/chorus_tp"
+      }
+    ]
+  }
+}

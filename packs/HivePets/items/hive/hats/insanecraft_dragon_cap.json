@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "components": {
+      "minecraft:icon": "hivehats:insanecraft_dragon_cap",
+      "minecraft:render_offsets": "miscellaneous"
+    },
+    "description": {
+      "category": "Items",
+      "identifier": "hivehats:insanecraft_dragon_cap"
+    }
+  }
+}

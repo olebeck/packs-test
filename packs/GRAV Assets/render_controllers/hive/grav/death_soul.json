@@ -1,0 +1,36 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.grav.death.soul": {
+      "arrays": {
+        "geometries": {
+          "array.geometries": [
+            "Geometry.ghostly_soul",
+            "Geometry.astronaut",
+            "Geometry.earth",
+            "Geometry.flying_saucer",
+            "Geometry.satellite"
+          ]
+        },
+        "textures": {
+          "array.textures": [
+            "Texture.ghostly_soul",
+            "Texture.astronaut",
+            "Texture.earth",
+            "Texture.flying_saucer",
+            "Texture.satellite"
+          ]
+        }
+      },
+      "geometry": "array.geometries[query.mark_variant]",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "array.textures[query.variant]"
+      ]
+    }
+  }
+}

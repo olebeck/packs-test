@@ -1,0 +1,28 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "launch": "controller.animation.hive.ctf.launchpad.launch"
+        }
+      ],
+      "animations": {
+        "launch": "animation.hive.ctf.launchpad.piston.launch"
+      },
+      "geometry": {
+        "default": "geometry.hive.ctf.launchpad.piston"
+      },
+      "identifier": "hivectf:launchpad_piston",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/ctf/launchpad/piston"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "bones": [
+        {
+          "name": "root",
+          "pivot": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "screen",
+          "parent": "root",
+          "pivot": [
+            0,
+            0,
+            -4
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                -141,
+                8,
+                -7
+              ],
+              "size": [
+                281,
+                88,
+                0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    281,
+                    88
+                  ]
+                }
+              }
+            }
+          ],
+          "name": "scoreboard",
+          "parent": "screen",
+          "pivot": [
+            -0.5,
+            52,
+            -7
+          ]
+        }
+      ],
+      "description": {
+        "identifier": "geometry.hive.bridge.screen.score.background",
+        "texture_height": 88,
+        "texture_width": 281,
+        "visible_bounds_height": 25,
+        "visible_bounds_offset": [
+          0,
+          2.5,
+          0
+        ],
+        "visible_bounds_width": 50
+      }
+    }
+  ]
+}

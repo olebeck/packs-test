@@ -1,0 +1,632 @@
+{
+  "content": [
+    {
+      "key": "PWCPVAQRVQ4EEXB4I2RUOCDT247BPLSF",
+      "path": "textures/entity/hive/ctf/progress_bar/red.png"
+    },
+    {
+      "key": "CNQ25DKQ5NAQ4EOC5I25H4RRCUQNL5LH",
+      "path": "textures/entity/hive/ctf/flag/atlantis/blue.png"
+    },
+    {
+      "key": "VELSVD6JZR6DSMJGQCSI3TLVJHY2ZGD4",
+      "path": "models/entity/hive/ctf/spring/flower.json"
+    },
+    {
+      "key": "VWJGSU24DUVJJO7J75EEA463PYXN3KO7",
+      "path": "sounds/hive/ctf/items/sword-diamond.ogg"
+    },
+    {
+      "key": "F322JKXRR5NN726GD4JSECWSW3KJ3L3F",
+      "path": "textures/entity/hive/ctf/flag/flourished/blue.png"
+    },
+    {
+      "key": "K3GNYOLTYFDVRZPJSRYBCIGXT7ZMZZDP",
+      "path": "models/entity/hive/ctf/upgrade_station.json"
+    },
+    {
+      "key": "EVURNDKY5WV24ZU4POQCOCCYQXIZ4FP4",
+      "path": "textures/entity/hive/ctf/flag/matrix/blue.png"
+    },
+    {
+      "key": "G73DN2UNLMNUSYUE42HKI7WN346DETOD",
+      "path": "models/entity/hive/ctf/flag/royal.json"
+    },
+    {
+      "key": "7VWE736YMEYVMV6EHWPT3PS56NM4LQKJ",
+      "path": "entity/hive/ctf/launchpad/leaf.json"
+    },
+    {
+      "key": "BKHTPGBXQNFQ75YZMR57YBRD7255ZWQI",
+      "path": "textures/entity/hive/ctf/flag/default/blue.png"
+    },
+    {
+      "key": "C3S2TMME33VPLTNEDALTYGSBDUBF72P3",
+      "path": "entity/hive/ctf/upgrade_station.json"
+    },
+    {
+      "key": "QZ43J5LAVHZIJZ3MFV332QNBRXYBJJ5I",
+      "path": "textures/entity/hive/ctf/flag/atlantis/red.png"
+    },
+    {
+      "key": "42P37W24TGHBONHE6ERU7XKRF65JDG4J",
+      "path": "render_controllers/hive/ctf/icon.json"
+    },
+    {
+      "key": "N34FYZGJWBY6QOUK64JYPAZY2P2TISIC",
+      "path": "sounds/sound_definitions.json"
+    },
+    {
+      "key": "CK232BOKUMJ62PAEWCU7HFLBZKM5LFU5",
+      "path": "textures/entity/hive/ctf/flag/heart/blue.png"
+    },
+    {
+      "key": "SSVSHA7ET5JPYKK54WVULBJKDGFCTE6X",
+      "path": "entity/hive/ctf/icon/arrow.json"
+    },
+    {
+      "key": "BDHXVJSQVGIVXHZY3PCROXWRLNSBWUIA",
+      "path": "animation_controllers/hive/ctf/teleporter.json"
+    },
+    {
+      "key": "GZLTPMLPUUEXTJKZKXX6PZ67XFHBOCE5",
+      "path": "entity/hive/ctf/teleporter/campfire.json"
+    },
+    {
+      "key": "H6IYFAW22DWMZRRVYDI3UJG7SJZRRJUN",
+      "path": "particles/hive/ctf/di/di.10plus.particle.json"
+    },
+    {
+      "key": "N5ZQK4YIKQS45ZUMJXW4F2IY2RWGCHUX",
+      "path": "particles/hive/ctf/di/di.6.particle.json"
+    },
+    {
+      "key": "27VHGBFQDPGVTGTNPQEI6ZXMGGLHQ2WA",
+      "path": "sounds/hive/ctf/flag-dropped.ogg"
+    },
+    {
+      "key": "MZL7NQ32XNZKPKRKHAIQ3W4DCBAYM2CG",
+      "path": "animations/hive/ctf/spring/sandstone.json"
+    },
+    {
+      "key": "3NCOVZUQQ2BRXFAPR2XG2CECHU4UL42W",
+      "path": "textures/entity/hive/ctf/launchpad/piston.png"
+    },
+    {
+      "key": "X5UQY2Y6RMGPZ6SHJMUXAIZ5FHDJSH2W",
+      "path": "render_controllers/hive/ctf/item_station.json"
+    },
+    {
+      "key": "SGZ7IIVK42STC7LH4LHDSPS2YBX5VSRO",
+      "path": "models/entity/hive/ctf/flag/scifi.json"
+    },
+    {
+      "key": "OKYFILLFA2XU2UT33APE7LQAHXVZTOZ7",
+      "path": "models/entity/hive/ctf/icon/arrow.json"
+    },
+    {
+      "key": "76TBR4H6VLQH2W72J3U6XBO7N36EKML7",
+      "path": "sounds/hive/ctf/items/blocks.ogg"
+    },
+    {
+      "key": "ITD6WMGN4ETSJD47A2L6RNHJHVTWGYQQ",
+      "path": "textures/entity/hive/ctf/flag/sorcerer/red.png"
+    },
+    {
+      "key": "OGBLCVXXCP2YIQM2DYCZZAHPHETN5ZC5",
+      "path": "entity/hive/ctf/launchpad/piston.json"
+    },
+    {
+      "key": "3NPM4HXR3VQWFPJI4AHXDC35SLMNYRLJ",
+      "path": "models/entity/hive/ctf/flag/magma.json"
+    },
+    {
+      "key": "GJEHJEFA2YYRVLW4X3L5PS7T2VHV5QKX",
+      "path": "models/entity/hive/ctf/launchpad/mushroom.json"
+    },
+    {
+      "key": "4KPJFED3KLCER7IPFSIQIYSDYSTLGGM2",
+      "path": "textures/entity/hive/ctf/beacon/red.png"
+    },
+    {
+      "key": "EHU2DH3OBVIIFF5EYVHPCIF56673LNC7",
+      "path": "textures/entity/hive/ctf/flag/shipwreck/red.png"
+    },
+    {
+      "key": "O5UN4K27A6WNESV7GTYNYUY7E63CWAKQ",
+      "path": "entity/hive/ctf/beacon.json"
+    },
+    {
+      "key": "UNR2XO34OI6X4TT5TLHZQNBHZYZX234Y",
+      "path": "textures/entity/hive/ctf/launchpad/mushroom.png"
+    },
+    {
+      "key": "LUCDDCDM3W6RNIK3NG57QNYM5SCNQDGO",
+      "path": "models/entity/hive/ctf/flag/matrix.json"
+    },
+    {
+      "key": "HZYWJENHUCHPCIPBEJHLXWEBXUKMXR6O",
+      "path": "models/entity/hive/ctf/icon/flag.json"
+    },
+    {
+      "key": "3VCMYIYTMDG4YUROMHDT5DZIYH5LPPVQ",
+      "path": "models/entity/hive/ctf/flag/heart.json"
+    },
+    {
+      "key": "DTHYIV2GOIBNH6XBSIPIL2522KX4ZCBI",
+      "path": "particles/hive/ctf/spring/flower.activate.particle.json"
+    },
+    {
+      "key": "N52ETZX4TMXHPZF6AWO3TCVRT7IG5RAX",
+      "path": "textures/entity/hive/ctf/flag/sorcerer/blue.png"
+    },
+    {
+      "key": "3AD5AXESFZYOQAEBPBOGD5MYUVBE6M5S",
+      "path": "textures/entity/hive/ctf/flag/flourished/red.png"
+    },
+    {
+      "key": "CSB7JTBOZGSPFQWLOPNH2AZQ46W3TCDV",
+      "path": "animations/hive/ctf/upgrade_station.json"
+    },
+    {
+      "key": "X5SRQ3O7TR7M352RSEFEN2LE5O3JGPVV",
+      "path": "models/entity/hive/ctf/launchpad/piston.json"
+    },
+    {
+      "key": "D7ZD2GNGCEBBW7BHYYDYD42NVMFNNLIZ",
+      "path": "textures/entity/hive/ctf/launchpad/leaf.png"
+    },
+    {
+      "key": "ENBWKL3KZFBL5CEIDHDE54SXBI3GCFRU",
+      "path": "sounds/hive/ctf/items/speed-berries.ogg"
+    },
+    {
+      "key": "PRPZNFL2V6ZI7DKJS2B4OYMSQCS2DZP4",
+      "path": "animations/hive/ctf/progress_bar.json"
+    },
+    {
+      "key": "NCDOS53BVEG5GDVEOCYQSSDDUE73Y7Q5",
+      "path": "models/entity/hive/ctf/flag/sorcerer.json"
+    },
+    {
+      "key": "AEQDQS3UR7PX7ZVBOWRTKCYGG42TN7UA",
+      "path": "particles/hive/ctf/flag.curse.particle.json"
+    },
+    {
+      "key": "PDN4JBZR3ZOSEDL5G46MTKENZRJC4PLC",
+      "path": "textures/entity/hive/ctf/icon/arrow.png"
+    },
+    {
+      "key": "IIKV45RDDDPT33D7L67PA3MMP7NG7JV3",
+      "path": "entity/hive/ctf/capture_zone.json"
+    },
+    {
+      "key": "QF6KYME5FEE44O2OXSP7Z67VIJJ6NQKW",
+      "path": "animations/hive/ctf/item_station.json"
+    },
+    {
+      "key": "M4IQT5AS2AG4URXYXZPY43T7JJVZBOJL",
+      "path": "particles/hive/ctf/teleporter/campfire.idle.particle.json"
+    },
+    {
+      "key": "MYXL3WH4JV4DLR6B3XH3L2TPYMT3DKIF",
+      "path": "textures/entity/hive/ctf/flag/candycane/blue.png"
+    },
+    {
+      "key": "KPNVWVVGWWXRBLDWPK74Z3JQXPLXJYIP",
+      "path": "textures/entity/hive/ctf/flag/magma/blue.png"
+    },
+    {
+      "key": "6JPHQXLSCW3GY6BZ4GCNDYNO77K7J2EK",
+      "path": "materials/entity.material"
+    },
+    {
+      "key": "2MT4XI52RGJNTWF6XCIYJZLUHF3N3WIS",
+      "path": "textures/entity/hive/ctf/flag/matrix/red.png"
+    },
+    {
+      "key": "GPTINYTSAVJS2ZRAGCDSHOSFND74U4PZ",
+      "path": "models/entity/hive/ctf/capture_zone.json"
+    },
+    {
+      "key": "AMDGSJSYZGGYUBU7APNG34J6MLDY7FFK",
+      "path": "models/entity/hive/ctf/flag/cosmic.json"
+    },
+    {
+      "key": "ITH2H3QN4AW5YKJR57EV2HKG2PKYDUC3",
+      "path": "animation_controllers/hive/ctf/spring.json"
+    },
+    {
+      "key": "Z25HKYPQK2X4SUOIAPMYCTFDSDOTRIBU",
+      "path": "animation_controllers/hive/ctf/item_station.json"
+    },
+    {
+      "key": "6SJORWGJG2R5LTNWUASD3KNUBY5NB3LM",
+      "path": "particles/hive/ctf/capture/blue.particle.json"
+    },
+    {
+      "key": "322S4WZEAWNXZBWDGL6CLS5WFSY7SXLJ",
+      "path": "textures/entity/hive/ctf/flag/cosmic/blue.png"
+    },
+    {
+      "key": "CCJUXPI56XRMPBROPKCJACRP5JOMQWNI",
+      "path": "animations/hive/ctf/launchpad/mushroom.json"
+    },
+    {
+      "key": "JJAXPF7P2RMTDQXPJOIFA4EQCMFA7GCM",
+      "path": "animation_controllers/hive/ctf/beacon.json"
+    },
+    {
+      "key": "Z3IUGWU4PCDDDB35RYTO6COORSW7M4JL",
+      "path": "animation_controllers/hive/ctf/progress_bar.json"
+    },
+    {
+      "key": "6WYKFKXOSCVAMQZQM4TN6IIWBCBETY3H",
+      "path": "textures/entity/hive/ctf/flag/heart/red.png"
+    },
+    {
+      "key": "M25WPCX25VCQSQX6UALWIU5BEXGFET3R",
+      "path": "render_controllers/hive/ctf/flag.json"
+    },
+    {
+      "key": "NFFZYGMSWPZEZJ2LYIDHQ7VSUM3HOGKD",
+      "path": "particles/hive/ctf/di/di.4.particle.json"
+    },
+    {
+      "key": "J46OTKFO45LHLMJZOHPNBN3FW3RHSUPI",
+      "path": "entity/hive/ctf/spring/sandstone.json"
+    },
+    {
+      "key": "YSSU4FAR2ORGSQHGJCH3WZY6TYVRIZQD",
+      "path": "sounds/hive/ctf/flag-pickup-carrier.ogg"
+    },
+    {
+      "key": "SCQTIPAMGLMGM6DTDPVLQ6MSZSPEQC2Y",
+      "path": "textures/entity/hive/ctf/flag/candycane/red.png"
+    },
+    {
+      "key": "JGFVPF5GVTVPAQPPOBBEYBNS7B4VLKZA",
+      "path": "models/entity/hive/ctf/beacon.json"
+    },
+    {
+      "key": "RC7EAGU3N4AO2YPOFAZG7RCY6POJDTJN",
+      "path": "render_controllers/hive/ctf/progress_bar.json"
+    },
+    {
+      "key": "BFQGFLI4PT73SRAMGEEKFONYN7MPYIC4",
+      "path": "animation_controllers/hive/ctf/launchpad.json"
+    },
+    {
+      "key": "LX4KYHR2SYXGDFBOMQELZ5AILCWGAHVU",
+      "path": "animation_controllers/hive/ctf/capture_zone.json"
+    },
+    {
+      "key": "U3PF7SU6W2E66MFOTNMO2TNVMSRN3JJZ",
+      "path": "textures/entity/hive/ctf/flag/default/red.png"
+    },
+    {
+      "key": "3YFQ4BREK5SWFZXKH2ZFXMO6NODFYPZS",
+      "path": "animation_controllers/hive/ctf/flag.json"
+    },
+    {
+      "key": "FV74AUMQ2HDW74RCZSPLN5DNGONSKU5H",
+      "path": "particles/hive/ctf/di/di.10.particle.json"
+    },
+    {
+      "key": "AYDFGDDKD5VQKQL5CBCBZ4H7JSLVHUSE",
+      "path": "models/entity/hive/ctf/flag/default.json"
+    },
+    {
+      "key": "PWIJ7Y6ZL6OD7WPGX36NNST6FAWWVNF6",
+      "path": "textures/entity/hive/ctf/flag/pirate/red.png"
+    },
+    {
+      "key": "RHASJGZYBKLZGQKDVDLY3GVY4OFRVJTD",
+      "path": "textures/entity/hive/ctf/flag/scifi/blue.png"
+    },
+    {
+      "key": "QWNILQAFYZKSJKCGHRIB5CRDH6I24AZM",
+      "path": "animations/hive/ctf/capture_zone.json"
+    },
+    {
+      "key": "JOFJRXK23AR3DJIBP6J6VRHZKL2I6WM3",
+      "path": "particles/hive/ctf/di/di.5.particle.json"
+    },
+    {
+      "key": "CND5WSGQDQICRLSUMY4KLSMI2A6OEZGB",
+      "path": "textures/entity/hive/ctf/teleporter/sandstone.png"
+    },
+    {
+      "key": "NSJ3YUI5MBXAKMXCSKF4PSF4W3ZF3BD4",
+      "path": "sounds/hive/ctf/items/sword-iron.ogg"
+    },
+    {
+      "key": "FO243NUMQ7U4QGHPZBX5BFTEVG2AIMKN",
+      "path": "animation_controllers/hive/ctf/icon.json"
+    },
+    {
+      "key": "VTYQHAA6NFZQX63LNLT5GRB4S5AOUZN5",
+      "path": "models/entity/hive/ctf/spring/sandstone.json"
+    },
+    {
+      "key": "3OVAJRWENP7O3SBCC64ZM5EUNNEWXPE6",
+      "path": "textures/entity/hive/ctf/item_station.png"
+    },
+    {
+      "key": "CHX5PNNFLKUOKCFUJQ73ZKY7DIRDDLDW",
+      "path": "entity/hive/ctf/item_station.json"
+    },
+    {
+      "key": "QX6BMU3XEX4VBLMRAU4BSK25R6ACP6K7",
+      "path": "models/entity/hive/ctf/flag/pirate.json"
+    },
+    {
+      "key": "LU667VXLXXSTMLB77ZCMGD3ZEVUWPOY3",
+      "path": "animations/hive/ctf/icon.json"
+    },
+    {
+      "key": "ZSLFDBMLXUOMYJ62MEXLZ2PI254BLRXD",
+      "path": "textures/entity/hive/ctf/flag/royal/red.png"
+    },
+    {
+      "key": "TL2HQ7A7MOKOLUGWZSHZUPY4UMDLGXVC",
+      "path": "entity/hive/ctf/launchpad/mushroom.json"
+    },
+    {
+      "key": "ANYRL2UED2ZWPLF3R5OIWIZGIU5PHUHV",
+      "path": "sounds/hive/ctf/flag-capture-same-team.ogg"
+    },
+    {
+      "key": "MFKT542QGUECWOCKTGODAVRFTLUXU6CE",
+      "path": "entity/hive/ctf/progress_bar.json"
+    },
+    {
+      "key": "IZSIGIZOOXFGFXG3YOW2QHWBGEEAH2JQ",
+      "path": "textures/entity/hive/ctf/flag/scifi/red.png"
+    },
+    {
+      "key": "XJXWWCZ2PGPWSIRKE2F3EDK6LTRUPNRL",
+      "path": "textures/entity/hive/ctf/flag/magma/red.png"
+    },
+    {
+      "key": "TIB3T7DMRTFWEOJOJ776PDAL7INSL7W5",
+      "path": "textures/entity/hive/ctf/upgrade_station.png"
+    },
+    {
+      "key": "W4MMQZQOQWRQIBO37FRIVECCBB7E7AGV",
+      "path": "animations/hive/ctf/launchpad/piston.json"
+    },
+    {
+      "key": "7QJAWZSMTTZU6FUGK3P6POGE45CWHMVB",
+      "path": "models/entity/hive/ctf/item_station.json"
+    },
+    {
+      "key": "VET7V6PIGHX3CRFFLJFCOMGHNTTGDCPA",
+      "path": "textures/entity/hive/ctf/spring/sandstone.png"
+    },
+    {
+      "key": "4FHA4TYG6WLYIXAS46X2IBRBSYJWKN7B",
+      "path": "sounds/hive/ctf/items/armor-iron.ogg"
+    },
+    {
+      "key": "5CJABLS76WJ3A7BDXIZD5C253J3E6AA7",
+      "path": "textures/entity/hive/ctf/beacon/blue.png"
+    },
+    {
+      "key": "4NZZUOL55WA25JSAIASUZCPKJXQSS2JL",
+      "path": "entity/hive/ctf/flag.json"
+    },
+    {
+      "key": "PHKASAT32RG2ZOCXA3ULKVVAWDMJ2LDF",
+      "path": "sounds/hive/ctf/flag-returned.ogg"
+    },
+    {
+      "key": "R7SLR36QJWB25RAGCI6LE4OOLATCD3T7",
+      "path": "render_controllers/hive/ctf/capture_zone.json"
+    },
+    {
+      "key": "7IW7XYBCXDA3WYBREJAYR3RPEWZEWNCM",
+      "path": "render_controllers/hive/ctf/beacon.json"
+    },
+    {
+      "key": "OUTF22RCLAL7SFS34XDR26XL2H2WHZPD",
+      "path": "models/entity/hive/ctf/progress_bar.json"
+    },
+    {
+      "key": "C4CJ36ST2UKCC3P6FBPZZC4ZGCADXLWY",
+      "path": "sounds/hive/ctf/timer.ogg"
+    },
+    {
+      "key": "NGTTYY73GSVMYVL5DNB5YLXGPK4JEK43",
+      "path": "models/entity/hive/ctf/flag/candycane.json"
+    },
+    {
+      "key": "ONVTUI3LQJCKMSYKIXTKY65NQCUBKYW7",
+      "path": "animations/hive/ctf/beacon.json"
+    },
+    {
+      "key": "PRBQ65IQHWFJFNUMD5WGOA32UUWRSBN5",
+      "path": "sounds/hive/ctf/team-upgrade.ogg"
+    },
+    {
+      "key": "XIACG6CWUGHICAGLEV7IZHTKEZEREQX7",
+      "path": "models/entity/hive/ctf/launchpad/leaf.json"
+    },
+    {
+      "key": "O6ESG4V5SGF7X4BIAZAM4FD5EUX6NZQ4",
+      "path": "particles/hive/ctf/di/di.7.particle.json"
+    },
+    {
+      "key": "IBUAACQSLPC3C5POZTYHALEMM5YLYCZC",
+      "path": "models/entity/hive/ctf/flag/flourished.json"
+    },
+    {
+      "key": "KEZGELAUH7XOCMCYVEBUDKALGB4IRXZ4",
+      "path": "sounds/hive/ctf/regen-pop.ogg"
+    },
+    {
+      "key": "XF4CO2KET32D7BIG3ZJWPVDAJIERIP5T",
+      "path": "animations/hive/ctf/teleporter/sandstone.json"
+    },
+    {
+      "key": "G3MTGTX7HG2RECMJ2MOQLVCUIXNBXIB2",
+      "path": "animations/hive/ctf/launchpad/leaf.json"
+    },
+    {
+      "key": "DZNG7UO2KSF3NOXMQPQQNRKRV7P2FWEF",
+      "path": "particles/hive/ctf/di/di.3.particle.json"
+    },
+    {
+      "key": "BXJ4345CLNNCILBPJPOGN7YSHPIHKXIN",
+      "path": "sounds/hive/ctf/flag-pickup.ogg"
+    },
+    {
+      "key": "DJQMQGZ3UCETHH3RBIVDRFERCPAG42WY",
+      "path": "textures/entity/hive/ctf/teleporter/campfire.png"
+    },
+    {
+      "key": "5YLT3O7G6RPAAJTULTCLYIC5DY7ZHB3P",
+      "path": "textures/entity/hive/ctf/flag/royal/blue.png"
+    },
+    {
+      "key": "7NLNMTYMJ3W6XB5WRUDD5JJL2HMCN3G5",
+      "path": "textures/particle/hive/ctf/di.png"
+    },
+    {
+      "key": "LWXRPVQTVR2YVBYRZMUJONR5SZUJT3QS",
+      "path": "textures/entity/hive/ctf/spring/flower.png"
+    },
+    {
+      "key": "G57D33WG2QKUIX3TSD7YOTYPLILJ5B7S",
+      "path": "sounds/hive/ctf/player-died.ogg"
+    },
+    {
+      "key": "CWDTDHT72MHPPZ4BTHAHCCAJWMLU6OJT",
+      "path": "textures/entity/hive/ctf/capture_zone/red.png"
+    },
+    {
+      "key": "JKDWCFC5QCLMFCMLEOROF6CRTTYXNNHI",
+      "path": "sounds/hive/ctf/flag-capture.ogg"
+    },
+    {
+      "key": "CORI2EODQSG4ZYKXVU44E6SDQFITGPWN",
+      "path": "textures/entity/hive/ctf/capture_zone/swhite.png"
+    },
+    {
+      "key": "NH3DN7PVAHLBXLVW67XHYERCLMB2PGK6",
+      "path": "particles/hive/ctf/di/di.8.particle.json"
+    },
+    {
+      "key": "L33UNBPD6KSZSWQ2DSKDM2W2BVL5WEQQ",
+      "path": "animations/hive/ctf/flag.json"
+    },
+    {
+      "key": "HNHI5I7LGII2KK5U3GBW3AJUDAG72GO4",
+      "path": "entity/hive/ctf/teleporter/sandstone.json"
+    },
+    {
+      "key": "DCKIHEKGRFPUQVGBD7PWLUK6UNLJOZMW",
+      "path": "sounds/hive/ctf/items/arrows.ogg"
+    },
+    {
+      "key": "EBLXAPZFVD6Q5GTHORH335LE43TZW7SY",
+      "path": "particles/hive/ctf/di/di.2.particle.json"
+    },
+    {
+      "key": "HAVVVX5IVFZ5VRJYRYIS3CM3IV4B3FV7",
+      "path": "sounds/hive/ctf/items/tnt.ogg"
+    },
+    {
+      "key": "X4ZL5GAS66XVIMF5YLUUT4VTHA4G4F4N",
+      "path": "textures/entity/hive/ctf/capture_zone/blue.png"
+    },
+    {
+      "key": "Y4KHGDUCPY4KSSRDZJMKHFYQF3S6P3VU",
+      "path": "textures/entity/hive/ctf/beacon/white.png"
+    },
+    {
+      "key": "H34D2L7FTEKA6ZFUYDEKB2AC22P4ARU3",
+      "path": "models/entity/hive/ctf/flag/shipwreck.json"
+    },
+    {
+      "key": "BICPXQNLDXMSJRRDAXIGU2EEGNEYI3B4",
+      "path": "particles/hive/ctf/capture/red.particle.json"
+    },
+    {
+      "key": "ADKMTQ6D7TI7OSOK4EZEYPSSNB7PGNK3",
+      "path": "particles/hive/ctf/launchpad/mushroom.launch.particle.json"
+    },
+    {
+      "key": "W7LD2MSUNXXKGYL6LVGEGLL67VO55U3I",
+      "path": "models/entity/hive/ctf/teleporter/sandstone.json"
+    },
+    {
+      "key": "OV2THPCCKDQBSGIJQELMS4CPXLLBK5W6",
+      "path": "sounds/hive/ctf/game-over.ogg"
+    },
+    {
+      "key": "UIPRTRIRPNPVP2DH3MSXC6PFFTXRDWKM",
+      "path": "animations/hive/ctf/spring/flower.json"
+    },
+    {
+      "key": "MO4XIP3EBMQ6JLKKPJYT7LOBKXTJNAYZ",
+      "path": "entity/hive/ctf/spring/flower.json"
+    },
+    {
+      "key": "LOZQV2OPDRZJFIT6HML5XULVKQX4DKBG",
+      "path": "models/entity/hive/ctf/teleporter/campfire.json"
+    },
+    {
+      "key": "VV5F7THW77FIII6GKKNEFT5FFLP364AK",
+      "path": "models/entity/hive/ctf/flag/atlantis.json"
+    },
+    {
+      "key": "MY6HVA7EHHCFAQLED4D7TBGWTAKQU4ID",
+      "path": "textures/entity/hive/ctf/progress_bar/blue.png"
+    },
+    {
+      "key": "BLYR3GWAINJFPL5YXBJ4VS4RPQ4QGPMP",
+      "path": "textures/ui/item_lock_red.png"
+    },
+    {
+      "key": "T6DGTPFBRXDVSAC3XNVPDDRD6DI3X5V3",
+      "path": "particles/hive/ctf/di/di.9.particle.json"
+    },
+    {
+      "key": "PXUXN4532WW643RJPD3PJCAGTKC7O53A",
+      "path": "particles/hive/ctf/di/di.1.particle.json"
+    },
+    {
+      "key": "LYYNN7CXSMPE22OR6RGX4LMTFC4KPAIB",
+      "path": "textures/entity/hive/ctf/icon/flag/red.png"
+    },
+    {
+      "key": "2FZ37O2XT3QUPFSPXR6I5MXIC3VLQHWS",
+      "path": "textures/entity/hive/ctf/flag/cosmic/red.png"
+    },
+    {
+      "key": "S5NW3TGSY5DUW2FXLXFP37NV6PI47HET",
+      "path": "entity/hive/ctf/icon/flag.json"
+    },
+    {
+      "key": "YI3GZ2SMVARAP3U4FPBYP4QZGNRMW7C2",
+      "path": "sounds/hive/ctf/flag-taken.ogg"
+    },
+    {
+      "key": "HGRJNKVVY2GEQZDNG6TQRYH77CFFAGOA",
+      "path": "textures/entity/hive/ctf/flag/pirate/blue.png"
+    },
+    {
+      "key": "SX7FGITMADLRTLBH65QK3ATQWLYVXF5P",
+      "path": "textures/entity/hive/ctf/flag/shipwreck/blue.png"
+    },
+    {
+      "key": "C7725LGOD7BZCZ42Y4LPIKNGXUOJ7NMM",
+      "path": "textures/entity/hive/ctf/icon/flag/blue.png"
+    },
+    {
+      "key": "53S64NNZJM3XTGSMRELQDUBHMXSS26TV",
+      "path": "sounds/hive/ctf/checkmate.ogg"
+    }
+  ]
+}

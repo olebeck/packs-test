@@ -1,0 +1,20 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.sg.flare": {
+      "states": {
+        "default": {
+          "animations": [
+            "base_pose"
+          ],
+          "particle_effects": [
+            {
+              "effect": "flare",
+              "locator": "fuse"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

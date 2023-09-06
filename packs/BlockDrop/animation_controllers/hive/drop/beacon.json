@@ -1,0 +1,14 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.drop.beacon.activate": {
+      "states": {
+        "default": {
+          "animations": [
+            "activate"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

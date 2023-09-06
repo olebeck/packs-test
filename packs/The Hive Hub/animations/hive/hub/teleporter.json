@@ -1,0 +1,17 @@
+{
+  "animations": {
+    "animation.hive.hub.teleporter.idle": {
+      "bones": {
+        "portal": {
+          "scale": [
+            1,
+            "1 + math.cos(query.anim_time * 100) * 0.1",
+            1
+          ]
+        }
+      },
+      "loop": true
+    }
+  },
+  "format_version": "1.8.0"
+}

@@ -1,0 +1,15 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.dr.death.marker": {
+      "states": {
+        "default": {
+          "animations": [
+            "spin",
+            "spawn"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

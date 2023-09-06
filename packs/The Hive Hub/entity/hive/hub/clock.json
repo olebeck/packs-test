@@ -1,0 +1,31 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animations": {
+        "clock": "animation.hive.hub.clock"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.clock"
+      },
+      "identifier": "hivehub:clock",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "scripts": {
+        "animate": [
+          "clock"
+        ],
+        "pre_animation": [
+          "variable.adjusted_time = math.mod(query.time_of_day * 2, 1);"
+        ]
+      },
+      "textures": {
+        "default": "textures/entity/hive/hub/clock"
+      }
+    }
+  }
+}

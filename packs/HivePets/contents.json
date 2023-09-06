@@ -1,0 +1,1312 @@
+{
+  "content": [
+    {
+      "key": "HOUOVXTA66AVGWTHN55TAGFPXGY3UG3Z",
+      "path": "animation_controllers/hive/mounts/spaceship.json"
+    },
+    {
+      "key": "O2WGXFKGSOJDCCK7TMQNRACLXMYH5X6Y",
+      "path": "attachables/hive/hats/space_helmet.json"
+    },
+    {
+      "key": "NZG6BFQEAIKL7IIZUHRNP5YXN5OMPGOL",
+      "path": "render_controllers/hive/pets/phasedpet.json"
+    },
+    {
+      "key": "MB4TSASQ25H4FJJPN5MTPVUWOUXVI4IL",
+      "path": "textures/entity/hive/hats/flower_crown.png"
+    },
+    {
+      "key": "HZXLF2QL7KRXAUDECB7AYJ6QE362OINP",
+      "path": "animations/hive/hats/fox_buddy.json"
+    },
+    {
+      "key": "YFKIVVND5D6RIGYRAMZHK7JNZ3DPCML7",
+      "path": "particles/hive/pets/witch_cat/green.particle.json"
+    },
+    {
+      "key": "XWDQ5WERGMTXGPEMQK7HDVATM4JUQJHW",
+      "path": "animations/hive/pets/pirate_parrot.json"
+    },
+    {
+      "key": "GM6EOALKR5D4RGMK3FF2XURNGMK2AINM",
+      "path": "textures/entity/hive/mounts/broomstick/cursed.png"
+    },
+    {
+      "key": "DGVGG6CUJOFKJH7LELPPBFLF2NJMSQG5",
+      "path": "animations/hive/mounts/bumblebee.json"
+    },
+    {
+      "key": "GSPB6ZYJQCUETV4WL3BRHOER3MKLB2KK",
+      "path": "models/entity/hive/hats/froggy_cap.json"
+    },
+    {
+      "key": "JBZ34L636H7IAWSCV7PKYAECOEBLO3IE",
+      "path": "entity/hive/mounts/broomstick.json"
+    },
+    {
+      "key": "EKGFMH5NLZFJYRL5RTCDKZEB7BFFUSFL",
+      "path": "items/hive/hats/insanecraft_dragon_cap.json"
+    },
+    {
+      "key": "U3YILBH335JEAV2PDH6AUJQAKXK76DEU",
+      "path": "sounds/sound_definitions.json"
+    },
+    {
+      "key": "LNMH7Y57LWG33NPBLKM2FZ2KL6NL4XGR",
+      "path": "models/entity/hive/hats/cat_cap.json"
+    },
+    {
+      "key": "VNHRTMALRF3EBK3OZYVIX6WDOQ273YTT",
+      "path": "models/entity/hive/mounts/wooden_chair.json"
+    },
+    {
+      "key": "NPHTD7YLVFDW5DGQOHZFWJUOUNKOE5X5",
+      "path": "particles/hive/pets/witch_cat/purple.particle.json"
+    },
+    {
+      "key": "KNBWE64XYNKPRQNNTRMIJOXIXXTNXQDI",
+      "path": "textures/entity/hive/pets/witch_cat/red.png"
+    },
+    {
+      "key": "5SFBGBD2KNCJHRWW3DHQ5NCPHV44LP53",
+      "path": "items/hive/hats/octopus.json"
+    },
+    {
+      "key": "E7FP6DYJBOMLC26KCCDTVYBNWWX22VWL",
+      "path": "attachables/hive/hats/santa_hat.json"
+    },
+    {
+      "key": "6ZXGX4UA4EKD72Z47IVCFBXXGW2O7IPV",
+      "path": "textures/entity/hive/hats/horns/ender.png"
+    },
+    {
+      "key": "4HIEWJCCHI2HY3PWVS4D2GVODJJOWGSY",
+      "path": "textures/entity/hive/mounts/wooden_chair.png"
+    },
+    {
+      "key": "YLAFYV5DUZD7JZLODC7HHGOEOVAMDBJ2",
+      "path": "items/hive/hats/horns/blaze.json"
+    },
+    {
+      "key": "ZULJASM3ZWCXNR4RP7UJ3GBB2CSGWRWT",
+      "path": "render_controllers/hive/mounts/cruiser.json"
+    },
+    {
+      "key": "F43Q75MOIJZENM337JE7TK55W2FE26H7",
+      "path": "textures/items/hive/hats/party_zuk_goggles.png"
+    },
+    {
+      "key": "5AWQY4AHJKHYDFRSDAXKP77WD4QNXDY6",
+      "path": "render_controllers/hive/mounts/broomstick.json"
+    },
+    {
+      "key": "3GYASQT7BNZ6YENLT65GM4GTRA6Q72NO",
+      "path": "animation_controllers/hive/mounts/cruiser.json"
+    },
+    {
+      "key": "4EDYVTHQQREW5VZEMQAK6ZEHO2JS2ZWH",
+      "path": "textures/entity/hive/mounts/pirate_ship.png"
+    },
+    {
+      "key": "GYCDLBYCX7XDG2HDEDWJBLQ4RUYH4SZA",
+      "path": "textures/entity/hive/hats/bunny_ears.png"
+    },
+    {
+      "key": "HA3ZVQCNNRQG5DWVKBOTVI2FC43HKORL",
+      "path": "textures/items/hive/hats/froggy_cap.png"
+    },
+    {
+      "key": "OQT7F2JSHUJU2TDI32RBJXSYMNP352XR",
+      "path": "textures/entity/hive/hats/shining_crown/blue.png"
+    },
+    {
+      "key": "SJB2TLOE6KDCKPS2MR6MS62RSGEOZTNA",
+      "path": "textures/entity/hive/pets/endolotl/faded.png"
+    },
+    {
+      "key": "XY5X7YJBJN4YHD2Q5SDYWAFRIRLYWJGL",
+      "path": "textures/entity/hive/pets/pirateship/ghost_faded.png"
+    },
+    {
+      "key": "F6FN2HWEM2BPY3Y7HNPUSKPCA7XFMS7Q",
+      "path": "animations/hive/hats/bee_hat.json"
+    },
+    {
+      "key": "UYVKIU2PYBRB3J3YGDPYMQK3GHXPQXNL",
+      "path": "particles/hive/pets/babydragon/steam.particle.json"
+    },
+    {
+      "key": "3YV3FRV7VZ6V35VFOPUIO5LCWORDLNMY",
+      "path": "textures/entity/hive/hats/witch_hat.png"
+    },
+    {
+      "key": "K3R5CW4XDPYVNF54JAFGMOPJUI6IN3WQ",
+      "path": "textures/entity/hive/mounts/cruiser/blue.png"
+    },
+    {
+      "key": "EUDWYCJTZR2DXFSF2GRXGPBZ4DQQC3NM",
+      "path": "models/entity/hive/hats/fox_buddy.json"
+    },
+    {
+      "key": "563QVO4X7RM2PU5AKFNUAWEICAWLEAU2",
+      "path": "items/hive/hats/party_disco_ball.json"
+    },
+    {
+      "key": "FQ6KRKTLGEVNXD72A2YUGCE37OZ2SMZR",
+      "path": "items/hive/hats/cat_cap.json"
+    },
+    {
+      "key": "UDZW3HURMRP37LXRXUKGHJATHG3BKKYS",
+      "path": "attachables/hive/hats/shining_crown_blue.json"
+    },
+    {
+      "key": "ZE3BTGHGJLT4CLC52BTN3MEAFOHOEKTB",
+      "path": "models/entity/hive/pets/pirateship/default.json"
+    },
+    {
+      "key": "HDYTQ3CB6V6KJIPX6FN364TOEQJ7ARAR",
+      "path": "items/hive/hats/gifter.json"
+    },
+    {
+      "key": "IWNH63ULCANYPD2HZE35HYBBBHA6KYMN",
+      "path": "textures/entity/hive/pets/babydragon/ender.png"
+    },
+    {
+      "key": "WFNCIYI53VFNWCMM7UBDUM7INYLWBOLV",
+      "path": "animations/hive/hats/propeller.json"
+    },
+    {
+      "key": "VJEY2SEUGM4OA53H3GHYMW7PTPJ6YZLY",
+      "path": "textures/items/hive/hats/gifter.png"
+    },
+    {
+      "key": "VJYLXW7SIDMMNOHCXIXT6CNTCM4FKAHS",
+      "path": "items/hive/hats/fox_ears/ender.json"
+    },
+    {
+      "key": "L74NOXNZ3YFUOAC3UBVP6CD37LDOXXXX",
+      "path": "textures/entity/hive/hats/fox_ears/ender.png"
+    },
+    {
+      "key": "WVA34XORF4RSUTMNMBBIMCNL7JZMZL2X",
+      "path": "textures/entity/hive/pets/babydragon/green_faded.png"
+    },
+    {
+      "key": "BTHCBGEMELWWD5B7VNFMFJUXTU32Y5DU",
+      "path": "textures/entity/hive/hats/octopus/angry.png"
+    },
+    {
+      "key": "WPQHXTHRJZN5CWORHVTWVUO2HU2PBJDW",
+      "path": "items/hive/hats/santa_hat.json"
+    },
+    {
+      "key": "JTYHWCM5IFZCA2IM33UYFSTT2VTG3NYW",
+      "path": "textures/entity/hive/pets/cubee/cubee.png"
+    },
+    {
+      "key": "GXQPK3A5D56NYE5N3YAF4WYJ7K5LJ7MB",
+      "path": "textures/items/hive/hats/space_helmet.png"
+    },
+    {
+      "key": "5EQTCVCKXOZ3SWKXI5JITYVC66POK3HW",
+      "path": "attachables/hive/hats/gamer_headset_rgb.json"
+    },
+    {
+      "key": "CUVTYQFSFVNEBLZUP7NDGF3JZH3LUKTO",
+      "path": "textures/entity/hive/mounts/hoverbike/green.png"
+    },
+    {
+      "key": "PPGFI6TFLXIBZIQZW6TWFPQITEURFNKB",
+      "path": "models/entity/hive/hats/insanecraft_dragon_cap.json"
+    },
+    {
+      "key": "5YIPMHGV2T4PA2PVEFMICQGZDHQIWDYM",
+      "path": "models/entity/hive/pets/pirateship/locators.json"
+    },
+    {
+      "key": "6E36JKNI6Y5GTJ4IMFZWT4YQTLES64ZN",
+      "path": "entity/hive/mounts/cruiser.json"
+    },
+    {
+      "key": "2WN2FZPWOHOQITR7N4ULKOBSQ5KX6G7M",
+      "path": "models/entity/hive/hats/endolotl_buddy.json"
+    },
+    {
+      "key": "ZJ3AT5XS2R5K775EWQW6YRHGGX7ZIDR6",
+      "path": "attachables/hive/hats/fox_buddy.json"
+    },
+    {
+      "key": "ODNFKBJ3S4XRVSGGAZNULF7K5JBBFJO7",
+      "path": "animations/hive/pets/endolotl.json"
+    },
+    {
+      "key": "PG62BKOJJ6WBI5NDB44NPZW46KGZCAAX",
+      "path": "textures/entity/hive/mounts/broomstick/regular.png"
+    },
+    {
+      "key": "XNS5UKYFYMBHK4ZSRUVQ24DGA4PW3MSP",
+      "path": "animations/hive/pets/babydragon.json"
+    },
+    {
+      "key": "KA5NJG7E5NXVN3QEQJ4GZOWIDY4QJ37Z",
+      "path": "models/entity/hive/hats/propeller.json"
+    },
+    {
+      "key": "72AMNRV7DUHV4ZUSJPQ7LWUIBFOHRG7O",
+      "path": "attachables/hive/hats/horns_demon.json"
+    },
+    {
+      "key": "WUDCA7JF4LCIR3ET6FOTM3HOHSG7W6VO",
+      "path": "animations/hive/mounts/spaceship.json"
+    },
+    {
+      "key": "TDDT2M5LP7ZBJKO2KAW4RDU53ISFGPT3",
+      "path": "particles/hive/pets/pirate_parrot/sploosh.particle.json"
+    },
+    {
+      "key": "XW4Z3ZRN226NEEVDAXR32SGMQCIBY2WJ",
+      "path": "render_controllers/hive/hats/hide_first_person.json"
+    },
+    {
+      "key": "P3PWOHCHBE3IGX4Y75JLCHXQUZ4MS3X6",
+      "path": "models/entity/hive/hats/panda_cap/angry.json"
+    },
+    {
+      "key": "V5Z26EILKEU26ISNHJEZAQAPSP6Z7SL2",
+      "path": "textures/entity/hive/pets/pirateship/ghost.png"
+    },
+    {
+      "key": "OQABKMJARFMYDJ4R5KTFQOJIRAIKXKBQ",
+      "path": "items/hive/hats/panda_cap.json"
+    },
+    {
+      "key": "WKJ7ZH7QLIKYMZEQSAZUG7J7FAKMJIOR",
+      "path": "models/entity/hive/mounts/cruiser/cruiser.json"
+    },
+    {
+      "key": "4OQFULX27L42X5QX77XQDENQC2MTEOXY",
+      "path": "particles/hive/pets/pirateship/cannons.particle.json"
+    },
+    {
+      "key": "RVT7GPNYYOQRBWV5JSN2AOPBOBMI3FRT",
+      "path": "models/entity/hive/hats/witch_hat.json"
+    },
+    {
+      "key": "QX6PSBGJDLRC2VJXHNAKQSI3F5A7D5HK",
+      "path": "attachables/hive/hats/horns_ender.json"
+    },
+    {
+      "key": "OUL2P2TRS3Z4RBQXZHZH6GAOK7KVXEMX",
+      "path": "textures/entity/hive/pets/witch_cat/red_faded.png"
+    },
+    {
+      "key": "UQLOXI7GJ2PCIJDRZW6H4CCCZX4WMAMK",
+      "path": "animations/hive/hats/axolotl_buddy.json"
+    },
+    {
+      "key": "BTVZ25VHJGL7PLHXTYJ4IP4UWJRKEFMY",
+      "path": "animation_controllers/hive/mounts/pirate_ship.json"
+    },
+    {
+      "key": "CAEMMU7UDYONYP65RZWGDTAI3QYTN7VD",
+      "path": "render_controllers/hive/mounts/spaceship.json"
+    },
+    {
+      "key": "535YZ7QYFPWXZ77ONPTOJU5E4DBKI26L",
+      "path": "sounds/hive/pets/pirateship/morph.ogg"
+    },
+    {
+      "key": "XKFSG5TKROU2GAFTZV56YCX3USMKGWA5",
+      "path": "entity/hive/pets/witch_cat.json"
+    },
+    {
+      "key": "UBN3GCHUMZSL6UIW62WWT7UP7NOAD2XZ",
+      "path": "textures/entity/hive/hats/cat_cap/normal.png"
+    },
+    {
+      "key": "JRVS7Y3Q3SFFMSTVTJLDEAKTYYR6TGEZ",
+      "path": "attachables/hive/hats/fox_ears_winter.json"
+    },
+    {
+      "key": "GJM4KDWIGBKMTVR2VS2LRZXLZJMGM37L",
+      "path": "items/hive/hats/bee_hat.json"
+    },
+    {
+      "key": "BJIMDLGNZYLLMN3SBWZ5EINANYF4RHKJ",
+      "path": "textures/items/hive/hats/party_disco_ball.png"
+    },
+    {
+      "key": "SZR4GQUYOXUAZAAF3OEQJQCYA3UHHRL4",
+      "path": "animations/hive/mounts/cruiser.json"
+    },
+    {
+      "key": "4TK4FCCZKORD6UR44JBWBZQKHYUUHYHY",
+      "path": "models/entity/hive/hats/panda_cap/happy.json"
+    },
+    {
+      "key": "ROTOGU77DFLLCHAEFRDVV3RPVOKMXXH7",
+      "path": "render_controllers/hive/mounts/pirate_ship.json"
+    },
+    {
+      "key": "KAWMEK5ZPLYR6C4HOYD6EI5AJHMZHS3Q",
+      "path": "textures/items/hive/hats/santa_hat.png"
+    },
+    {
+      "key": "UPUJYXC6RNXPKNSBGVJVEXPOJ4CLS4S2",
+      "path": "textures/items/hive/hats/endolotl_buddy.png"
+    },
+    {
+      "key": "QFD2CIUPTDNYKSA7TIELGM776ZMXBO22",
+      "path": "entity/hive/mounts/hoverbike.json"
+    },
+    {
+      "key": "VCYTXSE7MWXVLGYRWNECUVCJEL6R7WYZ",
+      "path": "particles/hive/pets/endolotl/sleeping2.particle.json"
+    },
+    {
+      "key": "ZOVWGVVLLEPUJYPWSUYJTZDPFAOMWVKA",
+      "path": "particles/hive/pets/witch_cat/red.particle.json"
+    },
+    {
+      "key": "2K35BOUYVHLJOZW7M45EYESZMWHKBJSI",
+      "path": "textures/entity/hive/hats/froggy_cap/blink.png"
+    },
+    {
+      "key": "DQG7FJJBJZABBTPRNAJQYPS3AS5CQZTX",
+      "path": "textures/entity/hive/hats/santa_hat.png"
+    },
+    {
+      "key": "ZECKALPRDRC5U4NXG4EERKZAQFTSQU3H",
+      "path": "textures/entity/hive/mounts/cruiser/lime.png"
+    },
+    {
+      "key": "QSZGKFCZ5XQMYHSLGTQTB5H25WRSVOSQ",
+      "path": "textures/entity/hive/pets/witch_cat/purple.png"
+    },
+    {
+      "key": "SRRCTER72Y6DZFWYHXWTH5ZQS3W7H6FN",
+      "path": "textures/items/hive/hats/shining_crown/blue.png"
+    },
+    {
+      "key": "S4VT2SK43KJNH4USNTGD3E7G76FMFGUZ",
+      "path": "textures/entity/hive/hats/fox_ears/regular.png"
+    },
+    {
+      "key": "75ZHUS5TKTMRGCEXZUQBZYB774KBWOL4",
+      "path": "animation_controllers/hive/pets/pirate_parrot.json"
+    },
+    {
+      "key": "UTLUQJA7KDWLZPM63WK3I3OIK2OEXB2O",
+      "path": "models/entity/hive/mounts/cruiser/thrusters.json"
+    },
+    {
+      "key": "FZ6H7BYYALVGFXVYSDU4MFTBZSJ7AQVA",
+      "path": "particles/hive/pets/pirate_parrot/crumbs.particle.json"
+    },
+    {
+      "key": "AEOLUJYT556SOWX733A72GJE2K6WLJJ3",
+      "path": "sounds/hive/pets/pirateship/afk_retract.ogg"
+    },
+    {
+      "key": "3AR66S7ZQ2N4CVKFABR46RRO2AVDO3WJ",
+      "path": "textures/entity/hive/hats/axolotl_buddy.png"
+    },
+    {
+      "key": "6D4SP4CVSL27CEOU6NQSKXIT5DYSCVOW",
+      "path": "animations/hive/pets/witch_cat.json"
+    },
+    {
+      "key": "DZUDR7CWUNPL4YMBIKYHVGLK6OOBFFYK",
+      "path": "textures/items/hive/hats/fox_ears/regular.png"
+    },
+    {
+      "key": "ZPJFPEDRYGVK7UN3AGJ5MJRPNGKO43AR",
+      "path": "textures/items/hive/hats/gamer_headset/pink.png"
+    },
+    {
+      "key": "PSESZD3THUDRWC3DW2KJVWBCZVEP5K3S",
+      "path": "textures/entity/hive/hats/octopus/happy.png"
+    },
+    {
+      "key": "E35P5FAPOXBVDLJYJQFE4FVSG6HBS5VH",
+      "path": "textures/entity/hive/pets/babydragon/pink_faded.png"
+    },
+    {
+      "key": "PKECHIWX4YDSKAPFBOGZPOGPPW7LS5FL",
+      "path": "textures/entity/hive/hats/panda_cap.png"
+    },
+    {
+      "key": "LN754I6NZ2MQFPVW5JIDFJZT5O65FOEI",
+      "path": "attachables/hive/hats/cat_cap.json"
+    },
+    {
+      "key": "FPFEG7OXGAI3MN43KUHVVJLEL3Z6APO5",
+      "path": "textures/particle/hive/pets/endolotl/sleeping.png"
+    },
+    {
+      "key": "ZPE4VMBHWYAS52WKUGVQLTTXLHDSOHBA",
+      "path": "models/entity/hive/pets/babydragon.json"
+    },
+    {
+      "key": "VDGG5Q2IU5MGVIC75H36DGILM5YJXELH",
+      "path": "textures/entity/hive/hats/cat_cap/blushing.png"
+    },
+    {
+      "key": "BWYVWLA3VF4AR6TCUGSRUWRX67OZYEST",
+      "path": "textures/particle/hive/mounts/hoverbike_boosters.png"
+    },
+    {
+      "key": "X6VNRT6BK4CQU6N6ZRMU4WVEPSS7O572",
+      "path": "entity/hive/pets/pirateship.json"
+    },
+    {
+      "key": "ELWJSZOWUDXZLCUMW266FMJ2BGJLCNJD",
+      "path": "textures/entity/hive/hats/elf_hat.png"
+    },
+    {
+      "key": "WP5S7VDZHTBZG3LZW2PRRAVT24EBE2P6",
+      "path": "items/hive/hats/gamer_headset/rgb.json"
+    },
+    {
+      "key": "NKKFZJ56T66CDVHJKSCUTQCCNVLGHSQE",
+      "path": "textures/entity/hive/hats/party_disco_ball.png"
+    },
+    {
+      "key": "62V2THV4GLGUUG7UES3Y2SMFGHMODOLU",
+      "path": "models/entity/hive/hats/party_neon_crown.json"
+    },
+    {
+      "key": "WK2LDMKUOIL6ZETPW66RVFWMYW7I33KA",
+      "path": "models/entity/hive/hats/santa_hat.json"
+    },
+    {
+      "key": "KQE2WX3TZWGUPC3FUOHKXF7QVVGPA6HP",
+      "path": "items/hive/hats/endolotl_buddy.json"
+    },
+    {
+      "key": "5EENX4Y3GZGHMWJOAVJMSUK224UBLLWS",
+      "path": "models/entity/hive/hats/octopus/angry.json"
+    },
+    {
+      "key": "XZGADYNQH5QDLLJMQJCXSPFGCI64TEF7",
+      "path": "textures/entity/hive/pets/babydragon/green.png"
+    },
+    {
+      "key": "SPVLGSRRJDOBYFPIKVUQQMRHLNQGXLEL",
+      "path": "entity/hive/pets/cubee.json"
+    },
+    {
+      "key": "NYYC2MGL7GRRCL4WXMDZ3QBLFY6IDCFY",
+      "path": "particles/hive/pets/pirateship/water.particle.json"
+    },
+    {
+      "key": "TRM6CYVBVRIZY7DOJJ2WVF5Z3KK72DKU",
+      "path": "models/entity/hive/hats/fox_ears.json"
+    },
+    {
+      "key": "TKDGOGLK3AC34WUEIOTSPYKKLOILTDSM",
+      "path": "textures/entity/hive/mounts/hoverbike/yellow.png"
+    },
+    {
+      "key": "YBY5GU7EYMUVPO37RFNNRCT7Y7MLWL2L",
+      "path": "attachables/hive/hats/froggy_cap.json"
+    },
+    {
+      "key": "KVPPNJENM7RGC5RQEPJXHWWJIWJAAE7J",
+      "path": "models/entity/hive/hats/axolotl_buddy.json"
+    },
+    {
+      "key": "RZICSQV5RFNL2ZIMF6XUBD3FALPBBG6I",
+      "path": "textures/entity/hive/hats/gamer_headset_rgb.png"
+    },
+    {
+      "key": "S2CWP4XK4BGHPG6SOOMWBOO4ON2CNFVN",
+      "path": "models/entity/hive/hats/horns.json"
+    },
+    {
+      "key": "TPDGKLGN3DEDW2R5RI2EMCT3VJUE4ZU5",
+      "path": "models/entity/hive/hats/octopus/happy.json"
+    },
+    {
+      "key": "WLS3MFG2SI67XBR5O5HO67VFO6S3K6RH",
+      "path": "particles/hive/pets/endolotl/shake.particle.json"
+    },
+    {
+      "key": "W3IKB2BM4YLVHNSVCP7EMCRFYA4PUZQC",
+      "path": "textures/entity/hive/pets/babydragon/blue.png"
+    },
+    {
+      "key": "MQD6F2QXSIVYO6OOHAK4EAP7FJ6SP4IH",
+      "path": "textures/entity/hive/hats/shining_crown/gold.png"
+    },
+    {
+      "key": "4D7KJM3WA4UTKYPOQOZJFMLF6HXGO26R",
+      "path": "textures/items/hive/hats/captains_hat.png"
+    },
+    {
+      "key": "SAXQUJ3XWF5DY5OMSU2NVCB55X565N3G",
+      "path": "attachables/hive/hats/party_neon_crown.json"
+    },
+    {
+      "key": "I2CTO4SV7LUWKWPAJ4ZTJBSB3JDALMQL",
+      "path": "attachables/hive/hats/party_zuk_goggles.json"
+    },
+    {
+      "key": "IIQMSU54SXJCQ52IA6LWJQK7WV2OJBPV",
+      "path": "particles/hive/pets/pirateship/water.ghost.particle.json"
+    },
+    {
+      "key": "EDQDI5MTWAIJNO6BEBFA3XAVUX73JAPO",
+      "path": "textures/entity/hive/pets/pirate_parrot/pirate_parrot.png"
+    },
+    {
+      "key": "GHZVN45ALNXZ7XYSQ3SOKC76LGSRHVB3",
+      "path": "attachables/hive/hats/octopus.json"
+    },
+    {
+      "key": "SXP4UGPX4G6HRBJ3M7BLQNVVAKTZN7ST",
+      "path": "models/entity/hive/hats/shining_crown.json"
+    },
+    {
+      "key": "AEWQRIEHVHGCSSTW2YA77XGKWMFKBFK2",
+      "path": "items/hive/hats/fox_ears/regular.json"
+    },
+    {
+      "key": "PRDTLG5T3YZKKJFD3AN3XXGPQ7KVPHJC",
+      "path": "textures/items/hive/hats/party_neon_crown.png"
+    },
+    {
+      "key": "IQSZDPRXRSSLYX5OUGDAXEK6LROBDFOO",
+      "path": "items/hive/hats/party_neon_crown.json"
+    },
+    {
+      "key": "ZVW7RIHZKEKY4TCZIMATQLSOLTJX42DH",
+      "path": "particles/hive/pets/endolotl/idle.particle.json"
+    },
+    {
+      "key": "I2BIT6WYMVIGDEHHCRH6S5ZDQZDSVF5F",
+      "path": "textures/entity/hive/pets/babydragon/blue_faded.png"
+    },
+    {
+      "key": "6GOACLUNS42LRLICHVF2NINV5FZYHHTG",
+      "path": "textures/entity/hive/hats/space_helmet.png"
+    },
+    {
+      "key": "KJLI7JJ5FYMFVDD7UDV4XQ5WQ6XBC7FS",
+      "path": "textures/entity/hive/pets/witch_cat/green.png"
+    },
+    {
+      "key": "CCPVM5YHKZ2MCI24QTDEBUWJBSHECMRP",
+      "path": "textures/items/hive/hats/flower_crown.png"
+    },
+    {
+      "key": "SGUXNDVYBBXUBVUGIBAZNBPR626XZYXD",
+      "path": "items/hive/hats/shining_crown/pink.json"
+    },
+    {
+      "key": "GLDYLPH2XJPF33T23EWHT4S7YVQBMS7N",
+      "path": "textures/entity/hive/hats/gifter.png"
+    },
+    {
+      "key": "ICHEOLP6CBKRVZI6XCHG4ASFBJ4JLOJN",
+      "path": "textures/entity/hive/hats/bee_hat.png"
+    },
+    {
+      "key": "O45WFN2QBXGLTCBG7JK5A6LEZHY4L7PT",
+      "path": "animations/hive/hats/shining_crown.json"
+    },
+    {
+      "key": "YUFA7MMJBWJ3XTCJKVEWXH5SZCVZZQDV",
+      "path": "items/hive/hats/elf_hat.json"
+    },
+    {
+      "key": "WUWJ3UOLTC7LWNSQNJGDKMYB4XD5NMUM",
+      "path": "textures/entity/hive/hats/endolotl_buddy.png"
+    },
+    {
+      "key": "HW74BYAUWEQPKNUPWAKH5VLB5FZ37VQT",
+      "path": "textures/entity/hive/pets/babydragon/ender_faded.png"
+    },
+    {
+      "key": "FV6PWRTVXX4QCLQJ6GZIQULJNEI7FJK2",
+      "path": "items/hive/hats/witch_hat.json"
+    },
+    {
+      "key": "SRC5ZAJTCQP4M3CBZCI7AB576B77BAGV",
+      "path": "textures/entity/hive/pets/pirateship/default_faded.png"
+    },
+    {
+      "key": "YF6OCMDVL7GDNJKSTJDHBL5DD4KBVDRW",
+      "path": "animation_controllers/hive/pets/pirateship.json"
+    },
+    {
+      "key": "YRBJ6MRY54I7ZC2UMDLIA5J6VCUFMPLQ",
+      "path": "models/entity/hive/hats/flower_crown.json"
+    },
+    {
+      "key": "KKLIYSSCI2KOO3OX3DNGFZWEZI5F2MUI",
+      "path": "animation_controllers/hive/pets/endolotl.json"
+    },
+    {
+      "key": "ENIA64UP424GQSJZWF6DQAZGOMZVOMWC",
+      "path": "sounds/hive/pets/pirateship/cannon.ogg"
+    },
+    {
+      "key": "TJ5LZIVHYCSILBQTGHFJ6XMJ5ZXS4ELZ",
+      "path": "textures/items/hive/hats/mushroom_cap.png"
+    },
+    {
+      "key": "ITRIZEKFI6CGT5EJFPAFU26YIZLKAI4M",
+      "path": "textures/entity/hive/hats/horns/demon.png"
+    },
+    {
+      "key": "MCRKCXO5YJGWAMC33CHKKE5HVZTLAV3H",
+      "path": "textures/entity/hive/hats/shining_crown/pink.png"
+    },
+    {
+      "key": "DD54VNZKJADVQLHLIPMFG3IRM2YAF2RA",
+      "path": "entity/hive/mounts/wooden_chair.json"
+    },
+    {
+      "key": "LOBGWGVRAZJCATOE4I2RBPEYO6BDRWZX",
+      "path": "textures/entity/hive/pets/witch_cat/green_faded.png"
+    },
+    {
+      "key": "VUKTRPVWBYLDN7QRDWOOPDCHLVVKMHQ6",
+      "path": "animations/hive/hats/idle_particle.json"
+    },
+    {
+      "key": "R5F6HNAS2CU6MJ5N4NSYB2VZ3LGJAAYO",
+      "path": "items/hive/pets/toolbox.json"
+    },
+    {
+      "key": "SAWKWT4SJJJZJWNETX4QFPJ7ULC34YPU",
+      "path": "render_controllers/hive/mounts/hoverbike.json"
+    },
+    {
+      "key": "YQAXE2NSFHA4KQKOZYQKFIUKML3G2QMM",
+      "path": "render_controllers/hive/pets/babydragon.json"
+    },
+    {
+      "key": "L2JYTHJ56U5QO6TIYITNQNABZ5ZS5MYE",
+      "path": "attachables/hive/hats/horns_blaze.json"
+    },
+    {
+      "key": "RZ2IRBKMLMMI43ASN3P5K5E4GELHL3BX",
+      "path": "textures/entity/hive/hats/insanecraft_dragon_cap.png"
+    },
+    {
+      "key": "AVSFJUPRQN6YIIDDSYKIKMUZWR3HBR4N",
+      "path": "attachables/hive/hats/cardboard_box.json"
+    },
+    {
+      "key": "77FNLCHWPFVNSU6HYZU5HZNSSDSFZQJG",
+      "path": "textures/items/hive/hats/shining_crown/gold.png"
+    },
+    {
+      "key": "XJI5SZASCSV472GYRBM5GXOVCVRRRAW4",
+      "path": "items/hive/hats/cardboard_box.json"
+    },
+    {
+      "key": "LLRPTEZYUQXDLT7CMGUTQ5PKCKY7HL54",
+      "path": "animation_controllers/hive/mounts/broomstick.json"
+    },
+    {
+      "key": "XU555QWR3PG5FNUAGL2VS5UTGNITKATH",
+      "path": "models/entity/hive/mounts/pirate_ship.json"
+    },
+    {
+      "key": "IF44YDZYPEAE44OYUGJBZHCQBQYU6SJF",
+      "path": "models/entity/hive/pets/pirateship/ghost.json"
+    },
+    {
+      "key": "A6PO3OUEQ5RJGT77SW7M3GT3HO6WG7PH",
+      "path": "textures/items/hive/hats/axolotl_buddy.png"
+    },
+    {
+      "key": "G4ZGLWCG6HYNMRMNKMEBIIBBJTJMQRSG",
+      "path": "textures/entity/hive/hats/party_neon_crown.png"
+    },
+    {
+      "key": "GF3FB5Y67G2765KLJNFLSOOYF6FEEYIS",
+      "path": "textures/entity/hive/mounts/cruiser/pink.png"
+    },
+    {
+      "key": "M6R5E4XLHWPBC3N5KB4B3OGP5AVCFUU7",
+      "path": "textures/entity/hive/hats/cardboard_box.png"
+    },
+    {
+      "key": "LMVR5PSPUULZ2WNZDGOEQF3HYE33MJP7",
+      "path": "items/hive/hats/froggy_cap.json"
+    },
+    {
+      "key": "5GXWBWZIVLB3Z44WJ7MLZUM7XUZD7R4O",
+      "path": "animation_controllers/hive/pets/witch_cat.json"
+    },
+    {
+      "key": "Z3DO42TSNIBKNBUTG2OEDXTSQ5VV7WGU",
+      "path": "textures/items/hive/hats/fox_ears/winter.png"
+    },
+    {
+      "key": "YB5643TCU5WGD4KYRIU77DEJYMQUXZUO",
+      "path": "render_controllers/hive/pets/witch_cat.json"
+    },
+    {
+      "key": "IXNNHCSN6FMSVMOBC5AQ2XFJ2WZCWRBR",
+      "path": "textures/items/hive/hats/traffic_cone.png"
+    },
+    {
+      "key": "L7FS2ZI2JR2JBYWOLR5K3VUSUY4JOSNP",
+      "path": "entity/hive/pets/rock.json"
+    },
+    {
+      "key": "Q2STDUVUBDNRRZHD4NIQGPZKGNYYEWA5",
+      "path": "models/entity/hive/hats/axe.json"
+    },
+    {
+      "key": "OQXPGDEGYQENVLVG4ABHIZJU76UJYSCM",
+      "path": "textures/items/hive/hats/gamer_headset/rgb.png"
+    },
+    {
+      "key": "XVBEV4LPOUUK77MV7DPHQWQDD2W566TB",
+      "path": "animations/hive/mounts/broomstick.json"
+    },
+    {
+      "key": "NDC5U54KOBSLHMBDWN3L36GUPDOQGYDK",
+      "path": "models/entity/hive/hats/cardboard_box.json"
+    },
+    {
+      "key": "VTFPAMUH3NUZ7KUQHVOIOB6KIZSWRD6M",
+      "path": "textures/entity/hive/mounts/cruiser/red.png"
+    },
+    {
+      "key": "VPPH4VEUA4CSA337Y6U2NLJDOMRLR45Z",
+      "path": "items/hive/hats/propeller.json"
+    },
+    {
+      "key": "XQSBGR4KZKRRVS355P66HY32OPM66KPQ",
+      "path": "textures/entity/hive/pets/babydragon/red.png"
+    },
+    {
+      "key": "2LQRXNKAI55BEABBGUUXOBK7BDEJQI5C",
+      "path": "render_controllers/hive/hats/hide_first_person_emissive.json"
+    },
+    {
+      "key": "UJIDWJHV7TDVGSK5CLFM5YFRQWIBSAMS",
+      "path": "textures/items/hive/hats/insanecraft_dragon_cap.png"
+    },
+    {
+      "key": "K26JRYBVOZ6HR6FR4SCNQHQAVMD3447M",
+      "path": "items/hive/hats/shining_crown/gold.json"
+    },
+    {
+      "key": "UKBZYYHXR3KC6VS2X7BW5GUT2NTA5MMM",
+      "path": "models/entity/hive/pets/rock.json"
+    },
+    {
+      "key": "LMJTHBXK4XJJGVZT3M4N6N5DMJGRQT3P",
+      "path": "textures/items/hive/hats/panda_cap.png"
+    },
+    {
+      "key": "2VLAEEUKJHNA6CBTTIFDDDPU7MAXW7MU",
+      "path": "textures/entity/hive/pets/rock.png"
+    },
+    {
+      "key": "4EIOYATATOEMOO4BM7LJJJGMFPYUFJ7W",
+      "path": "attachables/hive/hats/elf_hat.json"
+    },
+    {
+      "key": "WIOQTM5V3HBEX7N65FYJWDR2PPJQVQFN",
+      "path": "textures/entity/hive/mounts/spaceship.tga"
+    },
+    {
+      "key": "JXI3NXL4K7PPML43GUKGLIVI5VAWXWC5",
+      "path": "models/entity/hive/pets/cubee.json"
+    },
+    {
+      "key": "Q3WQPOKVYIFNQAXF4RFSUPZAVW5WEPVV",
+      "path": "particles/hive/pets/pirateship/cannonball.particle.json"
+    },
+    {
+      "key": "NTXB3NXYL27M6XHXFG2BIOWXA6V2SFON",
+      "path": "textures/entity/hive/hats/froggy_cap/normal.png"
+    },
+    {
+      "key": "NBI23NZZDGBRKRLFGWQMMUTEDV2AAM2V",
+      "path": "animations/hive/mounts/pirate_ship.json"
+    },
+    {
+      "key": "RCDZJBFRDQY67ONIRW3L2YBQ57HCFLGU",
+      "path": "textures/entity/hive/pets/pirate_parrot/faded.png"
+    },
+    {
+      "key": "XP5KZCVCOG25HX774ZKKPX54IZZPKCBX",
+      "path": "textures/entity/hive/mounts/bumblebee.png"
+    },
+    {
+      "key": "EUZPD4EBBPWFH3PEV7VTUOXT2W5CM2V7",
+      "path": "animation_controllers/hive/pets/rock.json"
+    },
+    {
+      "key": "UWUO5USCNWNAWGETRVUNEA2KIPBTN5WO",
+      "path": "items/hive/hats/shining_crown/blue.json"
+    },
+    {
+      "key": "VL3UXYDVSTSFOHNIYI3NJEPHCJFQKZEK",
+      "path": "textures/items/hive/hats/witch_hat.png"
+    },
+    {
+      "key": "MFZNY3C3NZURNXGRG4OUGA7J73GUKPGM",
+      "path": "attachables/hive/hats/insanecraft_dragon_cap.json"
+    },
+    {
+      "key": "3SY6JVGF6TRPUQVI6W3DXXYQFRKFS4H7",
+      "path": "attachables/hive/hats/flower_crown.json"
+    },
+    {
+      "key": "RIOX6G5SI6PSUNWCED34YBXIRHO4C3WO",
+      "path": "animations/hive/hats/flower_crown.json"
+    },
+    {
+      "key": "TDNWUMOGDBHLM27DG3T6D3HBDNT43Z5W",
+      "path": "attachables/hive/hats/endolotl_buddy.json"
+    },
+    {
+      "key": "F455HR4UOLMBON3UOIIIN4CE7C5Y5GAW",
+      "path": "render_controllers/hive/pets/pirateship.json"
+    },
+    {
+      "key": "E3XA6DZZ5D2Q33EM5PESG32MB42ZHK7N",
+      "path": "entity/hive/mounts/bumblebee.json"
+    },
+    {
+      "key": "PNCSUJBRE3L64SPO57EN5ZD5J6L7VXKO",
+      "path": "entity/hive/mounts/spaceship.json"
+    },
+    {
+      "key": "6ZFQRF3LZFYN3HIEGV5LU3HUBIWIGJLP",
+      "path": "animation_controllers/hive/pets/cubee.json"
+    },
+    {
+      "key": "H3HMEPFE34CPAEJRG7UI4D45I6F7OR5B",
+      "path": "particles/hive/pets/babydragon/idledust.particle.json"
+    },
+    {
+      "key": "O7KKHG363BTETU5LJB5P3RH5K4DUT33I",
+      "path": "textures/entity/hive/hats/party_zuk_goggles.png"
+    },
+    {
+      "key": "JJUTUBYCNBZIWYSFAWN6GL56JB64VGWC",
+      "path": "textures/items/hive/hats/bunny_ears.png"
+    },
+    {
+      "key": "G26UWLJ6QWNVFL42STLAL5EGEVXNBUNN",
+      "path": "models/entity/hive/hats/gamer_headset.json"
+    },
+    {
+      "key": "YFRDMJEPHSKAY7ELJO6EMDTAMUHDL7I4",
+      "path": "textures/entity/hive/hats/captains_hat.png"
+    },
+    {
+      "key": "7PF43YPHNFSU4IRUBWA35TJS734XCW3A",
+      "path": "items/hive/hats/space_helmet.json"
+    },
+    {
+      "key": "2YCWS5KVJFZGUH4UWEX2W6XPSYFJEQPR",
+      "path": "textures/items/hive/hats/horns/blaze.png"
+    },
+    {
+      "key": "TB7B7HPQCOOUYPDSDKV6E5X7O2ZW4W5R",
+      "path": "attachables/hive/hats/shining_crown_gold.json"
+    },
+    {
+      "key": "3BNB3JDEGMBKTXJCC5F4Q247VCZQE2RD",
+      "path": "attachables/hive/hats/witch_hat.json"
+    },
+    {
+      "key": "OOT7OS7737SLG7KOYIL7Y6RB3R6JFGKV",
+      "path": "animations/hive/pets/cubee.json"
+    },
+    {
+      "key": "2AVXEAXOLA2XTJSCFK6S3Y3DMGDCGU6L",
+      "path": "models/entity/hive/hats/traffic_cone.json"
+    },
+    {
+      "key": "UBBZRUJDWCGNDRTVMD2JJB4UJKZTRVEC",
+      "path": "models/entity/hive/mounts/broomstick.json"
+    },
+    {
+      "key": "IKHVFTOT54D4PFD6H6MI5REZ4YKRULCH",
+      "path": "items/hive/hats/axe.json"
+    },
+    {
+      "key": "47FQHX2H4H7OZMSIFWDSYRIW6NYM6WIV",
+      "path": "attachables/hive/hats/propeller.json"
+    },
+    {
+      "key": "4ZV4JAFGVL6PINZV7F2XFAPG6GVUCR4E",
+      "path": "items/hive/hats/gamer_headset/pink.json"
+    },
+    {
+      "key": "WEQJJLEDI5Y67KIFMQADZTET3BOLUNYV",
+      "path": "models/entity/hive/mounts/spaceship.json"
+    },
+    {
+      "key": "FCHQ3JE6DSUN5UXHQRSEW3CG5LJCWJRT",
+      "path": "textures/entity/hive/hats/axe.png"
+    },
+    {
+      "key": "BUE5C2LASYPNCMVRCWTFM5ZQGUR6XOXO",
+      "path": "textures/entity/hive/pets/pirateship/default.png"
+    },
+    {
+      "key": "KR5MRMKVHXXQGIIQJGDTHUW4PTE4SUWH",
+      "path": "items/hive/hats/party_zuk_goggles.json"
+    },
+    {
+      "key": "QF743GGDLYP5BB2ZCKG7MYE2LVEPUYSS",
+      "path": "animation_controllers/hive/mounts/bumblebee.json"
+    },
+    {
+      "key": "M4J3E3SFNCS3AYKK273XIMAKLYDR7AMT",
+      "path": "items/hive/hats/axolotl_buddy.json"
+    },
+    {
+      "key": "65QNZO6BAFRL65QPPX2OZY6OJT7B5QJK",
+      "path": "models/entity/hive/mounts/hoverbike.json"
+    },
+    {
+      "key": "KY7SZ5HLZEWIUB6WTLKGTEK5ZYSVT6OU",
+      "path": "textures/entity/hive/pets/cubee/faded.png"
+    },
+    {
+      "key": "GCJWPTPTTQVTNNLZM2DVG42LYX4LBBFV",
+      "path": "items/hive/hats/horns/ender.json"
+    },
+    {
+      "key": "YF7I2KH5QUDQVESWSQKCUGTZAR7TGIKD",
+      "path": "particles/hive/pets/babydragon/fire.particle.json"
+    },
+    {
+      "key": "QK5RMHUTX7DIUJ7OOHSQEZJSL6UNVUZN",
+      "path": "models/entity/hive/hats/bunny_ears.json"
+    },
+    {
+      "key": "AWXYDIKRHD4EB26L47M6KQ2FE62VGUUN",
+      "path": "render_controllers/hive/hats/hide_first_person_sneak_toggle.json"
+    },
+    {
+      "key": "KSE37UCFZ47BIZL3Y7OZKKNY53FTYU3I",
+      "path": "textures/entity/hive/mounts/cruiser/ender.png"
+    },
+    {
+      "key": "W7SRHDZYK42DDPLHDBU56Y3RD3MNIZJD",
+      "path": "textures/items/hive/hats/horns/ender.png"
+    },
+    {
+      "key": "4XYWNEIZWU6TKTYVJSZVN7BFRI75RIRX",
+      "path": "attachables/hive/hats/captains_hat.json"
+    },
+    {
+      "key": "U6GWC4O35AXQ2NTMNSY5MMFOIOG5ZQDA",
+      "path": "attachables/hive/hats/fox_ears_ender.json"
+    },
+    {
+      "key": "JYE2DEAUT3GC7Y5FG2C6HAIK53YNMYDF",
+      "path": "attachables/hive/hats/gamer_headset_pink.json"
+    },
+    {
+      "key": "R7QWUCZZHO55HH2457DWPXTJTDSD35N6",
+      "path": "models/entity/hive/hats/mushroom_cap.json"
+    },
+    {
+      "key": "3WQEFBJOGVX5S4KXAJYQDNKHGWE3VNEH",
+      "path": "items/hive/hats/bunny_ears.json"
+    },
+    {
+      "key": "ESE2VZG6VJRTU6FM54K6WRMPQFGN4XQQ",
+      "path": "particles/hive/mounts/hoverbike_boosters.particle.json"
+    },
+    {
+      "key": "EFFEKEZQCSVNWVOUDBJNJMR7YSVPAF3S",
+      "path": "entity/hive/pets/endolotl.json"
+    },
+    {
+      "key": "FNLTO23E4FWVPIOPBVVYDJHW4HHICX2V",
+      "path": "textures/entity/hive/pets/endolotl/endolotl.png"
+    },
+    {
+      "key": "N74GYPTBSHAJCLDZ7UUBOMGND7XXKBP2",
+      "path": "attachables/hive/hats/axe.json"
+    },
+    {
+      "key": "DBH7L5Z34SYMUUKTHYJI6NEA6Q4HZJEO",
+      "path": "attachables/hive/hats/party_disco_ball.json"
+    },
+    {
+      "key": "35GB4U5SNXCKKRWZWER57A2M6CKNUIEC",
+      "path": "particles/hive/pets/endolotl/sleeping.particle.json"
+    },
+    {
+      "key": "OPELMXGOROUBMHL6MX26NNPBRXB3W2ZW",
+      "path": "items/hive/hats/captains_hat.json"
+    },
+    {
+      "key": "O5NOIMFF6X4GVY75ZLQ3YW33566TJV2O",
+      "path": "textures/items/hive/hats/cardboard_box.png"
+    },
+    {
+      "key": "GUF3WLGJOS27GZO4ZLDW4TDPH2MVL4E3",
+      "path": "entity/hive/pets/pirate_parrot.json"
+    },
+    {
+      "key": "3KHGVQ5F2JP7Z43J65V47HTKE6KPR5GW",
+      "path": "textures/entity/hive/mounts/cruiser/taxi.png"
+    },
+    {
+      "key": "MTCYJBVTFXD3OZ4ILC76LZUWJW2SQITP",
+      "path": "attachables/hive/hats/bee_hat.json"
+    },
+    {
+      "key": "XF4MGU3DLAMHFH5JFRTN5QFLKL4UUC3B",
+      "path": "entity/hive/mounts/pirate_ship.json"
+    },
+    {
+      "key": "SZILRNMGW5X6UZ6X2LM3JBYJXZ4PLZX4",
+      "path": "sounds/hive/pets/pirateship/afk.ogg"
+    },
+    {
+      "key": "B5NMYYA2IDGXPSNGX3UGD5DM6PGBIYFX",
+      "path": "textures/entity/hive/hats/gamer_headset_pink.png"
+    },
+    {
+      "key": "TE4FD4BTRRE6VI2REDCLCUFD4Z5CORQN",
+      "path": "models/entity/hive/hats/party_zuk_goggles.json"
+    },
+    {
+      "key": "BHSF4IKOGILN6LS6JAJNU6WZACMPRGLA",
+      "path": "models/entity/hive/pets/endolotl.json"
+    },
+    {
+      "key": "U3I6GCISEA6PGOYQMNLZOFEDGCMBS7Y3",
+      "path": "entity/hive/pets/babydragon.json"
+    },
+    {
+      "key": "VV2TSFWXWZR7KV7DACAP6QVABK4RFYPV",
+      "path": "textures/items/hive/hats/fox_buddy.png"
+    },
+    {
+      "key": "TCQA2B56327B2WDPI4XVO2XDB7BZHPLG",
+      "path": "textures/items/hive/hats/shining_crown/pink.png"
+    },
+    {
+      "key": "UGRXWB5FFFDKKWSFLTJDG3SXOWQWUZ4W",
+      "path": "items/hive/hats/flower_crown.json"
+    },
+    {
+      "key": "WA66AUPOYGCJ77DVIE7E4FPBWRRRQYLY",
+      "path": "models/entity/hive/pets/witch_cat.json"
+    },
+    {
+      "key": "4LGBSR6GFD7WO6HYURXBDX3XH2RZCRYH",
+      "path": "textures/entity/hive/hats/mushroom_cap.png"
+    },
+    {
+      "key": "DITTSZ7L4HOV2HL5W2DIAMV3CHBS3CCS",
+      "path": "textures/entity/hive/pets/babydragon/pink.png"
+    },
+    {
+      "key": "X6JKTI6YGAHLEPCOW2ENYEAF327IZVWD",
+      "path": "animations/hive/hats/endolotl_buddy.json"
+    },
+    {
+      "key": "GFCBVTGJ7Q23ISBN3NHGGW2QKXFNWECY",
+      "path": "textures/entity/hive/pets/babydragon/red_faded.png"
+    },
+    {
+      "key": "C3OOIVZNMJGKVPNODLIB6VKTF25SBBST",
+      "path": "textures/items/hive/hats/fox_ears/ender.png"
+    },
+    {
+      "key": "UN2IZ3BP3X4WQNAUILAQ7TDB6ZRW4FBU",
+      "path": "attachables/hive/hats/axolotl_buddy.json"
+    },
+    {
+      "key": "K6CYJ3OOIFQAXLTZM4SACFOWW4QVFMMU",
+      "path": "models/entity/hive/mounts/bumblebee.json"
+    },
+    {
+      "key": "IMZ27HOMPB5WG6WYAPOWVSZPQQ3332PT",
+      "path": "attachables/hive/hats/panda_cap.json"
+    },
+    {
+      "key": "UB23FV6VKAMNTBWFXBREYS5Y7VFV6MDE",
+      "path": "attachables/hive/hats/traffic_cone.json"
+    },
+    {
+      "key": "KQINRUNBDB6IWPEUVB4SIIWNORXYWXBC",
+      "path": "textures/entity/hive/mounts/hoverbike/blue.png"
+    },
+    {
+      "key": "EE635OUFRPYMRFLTV7EXCQJJNEDIZQJT",
+      "path": "textures/entity/hive/hats/traffic_cone.png"
+    },
+    {
+      "key": "RXNEGYWPXOP5KZE5DWGNU4YAPAZVSBUH",
+      "path": "attachables/hive/hats/bunny_ears.json"
+    },
+    {
+      "key": "5DCSDLS7WJVXKPKJCQDOFUWF2OCXYV5T",
+      "path": "attachables/hive/hats/mushroom_cap.json"
+    },
+    {
+      "key": "M64ETF5NXK7OG3RYPAFBXB2JNHTBJF2U",
+      "path": "textures/entity/hive/hats/horns/blaze.png"
+    },
+    {
+      "key": "RM2YDJNX7TOT5OLA3I64CIF6OSCQOUMG",
+      "path": "items/hive/hats/fox_buddy.json"
+    },
+    {
+      "key": "2XOPUJMU4BWXUMXFREOB5RZC2B5D3YSC",
+      "path": "textures/item_texture.json"
+    },
+    {
+      "key": "XACR5AKPDCALU2DN6JX7M2HSJAUVDN5R",
+      "path": "textures/items/hive/hats/octopus.png"
+    },
+    {
+      "key": "QKNQ47T6JRLVLA6NV5CJ6KZQE5OY2WR7",
+      "path": "models/entity/hive/pets/pirate_parrot.json"
+    },
+    {
+      "key": "7GSDXEGLSLRUV4KPPAP4WYUNKNO3F7AS",
+      "path": "animations/hive/pets/rock.json"
+    },
+    {
+      "key": "UQYYNCMUDRHHSEXRXDLQ4JRUZHDCXFNU",
+      "path": "models/entity/hive/hats/space_helmet.json"
+    },
+    {
+      "key": "KECDYIREK26IUQIWNWCT3Z7W3HTGJYRE",
+      "path": "textures/particle/hive/pets/pirateship/cannonball.png"
+    },
+    {
+      "key": "R7FVHQFDI3STZANG4DFQHWKLNUOCUGOD",
+      "path": "models/entity/hive/hats/bee_hat.json"
+    },
+    {
+      "key": "DMOV4EJLZSIE4E4U74V52KZSYH3QAFXO",
+      "path": "models/entity/hive/hats/gifter.json"
+    },
+    {
+      "key": "WH7H7LF2FFCOP6NJAPWPBC3P6DN26NBC",
+      "path": "textures/items/hive/hats/elf_hat.png"
+    },
+    {
+      "key": "W373ACMOIJ2FRQMRTAOW7NKCCK5AS6BT",
+      "path": "textures/items/hive/hats/propeller.png"
+    },
+    {
+      "key": "L4GLGKF5N6EIA5PB2SFV4JGFIAY3YFHB",
+      "path": "items/hive/hats/mushroom_cap.json"
+    },
+    {
+      "key": "XARK4F3XMGLYBKRKIJMRMOXH7YO3LZDM",
+      "path": "textures/items/hive/hats/cat_cap.png"
+    },
+    {
+      "key": "HGWCA47ZZBZOCLWFGCIYCAHKS76N45VA",
+      "path": "models/entity/hive/hats/captains_hat.json"
+    },
+    {
+      "key": "IJ7NR4RABUVFLK6EPUU5JTUWTBZLVSXI",
+      "path": "textures/items/hive/pets/toolbox.png"
+    },
+    {
+      "key": "EVJQTF54LOG6DS7EM2O3BW4WELGWCKD4",
+      "path": "textures/items/hive/hats/axe.png"
+    },
+    {
+      "key": "WFDUWCE2YV4FY36EVN2G3U4CYAWXQAOG",
+      "path": "animations/hive/pets/pirateship.json"
+    },
+    {
+      "key": "GGPFTFBXMOJ3EMARMHMCGHGMIUDM2XED",
+      "path": "models/entity/hive/hats/party_disco_ball.json"
+    },
+    {
+      "key": "7P6PF722E4RS5P5W6OJWX3DXSPNQDKPR",
+      "path": "textures/entity/hive/hats/fox_buddy.png"
+    },
+    {
+      "key": "2EC773EV3VXN7VYYO3NSABTILPK6TSET",
+      "path": "attachables/hive/hats/shining_crown_pink.json"
+    },
+    {
+      "key": "2POZ2LRH2J4N3SCTHMNSRHWYAXVMKKTL",
+      "path": "animation_controllers/hive/pets/babydragon.json"
+    },
+    {
+      "key": "4FR3XQFUMUNCHNLIAW3IAVB3NYYIC47T",
+      "path": "textures/entity/hive/mounts/hoverbike/red.png"
+    },
+    {
+      "key": "NFS3OBX3STCHOFPXYF7NRDJP7UG4DHZ7",
+      "path": "textures/items/hive/hats/horns/demon.png"
+    },
+    {
+      "key": "6CJIUA33Z223L6BLJO2P7SC7GZIEDCWA",
+      "path": "animation_controllers/hive/mounts/hoverbike.json"
+    },
+    {
+      "key": "DG7FFRVYYJN5LBHTZ56XRFSSDUUBLPLH",
+      "path": "attachables/hive/hats/gifter.json"
+    },
+    {
+      "key": "TMEFVRIRGK27AWSYT6GATSD5SCNQNSKE",
+      "path": "items/hive/hats/horns/demon.json"
+    },
+    {
+      "key": "2V35CTASFKUP5P4ILM3KTOHSEBFNKAYJ",
+      "path": "animations/hive/mounts/hoverbike.json"
+    },
+    {
+      "key": "JA2LR4D2AL6BTSGK4GDXFPUE2VFXM32S",
+      "path": "items/hive/hats/traffic_cone.json"
+    },
+    {
+      "key": "2MKZRKEI4KD5JGL7FDB5EOC5L24C4J4Y",
+      "path": "textures/items/hive/hats/bee_hat.png"
+    },
+    {
+      "key": "U25OXS34CC2GLKI3O222H3MUJGSCCJIH",
+      "path": "items/hive/hats/fox_ears/winter.json"
+    },
+    {
+      "key": "NMRP4WSGRHIXZDKYTB2VNSYD6PZWG3E2",
+      "path": "textures/entity/hive/hats/fox_ears/winter.png"
+    },
+    {
+      "key": "TJMVA7PUF7GFPOIF5UTIEZNPMWLNBSF5",
+      "path": "textures/entity/hive/hats/propeller.png"
+    },
+    {
+      "key": "AW7G37VYGIU5NIA6JXMJXIIMLKESVCPZ",
+      "path": "texts/en_US.lang"
+    },
+    {
+      "key": "MZPQFESUH6FAW7AJRURKK6ZHAHIG7AVU",
+      "path": "attachables/hive/hats/fox_ears_regular.json"
+    },
+    {
+      "key": "UK233NLODJJFIHXRTN4J6FYZLRDJVF46",
+      "path": "models/entity/hive/hats/elf_hat.json"
+    },
+    {
+      "key": "QOYWH5Y6Q67Q2YYKZHZFN4QQQIE2JORM",
+      "path": "textures/entity/hive/pets/witch_cat/purple_faded.png"
+    }
+  ]
+}

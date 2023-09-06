@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "HiveWARS",
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ],
+    "name": "HiveWARS",
+    "uuid": "1f461ef4-4b8f-3bb9-8d73-0c0689cb7a4d",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "HiveWARS",
+      "type": "resources",
+      "uuid": "f3056ddd-f2bd-4c82-99db-10cb350aff5c",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

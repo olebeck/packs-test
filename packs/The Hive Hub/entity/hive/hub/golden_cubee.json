@@ -1,0 +1,36 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animations": {
+        "find": "animation.hive.hub.golden.cubee.find",
+        "idle": "animation.hive.hub.golden.cubee.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.golden.cubee"
+      },
+      "identifier": "hivehub:golden_cubee",
+      "materials": {
+        "default": "entity_alphatest",
+        "found": "slime_outer"
+      },
+      "render_controllers": [
+        "controller.render.hive.hub.golden.cubee"
+      ],
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "find": "!variable.already_found \u0026\u0026 query.is_tamed"
+          }
+        ],
+        "initialize": [
+          "variable.already_found = query.is_tamed;"
+        ]
+      },
+      "textures": {
+        "default": "textures/entity/hive/hub/golden_cubee"
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "content": [
+    {
+      "key": "L7X5ZOJXAEOOOMEYJPH3MC2JP6QSUTIA",
+      "path": "items/hive/drop/drop_jump_boost.json"
+    },
+    {
+      "key": "AMSLB7SGN6IK3X7Q67XBNUI3D4G5PE6L",
+      "path": "textures/item_texture.json"
+    },
+    {
+      "key": "JAARL72LL3AHWCUFQPRLMZ7MDASIJS7C",
+      "path": "textures/entity/hive/drop/powerups/lucky_block.png"
+    },
+    {
+      "key": "BURWY2PYW7KUUOIGCS5GDVNOKBRJVUZF",
+      "path": "animations/hive/drop/powerup.json"
+    },
+    {
+      "key": "SYFOEFCHS43DJUP6KCJWFTZTSICZV4AF",
+      "path": "textures/entity/hive/drop/powerups/chest.png"
+    },
+    {
+      "key": "T3MWABDK4HINIZM3WYBP3COMNPCQIA3E",
+      "path": "animation_controllers/hive/drop/powerup.json"
+    },
+    {
+      "key": "NMYD34D67PPFR7BLPNVPEZPVIO77GHEL",
+      "path": "render_controllers/hive/drop/powerup.json"
+    },
+    {
+      "key": "6BRUYFMCIQQG56QYJZ5DEQR3ZCMOFGXO",
+      "path": "textures/items/hive/drop/vault.png"
+    },
+    {
+      "key": "X4RUHSVTBT6NBHEBS5YIO5JH5WB5DH63",
+      "path": "texts/languages.json"
+    },
+    {
+      "key": "AK7AF2YTVKUWSPPOKOGN3AH72YMDUS3M",
+      "path": "items/hive/drop/drop_vault.json"
+    },
+    {
+      "key": "UW7FPZ6DGGGWCEOQCPZTLGXJSBORJHRT",
+      "path": "models/entity/hive/drop/powerups/potion.json"
+    },
+    {
+      "key": "5HDWIGG7UKAM7RNPO3W3WCUTEQ52V62I",
+      "path": "textures/entity/hive/drop/beacon.png"
+    },
+    {
+      "key": "QSYWYAQGSOEXD47TSWALNK7EAJTVKOUB",
+      "path": "items/hive/drop/drop_speed_boost.json"
+    },
+    {
+      "key": "VXVQGLT37XGWYYBUVSHULLGZIT6Q7PUN",
+      "path": "textures/entity/hive/drop/powerups/royal_crown.png"
+    },
+    {
+      "key": "QVJ7JO5QG733LP3ZUWQIVLUE3DNZI66O",
+      "path": "models/entity/hive/drop/powerups/dragon_egg.json"
+    },
+    {
+      "key": "REF3P2FQS7OOXWRPJ26RJINHNOUO7E7A",
+      "path": "animations/hive/drop/beacon.json"
+    },
+    {
+      "key": "L7WZQEF24FWROOAY2SWS522UTOILXIVE",
+      "path": "models/entity/hive/drop/powerups/gift.json"
+    },
+    {
+      "key": "2WCETIM6STSPHOKNYKS3KEWNZ2AK6DHG",
+      "path": "textures/items/hive/drop/safe_walk.png"
+    },
+    {
+      "key": "HBABRFNTLRIKKAM7D7MBLP2DFKPTSLTA",
+      "path": "items/hive/drop/drop_restore_block.json"
+    },
+    {
+      "key": "TOWF2TYXQZBWIFK2QLUGWCG4GHDSD3L7",
+      "path": "items/hive/drop/drop_safe_walk.json"
+    },
+    {
+      "key": "WJLL5LRC42YY5BG7OAF5SJ5Q2COTQKNS",
+      "path": "animation_controllers/hive/drop/beacon.json"
+    },
+    {
+      "key": "IJO27T4ONEEIQXTKBSQFHEDUBSALIT5Z",
+      "path": "entity/hive/drop/powerup.json"
+    },
+    {
+      "key": "CJ6MYYQGXEXHILZGSYGMB5UH6W644MC4",
+      "path": "textures/items/hive/drop/restore_blocks.png"
+    },
+    {
+      "key": "XERQQUL44ZOF6ZLCK5ODYGGOYCALDVNT",
+      "path": "textures/items/hive/drop/speed_boost.png"
+    },
+    {
+      "key": "B56AUJN6HNZLRFQAU7R4OKFLAZAVCDCX",
+      "path": "textures/items/hive/drop/jump_boost.png"
+    },
+    {
+      "key": "VFMPHLZAM7TBRVB4NVRZ7WW73JCL4LTJ",
+      "path": "textures/entity/hive/drop/powerups/potion.png"
+    },
+    {
+      "key": "BJ3BT7JMEXWSATKS4IZ6H6S52IL3FWZL",
+      "path": "textures/entity/hive/drop/powerups/gift.png"
+    },
+    {
+      "key": "N2SR6JFPFSYZVIEU7OIUK7RCOKR3MBJV",
+      "path": "entity/hive/drop/beacon.json"
+    },
+    {
+      "key": "TVYFSUVY46X56YMATLFFAC5HUEIJ4ALG",
+      "path": "models/entity/hive/drop/beacon.json"
+    },
+    {
+      "key": "4YZJ5CHARQQYBLVCGL7456AZV53FKX2L",
+      "path": "models/entity/hive/drop/powerups/chest.json"
+    },
+    {
+      "key": "IO2AJQE2DXC2OM57BFLOTPW34HZXXVO4",
+      "path": "textures/entity/hive/drop/powerups/dragon_egg.png"
+    },
+    {
+      "key": "4MAKHKHMJM6CIRUKPJFMFAYTY7Q2BPLO",
+      "path": "models/entity/hive/drop/powerups/lucky_block.json"
+    },
+    {
+      "key": "MDRJPFDCRTRMNM5XFJEZVCYITLIBRKJP",
+      "path": "texts/en_US.lang"
+    },
+    {
+      "key": "NK6HFVSOG3H4F5EHYOP7I6GMG7LZWKNF",
+      "path": "models/entity/hive/drop/powerups/royal_crown.json"
+    }
+  ]
+}

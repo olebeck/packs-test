@@ -1,0 +1,33 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.dr.trap.swinging.axe.idle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.dr.trap.swinging.axe"
+      },
+      "geometry": {
+        "default": "geometry.hive.dr.trap.swinging.axe"
+      },
+      "identifier": "hivedr:trap_swinging_axe",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "scripts": {
+        "pre_animation": [
+          "variable.swing_angle = Math.lerp(variable.swing_angle ?? query.head_x_rotation(0), query.head_x_rotation(0), 0.4);"
+        ]
+      },
+      "textures": {
+        "default": "textures/entity/hive/dr/trap/swinging_axe"
+      }
+    }
+  }
+}

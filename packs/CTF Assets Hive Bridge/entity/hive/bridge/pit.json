@@ -1,0 +1,41 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "geometry": {
+        "advanced": "geometry.hive.bridge.pit.advanced",
+        "ancient": "geometry.hive.bridge.pit.ancient",
+        "castle": "geometry.hive.bridge.pit.castle",
+        "dark_sorcery": "geometry.hive.bridge.pit.dark.sorcery",
+        "default": "geometry.hive.bridge.pit.default",
+        "end": "geometry.hive.bridge.pit.end",
+        "golden": "geometry.hive.bridge.pit.golden",
+        "mineshaft": "geometry.hive.bridge.pit.mineshaft",
+        "nether": "geometry.hive.bridge.pit.nether",
+        "pool": "geometry.hive.bridge.pit.pool",
+        "redstone": "geometry.hive.bridge.pit.redstone"
+      },
+      "identifier": "hivebridge:pit",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.hive.bridge.pit"
+      ],
+      "textures": {
+        "advanced": "textures/entity/hive/bridge/pit/advanced",
+        "ancient": "textures/entity/hive/bridge/pit/ancient",
+        "castle": "textures/entity/hive/bridge/pit/castle",
+        "dark_sorcery": "textures/entity/hive/bridge/pit/dark_sorcery",
+        "default_blue": "textures/entity/hive/bridge/pit/default/blue",
+        "default_red": "textures/entity/hive/bridge/pit/default/red",
+        "end": "textures/entity/hive/bridge/pit/end",
+        "golden": "textures/entity/hive/bridge/pit/golden",
+        "mineshaft": "textures/entity/hive/bridge/pit/mineshaft",
+        "nether": "textures/entity/hive/bridge/pit/nether",
+        "pool": "textures/entity/hive/bridge/pit/pool",
+        "redstone": "textures/entity/hive/bridge/pit/redstone"
+      }
+    }
+  }
+}

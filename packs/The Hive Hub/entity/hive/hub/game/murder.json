@@ -1,0 +1,32 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.hub.game.idle.particle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.hub.game.murder.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.game.murder"
+      },
+      "identifier": "hivehub:game_murder",
+      "materials": {
+        "default": "entity_alphatest",
+        "glass": "slime_outer"
+      },
+      "particle_effects": {
+        "idle": "hivehub:game_murder"
+      },
+      "render_controllers": [
+        "controller.render.hive.hub.game.murder"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/hub/game/murder"
+      }
+    }
+  }
+}

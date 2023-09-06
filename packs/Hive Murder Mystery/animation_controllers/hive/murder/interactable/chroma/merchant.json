@@ -1,0 +1,90 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.murder.interactable.merchant.action.wave": {
+      "states": {
+        "default": {
+          "transitions": [
+            {
+              "wave": "query.is_tamed"
+            }
+          ]
+        },
+        "wave": {
+          "animations": [
+            "wave"
+          ],
+          "transitions": [
+            {
+              "default": "!query.is_tamed"
+            }
+          ]
+        }
+      }
+    },
+    "controller.animation.hive.murder.interactable.merchant.idle": {
+      "states": {
+        "default": {
+          "animations": [
+            "idle",
+            "idle_head"
+          ]
+        }
+      }
+    },
+    "controller.animation.hive.murder.interactable.merchant.idle.action": {
+      "states": {
+        "blink": {
+          "animations": [
+            "blink"
+          ],
+          "transitions": [
+            {
+              "default": "query.all_animations_finished"
+            }
+          ]
+        },
+        "decide": {
+          "transitions": [
+            {
+              "blink": "math.random_integer(0, 3) == 0"
+            },
+            {
+              "look_left": "math.random_integer(0, 3) == 0"
+            },
+            {
+              "look_right": "math.random_integer(0, 3) == 0"
+            }
+          ]
+        },
+        "default": {
+          "transitions": [
+            {
+              "decide": "variable.idleTimer == 0"
+            }
+          ]
+        },
+        "look_left": {
+          "animations": [
+            "look_left"
+          ],
+          "transitions": [
+            {
+              "default": "query.all_animations_finished"
+            }
+          ]
+        },
+        "look_right": {
+          "animations": [
+            "look_right"
+          ],
+          "transitions": [
+            {
+              "default": "query.all_animations_finished"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

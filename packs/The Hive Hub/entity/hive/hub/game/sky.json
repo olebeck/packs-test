@@ -1,0 +1,33 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.hub.game.idle.particle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.hub.game.sky.idle"
+      },
+      "geometry": {
+        "female": "geometry.hive.hub.game.sky.female",
+        "male": "geometry.hive.hub.game.sky.male"
+      },
+      "identifier": "hivehub:game_sky",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "idle": "hivehub:game_sky"
+      },
+      "render_controllers": [
+        "controller.render.hive.hub.game.male.female"
+      ],
+      "textures": {
+        "female": "textures/entity/hive/hub/game/sky/female",
+        "male": "textures/entity/hive/hub/game/sky/male"
+      }
+    }
+  }
+}

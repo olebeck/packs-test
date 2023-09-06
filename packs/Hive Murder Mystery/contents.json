@@ -1,0 +1,2040 @@
+{
+  "content": [
+    {
+      "key": "6JPJZFFAFTK7IXD4ZLBUP7HCZCNLDHYH",
+      "path": "entity/hive/murder/interactable/pigment/cube.json"
+    },
+    {
+      "key": "EEA3TA7EGH44PBYNA7SDC3I3NUIKTFNY",
+      "path": "models/entity/hive/murder/gravestone/heart.json"
+    },
+    {
+      "key": "K254W3OUOYJH6FHLRLKSQT3TOH7NBJYE",
+      "path": "models/entity/hive/murder/throwable/axe.json"
+    },
+    {
+      "key": "AEBXMDK7XODTG4NTFQDJ3KDZO4UKY6GQ",
+      "path": "textures/entity/hive/murder/throwable/sword.png"
+    },
+    {
+      "key": "KZPCR4BOSDVGGFWQXCQPRBBQ6ESTZWAS",
+      "path": "models/entity/hive/murder/gravestone/skull.json"
+    },
+    {
+      "key": "CLEIWLOHNSUHEUHVAO3B6AQID3WQ6T5N",
+      "path": "models/entity/hive/murder/gravestone/bath_time.json"
+    },
+    {
+      "key": "ZCXE534L7KDGTWYEKP2YNGGJ3ZGCDAHQ",
+      "path": "models/entity/hive/murder/throwable/lamp.json"
+    },
+    {
+      "key": "SYEOFWHS2KXWPJ7NVJ3BKFUYT7DYY56R",
+      "path": "textures/entity/hive/murder/magnifying_glass.png"
+    },
+    {
+      "key": "35BTFLKQI3WIFAMRKIBRUFPMULNRDPDG",
+      "path": "models/entity/hive/murder/gravestone/rubber_duck.json"
+    },
+    {
+      "key": "65B7WFCNDQXG4PU2KA5HJJH2PFHEYJ6P",
+      "path": "textures/entity/hive/murder/throwable/wrench.png"
+    },
+    {
+      "key": "KQBRFJIAXGACLZGPJ5PKYYKTBAE7OGOV",
+      "path": "models/entity/hive/murder/prop/spaceship/screen.json"
+    },
+    {
+      "key": "JX4H6BOT6XKIKVJJ5QMGYEBV4FW24BY2",
+      "path": "textures/entity/hive/murder/interactable/esohotel/food.png"
+    },
+    {
+      "key": "VQKB2SGACROIY7CS3PKETXECW6FYJB65",
+      "path": "textures/entity/hive/murder/prop/spaceship/screen_purple.png"
+    },
+    {
+      "key": "VUZ5UGHPSZRMK6HMZIWLOR7AORUSO4UB",
+      "path": "textures/entity/hive/murder/throwable/soul_flame.png"
+    },
+    {
+      "key": "RQTV6T57VPWI5NODM525J7Q7OVCKYXBN",
+      "path": "sounds/sound_definitions.json"
+    },
+    {
+      "key": "YPXWGU74UKEAPTH33SDNI4QDD53ZSN7A",
+      "path": "models/entity/hive/murder/gravestone/pirates_fate.json"
+    },
+    {
+      "key": "IJT56H3J26RSCOB7LAUBVXT4RXXF7S72",
+      "path": "models/entity/hive/murder/prop/toyhouse/teddy.json"
+    },
+    {
+      "key": "OEQYEFHBIXOLA25ZWDKBIADDFH6YN7BX",
+      "path": "animations/hive/murder/coin.json"
+    },
+    {
+      "key": "VROKNW22S7KVFRSUSFK4RIYS23C2CGV2",
+      "path": "models/entity/hive/murder/gravestone/scythe.json"
+    },
+    {
+      "key": "WUCPCEMCK2RPD72LL777DSPUC3S6K3RD",
+      "path": "textures/entity/hive/murder/gravestone/scythe.png"
+    },
+    {
+      "key": "SJKPSPLW3AYUUENLNG4QRC4TQJGZYZVB",
+      "path": "models/entity/hive/murder/gravestone/shield.json"
+    },
+    {
+      "key": "7V5ZFZF5L35PGSWKFIEFM576IYU23VER",
+      "path": "models/entity/hive/murder/interactable/pigment/cube.json"
+    },
+    {
+      "key": "DCX4NPEYPZMYYCIRI7B2LOQQSJNBTQ5D",
+      "path": "textures/entity/hive/murder/prop/witchschool/candleholder.png"
+    },
+    {
+      "key": "ZIUS5EZXXNBD2QB43S3X35PM6LSZ36KG",
+      "path": "models/entity/hive/murder/interactable/village/cocoa.json"
+    },
+    {
+      "key": "6YS4OVCW5VKHH2BI7PFW7FCPFZB7LZE5",
+      "path": "models/entity/hive/murder/prop/manor/grate.json"
+    },
+    {
+      "key": "L5BVJCKIK3OA7A5IUP2UAMW34ELDAMSL",
+      "path": "animations/hive/murder/prop/manor/floating_candle.json"
+    },
+    {
+      "key": "ZYTSD6GZZPJ6HAGKSGOMMGX7DERU2DEU",
+      "path": "models/entity/hive/murder/throwable/cartoon_bomb.json"
+    },
+    {
+      "key": "DWDNY4G7S2AQOQPYAZ3YJA3Z45YBUSSP",
+      "path": "models/entity/hive/murder/throwable/cyberpunk_dagger.json"
+    },
+    {
+      "key": "IJD6UMHFQWRTZA2USSRNI7UY5QEW7AT4",
+      "path": "textures/entity/hive/murder/gravestone/shovel.png"
+    },
+    {
+      "key": "BZIHXNRKCXVWWIHZTMXAQD7LHKI6UGQU",
+      "path": "models/entity/hive/murder/gravestone/shovel.json"
+    },
+    {
+      "key": "6BANEE5MNMKQASFBMF5QFCDCJVZNPLQS",
+      "path": "sounds/hive/murder/soul_collect.ogg"
+    },
+    {
+      "key": "ECIF47Z3I5EAK3BVD2V2JH3JHXD6K66M",
+      "path": "textures/entity/hive/murder/gravestone/bird_nest.png"
+    },
+    {
+      "key": "X755R3ECRCK6DH4RR2CQFC4JQV5F5GMI",
+      "path": "models/entity/hive/murder/gravestone/open_gifts.json"
+    },
+    {
+      "key": "EHKKXA65PWEXTH4AC42FLESKDX7YNWZZ",
+      "path": "models/entity/hive/murder/prop/museum/pillar.json"
+    },
+    {
+      "key": "SIGPXC4WDGLLKWKGFV3VWIRXQMI2ESVH",
+      "path": "models/entity/hive/murder/throwable/handcuffs.json"
+    },
+    {
+      "key": "MURLW5HGTFGV6ZOUHZSM7CSHY2SGP6ML",
+      "path": "textures/entity/hive/murder/interactable/chroma/item/invisibility.png"
+    },
+    {
+      "key": "4WSZT73EPLDGAEAEDTXVCFMB37MCUXG3",
+      "path": "textures/entity/hive/murder/throwable/baseball_bat.png"
+    },
+    {
+      "key": "3XRWWEGZOO6K7VITS7PIP73V5HBJP5MS",
+      "path": "animations/hive/murder/graveyard_npc.json"
+    },
+    {
+      "key": "GBUBR4DJUFLZBMKJACTHBJ3QLWMSER5W",
+      "path": "textures/entity/hive/murder/gravestone/heart.png"
+    },
+    {
+      "key": "P4VHV57HWC7I5QJJEXVYTO2J4XT6H7AK",
+      "path": "textures/entity/hive/murder/interactable/esohotel/glass.png"
+    },
+    {
+      "key": "F3KRJOUE4T4R3HDP5776EOCDUEWYKM2O",
+      "path": "entity/hive/murder/prop/prop.json"
+    },
+    {
+      "key": "AVZ22VVZ6OJFI3NMWNB4D2AVN6D2LSF6",
+      "path": "textures/entity/hive/murder/prop/manor/potion_1_orange_blue.png"
+    },
+    {
+      "key": "XZVWFBPC3KVPF5K3SXLSJLQHGVGPBDQB",
+      "path": "textures/entity/hive/murder/gravestone/eggmanbox.png"
+    },
+    {
+      "key": "CLM3YVOTAVP4HYCUL4YZGFEGMH333GGT",
+      "path": "textures/entity/hive/murder/throwable/ocean_trident.png"
+    },
+    {
+      "key": "R5RQT7CTY272VQW4PBVODGVJ4VQTWKGT",
+      "path": "models/entity/hive/murder/prop/esohotel/statue.json"
+    },
+    {
+      "key": "R4GTOMCTJAJJVRTAHW733ZHONGBWHE4X",
+      "path": "sounds/hive/murder/teleport.ogg"
+    },
+    {
+      "key": "QOXXTKMHFRH22PW3PWVLHZAOGGIST4PU",
+      "path": "entity/hive/murder/interactable/chroma/item_speed.json"
+    },
+    {
+      "key": "4RGKILYGORZMUIIZOQ5ST3HAI5JJDKUW",
+      "path": "textures/entity/hive/murder/graveyard/npc/hub.png"
+    },
+    {
+      "key": "S4LLLTTRM2AQF756HM7R4R7LHH2P7BKQ",
+      "path": "entity/hive/murder/gravestone/head.json"
+    },
+    {
+      "key": "AS6GJZ222TCHZHIVONSTG7O2ZHKHZVD6",
+      "path": "textures/entity/hive/murder/throwable/plunger.png"
+    },
+    {
+      "key": "QB7QATRS2GJS24YZVGXM4ZHPK4C5UNM6",
+      "path": "entity/hive/murder/gravestone/cage.json"
+    },
+    {
+      "key": "D4UOAPBKGHMNUNQMXIJ3Z3LUF6QZVFXA",
+      "path": "models/entity/hive/murder/soul.json"
+    },
+    {
+      "key": "4BVIMOAATGLIRSQ3THR63QZ2BQYWCI4G",
+      "path": "textures/entity/hive/murder/prop/warehouse/crate.png"
+    },
+    {
+      "key": "2LF7EVQH3ZF5JEWNY3OS2WAYOQ3QHHBA",
+      "path": "textures/entity/hive/murder/gravestone/open_gifts.png"
+    },
+    {
+      "key": "JNFFL3SEXKYCRP4VCNMENQ57FTMOBQXK",
+      "path": "models/entity/hive/murder/gravestone/sword_in_stone.json"
+    },
+    {
+      "key": "TEKLFRF7SVVHZ3EABA4OAEPXQH4S37QM",
+      "path": "models/entity/hive/murder/gravestone/book_of_souls.json"
+    },
+    {
+      "key": "ILQ2T2CI3HVBCZJY5X6QII6UE6DE2RWH",
+      "path": "entity/hive/murder/gravestone/top_hat.json"
+    },
+    {
+      "key": "2U5NE2PHIUFPNOMN6WWSPVBWSAX7GJBA",
+      "path": "textures/entity/hive/murder/interactable/remnants/remnants_teleporter.png"
+    },
+    {
+      "key": "FANWETGJR6K7X2XTYV5B5HMDQPFAMC44",
+      "path": "models/entity/hive/murder/throwable/sword.json"
+    },
+    {
+      "key": "CBJ27ZGJL2N7R3R72RRDE4QQO2KAALKR",
+      "path": "models/entity/hive/murder/interactable/pigment/water_glass.json"
+    },
+    {
+      "key": "NKZJ4AX4OYC5EEKLHRTQBGFEO2AF3BTU",
+      "path": "animations/hive/murder/interactables/remnants/rune_box.json"
+    },
+    {
+      "key": "U5UPNOAKOBMWSXYMGLRVMH2XLX22FNDM",
+      "path": "animations/hive/murder/interactables/toyhouse/clock.json"
+    },
+    {
+      "key": "2HAWMEHUPUWGSKD5QT6ULL2YIJ4CXOQF",
+      "path": "textures/entity/hive/murder/gravestone/close_encounters.png"
+    },
+    {
+      "key": "4Q67DIQUUCR2MJNPTBHXQJV2ZLPC7BU3",
+      "path": "textures/entity/hive/murder/gravestone/gingerbread.png"
+    },
+    {
+      "key": "X4GLDYAKKG6EQXW55RYU36LFWWPAFKGZ",
+      "path": "textures/entity/hive/murder/gravestone/sword_in_stone.png"
+    },
+    {
+      "key": "B6TVKZCEN4YDQVDJUDT6LDDP3PYYUZCL",
+      "path": "models/entity/hive/murder/interactable/esohotel/coffee_machine.json"
+    },
+    {
+      "key": "5JPM3XK5XCUYTMERMUA6VAFQFTJZM5GS",
+      "path": "textures/entity/hive/murder/coin/epic.png"
+    },
+    {
+      "key": "H2CSXJZKCCAA2I6BEOKN4ZXS2ZM7TVCX",
+      "path": "models/entity/hive/murder/interactable/remnants/remnants_teleporter.json"
+    },
+    {
+      "key": "N4MHFI4Y2ZQMGI2PJBBRFIRSA2EBEIRJ",
+      "path": "textures/entity/hive/murder/prop/museum/globe.png"
+    },
+    {
+      "key": "SH344P6PHVJYVQCXLWVKABUNA7XWLZ4Z",
+      "path": "entity/hive/murder/gravestone/copper_golem.json"
+    },
+    {
+      "key": "WZMWPHO57NUPESOVLZXH4HZKVKJ6QT4N",
+      "path": "models/entity/hive/murder/interactable/toyhouse/clock.json"
+    },
+    {
+      "key": "MN6XLBTEGO27L6UPN2AG4S3P752AHLFQ",
+      "path": "entity/hive/murder/coin.json"
+    },
+    {
+      "key": "PVDCGCMBSZWVSDXXEA77UM3W3JH4FTH6",
+      "path": "models/entity/hive/murder/interactable/witchschool/greendoor.json"
+    },
+    {
+      "key": "2SYJM2UC26ZJIEESAYF66LJH2CXEWU6P",
+      "path": "textures/entity/hive/murder/interactable/village/cocoa_empty.png"
+    },
+    {
+      "key": "J5UHZW56GJRJZUGCO76KLDSQZB5LMOEK",
+      "path": "models/entity/hive/murder/gravestone/star.json"
+    },
+    {
+      "key": "NMWXJTCET2CPEM6SZI23KBGLND72A4GL",
+      "path": "models/entity/hive/murder/throwable/ice_shard.json"
+    },
+    {
+      "key": "NJH55S7MRKNFPJ2BSNGZDHP4YR3R2GFT",
+      "path": "textures/entity/hive/murder/interactable/warehouse/vending_machine_invisibility.png"
+    },
+    {
+      "key": "UDK644TYE5APZBBCJ4ZA2EDGA5P3WYWN",
+      "path": "textures/entity/hive/murder/gravestone/pirates_fate.png"
+    },
+    {
+      "key": "FG7DTCLWHP5KA3KXKQFYUCLJCEEVIM4I",
+      "path": "entity/hive/murder/gravestone/shield.json"
+    },
+    {
+      "key": "TY67TRACE2XSW5IYRA7GOTCVTGJC7AYT",
+      "path": "textures/entity/hive/murder/prop/witchschool/painting.png"
+    },
+    {
+      "key": "MVMWTMFGRCXQFX7DIFLE6DECBHBZMRZ3",
+      "path": "animations/hive/murder/interactables/spaceship/sliding_door.json"
+    },
+    {
+      "key": "UKD6ZHECPWUN4OWMPUY6M2PVIZHNRZ2S",
+      "path": "textures/entity/hive/murder/throwable/handcuffs.png"
+    },
+    {
+      "key": "27LSQJIIGXH3ZNWMWXQ7AFAEFV3HHWMQ",
+      "path": "entity/hive/murder/gravestone/shovel.json"
+    },
+    {
+      "key": "EZPWPTB5TAP3UFMGX2OXR545AS6AMFQQ",
+      "path": "models/entity/hive/murder/prop/village/presents_small.json"
+    },
+    {
+      "key": "ISUYIHIXGMFTZJCEYRWZDKUKN6Y3DVAY",
+      "path": "textures/entity/hive/murder/prop/museum/fossil_dino.png"
+    },
+    {
+      "key": "7LDBBFS66FMNEMNNJYRPM4WMXWXCN3SV",
+      "path": "render_controllers/hive/murder/prop.json"
+    },
+    {
+      "key": "R26UN66KVTTAWPH54XK6ZQPY6YHH6RHI",
+      "path": "textures/entity/hive/murder/throwable/boot.png"
+    },
+    {
+      "key": "6EG6HRLJDY6Z2MO2DW7EPBP2FIB3KBDZ",
+      "path": "animations/hive/murder/magnifying_glass.json"
+    },
+    {
+      "key": "JBVFBLOAHCELTYL6EX66ZJH6QXX4WVRB",
+      "path": "entity/hive/murder/interactable/esohotel/fridge.json"
+    },
+    {
+      "key": "PCEHWVVLY5WU3L5JHOF7BLOTFHTATLAE",
+      "path": "entity/hive/murder/gravestone/rubber_duck.json"
+    },
+    {
+      "key": "5WZM3OE3RP7UWCIHXIU6QWX6IU4E2L3P",
+      "path": "entity/hive/murder/interactable/pigment/sink_teleporter.json"
+    },
+    {
+      "key": "UP3QROOQBQTWGM6GN2EQNREFWMLLFEGZ",
+      "path": "models/entity/hive/murder/gravestone/phone.json"
+    },
+    {
+      "key": "OYS7E7KMUOKIVW5YL4E2IK7PHGXHV2ZV",
+      "path": "entity/hive/murder/interactable/remnants/rune_box.json"
+    },
+    {
+      "key": "CCUDS7NSH2JWC7PH7CHYZ4OZEI4JWWUY",
+      "path": "textures/entity/hive/murder/throwable/flower_pot.png"
+    },
+    {
+      "key": "6EWRKSW6K6SMTAZ6UXV6SG3EC72TNJMC",
+      "path": "entity/hive/murder/gravestone/gravestone.json"
+    },
+    {
+      "key": "3ARL4N3J7RSS6WALKDVD3YMRJDGYF2OL",
+      "path": "models/entity/hive/murder/throwable/watermelon.json"
+    },
+    {
+      "key": "HJZ6TCD3ZCB457PCUQKJ6GCOLRLXEND7",
+      "path": "textures/entity/hive/murder/coin/default.png"
+    },
+    {
+      "key": "OZ2H5I42T3XH7YNZNFVHMODT76D6BMRB",
+      "path": "textures/entity/hive/murder/interactable/remnants/rune_box.png"
+    },
+    {
+      "key": "A2MHNWXM33FVYNTHVUSDD3IK7SIIZS6T",
+      "path": "textures/entity/hive/murder/interactable/chroma/item/chestplate.png"
+    },
+    {
+      "key": "GT24LE2Y2COGJVH2CMZ2ZUGS5DAU42H2",
+      "path": "models/entity/hive/murder/gravestone/igloo.json"
+    },
+    {
+      "key": "S4EQAWUIDGNWLSVYF3LQKA4CATUMY3GU",
+      "path": "models/entity/hive/murder/gravestone/summer_picnic.json"
+    },
+    {
+      "key": "K5JFMCMADWUXXOSV477ZCDCCE76HEWWQ",
+      "path": "particles/hive/murder/candle_flame.particle.json"
+    },
+    {
+      "key": "26JRGQFKWMKBKUJBH2C3XV4OWORQ7O7K",
+      "path": "particles/hive/murder/soul_burst.particle.json"
+    },
+    {
+      "key": "SQP3MEWUQLFJPHFD2RTO3QDGUTESX6IC",
+      "path": "animations/hive/murder/throwable.json"
+    },
+    {
+      "key": "TOLS62ZPVSKB4BYJHV5UZN4AT2JIA7CE",
+      "path": "models/entity/hive/murder/gravestone/treasure.json"
+    },
+    {
+      "key": "4DYZBHI525SWJBECALC5JCACGXONHED7",
+      "path": "textures/entity/hive/murder/throwable/watermelon.png"
+    },
+    {
+      "key": "6JBVHWWUFHHKGLNO7BTFT63ZOWVINQCL",
+      "path": "entity/hive/murder/interactable/chroma/teleporter.json"
+    },
+    {
+      "key": "MH3CTF7T2VB2LGHE4H2JFRIT3QC7ZTJC",
+      "path": "models/entity/hive/murder/gravestone/boombox.json"
+    },
+    {
+      "key": "PB4F75KVGTGEPVGQ6QPNKX7ZUZOUWXYQ",
+      "path": "models/entity/hive/murder/gravestone/balloon.json"
+    },
+    {
+      "key": "334Y5KEPUILFSCSFJR3VS44PWOQVATHT",
+      "path": "render_controllers/hive/murder/throwable.json"
+    },
+    {
+      "key": "2FGMKJBDAT4D2HIJKT5QZJJCSSKETDVY",
+      "path": "models/entity/hive/murder/interactable/remnants/rune_box.json"
+    },
+    {
+      "key": "DCFJUNUVHAOLOXHBR57ZH2GOYR43EW3C",
+      "path": "entity/hive/murder/gravestone/sword_in_stone.json"
+    },
+    {
+      "key": "FMSMLQ6DK4O3GRQMXRJOWAQ6KYNBWM5X",
+      "path": "entity/hive/murder/gravestone/treasure.json"
+    },
+    {
+      "key": "DMBIGWNRE6VP2NDZ3SMLEEAPQIOU3E3M",
+      "path": "animation_controllers/hive/murder/interactable/manor/fireplace.json"
+    },
+    {
+      "key": "RNNDKL4DFJFJM4YVU2N43FAIUM5XEVQ5",
+      "path": "textures/entity/hive/murder/throwable/cucumber.png"
+    },
+    {
+      "key": "4MYVMLC7IB7LX6O45M22LXC6NJUFB6GQ",
+      "path": "textures/entity/hive/murder/throwable/eye.png"
+    },
+    {
+      "key": "BFI5J476U4HGR5GUJFOCX472JYSHUMV5",
+      "path": "entity/hive/murder/interactable/village/cocoa.json"
+    },
+    {
+      "key": "HKPVIG67SFWTWE36YDMWCUN425VCS7L5",
+      "path": "textures/entity/hive/murder/prop/museum/egg.png"
+    },
+    {
+      "key": "LUOHJHPVJK24JTDSVMIRY7KT6FGSKQXF",
+      "path": "entity/hive/murder/gravestone/bird_nest.json"
+    },
+    {
+      "key": "SGORSDIFEHJA6INDV36EUNYIZA2PYZTE",
+      "path": "textures/entity/hive/murder/gravestone/bath_time.png"
+    },
+    {
+      "key": "MMIQI4NJ3TRSX4G3U6FH5IM6WFLIA7WX",
+      "path": "models/entity/hive/murder/throwable/microphone.json"
+    },
+    {
+      "key": "2GS6AQHTPNRR5OHYXZZL7H5XBKLI3ROF",
+      "path": "entity/hive/murder/interactable/esohotel/glass.json"
+    },
+    {
+      "key": "KIV7XVP4WVENMPRDVB7NBX2IXMKLM4I2",
+      "path": "entity/hive/murder/gravestone/scythe.json"
+    },
+    {
+      "key": "UTXNZTVRGXABJ7PESLKKYTRSMJ7VOAOG",
+      "path": "models/entity/hive/murder/gravestone/gingerbread.json"
+    },
+    {
+      "key": "BNFRVL2QWD7VN4TYUESQIURPCFSMJNGM",
+      "path": "models/entity/hive/murder/throwable/hotdog.json"
+    },
+    {
+      "key": "J5MXFBHQKZNXENXS6IT5RU2XRJPVOU3H",
+      "path": "animations/hive/murder/gravestone/close_encounters.json"
+    },
+    {
+      "key": "2VKW4KPXOOSXMAXO45BLDV7BRV3MXTGE",
+      "path": "textures/entity/hive/murder/throwable/telescope.png"
+    },
+    {
+      "key": "XGPKUIFJZIJNZ7KZ5EWHFF3CVMMHD3VQ",
+      "path": "entity/hive/murder/gravestone/web_developer.json"
+    },
+    {
+      "key": "K4TXSHFR5VBCMH7IDWAZ3ZNFMUWUPL3B",
+      "path": "textures/entity/hive/murder/interactable/toyhouse/oven_halloween.png"
+    },
+    {
+      "key": "5EOYFLUPLGLATV63YLK7GOKGILJHT5VI",
+      "path": "models/entity/hive/murder/interactable/chroma/item_invisibility.json"
+    },
+    {
+      "key": "IJDN724IZ6PRKGXGEUZCNZJCGENIGKBY",
+      "path": "textures/entity/hive/murder/throwable/rubber_chicken.png"
+    },
+    {
+      "key": "3CSBKHNG2F5UKLIEKCZDA262LT7DWMTN",
+      "path": "entity/hive/murder/gravestone/nether_mushrooms.json"
+    },
+    {
+      "key": "SD3NMI4BNG6FN2EB5IZZ3W5R5XVMCN5Y",
+      "path": "models/entity/hive/murder/throwable/telescope.json"
+    },
+    {
+      "key": "NJV3BJ3F6WWCE2FDWL6ZSSTERUWHL4JH",
+      "path": "textures/entity/hive/murder/soul.png"
+    },
+    {
+      "key": "APLZR4KLXPYXPI3GB2OS33XA2PY2GO7N",
+      "path": "animations/hive/murder/interactables/chroma/teleporter.json"
+    },
+    {
+      "key": "5VKM5NQ7O35QD4HK6OAYJLQVKX25ALOG",
+      "path": "textures/entity/hive/murder/prop/museum/jupiter.png"
+    },
+    {
+      "key": "ZF242VOXZ2VLJBFQP3RXKBOQCRTQWCQW",
+      "path": "entity/hive/murder/gravestone/phone.json"
+    },
+    {
+      "key": "KXC3LFV5QBQUYNY72EFFYBI3KMLJQ24D",
+      "path": "particles/hive/murder/cauldron_bubbles.particle.json"
+    },
+    {
+      "key": "G7ZSTQE5LRC3B7N4WBEU4SMA6IVHBJLC",
+      "path": "entity/hive/murder/gravestone/igloo.json"
+    },
+    {
+      "key": "2GFR5KDSANM7UP7XOL3XT2FCKIDELCVC",
+      "path": "models/entity/hive/murder/prop/esohotel/vines.json"
+    },
+    {
+      "key": "MQWUTMANC7NFS26BVALRGBID4T5ICDDS",
+      "path": "textures/entity/hive/murder/gravestone/mini_house.png"
+    },
+    {
+      "key": "A5ODKQ5T5M4XDZRUTRXJL5JAYEPM54MO",
+      "path": "textures/entity/hive/murder/throwable/screwdriver.png"
+    },
+    {
+      "key": "B32AVU6ZSRLIPSSUANGFGWP44QV7IDEX",
+      "path": "textures/entity/hive/murder/gravestone/snowman.png"
+    },
+    {
+      "key": "EX4ML2LCRYI6ZSQFCLOIVOXLZ5TUWVND",
+      "path": "textures/entity/hive/murder/throwable/microphone.png"
+    },
+    {
+      "key": "BFOXAQYZN7JV43PACW6XRCW2NVUQZRUZ",
+      "path": "textures/entity/hive/murder/throwable/stapler.png"
+    },
+    {
+      "key": "NQ6MP65YZQFHZ3HFHWL3VKLM4UD7FD6E",
+      "path": "entity/hive/murder/interactable/warehouse/vending_machine.json"
+    },
+    {
+      "key": "PMR65R3RBVQFFEMOPBGHI36HPOZGIUMN",
+      "path": "entity/hive/murder/interactable/chroma/item_chestplate.json"
+    },
+    {
+      "key": "2NPSOZIPXQ7YC5BGAGZITI255HKETCPV",
+      "path": "models/entity/hive/murder/gravestone/gravestone.json"
+    },
+    {
+      "key": "TFET5LBEOIK2ZXMIBNZIAHHKHJYI4ANG",
+      "path": "render_controllers/hive/murder/gravestone.json"
+    },
+    {
+      "key": "R2HH6VQN7WDVQSPGP3BHZ4RUXEU77ZXD",
+      "path": "models/entity/hive/murder/prop/museum/globe.json"
+    },
+    {
+      "key": "PZHY65ZFZPRXEH5RESYUFRQENKIA54HE",
+      "path": "models/entity/hive/murder/graveyard/hub.json"
+    },
+    {
+      "key": "2YRJX2R2KWUTWE5KZQS7TW77WLTDKPJO",
+      "path": "textures/entity/hive/murder/prop/museum/pillar.png"
+    },
+    {
+      "key": "ZQSWME6OBQZYG7PER3X6FXIFRE3KZG4E",
+      "path": "entity/hive/murder/prop/manor/candle.json"
+    },
+    {
+      "key": "E265O6NRWGA3HLXR2DQYDSGMEHN5EE2H",
+      "path": "models/entity/hive/murder/throwable/carrot.json"
+    },
+    {
+      "key": "VGYPCK4IUTDQBOHWNFIQOPTBJBOXUPQL",
+      "path": "models/entity/hive/murder/interactable/chroma/item_chestplate.json"
+    },
+    {
+      "key": "OMETYFZCCHQXOMUOTHXQVML5B2NPHLCL",
+      "path": "entity/hive/murder/gravestone/snowman.json"
+    },
+    {
+      "key": "MA3VVF6UDSYOK2VTGFLSIRSGP4IX2XJM",
+      "path": "render_controllers/hive/murder/interactable/chroma/merchant.json"
+    },
+    {
+      "key": "MAEUDSOYM5RYEOQ3HWSZQPNNSCXSM7YW",
+      "path": "entity/hive/murder/gravestone/fast_food.json"
+    },
+    {
+      "key": "LAGVRCV2O5D3AHQLLFKTDF5WUOBQITSN",
+      "path": "models/entity/hive/murder/gravestone/end_portal.json"
+    },
+    {
+      "key": "W5AC4KUNCM5OJ2KDGTNDIXWB5Z7GSMN5",
+      "path": "models/entity/hive/murder/interactable/chroma/teleporter.json"
+    },
+    {
+      "key": "2ZWV57UN6HOKQWJZOCNTCVVF4576BUPV",
+      "path": "particles/hive/murder/interactable.particle.json"
+    },
+    {
+      "key": "SSWFZBA6KUBPUGX3FQZ3THEOKF3FRH26",
+      "path": "animation_controllers/hive/murder/prop/manor/candle.json"
+    },
+    {
+      "key": "JRCVQFI33POODV2W2ELZNOWFUD7VKXYR",
+      "path": "textures/entity/hive/murder/throwable/wreath.png"
+    },
+    {
+      "key": "UFXEOH376F5AT67R2Z7OPOV7UBO3DFPK",
+      "path": "entity/hive/murder/interactable/esohotel/food.json"
+    },
+    {
+      "key": "UCHNU32RTR3WPX5I5F2S5QJ4XZLDEEQ7",
+      "path": "textures/entity/hive/murder/gravestone/solar_display.png"
+    },
+    {
+      "key": "MONDRE6TSM5DFV7UEJAAM6MNOT4DNHOY",
+      "path": "textures/entity/hive/murder/gravestone/shield.png"
+    },
+    {
+      "key": "MLYFETJO2FVFXMORQHY26G2WRKAOVQCF",
+      "path": "models/entity/hive/murder/throwable/soul_flame.json"
+    },
+    {
+      "key": "DH2SXX5KKUP2LW5U2RDR2RJK3JVZ5SFM",
+      "path": "models/entity/hive/murder/graveyard/play.json"
+    },
+    {
+      "key": "IX6ZVVY5ADXS5IF6WMXUY44SY4KPAHP4",
+      "path": "textures/entity/hive/murder/throwable/pizza_slice.png"
+    },
+    {
+      "key": "E2YH3DOSPBQVR7523WCSWTC4GSZX6PR3",
+      "path": "entity/hive/murder/interactable/toyhouse/clock.json"
+    },
+    {
+      "key": "DXLXGU25EFV53IXZWU2N3JHNEG3JVCPU",
+      "path": "textures/entity/hive/murder/prop/manor/floating_candle.png"
+    },
+    {
+      "key": "IGMZJLBETYAIZSM66YU62F5XP5ZB5TJM",
+      "path": "textures/entity/hive/murder/prop/manor/potion_2_blue_green.png"
+    },
+    {
+      "key": "27KANPVNBRYTM2NVMPZNOAXNNNAZ7A4T",
+      "path": "animation_controllers/hive/murder/coin.json"
+    },
+    {
+      "key": "27RPK2VLX6RJIWIL3MU2GHFZ4E5E75I3",
+      "path": "textures/entity/hive/murder/interactable/esohotel/glass_empty.png"
+    },
+    {
+      "key": "CE6J23NNDVTMKWMY5T26ATCLJNLHAQ6M",
+      "path": "textures/entity/hive/murder/gravestone/igloo.png"
+    },
+    {
+      "key": "5GQ2H65KI2U7YS27TGRQ7TKYJEVHJWUY",
+      "path": "textures/entity/hive/murder/throwable/tire.png"
+    },
+    {
+      "key": "GC6MXRECZZDPVBCPNMSYI3ISVASK4U7R",
+      "path": "models/entity/hive/murder/throwable/plunger.json"
+    },
+    {
+      "key": "I6LNRUODFBBRSE3WL4M4EF7QO5PFUFVD",
+      "path": "models/entity/hive/murder/throwable/popsicle.json"
+    },
+    {
+      "key": "JESR4K5MKKODSZIC7PWAHTUVJ5X4RWOT",
+      "path": "textures/entity/hive/murder/interactable/toyhouse/clock.png"
+    },
+    {
+      "key": "ERWH47IBFGMVKXX5F76TVLU2BLRGUPOG",
+      "path": "models/entity/hive/murder/throwable/pencil.json"
+    },
+    {
+      "key": "OQHKNY2ZUPLU5HCYE3NVMJAYKU5USYZ3",
+      "path": "entity/hive/murder/interactable/spaceship/sliding_door.json"
+    },
+    {
+      "key": "WAXIXUTHLM7S7QKB4GMXDBSDIPJT56AC",
+      "path": "models/entity/hive/murder/gravestone/fast_food.json"
+    },
+    {
+      "key": "CXRINOIRF7JYFPZPHUDBC2JHTG3X3XPU",
+      "path": "entity/hive/murder/gravestone/solar_display.json"
+    },
+    {
+      "key": "YZVZZVJSTF2S2J6AYZN7C3CAXP7RC7VD",
+      "path": "textures/entity/hive/murder/throwable/pencil.png"
+    },
+    {
+      "key": "APKNSFODM7S2VG5TXARKV36OD4TPRV3X",
+      "path": "entity/hive/murder/gravestone/eggman_box.json"
+    },
+    {
+      "key": "JMAS5LZP2GXM4TLVOEXQXKFTBPZGTNVO",
+      "path": "textures/entity/hive/murder/throwable/teddy.png"
+    },
+    {
+      "key": "VV53RXMI62GILYX76XNZII7USOL2R3QV",
+      "path": "textures/entity/hive/murder/prop/spaceship/screen_black.png"
+    },
+    {
+      "key": "DKGJYL4GWIAQDLY3SN3UJXE2JPVSJMKL",
+      "path": "textures/entity/hive/murder/throwable/chopper.png"
+    },
+    {
+      "key": "KLM5Z52RC5ZB5457Y7NOKXRIEBLUMSAD",
+      "path": "models/entity/hive/murder/interactable/esohotel/food.json"
+    },
+    {
+      "key": "GZQIDC42H3DBVOZMHCU6I2E7AUHI7CK7",
+      "path": "models/entity/hive/murder/prop/toyhouse/chair.json"
+    },
+    {
+      "key": "WFMFSUJ7HJE2BKVMU5IFKIJNBRTU2XK4",
+      "path": "particles/hive/murder/teleport.particle.json"
+    },
+    {
+      "key": "3NUYA4GYPJF5YRDP5NOW7I3ESG2CQO7O",
+      "path": "textures/entity/hive/murder/gravestone/omochao.png"
+    },
+    {
+      "key": "PK2ER4NUMMO4NMM3BGOMPMHCNHAX6RTU",
+      "path": "textures/entity/hive/murder/interactable/toyhouse/oven.png"
+    },
+    {
+      "key": "TW2NDTQY3NHZ6QWOX73Z34LMSX5VB62L",
+      "path": "models/entity/hive/murder/throwable/candle.json"
+    },
+    {
+      "key": "J5S4PJC6TYN3VPQJX3Z5G3QM56G6NTJO",
+      "path": "entity/hive/murder/throwable.json"
+    },
+    {
+      "key": "LWHJEYY7Z4GP7OKFRKM7A4JBGLRUNUSI",
+      "path": "models/entity/hive/murder/interactable/spaceship/sliding_door.json"
+    },
+    {
+      "key": "GDIVDP5FCEFO475DP5FI7GHJURPBLGUL",
+      "path": "models/entity/hive/murder/throwable/beach_ball.json"
+    },
+    {
+      "key": "3KBH4KPDK6GELXG3XH6PXX7DWEKGHFXC",
+      "path": "entity/hive/murder/gravestone/sleeping_cat.json"
+    },
+    {
+      "key": "5L536W45XU4PLUBGEPZ7Y2E2AXM3KFVJ",
+      "path": "models/entity/hive/murder/interactable/spaceship/spacesuit.json"
+    },
+    {
+      "key": "CICPY5433B6NZV5NQ4SHURATW5XPE53A",
+      "path": "textures/entity/hive/murder/interactable/chroma/merchant/merchant_purple.png"
+    },
+    {
+      "key": "2I26O6AV5HHZB3SYLGRAVA5S7677ZYWO",
+      "path": "textures/entity/hive/murder/interactable/spaceship/spacesuit.png"
+    },
+    {
+      "key": "HAF5FMKTK57XOA67IKIVDZFURIDMUN3S",
+      "path": "entity/hive/murder/gravestone/heart.json"
+    },
+    {
+      "key": "TTBTP2IMMRQNEC7RWVKP5Z5M3XOJJXPY",
+      "path": "models/entity/hive/murder/gravestone/close_encounters.json"
+    },
+    {
+      "key": "3ZP43SUY5LGOHFI5B2GX2WOZI3ZTMSKA",
+      "path": "entity/hive/murder/gravestone/end_portal.json"
+    },
+    {
+      "key": "462YIKX6KQ56SNGZV2WLPBOXHY67ZETL",
+      "path": "textures/entity/hive/murder/interactable/toyhouse/clock_halloween.png"
+    },
+    {
+      "key": "OVKJ55LHA2C2IRFZKEIQLEQMNI43CD5W",
+      "path": "entity/hive/murder/interactable/spaceship/machine.json"
+    },
+    {
+      "key": "7LMQXQD4CYBCLFALXKDSTMF2B3I7Q6HH",
+      "path": "textures/entity/hive/murder/gravestone/nether_portal.png"
+    },
+    {
+      "key": "4CDIQ3I4ZBEQNIQXJQFK74VZDSMFMEP3",
+      "path": "models/entity/hive/murder/gravestone/bird_nest.json"
+    },
+    {
+      "key": "6XPXMXDVWPNF43UOKXYIXOKKZH2Y6UJ7",
+      "path": "textures/entity/hive/murder/prop/witchschool/leaves.png"
+    },
+    {
+      "key": "L3WXWCPUMBB6H5PSXZ2BXU63RHGKHKKO",
+      "path": "textures/entity/hive/murder/throwable/popsicle.png"
+    },
+    {
+      "key": "UATI3FWVQHZ2ZSBERQTGGX674F4Y6YYK",
+      "path": "models/entity/hive/murder/prop/village/wreath.json"
+    },
+    {
+      "key": "ONNTGJF52FDLDTECYP5BI6TKN2UCATAM",
+      "path": "entity/hive/murder/gravestone/pizza.json"
+    },
+    {
+      "key": "KMW46H4ZO6WISZVNETQLU66SAPUHEJTD",
+      "path": "entity/hive/murder/graveyard_npc.json"
+    },
+    {
+      "key": "75ZOQCON47HD6NG2O5KMPYDPTFCCB4SB",
+      "path": "entity/hive/murder/gravestone/gingerbread.json"
+    },
+    {
+      "key": "TVQW4OFASROYCPEP6TZUUGF266MOZO3C",
+      "path": "models/entity/hive/murder/throwable/soda_can.json"
+    },
+    {
+      "key": "LGZWPINJXMY6EVB2AH6RTS4LXZRR55TX",
+      "path": "animations/hive/murder/soul.json"
+    },
+    {
+      "key": "DKWWKVEVWC67AZUKSMZV2ZLBBWMRQ4XF",
+      "path": "entity/hive/murder/interactable/manor/fireplace.json"
+    },
+    {
+      "key": "UI6LLWO3EDAP2FIJBUHC4TLQXWFQXNOX",
+      "path": "textures/entity/hive/murder/gravestone/summer_picnic.png"
+    },
+    {
+      "key": "YSHWBHQFW23Q2T7VFRMFTYZLFKBGYVMN",
+      "path": "textures/entity/hive/murder/throwable/axe.png"
+    },
+    {
+      "key": "J5PTDADZIDRNCQOLKEKPKWBA7D6TNUXT",
+      "path": "models/entity/hive/murder/gravestone/copper_golem.json"
+    },
+    {
+      "key": "SDHO6OABZNUYTIJ5BLX264HCPD2BMCJ4",
+      "path": "textures/entity/hive/murder/prop/museum/sarcophagus.png"
+    },
+    {
+      "key": "J6BGGICAV5VYT4D3S77VALBSNXKYT4WW",
+      "path": "models/entity/hive/murder/gravestone/nether_portal.json"
+    },
+    {
+      "key": "S6X32FHMZEYL4NIOBQW3PMESIOSQHGI3",
+      "path": "textures/entity/hive/murder/interactable/esohotel/coffee_machine.png"
+    },
+    {
+      "key": "RC6J2P3SPMYKE6VAGXW2Y42ACROREYYC",
+      "path": "models/entity/hive/murder/prop/witchschool/leaves.json"
+    },
+    {
+      "key": "KGKPXHYKQKW7RNP23R6IF3C7AACSSA53",
+      "path": "models/entity/hive/murder/gravestone/turkey_dinner.json"
+    },
+    {
+      "key": "X7TLVRGIZ3XWCGQMX4Y7DBN4JJBW72AT",
+      "path": "render_controllers/hive/murder/soul.json"
+    },
+    {
+      "key": "N7CW4SJJWGKQE2SANOWPTMVC26T6HAHX",
+      "path": "entity/hive/murder/gravestone/close_encounters.json"
+    },
+    {
+      "key": "KJZFIQKBTJBFKU33UTJQ4EDFYDAXG7QB",
+      "path": "textures/entity/hive/murder/interactable/pigment/sink_teleporter.png"
+    },
+    {
+      "key": "2FDCYP53PLTR5KOYL2E5OLA42YQ2OFNN",
+      "path": "models/entity/hive/murder/throwable/ocean_trident.json"
+    },
+    {
+      "key": "DZQEBU7LW5SYDBGN35EXAER73LOLAF6C",
+      "path": "render_controllers/hive/murder/interactable/warehouse/vending_machine.json"
+    },
+    {
+      "key": "AP77MN3LCMPJZWSTWTMEDRXUBLMYL3MR",
+      "path": "textures/entity/hive/murder/throwable/carrot.png"
+    },
+    {
+      "key": "DVB4OLTSNW7QNXNUO4GIQCFRONCSVIM5",
+      "path": "models/entity/hive/murder/prop/warehouse/cardboard_box.json"
+    },
+    {
+      "key": "I5QEY6GHIDVEZK3DDVFJBH7RSPESZTQ5",
+      "path": "models/entity/hive/murder/throwable/chopper.json"
+    },
+    {
+      "key": "YIX73FKPJCTKZ3ZFAHI4ZFJTFFV7ZIRP",
+      "path": "textures/entity/hive/murder/throwable/hammer.png"
+    },
+    {
+      "key": "UGWFV27RRQD6OXZWV3R7EKO6DUMFX3WQ",
+      "path": "textures/entity/hive/murder/coin.png"
+    },
+    {
+      "key": "NYTD2ZUJGH7FTJPC7GVKZSSPE65HTRVH",
+      "path": "entity/hive/murder/gravestone/book_of_souls.json"
+    },
+    {
+      "key": "MJBPRAUC45CAXAE3QFQPRJQ3WQJLLNTS",
+      "path": "textures/entity/hive/murder/gravestone/cage.png"
+    },
+    {
+      "key": "FRCQZ2MHTFEPUINQA3CD4QGU4M57YFP2",
+      "path": "models/entity/hive/murder/interactable/pigment/cake.json"
+    },
+    {
+      "key": "YURRCJL6GVBOEM3INIBNDCIY5647G5JP",
+      "path": "render_controllers/hive/murder/interactable/chroma/teleporter.json"
+    },
+    {
+      "key": "MROWGCL3FHMYDYEXXU45L5VL3IC32PEQ",
+      "path": "models/entity/hive/murder/throwable/rubber_chicken.json"
+    },
+    {
+      "key": "VG3AUDFGZMDBNBLCCI7TVRMRDZWJAQ4C",
+      "path": "textures/entity/hive/murder/interactable/manor/cauldron.png"
+    },
+    {
+      "key": "MHZE2O3VJ2YKPVVM37YCZ5XDMC4SBC6C",
+      "path": "render_controllers/hive/murder/interactable/toggleable.json"
+    },
+    {
+      "key": "6RWOVQ54GMC27BTFEAARFWSEPH5BC4UX",
+      "path": "textures/entity/hive/murder/throwable/cyberpunk_dagger.png"
+    },
+    {
+      "key": "3OKEANVGQUUNZE6W5GBSRUN5CE7NJ5O7",
+      "path": "textures/entity/hive/murder/throwable/candle.png"
+    },
+    {
+      "key": "EABYZ6YTQQGNLMY66RU3BOG24Y2O2P5P",
+      "path": "particles/hive/murder/fireplace.particle.json"
+    },
+    {
+      "key": "GAQKK7JLIICYXLOEB2P7VFIRBRKSV5LT",
+      "path": "models/entity/hive/murder/prop/manor/spellbook.json"
+    },
+    {
+      "key": "3I7S4TLWMQPDUVLLKMEU7GK3KHTCSTKQ",
+      "path": "textures/entity/hive/murder/prop/village/wreath_small.png"
+    },
+    {
+      "key": "HAFFQTY7VWUETNA4Q7YE4CDLKWQ6OEW3",
+      "path": "models/entity/hive/murder/prop/museum/fish.json"
+    },
+    {
+      "key": "6FEBAPWYA5YKSPBAQDT2TU3EGVZ3B7FK",
+      "path": "models/entity/hive/murder/prop/witchschool/painting.json"
+    },
+    {
+      "key": "D6G5BKNJCS64KX4GS6TRYKTI4F37UK5N",
+      "path": "textures/entity/hive/murder/throwable/hotdog.png"
+    },
+    {
+      "key": "EDA7LE542BDA4CCKVLTKEECQSU43J5J5",
+      "path": "textures/entity/hive/murder/throwable/default.png"
+    },
+    {
+      "key": "TTZHXIP6DJ23TIKXTMWNS6ZYFCGL3ZTV",
+      "path": "models/entity/hive/murder/interactable/pigment/sink_teleporter.json"
+    },
+    {
+      "key": "2JJNCTYKH2BFIDYXJQQ422UULVRZBTB3",
+      "path": "animations/hive/murder/interactables/remnants/remnants_teleporter.json"
+    },
+    {
+      "key": "JPIHUXRGV5RZ3WN45GGQC6PRAO3OGEK4",
+      "path": "textures/entity/hive/murder/throwable/candy_cane.png"
+    },
+    {
+      "key": "MI4C7MCQF7C22KYKVBQBXDUCWG55QI53",
+      "path": "textures/entity/hive/murder/throwable/lamp.png"
+    },
+    {
+      "key": "FBDEEOYLZSJDNGWXHQNX75DA4QTBVUHK",
+      "path": "models/entity/hive/murder/gravestone/pizza.json"
+    },
+    {
+      "key": "NJNU4SNH66QVFIV4L376ZIOYFTSHVO4C",
+      "path": "models/entity/hive/murder/prop/museum/fossil.json"
+    },
+    {
+      "key": "KHJVJP7237MNBMND3VQI4Z2GGASSULMB",
+      "path": "textures/entity/hive/murder/prop/esohotel/monitor.png"
+    },
+    {
+      "key": "4EZJZFN3LMCT2WRKELYAHW37JTHUTG5Y",
+      "path": "entity/hive/murder/interactable/chroma/item_invisibility.json"
+    },
+    {
+      "key": "FNDPNPIUNI2ECRP22JYALMPMBCMV4EV6",
+      "path": "models/entity/hive/murder/interactable/witchschool/spellbook.json"
+    },
+    {
+      "key": "S6PKRFGZZKXPXD3KTW7VAJRJZUOUYB3G",
+      "path": "models/entity/hive/murder/throwable/cucumber.json"
+    },
+    {
+      "key": "COY23PFWVHYF2V5RQKI5CNWJL6Z7AJPE",
+      "path": "textures/entity/hive/murder/prop/village/presents_small.png"
+    },
+    {
+      "key": "7K7QTBQ3QQZGHZE33WVMUTK7YLHCQN4D",
+      "path": "models/entity/hive/murder/gravestone/backpack.json"
+    },
+    {
+      "key": "BBQZCCEX5KFKUHZPPW6VAOCY7GGXESCF",
+      "path": "textures/entity/hive/murder/gravestone/gravestone.png"
+    },
+    {
+      "key": "B6IODZYLWURCVTQKXSGVR4UJYZTFWQK7",
+      "path": "textures/entity/hive/murder/throwable/frying_pan.png"
+    },
+    {
+      "key": "2JDD7XWUETRCHIS4GE6V5RA6Q673R45T",
+      "path": "textures/entity/hive/murder/throwable/ping_pong_paddle.png"
+    },
+    {
+      "key": "DJGGE3E6KMVLIBCS3ARCKHKNM7QRL5TH",
+      "path": "models/entity/hive/murder/throwable/magnet.json"
+    },
+    {
+      "key": "J3D4A6BKWIR5YG2NOYXXWAQ3DI5PTQIN",
+      "path": "textures/entity/hive/murder/interactable/pigment/water_glass/glass_full.png"
+    },
+    {
+      "key": "23YXI3HM2BQQ4E5DHP4ISOINAOXC2UO2",
+      "path": "textures/entity/hive/murder/throwable/ice_cream.png"
+    },
+    {
+      "key": "QLJVSTWLXOJNJW27T3HLHMALPQ2QPTIW",
+      "path": "models/entity/hive/murder/throwable/banana.json"
+    },
+    {
+      "key": "LPYNINYPZDNOQM2LQGLHILNGM7BIBLJN",
+      "path": "entity/hive/murder/gravestone/bath_time.json"
+    },
+    {
+      "key": "WUQBEACVWQUPLWE6KECKB4F6NC4FUSES",
+      "path": "entity/hive/murder/interactable/remnants/remnants_teleporter.json"
+    },
+    {
+      "key": "5B4NAZAKLFA7KLMEIOLTM2ZDJDXXJD7B",
+      "path": "models/entity/hive/murder/prop/manor/bookcase_1.json"
+    },
+    {
+      "key": "MX22EFMHVFPRSCOVLX22VVGQMMINJJPF",
+      "path": "textures/entity/hive/murder/prop/manor/potion_2_orange_purple.png"
+    },
+    {
+      "key": "CWY3B37DE2HT7S6OJLRNSI63ZPSK2V7K",
+      "path": "entity/hive/murder/magnifying_glass.json"
+    },
+    {
+      "key": "UFWLFXKSS4Y5XED4B4YJRNBNEFA53AFN",
+      "path": "textures/entity/hive/murder/prop/warehouse/vent.png"
+    },
+    {
+      "key": "HLKNPRNQD3LNBPWP6UIJBLSGDMZCV2M3",
+      "path": "textures/entity/hive/murder/gravestone/copper_golem.png"
+    },
+    {
+      "key": "VYQSXNJF3OXNREGQJQNWKNWDVCFVT26I",
+      "path": "animation_controllers/hive/murder/interactable/remnants/rune_box.json"
+    },
+    {
+      "key": "53H4HQBAJ2JBQUMK5OOLH33XA2HU3GKV",
+      "path": "models/entity/hive/murder/throwable/magnifying_glass.json"
+    },
+    {
+      "key": "DOJSCIH5JVEJ3BKGRDGSU7GPAYNNRTRV",
+      "path": "textures/entity/hive/murder/prop/museum/ceres.png"
+    },
+    {
+      "key": "CLKGSDYJ5GKUUS2PUWHSQZKN7K2RZZJK",
+      "path": "models/entity/hive/murder/throwable/cherry_pie.json"
+    },
+    {
+      "key": "XSCKZ2SCZDEM5SH7BVYUHCEB2PCZBKFU",
+      "path": "textures/entity/hive/murder/coin/super.png"
+    },
+    {
+      "key": "YWX5G6H63CH7MU7DN4AYHM6SKHP5WWAI",
+      "path": "textures/entity/hive/murder/throwable/bone.png"
+    },
+    {
+      "key": "OYWJK742L5LSD6KREIEZVRUWL2UATBIV",
+      "path": "models/entity/hive/murder/prop/office/mug.json"
+    },
+    {
+      "key": "XT7XJPIVYLR2G72AC4QVQUGO2XDOW4BL",
+      "path": "textures/entity/hive/murder/gravestone/pancakes.png"
+    },
+    {
+      "key": "PZAR7DCA5O6S2KZMRP7IK3F3L5RFARKD",
+      "path": "entity/hive/murder/interactable/pigment/water_glass.json"
+    },
+    {
+      "key": "F6U2CXSS7VGYN3XNWJO7R5FHPRBVEGGQ",
+      "path": "models/entity/hive/murder/throwable/ping_pong_paddle.json"
+    },
+    {
+      "key": "6QMTBJC5T2S7KGOLGTR2K3R7OECAOD22",
+      "path": "textures/entity/hive/murder/prop/museum/mars.png"
+    },
+    {
+      "key": "I6E7E7332D33LIYJ6S4U773ASZ4H3UKT",
+      "path": "textures/entity/hive/murder/throwable/beach_ball.png"
+    },
+    {
+      "key": "MXDYXHP37YJWVDZRIVXAIPPKUAWI5BZX",
+      "path": "models/entity/hive/murder/throwable/eye.json"
+    },
+    {
+      "key": "7EGWJN7ZPK7O66HK6JL5EC6MPLKBD7U2",
+      "path": "textures/entity/hive/murder/interactable/warehouse/vending_machine_speed.png"
+    },
+    {
+      "key": "O7P64P4RN2XBRVIE3MUM2UKZWEZVGJDH",
+      "path": "models/entity/hive/murder/throwable/snowball.json"
+    },
+    {
+      "key": "TDSECMNQRX2QRVXXG422GSJDK53ZLUIP",
+      "path": "textures/entity/hive/murder/throwable/spirited_mask.png"
+    },
+    {
+      "key": "YYJRPVQYZPGEWVOOMQVLKEYBDEYLMWQK",
+      "path": "models/entity/hive/murder/prop/manor/potion_2.json"
+    },
+    {
+      "key": "5JURGBW6GQ5GSZWHDU5FVVKYGERM2LCV",
+      "path": "textures/entity/hive/murder/prop/spaceship/screen_blue.png"
+    },
+    {
+      "key": "EMUKIES4MOIVKHYFE2M7GVET4I42E6L6",
+      "path": "entity/hive/murder/gravestone/star.json"
+    },
+    {
+      "key": "TNWRAD5OBCRCMYXL7BJS7YCSZV5EECUV",
+      "path": "models/entity/hive/murder/prop/office/vent.json"
+    },
+    {
+      "key": "FE5D7EFATMJCI5XXPTZDC3WH2ETWJINC",
+      "path": "textures/entity/hive/murder/interactable/spaceship/machine.png"
+    },
+    {
+      "key": "U2GTATCJYJPO7K6LGNTZ572U25PJLEMW",
+      "path": "textures/entity/hive/murder/prop/witchschool/bookshelf.png"
+    },
+    {
+      "key": "CUXTYC555VATNNK4IXLHVXEGYWD75YOP",
+      "path": "models/entity/hive/murder/interactable/museum/chalice.json"
+    },
+    {
+      "key": "LHDQYLQJJVBV2KN3OEWD4YCXIGN6EUMY",
+      "path": "animation_controllers/hive/murder/graveyard_npc.json"
+    },
+    {
+      "key": "5YQLJ5COREDKYZTHGYNATRGWT4J4QCSG",
+      "path": "models/entity/hive/murder/interactable/chroma/merchant.json"
+    },
+    {
+      "key": "ZAVF4KIQ3AVQWITGUETWRZQI3M7GZST2",
+      "path": "textures/entity/hive/murder/gravestone/top_hat.png"
+    },
+    {
+      "key": "G77WNFNF4BU7IWZGH7HJZNLBRPSCJOUA",
+      "path": "animation_controllers/hive/murder/magnifying_glass.json"
+    },
+    {
+      "key": "OM7ILRWUOZRKZSS4P336OQPPWRLZNDA6",
+      "path": "models/entity/hive/murder/gravestone/snowman.json"
+    },
+    {
+      "key": "2U65KN5SW2T4742XQY7DSCAEUIKDR7BL",
+      "path": "models/entity/hive/murder/prop/museum/planet_ring.json"
+    },
+    {
+      "key": "BRNXMQBV4KKYSTJBD5WHWX54DAMINLM4",
+      "path": "entity/hive/murder/prop/museum/globe.json"
+    },
+    {
+      "key": "NFYTSON2XBVKRAALLKCKN7NGG4RVUY75",
+      "path": "models/entity/hive/murder/prop/warehouse/pallet.json"
+    },
+    {
+      "key": "ZWNC34LIKH3UOC2TPRBAYRCBRKERM3LT",
+      "path": "textures/entity/hive/murder/prop/museum/saturn.png"
+    },
+    {
+      "key": "ZAB4BDAW2XCGTZGHL34VKSHN7K5LUAMD",
+      "path": "textures/entity/hive/murder/prop/museum/pluto.png"
+    },
+    {
+      "key": "B5UTNCEIBE6UFDQQNJCBY7A7EXSLKCBR",
+      "path": "textures/entity/hive/murder/prop/warehouse/planks.png"
+    },
+    {
+      "key": "LSEUWHO6O5OWYZQHJZUUQBSK72ZAG27V",
+      "path": "models/entity/hive/murder/prop/witchschool/candleholder.json"
+    },
+    {
+      "key": "XY7LN5A6A6ZALCGC7HLC7WC74ILHJEHT",
+      "path": "animation_controllers/hive/murder/interactable/chroma/teleporter.json"
+    },
+    {
+      "key": "7GGEXSVK45CFW6CR6QM7JEBNYP4UNMKJ",
+      "path": "models/entity/hive/murder/prop/village/presents.json"
+    },
+    {
+      "key": "36R7ZVJUCLSGFP7QESIXER27RVCKKOWJ",
+      "path": "animation_controllers/hive/murder/interactable/remnants/remnants_teleporter.json"
+    },
+    {
+      "key": "IELX4VBZEOB5EG3H2DVOZT423MJGUPNW",
+      "path": "entity/hive/murder/interactable/pigment/cake.json"
+    },
+    {
+      "key": "YH4LVRYY7ATBJ45LY4VKMKSB7WCISEJD",
+      "path": "textures/entity/hive/murder/interactable/chroma/teleporter/red.png"
+    },
+    {
+      "key": "3ULOOKUKHXGCU4LUQVO2EHO6LVIWZXU4",
+      "path": "entity/hive/murder/gravestone/boombox.json"
+    },
+    {
+      "key": "YK432R4P7M425I6VU2VIRRMNICVHXJEV",
+      "path": "entity/hive/murder/interactable/toyhouse/oven.json"
+    },
+    {
+      "key": "7WDIRIAQZLFBFB5OSA6IDJQ3YHAGKQ7X",
+      "path": "models/entity/hive/murder/coin.json"
+    },
+    {
+      "key": "NGUXNHPR26L5TZ2EZNCSHO72T7ZQAYXN",
+      "path": "textures/entity/hive/murder/interactable/museum/chalice.png"
+    },
+    {
+      "key": "FERV3BY4JALFSEGLHBESTFUPJ73ZEZH4",
+      "path": "models/entity/hive/murder/gravestone/nether_mushrooms.json"
+    },
+    {
+      "key": "XOMNFRRAJXEAEDJL6Q46GYVZUAINOBQ2",
+      "path": "models/entity/hive/murder/throwable/baseball_bat.json"
+    },
+    {
+      "key": "UR3HES6NDTSCLB3I5VL2S4LWRSUZWZ2U",
+      "path": "entity/hive/murder/interactable/esohotel/coffee_machine.json"
+    },
+    {
+      "key": "NQIQL4F5QB4EJYKPBCJCMSPCVUZH75XB",
+      "path": "textures/entity/hive/murder/gravestone/turkey_dinner.png"
+    },
+    {
+      "key": "5XXE4XSQ4HVGSQQZ2522FSVUDGHSMYAF",
+      "path": "models/entity/hive/murder/prop/museum/planet.json"
+    },
+    {
+      "key": "X47BY4UGEIUYBLYFNFD7KUKV37HAWUCB",
+      "path": "animations/hive/murder/gravestone/solar_display.json"
+    },
+    {
+      "key": "PZPCYOLRTWTIINSPXWEZTSI2K2CHKPSZ",
+      "path": "textures/entity/hive/murder/interactable/pigment/cube/yellow.png"
+    },
+    {
+      "key": "5Y7KWW5RVEGM5NXZBZWVW7XDRJWN45VY",
+      "path": "entity/hive/murder/gravestone/open_gifts.json"
+    },
+    {
+      "key": "55EWO242FS6OJVOLSSCDK2RNKHN5YG45",
+      "path": "textures/entity/hive/murder/interactable/witchschool/greendoor.png"
+    },
+    {
+      "key": "ZZRNLSBQQG6TWFQFF3WZCAJ7UFLX37IN",
+      "path": "models/entity/hive/murder/throwable/hammer.json"
+    },
+    {
+      "key": "NIE2V4A3HYRMBQCKO5I5K5RS3CPNNOO4",
+      "path": "models/entity/hive/murder/prop/museum/egg.json"
+    },
+    {
+      "key": "5VA55FENLZQ52PWZ6EB6VOAK6HIXPKLV",
+      "path": "models/entity/hive/murder/magnifying_glass.json"
+    },
+    {
+      "key": "6MQ5YXV3OW4UJXE4YP6DFKSNUE3OTQPK",
+      "path": "textures/entity/hive/murder/interactable/chroma/item/speed.png"
+    },
+    {
+      "key": "ZS5J3S2KRM34KDIIAJM6LCDD73PZDM47",
+      "path": "textures/entity/hive/murder/prop/manor/spellbook.png"
+    },
+    {
+      "key": "TGRXFETD3MYXQRZ52V3KMPHYAYG3ZSKP",
+      "path": "textures/entity/hive/murder/prop/toyhouse/chair_halloween.png"
+    },
+    {
+      "key": "RLULFOBR422G3K6ESX44MEKZPT7VH77E",
+      "path": "models/entity/hive/murder/interactable/esohotel/glass.json"
+    },
+    {
+      "key": "2JUTXGQEGCRTHCCWUSO5LQSSIDBSJCMO",
+      "path": "textures/entity/hive/murder/prop/museum/uranus.png"
+    },
+    {
+      "key": "VKIKS4H4LE2SNC4DGHYRJCCU7H7R7Q3D",
+      "path": "textures/entity/hive/murder/gravestone/treasure.png"
+    },
+    {
+      "key": "SCROSI7KH2MEFRNAIQI35V763PPNKQYR",
+      "path": "models/entity/hive/murder/throwable/phone.json"
+    },
+    {
+      "key": "VKNAFCX62PFJGFHGKLQOM76LO55RYZN6",
+      "path": "textures/entity/hive/murder/prop/museum/neptune.png"
+    },
+    {
+      "key": "UC7UNP3GG24VEW3QX5FDHXX4VXKSVFZV",
+      "path": "animations/hive/murder/interactables/witchschool/greendoor.json"
+    },
+    {
+      "key": "XQN7MGJBQEBL5MZ3IQRABVU25M34Y7AO",
+      "path": "models/entity/hive/murder/gravestone/top_hat.json"
+    },
+    {
+      "key": "RPT45TKFO76E3WAYYRC7NX64YD4A4NQU",
+      "path": "textures/entity/hive/murder/gravestone/head.png"
+    },
+    {
+      "key": "4BN4BU3QJTZYZ3FNMKWFMEVNSZ2VSHNI",
+      "path": "textures/entity/hive/murder/gravestone/star.png"
+    },
+    {
+      "key": "4KMXTRQU7JJOEC4B565EJXCZLTIZQCIB",
+      "path": "textures/entity/hive/murder/gravestone/skull.png"
+    },
+    {
+      "key": "T7SVJF5CEPMVGHLXUVHY6QY4YUUKYGJ7",
+      "path": "models/entity/hive/murder/interactable/warehouse/vending_machine.json"
+    },
+    {
+      "key": "FQVBR7KQMDX3YAHI2QNUR72GTSR4OQA4",
+      "path": "textures/entity/hive/murder/interactable/esohotel/fridge.png"
+    },
+    {
+      "key": "JU5GOW4MTTRFQRL3LVILECSOOVFB446J",
+      "path": "animation_controllers/hive/murder/throwable.json"
+    },
+    {
+      "key": "XFAQ42F5DL4I7AJAWRUNOXWMYXEWDI4G",
+      "path": "render_controllers/hive/murder/interactable/pigment/cube.json"
+    },
+    {
+      "key": "UA56VQEWMSDKGANB56GZR27LGOIYF337",
+      "path": "models/entity/hive/murder/gravestone/head.json"
+    },
+    {
+      "key": "6K4TMPUZ53SN5H7FTJAMRKPH5FIYA3EJ",
+      "path": "textures/entity/hive/murder/throwable/magnifying_glass.png"
+    },
+    {
+      "key": "JNBQXCIVCUOWLDXUFIHSC3M72TVKVNSB",
+      "path": "models/entity/hive/murder/throwable/flower_pot.json"
+    },
+    {
+      "key": "GMQD66UUSSF2M3C45B2O4ZKQPVKO7ZS6",
+      "path": "textures/entity/hive/murder/throwable/spatula.png"
+    },
+    {
+      "key": "Z5ZRFQPBXA3OFI7MLEWUARAZJH5H2TJD",
+      "path": "animation_controllers/hive/murder/interactable/chroma/merchant.json"
+    },
+    {
+      "key": "BMWLSZMIDJXOWY3ZO2JTFDSWTORPBCG2",
+      "path": "models/entity/hive/murder/throwable/spatula.json"
+    },
+    {
+      "key": "OVETP6A7DNDTKEVDDHT6LWP4L7CAL6G4",
+      "path": "animation_controllers/hive/murder/interactable/door.json"
+    },
+    {
+      "key": "LYSWLSMTYMFVQEDH7PSNEHG5H6DPLBC6",
+      "path": "models/entity/hive/murder/throwable/fish.json"
+    },
+    {
+      "key": "3PRU2T7VPKZXLI6L23YBKAS5P6B3CYUS",
+      "path": "models/entity/hive/murder/gravestone/solar_display.json"
+    },
+    {
+      "key": "XG7NZHCEPQUEFDTTC72VGDYSBXJFROAN",
+      "path": "models/entity/hive/murder/throwable/wrench.json"
+    },
+    {
+      "key": "2TKUJZE2BXXEWXEBDLQEQO4UW6HXPUFC",
+      "path": "textures/entity/hive/murder/throwable/fork.png"
+    },
+    {
+      "key": "ICVSYBLGOMSMJXQMEVLDVQP2DDO7YZA5",
+      "path": "animation_controllers/hive/murder/gravestone/close_encounters.json"
+    },
+    {
+      "key": "KMDSBZQM6T4WOL2YYLS77TRNQK3XLU4C",
+      "path": "textures/entity/hive/murder/interactable/chroma/merchant/merchant_red.png"
+    },
+    {
+      "key": "6YVMG2UBO4K4AXKDH6MXBE6MLCG2TJYQ",
+      "path": "textures/entity/hive/murder/throwable/banana.png"
+    },
+    {
+      "key": "5NZNHFZP3ES23DTFQAIG26JCHL5CQ2H5",
+      "path": "models/entity/hive/murder/prop/warehouse/vent.json"
+    },
+    {
+      "key": "3ICLCOFJ5QCFQNQYZFQLK4TNKZHA3LL2",
+      "path": "models/entity/hive/murder/throwable/pizza_slice.json"
+    },
+    {
+      "key": "BSJY2V5NMAI7DZFR6V37TLVOPO43P4AS",
+      "path": "animation_controllers/hive/murder/interactable/manor/cauldron.json"
+    },
+    {
+      "key": "KZGMBEEQWAGHYL2R2TYCTGZETJ3ZONPA",
+      "path": "animation_controllers/hive/murder/prop/manor/floating_candle.json"
+    },
+    {
+      "key": "LNWVSX6NXWRNNTNLIBCMMS6XA622XYT6",
+      "path": "textures/entity/hive/murder/prop/toyhouse/teddy.png"
+    },
+    {
+      "key": "CF2K53WJE4BPIMG4YI5AYQZJEQVZRWYL",
+      "path": "textures/entity/hive/murder/interactable/chroma/merchant/merchant_green.png"
+    },
+    {
+      "key": "7TDWZF5KVOUI7VCZCDWB6KGMYBNRJ7MH",
+      "path": "textures/entity/hive/murder/prop/museum/fossil_steve.png"
+    },
+    {
+      "key": "5UHB6TC5W2U7D6XHGPNRXNDJMHCPS2Y3",
+      "path": "textures/particle/hive/murder/bubbles.png"
+    },
+    {
+      "key": "XCP44EAXE5TDPTAECLH4O6FPOP44EGIJ",
+      "path": "models/entity/hive/murder/gravestone/mini_house.json"
+    },
+    {
+      "key": "KLC53IMGOZNBZGHIG5ELLKDAYZL4P2RI",
+      "path": "models/entity/hive/murder/prop/warehouse/planks.json"
+    },
+    {
+      "key": "GGGLYLTIUD2SEBK42TBPM57JT6XK5SJA",
+      "path": "entity/hive/murder/soul.json"
+    },
+    {
+      "key": "HIBXDEQ3XDCZILQV7IY222NNUDSPNDRY",
+      "path": "textures/entity/hive/murder/prop/office/statue.png"
+    },
+    {
+      "key": "45EZSXFYTIJGGJ52X7PGJBUN42YN4R5T",
+      "path": "textures/entity/hive/murder/gravestone/book_of_souls.png"
+    },
+    {
+      "key": "EU3YYBJST234BDNKRMWN5EAZTMHSQGC3",
+      "path": "entity/hive/murder/interactable/museum/chalice.json"
+    },
+    {
+      "key": "TOZ3WECKYDZ56NMCWWYZ2VQTBJS3KYGZ",
+      "path": "entity/hive/murder/gravestone.json"
+    },
+    {
+      "key": "AO2HG6MST3VJT4JILJTIEXSCMCAQXZKJ",
+      "path": "entity/hive/murder/gravestone/nether_portal.json"
+    },
+    {
+      "key": "C2OLMQTS35HOLEJNAICMREESKRPOYEHL",
+      "path": "particles/hive/murder/water_bubbles.particle.json"
+    },
+    {
+      "key": "SRKJXADMZUNO7EJM7BBJKPPDI56SVLF6",
+      "path": "models/entity/hive/murder/interactable/spaceship/machine.json"
+    },
+    {
+      "key": "42YNUOJUBQCHNLYP6IBAZDSOAGA6G5X7",
+      "path": "models/entity/hive/murder/prop/office/statue.json"
+    },
+    {
+      "key": "CSQN3HHW4DL2DOQ4OFPPNUYGHZVRRKSB",
+      "path": "models/entity/hive/murder/interactable/esohotel/fridge.json"
+    },
+    {
+      "key": "TLKWTKGDIKDUAWNQ3O6U4GYOFWPJD7XY",
+      "path": "textures/entity/hive/murder/interactable/pigment/cake.png"
+    },
+    {
+      "key": "VEYOL6ZEZQPE5R6P73IGQFDLQZJVHXOL",
+      "path": "textures/entity/hive/murder/gravestone/backpack.png"
+    },
+    {
+      "key": "YXVOU6BG2L4IJQJ63IVGHU6MRVUJTSB5",
+      "path": "textures/entity/hive/murder/prop/village/presents.png"
+    },
+    {
+      "key": "HN6ZMSNEXWSHIDF5DJBUYYPMRV5VWZU5",
+      "path": "textures/entity/hive/murder/prop/esohotel/statue.png"
+    },
+    {
+      "key": "LYQUI4JQXOUJSW26JLMDFYPVPZHQKYQP",
+      "path": "animations/hive/murder/interactables/manor/cauldron.json"
+    },
+    {
+      "key": "KB2KUYVEOFHJEBWFREEECOGZMY775BPZ",
+      "path": "textures/entity/hive/murder/prop/toyhouse/chair.png"
+    },
+    {
+      "key": "C65HCY3DEJ4T77OPV4A2BVE7VUPOJAEE",
+      "path": "models/entity/hive/murder/throwable/boot.json"
+    },
+    {
+      "key": "QVS6FDZUP5LDEVPFEQSIACAIAOZ6GG7A",
+      "path": "entity/hive/murder/gravestone/turkey_dinner.json"
+    },
+    {
+      "key": "TF4CDKSFYUUCKY442GGJYSVOHWTVZBVC",
+      "path": "textures/entity/hive/murder/gravestone/rubber_duck.png"
+    },
+    {
+      "key": "USLNFTSCK2GQFJZEZZX65T3SAW3PEKOL",
+      "path": "models/entity/hive/murder/gravestone/cage.json"
+    },
+    {
+      "key": "OZA6V6CADQPMI4U22AMYTTSDQYDJNJ24",
+      "path": "textures/entity/hive/murder/throwable/cherry_pie.png"
+    },
+    {
+      "key": "IH2XPXO6YF4TA4SE7PH5PHLMQDDASULH",
+      "path": "animation_controllers/hive/murder/soul.json"
+    },
+    {
+      "key": "DRK7PFAI5T75HDRN5Q45JQR6HYW5EWR7",
+      "path": "textures/entity/hive/murder/gravestone/end_portal.png"
+    },
+    {
+      "key": "LJWPSTQFMWFKLBA74KZXOOJU2VBRUA7P",
+      "path": "textures/entity/hive/murder/prop/museum/mercury.png"
+    },
+    {
+      "key": "XBE2FDVGBMCDRUHHZUWQ3DTCE74433ZF",
+      "path": "textures/entity/hive/murder/gravestone/balloon.png"
+    },
+    {
+      "key": "Y2Y46LJYSUQSVQ7RV3LKEWVP5W4LMWC7",
+      "path": "models/entity/hive/murder/prop/manor/potion_1.json"
+    },
+    {
+      "key": "NPG62JKQD6F52EVEEWMAUNRSE4HC47QO",
+      "path": "models/entity/hive/murder/throwable/wreath.json"
+    },
+    {
+      "key": "BZ2N2AT5NXS4OUF656S2ND3WBXYU3T6P",
+      "path": "textures/entity/hive/murder/interactable/spaceship/sliding_door.png"
+    },
+    {
+      "key": "UNNXOUFP6JJXXDUZYBV2JBJYDFSB3TKK",
+      "path": "models/entity/hive/murder/interactable/office/coffee_machine.json"
+    },
+    {
+      "key": "KHW6Z2COOVMQ6IPQ5SNJK2KSYBIA5L7E",
+      "path": "models/entity/hive/murder/prop/office/laptop.json"
+    },
+    {
+      "key": "YSB625LIH4DZOL3JCCLUVHHNMKNXPXHD",
+      "path": "textures/entity/hive/murder/prop/office/mug.png"
+    },
+    {
+      "key": "GMZIIYP2RZHNFX4V3CXXNGBFGPIEYK7X",
+      "path": "models/entity/hive/murder/throwable/bone.json"
+    },
+    {
+      "key": "6S2V6Y26GORDRIY7SIOBH6PWI5YF2RFM",
+      "path": "models/entity/hive/murder/interactable/manor/fireplace.json"
+    },
+    {
+      "key": "RQZ5EQX2US4ESLAABMIFLXKVTBEWWDPU",
+      "path": "textures/entity/hive/murder/interactable/witchschool/spellbook.png"
+    },
+    {
+      "key": "JIQ7SGDYF7YFPHH2ON23BDVMWY6U3LDU",
+      "path": "entity/hive/murder/interactable/witchschool/greendoor.json"
+    },
+    {
+      "key": "IT6C5S3XMWADMQIZWI2N3QBDQGCAAW7X",
+      "path": "entity/hive/murder/prop/manor/floating_candle.json"
+    },
+    {
+      "key": "X4V64HO4VN5YPWMFEEOFEIFHDZTS73PZ",
+      "path": "models/entity/hive/murder/interactable/manor/cauldron.json"
+    },
+    {
+      "key": "MDKA6P3BNCQ4JW4KV6AKIZAJ4XM25WNO",
+      "path": "textures/entity/hive/murder/prop/village/wreath.png"
+    },
+    {
+      "key": "QLTAZHRPPIA6377QFAMEG3VIKOVHJAH3",
+      "path": "entity/hive/murder/gravestone/balloon.json"
+    },
+    {
+      "key": "BOX3KHHHZ32RE5QN4K5Y24NTXYWB4B4G",
+      "path": "textures/entity/hive/murder/prop/museum/venus.png"
+    },
+    {
+      "key": "5FDJ3RS7PIH5EIOVYBK6FM2ID5INGRXB",
+      "path": "models/entity/hive/murder/prop/warehouse/crate.json"
+    },
+    {
+      "key": "P37V5AESL36BVHP7W2KTWUZPULPDRUP7",
+      "path": "models/entity/hive/murder/prop/manor/bookcase_2.json"
+    },
+    {
+      "key": "QOGXDTJAD5DPB62M4SZT2OLHWZWP5M3Y",
+      "path": "textures/entity/hive/murder/prop/museum/earth.png"
+    },
+    {
+      "key": "45MLVQF3TURQNYSVTRAMNM74MXTVKPPI",
+      "path": "models/entity/hive/murder/throwable/popcorn.json"
+    },
+    {
+      "key": "NOFCYHF4R2VQEE4O7BGPA7XB7NAC2YM2",
+      "path": "textures/entity/hive/murder/interactable/pigment/water_glass/glass_empty.png"
+    },
+    {
+      "key": "XC4TP6UOCC2MSNEBCZMILFE64JMQHJIK",
+      "path": "textures/entity/hive/murder/throwable/ice_shard.png"
+    },
+    {
+      "key": "JYNJHSJ3OS363FXA26XY4A6J2CHFGINY",
+      "path": "textures/entity/hive/murder/prop/toyhouse/teddy_halloween.png"
+    },
+    {
+      "key": "ZGIUKAGSWMFUQSAXUJE2A7TOZ4UJKTVX",
+      "path": "models/entity/hive/murder/gravestone/pancakes.json"
+    },
+    {
+      "key": "ZHU3MFC2JBOSIE73NUEPQLM4I5QNVO4O",
+      "path": "textures/entity/hive/murder/gravestone/nether_mushrooms.png"
+    },
+    {
+      "key": "OP6V4SB6QK5DRZYNAGJ2DP3FH4VUIXMB",
+      "path": "textures/entity/hive/murder/prop/museum/sun.png"
+    },
+    {
+      "key": "VOLQ7N4N3U6G6PMW66QCFQVNRMNHP2FG",
+      "path": "textures/entity/hive/murder/prop/office/laptop.png"
+    },
+    {
+      "key": "MHEHMPPHC4SOA4EF7SKFQ4TRDIOOFIXS",
+      "path": "models/entity/hive/murder/gravestone/web_developer.json"
+    },
+    {
+      "key": "4OHQKLFX65MASC675VPTTBH52QA3KAXX",
+      "path": "models/entity/hive/murder/prop/museum/sarcophagus.json"
+    },
+    {
+      "key": "W2QD4DUR4YBG3FQW5IKGMW2Q2SLHFM2T",
+      "path": "models/entity/hive/murder/throwable/ice_cream.json"
+    },
+    {
+      "key": "FMR7O4XMWXJYBISIPC7VOYZOYZWCOOUW",
+      "path": "entity/hive/murder/gravestone/summer_picnic.json"
+    },
+    {
+      "key": "4HK5VUSXOGOAFRCPNS5K2FPMP77TKXZB",
+      "path": "particles/hive/murder/interactable_small.particle.json"
+    },
+    {
+      "key": "EU7YJMFMYJ3NXDKSMJXAPLN3NYAGP5MG",
+      "path": "textures/entity/hive/murder/interactable/office/coffee_machine.png"
+    },
+    {
+      "key": "3QV4XSPQXL6YGYRNUH4WTISSN5CAFHOC",
+      "path": "render_controllers/hive/murder/interactable/remnants/teleporter.json"
+    },
+    {
+      "key": "U7RRQCUK7VSAEXEV7LQY2U6FA6VAYKCM",
+      "path": "particles/hive/murder/magnifying_glass.particle.json"
+    },
+    {
+      "key": "7G5JBMNYRM6A7DQYNP64OHO2KHYAQMNC",
+      "path": "models/entity/hive/murder/throwable/teddy.json"
+    },
+    {
+      "key": "WVL3QJKW7XI2YCGYXL72FFTAODSQZX7J",
+      "path": "textures/entity/hive/murder/prop/manor/candle.png"
+    },
+    {
+      "key": "7IWSO5POESXYQYBLELLOUVKGYKF7TY5U",
+      "path": "models/entity/hive/murder/interactable/toyhouse/oven.json"
+    },
+    {
+      "key": "VMOXAHBDVPKNI37FAOP6VPFZXCHGOP3N",
+      "path": "models/entity/hive/murder/gravestone/eggmanbox.json"
+    },
+    {
+      "key": "IL7GJ5LQPZW3IVIJO4S7PTTFYO44WPYE",
+      "path": "textures/entity/hive/murder/interactable/pigment/cube/blue.png"
+    },
+    {
+      "key": "Q6476GPQVJE2BUYSAGSZPCVAN47BV4AM",
+      "path": "textures/entity/hive/murder/gravestone/web_developer.png"
+    },
+    {
+      "key": "J6LUBTJIFGH5FTBHN4MVQYZPZHMV7GFH",
+      "path": "animation_controllers/hive/murder/gravestone/solar_display.json"
+    },
+    {
+      "key": "CKNEK2TUFVYWKKOFD5KTCVK3COXNMZIW",
+      "path": "models/entity/hive/murder/graveyard/spectate.json"
+    },
+    {
+      "key": "BCTIIO324AR3Z7YAXCQZZQ7B5JQTSLIS",
+      "path": "entity/hive/murder/interactable/witchschool/spellbook.json"
+    },
+    {
+      "key": "YB7GB7W64YBFWLUEKMVH4REUKYRY34FT",
+      "path": "render_controllers/hive/murder/coin.json"
+    },
+    {
+      "key": "LUPOOOW4P7YWLAY5UAP5YLCHHABXCNBE",
+      "path": "textures/entity/hive/murder/gravestone/ice.png"
+    },
+    {
+      "key": "QHBBMXMXOKWXESXNUYQ64DNK5K7EYBZG",
+      "path": "animations/hive/murder/interactables/chroma/merchant.json"
+    },
+    {
+      "key": "CAYNNVJG4SNDSBWAIVHZ5WNFVB6J5BMH",
+      "path": "entity/hive/murder/gravestone/pancakes.json"
+    },
+    {
+      "key": "DPVLMGMIAHPTMWIPZBC73F2BWQPQLDXT",
+      "path": "textures/entity/hive/murder/interactable/chroma/teleporter/cyan.png"
+    },
+    {
+      "key": "TA4P3TUG346KCHOJDQNB333QLNTFQT4J",
+      "path": "textures/entity/hive/murder/prop/esohotel/vines.png"
+    },
+    {
+      "key": "56GZNAS7ZASLBXL2UJOZD7UL77PM35LV",
+      "path": "models/entity/hive/murder/throwable/fork.json"
+    },
+    {
+      "key": "XH7IQLRJBPCNWCA4GW5BU2H62GYXXB5U",
+      "path": "models/entity/hive/murder/interactable/chroma/item_speed.json"
+    },
+    {
+      "key": "XXN5M5E4QSMZHJATKCXKO6QJ23BPLVC4",
+      "path": "models/entity/hive/murder/prop/manor/floating_candle.json"
+    },
+    {
+      "key": "QL7KRFBPKXKCFEU33POA244US3P4VH7P",
+      "path": "textures/entity/hive/murder/prop/museum/fossil_spiral.png"
+    },
+    {
+      "key": "7WHJVVDD47OTIKPPJYDNBUTMGUHYMPCJ",
+      "path": "entity/hive/murder/gravestone/mini_house.json"
+    },
+    {
+      "key": "FAXHY2DNF6DNO5PRNAHEQZ5YW2WNCG5L",
+      "path": "textures/entity/hive/murder/throwable/phone.png"
+    },
+    {
+      "key": "MVFLJIDKGIS3WOWCWTKW4ATH3VYID4LA",
+      "path": "entity/hive/murder/gravestone/pirates_fate.json"
+    },
+    {
+      "key": "X45NOXDBZMLPMW4TFZLDGRC474TAAMY7",
+      "path": "textures/entity/hive/murder/prop/manor/bookcase_2.png"
+    },
+    {
+      "key": "55GJIVKTF7BFKVET26BXGL6EVO47CMFA",
+      "path": "render_controllers/hive/murder/graveyard_npc.json"
+    },
+    {
+      "key": "KZTMEP5DH7M2HY5AWLLDFQMQAS6C24KJ",
+      "path": "textures/entity/hive/murder/prop/warehouse/pallet.png"
+    },
+    {
+      "key": "TPBNPVINPQZ2RMR57PQR46J6QSHWGWMG",
+      "path": "textures/entity/hive/murder/interactable/manor/fireplace.png"
+    },
+    {
+      "key": "HGXIFTFFP7ENESJVKTS4QC5OCUDTWF7I",
+      "path": "models/entity/hive/murder/throwable/shuriken.json"
+    },
+    {
+      "key": "HJI4CKANBS26IZKMHG442HKF3NRCKFVE",
+      "path": "models/entity/hive/murder/throwable/stapler.json"
+    },
+    {
+      "key": "OBWG4QOTSM6HUJHJYGDZ2M45ERXRLMMD",
+      "path": "textures/entity/hive/murder/gravestone/phone.png"
+    },
+    {
+      "key": "I7HQFOXGI7FVB4XFSEUOERMUSHVGW3RB",
+      "path": "textures/entity/hive/murder/prop/warehouse/cardboard_box.png"
+    },
+    {
+      "key": "QVYFHZHCQCD2SUBHQ4MBXSNB46YQXXBS",
+      "path": "textures/entity/hive/murder/throwable/snowball.png"
+    },
+    {
+      "key": "J5EISHFOGMQNZP7LBKPXCMNEMR2CHLBL",
+      "path": "entity/hive/murder/gravestone/backpack.json"
+    },
+    {
+      "key": "QXSY6BGQYYEVCFJRRZE765QJBY6M7YMN",
+      "path": "entity/hive/murder/interactable/spaceship/spacesuit.json"
+    },
+    {
+      "key": "MS4YDCJQOZR2HXQB2BB4HYXTWJAHBYFQ",
+      "path": "textures/entity/hive/murder/throwable/soda_can.png"
+    },
+    {
+      "key": "W755XCPMKM5JRPE5L22YDMU6W4CI2B6I",
+      "path": "textures/entity/hive/murder/interactable/village/cocoa.png"
+    },
+    {
+      "key": "3E7GYPBCR3YZSRFW5V5QH2YJ6UULVVRX",
+      "path": "textures/entity/hive/murder/graveyard/npc/spectate.png"
+    },
+    {
+      "key": "ZZRZF2FCK7OSH544GX5MVKHPYKL3U63M",
+      "path": "entity/hive/murder/gravestone/skull.json"
+    },
+    {
+      "key": "WVZF5S5CR4DA2OSUXWYXTF3OZTYX62T5",
+      "path": "textures/entity/hive/murder/throwable/popcorn.png"
+    },
+    {
+      "key": "ZICCBAON55AQIKQCSBON4VNIUHPACBYZ",
+      "path": "textures/entity/hive/murder/gravestone/boombox.png"
+    },
+    {
+      "key": "OS4JVU3HWH4ZBNM7WN6KSOMIREGCXQRU",
+      "path": "textures/entity/hive/murder/throwable/shuriken.png"
+    },
+    {
+      "key": "4XNOQQUUWNPNCSWBLFDX2DGEMQKRLZBV",
+      "path": "entity/hive/murder/gravestone/ice.json"
+    },
+    {
+      "key": "ZA66XEASHZYAEHE4JGDRX4F3UE745YVJ",
+      "path": "models/entity/hive/murder/prop/manor/candle.json"
+    },
+    {
+      "key": "JQBHJKMDLUFJ7EDREZFZDQ6FQNPSVOGD",
+      "path": "models/entity/hive/murder/throwable/tire.json"
+    },
+    {
+      "key": "UDWU6KP5Y2I67DW53XPTKES4M7IRBGSQ",
+      "path": "textures/entity/hive/murder/prop/museum/eris.png"
+    },
+    {
+      "key": "XTLJFK6UOJPNVEPCUHCKOZBMU4KVUA5V",
+      "path": "textures/entity/hive/murder/prop/museum/fish.png"
+    },
+    {
+      "key": "KLYIABI3OTMYFDA7SHYAAFWC32ZFLNR7",
+      "path": "textures/entity/hive/murder/gravestone/pizza.png"
+    },
+    {
+      "key": "CAQO2NFDVX2QNXYUPMZPMHKRB22JH46T",
+      "path": "textures/entity/hive/murder/prop/office/vent.png"
+    },
+    {
+      "key": "IDHAT7AJXLR76GMZ3GKVLU4DHF6WMVYZ",
+      "path": "textures/entity/hive/murder/throwable/cartoon_bomb.png"
+    },
+    {
+      "key": "5HCTC2K67DTRYEA4UGKMFKQ5SILYMILY",
+      "path": "models/entity/hive/murder/throwable/frying_pan.json"
+    },
+    {
+      "key": "7UBS2TEEBP2KC3R45I6E6B5INCMPA4PZ",
+      "path": "models/entity/hive/murder/gravestone/sleeping_cat.json"
+    },
+    {
+      "key": "XTG6ZVPNVOFWJ4L2KYAY27BN3Y7LXGZE",
+      "path": "animations/hive/murder/prop/museum/globe.json"
+    },
+    {
+      "key": "3OK7R6CIOWNU2M2TPE5GIL6BPANSR4LZ",
+      "path": "models/entity/hive/murder/throwable/screwdriver.json"
+    },
+    {
+      "key": "Z67LB3PQMCFITKYS5ISGYYM5XYARXRJZ",
+      "path": "textures/entity/hive/murder/gravestone/fast_food.png"
+    },
+    {
+      "key": "WOPNV4KQAMZWEQ6IL2BAYW3HX3MPMJMA",
+      "path": "textures/entity/hive/murder/prop/manor/potion_1_purple_green.png"
+    },
+    {
+      "key": "5I76NSHWB3WGJEJMO5AUDDSD3SLDACTK",
+      "path": "models/entity/hive/murder/throwable/default.json"
+    },
+    {
+      "key": "PXHPFWFBATUSNZ3PMUK7IA75OWYBMP55",
+      "path": "models/entity/hive/murder/gravestone/ice.json"
+    },
+    {
+      "key": "7CQWZV2GYSNNGPHS7SLE5NLJIFF75U27",
+      "path": "entity/hive/murder/gravestone/omochao.json"
+    },
+    {
+      "key": "2LOKH3SAFQSDSLSWIGP3IECXCL76D7PA",
+      "path": "models/entity/hive/murder/gravestone/omochao.json"
+    },
+    {
+      "key": "CYWLPGEOXOYLEEEXCVAXENWLQQTAR4LD",
+      "path": "models/entity/hive/murder/prop/witchschool/bookshelf.json"
+    },
+    {
+      "key": "BGLXSIQRRFJHIAQIPM65HQWZVE2A737W",
+      "path": "models/entity/hive/murder/prop/village/wreath_small.json"
+    },
+    {
+      "key": "C7EAP6DT6HJ2LT6WBNNQPTW2VUK3RCZX",
+      "path": "textures/entity/hive/murder/throwable/fish.png"
+    },
+    {
+      "key": "P3M6ZQLGR4YK7HGQWAOP5XWZWF5DPVAX",
+      "path": "textures/entity/hive/murder/graveyard/npc/play.png"
+    },
+    {
+      "key": "UJILZ6EF5CYXVLWOPQ6AIKXPPIABTBXH",
+      "path": "textures/entity/hive/murder/throwable/magnet.png"
+    },
+    {
+      "key": "XATP6SBW3TQTX25E5AZCII2NOHHKEPKY",
+      "path": "models/entity/hive/murder/throwable/candy_cane.json"
+    },
+    {
+      "key": "UEAJUMUQKYEXF5UH4VMHYRRC3NA6IVAA",
+      "path": "entity/hive/murder/interactable/office/coffee_machine.json"
+    },
+    {
+      "key": "4CUHT5YZUNCNQIDACUZT5NDDNYHPVZLV",
+      "path": "textures/entity/hive/murder/prop/manor/grate.png"
+    },
+    {
+      "key": "QKDQYBBPDPA73LI4IN6H6KK6WTBYRLFO",
+      "path": "models/entity/hive/murder/throwable/donut.json"
+    },
+    {
+      "key": "4REQAISXYCJZ4IIUPS6XOCAJJFX5W4QY",
+      "path": "textures/entity/hive/murder/throwable/donut.png"
+    },
+    {
+      "key": "FGIZBKZAAEFD3CI2WTFNBFKV5MGECLBM",
+      "path": "entity/hive/murder/interactable/chroma/merchant.json"
+    },
+    {
+      "key": "QYFGDUHLVV2CXNUBJWY5HIOIPBHXNME3",
+      "path": "models/entity/hive/murder/throwable/spirited_mask.json"
+    },
+    {
+      "key": "ANGLRZAV2WH5G5TZ3RMC5LQVCHWPJGCY",
+      "path": "textures/entity/hive/murder/prop/manor/bookcase_1.png"
+    },
+    {
+      "key": "GTGALAQIDTYFUC6MQADYJLVLW4GD3SLS",
+      "path": "models/entity/hive/murder/prop/esohotel/monitor.json"
+    },
+    {
+      "key": "XFTJJQNJK7XKSE7BO6GWYRI6XB7EEVOH",
+      "path": "entity/hive/murder/interactable/manor/cauldron.json"
+    },
+    {
+      "key": "EA7Z3D6RBA4VUW3IA6BPVPHH5VNAEGYS",
+      "path": "textures/entity/hive/murder/gravestone/sleeping_cat.png"
+    },
+    {
+      "key": "NC4DZR25LVYGLHKP5RD6RH4GVCLCHD4X",
+      "path": "animation_controllers/hive/murder/prop.json"
+    },
+    {
+      "key": "VCFKZUSFTM5R6SCGPB6SYQRRGSRSBGDL",
+      "path": "textures/entity/hive/murder/interactable/pigment/cube/red.png"
+    }
+  ]
+}

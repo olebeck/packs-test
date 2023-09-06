@@ -1,0 +1,924 @@
+{
+  "content": [
+    {
+      "key": "V3QFEWQGRD2PYYNBIID4YBFHOJMGBIN5",
+      "path": "textures/entity/hive/sky/spawnvehicles/ufo.png"
+    },
+    {
+      "key": "77W3UXXPIHRBYDBYSNW2BRFJW2WRIKDH",
+      "path": "models/entity/hive/sky/spawnvehicles/carpet.json"
+    },
+    {
+      "key": "IYHEE6BL22UYSKOTK7AAWHF74QZBVPSB",
+      "path": "particles/hive/sky/killeffects/banishing_3.particle.json"
+    },
+    {
+      "key": "KA4HOXBAY4PDNBELKRHVRAQYEQEVCTXP",
+      "path": "textures/particle/hive/sky/killeffects/explosion.png"
+    },
+    {
+      "key": "SAL5MO47ZWNVKNDTUJZBFQFN52FJBPUQ",
+      "path": "textures/entity/hive/sky/islandflags/mailbot_winter.png"
+    },
+    {
+      "key": "FI6MQJDMHNK6MBBWG7G2LGKQCLNZ6ZBV",
+      "path": "textures/entity/hive/sky/deathcrates/grand_ender_chest.png"
+    },
+    {
+      "key": "V7PPBLM7ALWKPTUGBXB7YZ5D2MC24FAU",
+      "path": "models/entity/hive/sky/islandflags/junkyard.json"
+    },
+    {
+      "key": "2HY2THRRYGBHKCMXXW62ZNDZ7EUJX2BT",
+      "path": "textures/entity/hive/sky/deathcrates/sunken_chest.png"
+    },
+    {
+      "key": "QGNRYLZPWGM5LCZ7JJN6O7P6DRI773C3",
+      "path": "textures/particle/hive/sky/projectiletrails/skulls.png"
+    },
+    {
+      "key": "JWWJNO6W2EXDSVOLA6LQBV7BSCOWIAGS",
+      "path": "sounds/sound_definitions.json"
+    },
+    {
+      "key": "3IRK3D5FZLYZQUUJSORLRZUYSSLI2HGE",
+      "path": "textures/entity/hive/sky/islandflags/nether.png"
+    },
+    {
+      "key": "HSERJ6NKSYQHSYELYHCZNHJFDV27YLHH",
+      "path": "models/entity/hive/sky/deathcrates/package.json"
+    },
+    {
+      "key": "PZUTXJNJSUAS7JK4JZ5QZOQNOMBGLFTY",
+      "path": "textures/entity/hive/sky/islandflags/royal.png"
+    },
+    {
+      "key": "SV2MG74JSJNGNV6SUAT5GTRZW7GXLV26",
+      "path": "textures/entity/hive/sky/islandflags/heart_of_gold.png"
+    },
+    {
+      "key": "TCGZWJA4I5BJSPMPMBQXGB63Z2LSFVT7",
+      "path": "models/entity/hive/sky/world_border.json"
+    },
+    {
+      "key": "OUAV74RSUW4ZMFFO3KMN47XRNFKV7BFM",
+      "path": "models/entity/hive/sky/spawnvehicles/winter_magic.json"
+    },
+    {
+      "key": "AMFITQH5KTLT24PAS6BI5HOMOPHRQW24",
+      "path": "models/entity/hive/sky/spawnvehicles/balloon.json"
+    },
+    {
+      "key": "EXUSPG4DTU3U5QZBAYODHDKG36SQHJ3E",
+      "path": "models/entity/hive/sky/spawnvehicles/big_cat.json"
+    },
+    {
+      "key": "AZAQSYT2ZV4MMSTJEXSIA4WEHW3JPPIY",
+      "path": "textures/entity/hive/sky/deathcrates/dark_magma.png"
+    },
+    {
+      "key": "MIGD24DEDOHLZAAV5HOXZ5VARRKGBNME",
+      "path": "textures/particle/hive/sky/killeffects/hearts.png"
+    },
+    {
+      "key": "R6MUIBQLOAFXWRRLVPTLZUVCSCQ4ZCLZ",
+      "path": "textures/particle/hive/sky/projectiletrails/donuts.png"
+    },
+    {
+      "key": "D6Y45FRHNFW6YJ6ZPZ2XH7ETH7UFTOLX",
+      "path": "textures/entity/hive/sky/islandflags/grumpus.png"
+    },
+    {
+      "key": "7DGTKNEGZENEJVTOBXV7GBOLJNASLN6J",
+      "path": "particles/hive/sky/killeffects/butterflies.particle.json"
+    },
+    {
+      "key": "VLAYE3N7K5QTT3FDD452KRSGJ3UC6KWB",
+      "path": "textures/entity/hive/sky/islandflags/default.png"
+    },
+    {
+      "key": "RQOMP5F2OJVLSW32YX66M44OSL6W6MDD",
+      "path": "entity/hive/sky/world_border.json"
+    },
+    {
+      "key": "LOPVZZVJLUP6VPW6OHFNODTGPJYCA324",
+      "path": "textures/entity/hive/sky/islandflags/junkyard.png"
+    },
+    {
+      "key": "A26NFMRG5QJB7KDKB3U6QFRT6CUGJKH4",
+      "path": "models/entity/hive/sky/spawnvehicles/drone.json"
+    },
+    {
+      "key": "QWDUXXURRF36YVBIPNTESTMRV5I32QOB",
+      "path": "particles/hive/sky/killeffects/snow_flurry_2.particle.json"
+    },
+    {
+      "key": "2SJGQQFJEU53R6KF6MYJKPZTENFBTH3V",
+      "path": "textures/entity/hive/sky/spawnvehicles/ghastly.png"
+    },
+    {
+      "key": "2DEYHCHTMITMO5LLHC7BDCFQJILSPBKK",
+      "path": "textures/entity/hive/sky/spawnvehicles/pegasus.png"
+    },
+    {
+      "key": "BQH6Y6GWQDCFUS4C36IW63QYAIH4EG3O",
+      "path": "particles/hive/sky/projectiletrails/gg.particle.json"
+    },
+    {
+      "key": "EWY3MFWOX6ZXPI6TUA2PAJ4ZSYY6KEGG",
+      "path": "textures/particle/hive/sky/deathcrates/golden_pegasus.png"
+    },
+    {
+      "key": "UR4E2RVDP37NNRWLMYE4I27WAH4MA7PL",
+      "path": "animations/hive/sky/spawnvehicles/solar_orbit.json"
+    },
+    {
+      "key": "QAFMQPZJFR6UNO624TCCUG3FNVTVVLSY",
+      "path": "textures/entity/hive/sky/islandflags/unicorn.png"
+    },
+    {
+      "key": "NGBTSK6ECTJPQOATNGRFILQFGJAHXUMZ",
+      "path": "particles/hive/sky/kits/void_warp.particle.json"
+    },
+    {
+      "key": "GETA7QQKEL2TQYKKBGYPE3QGII3L2OLM",
+      "path": "models/entity/hive/sky/deathcrates/trash_can.json"
+    },
+    {
+      "key": "JYFE5RNDVIVFTM5XUQCYBXKWDVRSQ6AY",
+      "path": "models/entity/hive/sky/islandflags/heart_of_gold.json"
+    },
+    {
+      "key": "TB2JFQ76GYS47AHXGXXJZBK76PNSKI2U",
+      "path": "sounds/hive/sky/killeffects/confetti.ogg"
+    },
+    {
+      "key": "INJGQFEAOY6EG65EQ26LLQYU56Q3M3CF",
+      "path": "particles/hive/sky/projectiletrails/golden_nuggets.particle.json"
+    },
+    {
+      "key": "X6M4RYGGBZLQ4RSZXRJC6MORS5AF4PCT",
+      "path": "models/entity/hive/sky/spawnvehicles/hoverbike.json"
+    },
+    {
+      "key": "DPO6TNA7MVGF5ZHYHZGFIFKOPE2FSRRA",
+      "path": "textures/entity/hive/sky/islandflags/tree.png"
+    },
+    {
+      "key": "Y6ILHO7KWJBNFI5EGLYCUNPIWBIZ5QND",
+      "path": "models/entity/hive/sky/deathcrates/adventurers_backpack.json"
+    },
+    {
+      "key": "YBXGJRYWJITJJFR3YKK5VM3DED2JCPXO",
+      "path": "textures/particle/hive/sky/killeffects/banishing.png"
+    },
+    {
+      "key": "5EC7T5YUBTEDDHUZ44YM5H2GPML4RIYK",
+      "path": "textures/entity/hive/sky/islandflags/pirate_tavern.png"
+    },
+    {
+      "key": "5O3QE6LBO3Q46O4DCW2EA5QH4MMSV3RT",
+      "path": "textures/particle/hive/sky/killeffects/bubble_burst.png"
+    },
+    {
+      "key": "GO5RY2DMCX7QS5HTQJ7YHTWDEJK2BQEI",
+      "path": "models/entity/hive/sky/spawnvehicles/ufo.json"
+    },
+    {
+      "key": "AXW3IYXVFLCJN6BGYGK3TGKDQH4INCLF",
+      "path": "render_controllers/hive/sky/kits/shield_cocoon.json"
+    },
+    {
+      "key": "QW6PT7QH6HOE2ILJF3BSXEHPD7YPDZG3",
+      "path": "textures/entity/hive/sky/islandflags/earth.png"
+    },
+    {
+      "key": "KSHTFTOHEWUI3QOQLF4QJUTPAJAYDVSL",
+      "path": "animation_controllers/hive/sky/bundle_collectors.json"
+    },
+    {
+      "key": "M6P5BQUDCNCBMOVCQGQZJDSKVLHETTHW",
+      "path": "models/entity/hive/sky/kits/bridge_builder.json"
+    },
+    {
+      "key": "BEOLLXI56IPU2S5FNJAYNUMDLLLFUDT4",
+      "path": "textures/entity/hive/sky/deathcrates/default.png"
+    },
+    {
+      "key": "URGEKZVHBLETO3ZNHCTL65DBZGN6ZF7A",
+      "path": "animations/hive/sky/spawnvehicles/hoverbike.json"
+    },
+    {
+      "key": "WEX3YXTKANFER2T7CVUZLO25V2IUVZ3B",
+      "path": "models/entity/hive/sky/spawnvehicles/money.json"
+    },
+    {
+      "key": "KS7IX547YEROEGP7UNLBHWDHFJY3OCFT",
+      "path": "textures/entity/hive/sky/deathcrates/trash_can.png"
+    },
+    {
+      "key": "5565GIPKN6UIM7MJZ7XR5VYWW3CT4BB5",
+      "path": "textures/entity/hive/sky/islandflags/slime_monster.png"
+    },
+    {
+      "key": "VYZHCLCV6J3E6C5SDMWTVLHFTMPXUDBA",
+      "path": "sounds/hive/sky/killeffects/bubble_burst.ogg"
+    },
+    {
+      "key": "VOMYQFPLXCQXXYCN3KYBEERJZMO3FAGF",
+      "path": "textures/entity/hive/sky/spawnvehicles/umbrella.png"
+    },
+    {
+      "key": "KRZS4OKM7EVENSZICTXDVUFNJPR2JBMJ",
+      "path": "models/entity/hive/sky/kits/shield_cocoon.json"
+    },
+    {
+      "key": "FP7IKTCGKB462ZKERWFJCEAW425WYWVL",
+      "path": "animations/hive/sky/kits/bridge_builder.json"
+    },
+    {
+      "key": "GCI66TKCERK4EG2OPXKQW7W76KRMRUT5",
+      "path": "models/entity/hive/sky/spawnvehicles/pegasus.json"
+    },
+    {
+      "key": "TJ7E5Y4HF3HEQUX5ZMYA4F5ERT374X2I",
+      "path": "entity/hive/sky/death_crate.json"
+    },
+    {
+      "key": "733GT33ERBXLRYZYCYFFKSSGASNHZVPS",
+      "path": "textures/particle/hive/sky/killeffects/confetti.png"
+    },
+    {
+      "key": "BOYVNLOMWMK67EQX6NN3DTJDLBGHNQXI",
+      "path": "textures/entity/hive/sky/spawnvehicles/sleigh.png"
+    },
+    {
+      "key": "A7TCLIQTBSCN7YOXQDKFY7CN25TNJZIR",
+      "path": "models/entity/hive/sky/deathcrates/dark_magma.json"
+    },
+    {
+      "key": "LCI22OCZ3SH4CJD4CSY4AJL3I522GTXX",
+      "path": "textures/particle/hive/sky/killeffects/kaching.png"
+    },
+    {
+      "key": "T3TYNLIWV2OBKD2DRHF3PXZSXD4DXB4T",
+      "path": "textures/entity/hive/sky/spawnvehicles/big_cat.png"
+    },
+    {
+      "key": "YBXYTL5NV66WIZFY3NEFGLHZMJRO6LZB",
+      "path": "textures/entity/hive/sky/spawnvehicles/rubber_ducky.png"
+    },
+    {
+      "key": "CZIYBPKYXQGCWIQDA36M7H2DHIAG2KEW",
+      "path": "models/entity/hive/sky/spawnvehicles/island.json"
+    },
+    {
+      "key": "NWDWHMBYGTTMI4POLQEPJTQA55X54GWK",
+      "path": "models/entity/hive/sky/islandflags/donut.json"
+    },
+    {
+      "key": "55XJEI7OVIBFRLBY4I5GXPULNWUXZ7UI",
+      "path": "animations/hive/sky/spawnvehicles/ghastly.json"
+    },
+    {
+      "key": "BAY52LXVNN7G7H5ZXKK6B2W5VPWHVDSK",
+      "path": "animations/hive/sky/deathcrates/dark_magma.json"
+    },
+    {
+      "key": "7ZY74GIBN422L5PP35GXIR2E6QCF4FXP",
+      "path": "models/entity/hive/sky/deathcrates/royal_chest.json"
+    },
+    {
+      "key": "DLMJ6OFFXZQR6EJ25AVZRP4TAIW26H4H",
+      "path": "textures/entity/hive/sky/islandflags/penguin.png"
+    },
+    {
+      "key": "EZZHKOLW7LO57PYQIQV5DU7RU6TJNAOV",
+      "path": "textures/entity/hive/sky/spawnvehicles/parachute.png"
+    },
+    {
+      "key": "PJBZDCGQCI7EKUSVKNKOT5AR7IQXQ6C4",
+      "path": "particles/hive/sky/killeffects/snow_flurry_1.particle.json"
+    },
+    {
+      "key": "5KK2PVMQMXHRMZCYVVXOLTL45K6FNJ5K",
+      "path": "render_controllers/hive/sky/world_border.json"
+    },
+    {
+      "key": "KST6GO37RTSRZ2SFGRPCS6RBVRKZZYD6",
+      "path": "models/entity/hive/sky/deathcrates/toolbox.json"
+    },
+    {
+      "key": "QFITGGOUESE5OIY6LWLCLE65Z7MCLQVC",
+      "path": "textures/entity/hive/sky/spawnvehicles/pig.png"
+    },
+    {
+      "key": "WLR276AGZL4PAKR5TQ4FBBYHQAFGHUEX",
+      "path": "textures/particle/hive/sky/projectiletrails/diamonds.png"
+    },
+    {
+      "key": "JM6HTRLXXJ2D5MLSIJKUPVLPN7CUJMBB",
+      "path": "particles/hive/sky/killeffects/bubble_burst.particle.json"
+    },
+    {
+      "key": "BT5TR34OAMA5TQFX3C6R7V2YT2II5N3C",
+      "path": "render_controllers/hive/sky/bundle_collectors.json"
+    },
+    {
+      "key": "ZD4H2MINC7BT7JXX4FVBHHU76LUG7MSN",
+      "path": "textures/entity/hive/sky/islandflags/donut.png"
+    },
+    {
+      "key": "UH5GK3DY7Z4IGWUPXNDMCG36GCHMGRHX",
+      "path": "entity/hive/sky/spawn_vehicle.json"
+    },
+    {
+      "key": "OIE7JGFZVLLRSEJBQ3DLXSO5KROYZESW",
+      "path": "particles/hive/sky/spawnvehicles/sorcery_magic.particle.json"
+    },
+    {
+      "key": "TGNKBXMVU2SNO6I62U542SSWPMIJTR42",
+      "path": "models/entity/hive/sky/deathcrates/golden_pegasus.json"
+    },
+    {
+      "key": "DNGQA6N5KGGCRQ6JZFBZ4D27YXGOAUNK",
+      "path": "models/entity/hive/sky/deathcrates/ice_chest.json"
+    },
+    {
+      "key": "KMIY2S62FZABQF2QE23YYESAXY5LOQL2",
+      "path": "textures/entity/hive/sky/islandflags/sunflower.png"
+    },
+    {
+      "key": "ZGPSZSXOGWC6HVWDNYZCXH2JE2FEOFHM",
+      "path": "textures/entity/hive/sky/islandflags/eggman.png"
+    },
+    {
+      "key": "D3LVE5DZRAUWROTMMSPVWCD24BRHM6CV",
+      "path": "sounds/hive/sky/killeffects/rainbow_burst.ogg"
+    },
+    {
+      "key": "KU3QPVVTC53MJPUMBV4KNFRSX4PGRDVC",
+      "path": "particles/hive/sky/projectiletrails/skulls.particle.json"
+    },
+    {
+      "key": "X4TAWEBB6RWXUY3YPDHWP4L7LU6GGU7E",
+      "path": "textures/entity/hive/sky/mystery_chest.png"
+    },
+    {
+      "key": "7JISPJIZW27AUFZ3KP4E2RUIG4WCMHDG",
+      "path": "models/entity/hive/sky/epic_chest.json"
+    },
+    {
+      "key": "YQQSC3S4TQGEEV23ED6VABFYKFLFKM2F",
+      "path": "particles/hive/sky/projectiletrails/diamonds.particle.json"
+    },
+    {
+      "key": "YV3XN4CWR5NC4O3IS3F4O2SXV2WV6WC4",
+      "path": "models/entity/hive/sky/spawnvehicles/flamingo_floaty.json"
+    },
+    {
+      "key": "PNCFUIPA73IZXG4LT7PIGCOXGUZF63VL",
+      "path": "animation_controllers/hive/sky/spawn_vehicle.json"
+    },
+    {
+      "key": "UUELKCFMC7V7LYE45IV6JAYAINIHMLJX",
+      "path": "models/entity/hive/sky/deathcrates/present.json"
+    },
+    {
+      "key": "LFMIAXYOUMFO2U3PP2ELTQ4JUSJ7JKYO",
+      "path": "sounds/hive/sky/killeffects/chicken_pop.ogg"
+    },
+    {
+      "key": "I64XQAVQMUPZREZPHE2YVX6ZMASVIVGR",
+      "path": "textures/entity/hive/sky/islandflags/dealt_hand.png"
+    },
+    {
+      "key": "DZFBDZVLTNOXWOQQ3FEMMRQ2467JEHXR",
+      "path": "textures/entity/hive/sky/islandflags/marooned.png"
+    },
+    {
+      "key": "DBTDDLQUT6HYFPOVXANIOEJIH7MENCTW",
+      "path": "models/entity/hive/sky/spawnvehicles/parachute.json"
+    },
+    {
+      "key": "YUKDZEG2KERFWGKC7S3T673FRM5JSCNX",
+      "path": "particles/hive/sky/deathcrates/sunken_chest_bubble_burst.particle.json"
+    },
+    {
+      "key": "CAD3L2JHFWFRHO5JTPV6G4MTAFMBRUZG",
+      "path": "textures/entity/hive/sky/deathcrates/present.png"
+    },
+    {
+      "key": "GE5TG6EH6KGVLSU2BPQYZK35GY62Z433",
+      "path": "textures/entity/hive/sky/spawnvehicles/hoverboard.png"
+    },
+    {
+      "key": "6H6MGY6CAZ5AC2B4TJBQS5PTMN66GFU7",
+      "path": "models/entity/hive/sky/deathcrates/default.json"
+    },
+    {
+      "key": "OVT24PBZAG437UDRYFXSTPB5P5M2FZCY",
+      "path": "textures/particle/hive/sky/projectiletrails/ender.png"
+    },
+    {
+      "key": "3A64WQNSZLL4J7MG65ABKPLCT4UJUKGT",
+      "path": "particles/hive/sky/projectiletrails/flower_power.particle.json"
+    },
+    {
+      "key": "LTDROXONEM4VGRDWBRQLBMLFLKQNKJP7",
+      "path": "models/entity/hive/sky/spawnvehicles/sleigh.json"
+    },
+    {
+      "key": "H4RAGXAQO7J4ZYGB36ILSMDGMICNRHQH",
+      "path": "models/entity/hive/sky/spawnvehicles/star_speeder.json"
+    },
+    {
+      "key": "DQKHMA7HVVWBZF22EPV6NXG2E7CON47I",
+      "path": "particles/hive/sky/projectiletrails/donuts.particle.json"
+    },
+    {
+      "key": "R34HEMEPARHJA2IOLOYO622Q7JJ4M5RR",
+      "path": "particles/hive/sky/killeffects/chicken_pop.particle.json"
+    },
+    {
+      "key": "JIM6GS3Y5F35H6Y5Y3V6HTVTOLFP35NR",
+      "path": "textures/entity/hive/sky/spawnvehicles/winter_magic.png"
+    },
+    {
+      "key": "W5NEXRJFBRPZASNJSSGFALT5BQJ7AM6X",
+      "path": "textures/particle/hive/sky/projectiletrails/golden_nuggets.png"
+    },
+    {
+      "key": "IETREX4I2WOGT3X5OWUTCEZQYEFPSKNP",
+      "path": "textures/entity/hive/sky/islandflags/daisy.png"
+    },
+    {
+      "key": "USD3QIEKWKDMZFNI3V3AODGOJXYWQ7CF",
+      "path": "textures/particle/hive/sky/killeffects/rainbow_burst.png"
+    },
+    {
+      "key": "EM5SRHQWCB2LHI5HR6O5OWABK4BTBUBS",
+      "path": "textures/entity/hive/sky/islandflags/cosy_home.png"
+    },
+    {
+      "key": "XDHCN5CRUMWUGIQVHCM52CDNED57GKQA",
+      "path": "models/entity/hive/sky/deathcrates/barrel.json"
+    },
+    {
+      "key": "RJMJFZGFEEVBODYB36ASZUP3F2STWEH2",
+      "path": "textures/entity/hive/sky/islandflags/creeper.png"
+    },
+    {
+      "key": "677BHOPTSIPAOQ6CLWSUGMDNNCBVKNNP",
+      "path": "textures/entity/hive/sky/deathcrates/toolbox.png"
+    },
+    {
+      "key": "B5REHJMYYXFINSVMHP3R3UKAVCIOP3FZ",
+      "path": "textures/entity/hive/sky/spawnvehicles/balloon.png"
+    },
+    {
+      "key": "RDM37QSTNZYVXKRYSVLEOUGCT6FMPNBC",
+      "path": "textures/entity/hive/sky/spawnvehicles/carpet.png"
+    },
+    {
+      "key": "UY5W4FERY5ZZIAIS2DCPQESR7MEZB5QL",
+      "path": "textures/entity/hive/sky/spawnvehicles/cloud.png"
+    },
+    {
+      "key": "4BEFXY4RCMOW5ZH5425KY7QZEUQDTFY2",
+      "path": "sounds/hive/sky/killeffects/snow_flurry.ogg"
+    },
+    {
+      "key": "32BVIUGDUJIYBE4LT5RGPBBBFNJUUTEK",
+      "path": "sounds/hive/sky/killeffects/hearts.ogg"
+    },
+    {
+      "key": "NCOC6VCCJCLCYZLDF7MSD54M63SU4BLM",
+      "path": "models/entity/hive/sky/deathcrates/sunken_chest.json"
+    },
+    {
+      "key": "AOLB6UKUCX3HAFNYIWVAIEAQGUETJOPI",
+      "path": "models/entity/hive/sky/spawnvehicles/hovercar.json"
+    },
+    {
+      "key": "KHI2MCLVNPLW7OKDMOQ34XINOSXFT6GB",
+      "path": "particles/hive/sky/kits/shield.particle.json"
+    },
+    {
+      "key": "XR3Y67O6HV6J7UNMDUSDOPLRUHJBHKGH",
+      "path": "particles/hive/sky/spawnvehicles/pegasus.particle.json"
+    },
+    {
+      "key": "X6HHUD4HOSCYKUGGYBVLNVMA7FJLXVGG",
+      "path": "textures/entity/hive/sky/deathcrates/cat_chest.png"
+    },
+    {
+      "key": "QI75UPJHENUZT5MQQLI67ESE7QFINMDU",
+      "path": "textures/entity/hive/sky/spawnvehicles/flamingo_floaty.png"
+    },
+    {
+      "key": "SLFPKEXWIQKMSKA4ROXMHVJ33FO5LXDN",
+      "path": "particles/hive/sky/spawnvehicles/sorcery_enchantment.particle.json"
+    },
+    {
+      "key": "VPRUXUUZPO5MFVBKJ4EMHHAFFZRS6E3F",
+      "path": "textures/entity/hive/sky/islandflags/sonic.png"
+    },
+    {
+      "key": "BEPOHSPMYUCKDO3OO4CDADLCJRQ5I5Z7",
+      "path": "models/entity/hive/sky/islandflags/pirate_tavern.json"
+    },
+    {
+      "key": "72WWBE2BO5ZO6MYM4K4K5RNBEREOIFSD",
+      "path": "models/entity/hive/sky/spawnvehicles/broomstick.json"
+    },
+    {
+      "key": "2VZ2QNMAKLEN3P7H2OTUQ4LP2YNBZXIH",
+      "path": "textures/entity/hive/sky/spawnvehicles/broomstick.png"
+    },
+    {
+      "key": "MFVWXPQBVTQV7HCWMPR27PTC4H3XADFV",
+      "path": "animation_controllers/hive/sky/death_crate.json"
+    },
+    {
+      "key": "7NOPA27G4AOPN5PD2263MS23ZG5BBTIT",
+      "path": "textures/entity/hive/sky/islandflags/pirate.png"
+    },
+    {
+      "key": "5BYOTLYUR5GIR5EN7WFMWD3N6FBTGWVQ",
+      "path": "particles/hive/sky/killeffects/confetti.particle.json"
+    },
+    {
+      "key": "G3RL76NA5Z44AP4ORB6JMQX6BADTY25X",
+      "path": "textures/entity/hive/sky/islandflags/jack_o_lantern.png"
+    },
+    {
+      "key": "TDQYDJDRXXN6Z6WRMBIC4JC3KS3KTKKX",
+      "path": "textures/entity/hive/sky/spawnvehicles/island.png"
+    },
+    {
+      "key": "ELE4MQJZMETPYGYK3CO3X4SS5YULTDYJ",
+      "path": "textures/particle/hive/sky/killeffects/butterflies.png"
+    },
+    {
+      "key": "73NQDZNVC42ZMDSVHFZGTLFLG2TCZFA3",
+      "path": "textures/entity/hive/sky/islandflags/star.png"
+    },
+    {
+      "key": "IQAE5QJY5ZWPYFNL53FDQOXBJPKM6WWW",
+      "path": "particles/hive/sky/killeffects/hearts.particle.json"
+    },
+    {
+      "key": "3KQTILVIMZVJP7UDML4A4W7J36IXZJJU",
+      "path": "particles/hive/sky/projectiletrails/ender.particle.json"
+    },
+    {
+      "key": "K3ZW6F4S3AWO6R7FN4ZCNRAHMZZLRUU6",
+      "path": "render_controllers/hive/sky/island_flag.json"
+    },
+    {
+      "key": "AROZ25FHZONYD7QS4QQUGXCUKJS5LT3A",
+      "path": "textures/entity/hive/sky/islandflags/money.png"
+    },
+    {
+      "key": "7G5VOJIRUKBKYNQ7X6O46YPMHOUUGU5I",
+      "path": "textures/entity/hive/sky/deathcrates/package.png"
+    },
+    {
+      "key": "VYIFQHJRGGEQKPVPNAIFZDTLGICRA5SG",
+      "path": "textures/entity/hive/sky/spawnvehicles/hearse.png"
+    },
+    {
+      "key": "E2IWO2MRXWYRKHLPTA3ZP3NIMQD5CSIN",
+      "path": "textures/particle/hive/sky/spawnvehicles/sorcery_magic.png"
+    },
+    {
+      "key": "ENBJH5FO6UCZKFUTRVYY2EG3MVQHQXHB",
+      "path": "models/entity/hive/sky/deathcrates/cat_chest.json"
+    },
+    {
+      "key": "ASRSPGA2LP7U2SWRAGKX4FKNIVFDBLST",
+      "path": "animations/hive/sky/deathcrates/sunken_chest.json"
+    },
+    {
+      "key": "FEESX3T2AZ4IOHHJZUUVTZ6AFKHB7PQP",
+      "path": "sounds/hive/sky/killeffects/kaching.ogg"
+    },
+    {
+      "key": "QWBUZAQCDD2R2T775TYRK7GYOB65NIFK",
+      "path": "animation_controllers/hive/sky/shield_cocoon.json"
+    },
+    {
+      "key": "6Z7SBZV7GBFCX7QI3QHOK25K3SQQ7DOX",
+      "path": "textures/entity/hive/sky/spawnvehicles/star_speeder.png"
+    },
+    {
+      "key": "FUWS4VLZKCFMOLZUXYDLF7PNV5BS3RNG",
+      "path": "entity/hive/sky/mystery_chest.json"
+    },
+    {
+      "key": "PDPWCOL6SBYC5H6HWJK3RLTKXMHECAZH",
+      "path": "textures/entity/hive/sky/spawnvehicles/eggman.png"
+    },
+    {
+      "key": "NILGNCQGXGUXAMD2FIDIIGDJRHD22KIP",
+      "path": "particles/hive/sky/killeffects/rainbow_burst.particle.json"
+    },
+    {
+      "key": "IF47DEQR7FE6Y57XIZSMJX6I7YCIBGKY",
+      "path": "animations/hive/sky/spawnvehicles/sorcery.json"
+    },
+    {
+      "key": "4YGV4GC6NBNGW3BHQLH63ST7DBORQGNQ",
+      "path": "sounds/hive/sky/killeffects/banishing.ogg"
+    },
+    {
+      "key": "76A5DXOO3MK2YB4ZVCABRJPWQ5P7TD3W",
+      "path": "entity/hive/sky/island_flag.json"
+    },
+    {
+      "key": "WK5BQNHXZVCPWSMX453HQK63TGFCDGMR",
+      "path": "particles/hive/sky/killeffects/banishing_1.particle.json"
+    },
+    {
+      "key": "TME36W4SBHRFIVHO4AZRACP4O6LZVS4G",
+      "path": "particles/hive/sky/killeffects/kaching.particle.json"
+    },
+    {
+      "key": "CPMYKMTJJ6AR47W4UJDFR6X74KV2U2Q5",
+      "path": "sounds/hive/sky/kits/void_warp.ogg"
+    },
+    {
+      "key": "UBNTRB26X573WV3POUHYZRZU67OWBOQJ",
+      "path": "entity/hive/sky/bridge_builder.json"
+    },
+    {
+      "key": "BSSIMCB4ZORVLYZLJMYSI7XOMJBI35L2",
+      "path": "textures/particle/hive/sky/projectiletrails/flower_power.png"
+    },
+    {
+      "key": "OZTA75ROOPLY7EZUIJ5J4MGNZCU42TNO",
+      "path": "models/entity/hive/sky/spawnvehicles/rubber_ducky.json"
+    },
+    {
+      "key": "WWK24SFQOXOP27PJ2BSYG7A3S7TWO2PK",
+      "path": "textures/entity/hive/sky/islandflags/solar_system.png"
+    },
+    {
+      "key": "6K77FYAHJ77UYSLAJFBCCYPB3UTVUCWN",
+      "path": "textures/entity/hive/sky/spawnvehicles/money.png"
+    },
+    {
+      "key": "BWLVVR6TT7LQ7NURGRLXETGBMG4MJ3KT",
+      "path": "textures/entity/hive/sky/islandflags/bee.png"
+    },
+    {
+      "key": "SRLMOUJOHBAF3UNLIGAYPKBOLA3WRFKM",
+      "path": "models/entity/hive/sky/spawnvehicles/eggman.json"
+    },
+    {
+      "key": "E4LYJPERTAVXG3RBJCYF34HQWYVMQAS6",
+      "path": "textures/entity/hive/sky/spawnvehicles/drone.png"
+    },
+    {
+      "key": "QDI33LFR3KW7FNBH4DXLV2GQYM7OHKHH",
+      "path": "textures/particle/hive/sky/spawnvehicles/ghastly_fire.png"
+    },
+    {
+      "key": "RQFZTSHGL7BJRLJFLMW45ORXJ3IYZ3IN",
+      "path": "models/entity/hive/sky/mystery_chest.json"
+    },
+    {
+      "key": "MQXIG2BE6QSUVUJCBASX76474DIQDKIX",
+      "path": "textures/entity/hive/sky/deathcrates/royal_chest.png"
+    },
+    {
+      "key": "AOIE5TBDTBWHDE47OJHLJPPJIHNXS4VM",
+      "path": "textures/entity/hive/sky/islandflags/cat.png"
+    },
+    {
+      "key": "TVHVHRNXV44SOEZTKYLUGH74OIWMNSV2",
+      "path": "models/entity/hive/sky/bundle/collectors.json"
+    },
+    {
+      "key": "X4BKWUUJHD2CHY3KZEAORNPAYUGHYFJR",
+      "path": "models/entity/hive/sky/spawnvehicles/pig.json"
+    },
+    {
+      "key": "X2ONSZU7N4EHI3G7RS4DJXDJFAPOCUBS",
+      "path": "models/entity/hive/sky/spawnvehicles/umbrella.json"
+    },
+    {
+      "key": "BHADDZTORHP4XRMRDQJH5PRN56UF3LSM",
+      "path": "animations/hive/sky/deathcrates/golden_pegasus.json"
+    },
+    {
+      "key": "ALM4O232PQYFDUMAMGT2RID6UJZYFUYZ",
+      "path": "particles/hive/sky/deathcrates/dark_magma.particle.json"
+    },
+    {
+      "key": "UGFRX6LFBQXICE643ALZ5CFGZGBGHAT3",
+      "path": "models/entity/hive/sky/islandflags/dealt_hand.json"
+    },
+    {
+      "key": "AAXMUDWW3IL5NKMYX5L4ULS6BSCBSMIQ",
+      "path": "textures/particle/hive/sky/killeffects/chicken_pop.png"
+    },
+    {
+      "key": "NGAZKCBEXTRQ4WDWRYKJ4VNQQWQDM4BX",
+      "path": "animation_controllers/hive/sky/bridge_builder.json"
+    },
+    {
+      "key": "UNZAYWPGHNM3V2QGSU72MGK7VNI2DV3U",
+      "path": "textures/particle/hive/sky/deathcrates/sunken_chest.png"
+    },
+    {
+      "key": "7IR3KRXS4Z2XHJPBFQF223BGG2REXADF",
+      "path": "textures/entity/hive/sky/kits/bridge_builder.png"
+    },
+    {
+      "key": "AXQIBFPCFWRN57Y6ZUZWC3KNERAABNBS",
+      "path": "models/entity/hive/sky/deathcrates/grand_ender_chest.json"
+    },
+    {
+      "key": "XAUGKNQTZE5QT7KNEJUEP574IE7APT2X",
+      "path": "models/entity/hive/sky/islandflags/solar_system.json"
+    },
+    {
+      "key": "URONSOTI6HBNQRGT22GZOXBWKJF6YILF",
+      "path": "entity/hive/sky/bundle_collectors.json"
+    },
+    {
+      "key": "V2M5X63HAZEHVVYTVUKUABXRFMOLMKP4",
+      "path": "textures/entity/hive/sky/spawnvehicles/hoverbike.png"
+    },
+    {
+      "key": "3U6MTIRBCVSFYTJ7FQW7K6CENDAIXEIZ",
+      "path": "particles/hive/sky/spawnvehicles/solar_orbit.particle.json"
+    },
+    {
+      "key": "MZCNHW6TSQ3NGUHHD5KPGFB724NZWZCZ",
+      "path": "models/entity/hive/sky/spawnvehicles/cloud.json"
+    },
+    {
+      "key": "WUWOWWGBYELZC7K3WT2L7V57TJVS5NWN",
+      "path": "textures/particle/hive/sky/projectiletrails/gg.png"
+    },
+    {
+      "key": "Z43M6T5OKNLOAGNE7ZYWQF4F3H7NGDWY",
+      "path": "particles/hive/sky/deathcrates/sunken_chest_bubble_out.particle.json"
+    },
+    {
+      "key": "WBYXWBZNGA3VEUWCKAFDLN23EYKHZT52",
+      "path": "render_controllers/hive/sky/spawn_vehicle.json"
+    },
+    {
+      "key": "XIKK2Q4CO5672R5NSGJBFEFNCSEKUTJN",
+      "path": "models/entity/hive/sky/spawnvehicles/ghastly.json"
+    },
+    {
+      "key": "OZNHHJBYIFULEZHTM5V3AKUPLHTJ5GOD",
+      "path": "textures/entity/hive/sky/world_border.png"
+    },
+    {
+      "key": "SVGS2AZQJPDQ67TSZVGV76E47MKX3TDT",
+      "path": "particles/hive/sky/spawnvehicles/ghastly_fire.particle.json"
+    },
+    {
+      "key": "NNBVGHC5CHJEKVC76K5X2AYW6VBDSXAW",
+      "path": "textures/entity/hive/sky/spawnvehicles/hovercar.png"
+    },
+    {
+      "key": "WOCZ6NITOUDJCO565IO7N726W35UQ3IY",
+      "path": "animations/hive/sky/deathcrates/grand_ender_chest.json"
+    },
+    {
+      "key": "DV7A5D6AJ4IPYIR2KS3X3ZRHDY34SGF7",
+      "path": "particles/hive/sky/killeffects/banishing_2.particle.json"
+    },
+    {
+      "key": "BEA7PSAQBTFUDSASNPYIU5O4BIJ2YEAD",
+      "path": "models/entity/hive/sky/spawnvehicles/pirate_galleon.json"
+    },
+    {
+      "key": "4BNDB44YB4AABNY2VACCIDZK4KYB3WG5",
+      "path": "textures/entity/hive/sky/deathcrates/ice_chest.png"
+    },
+    {
+      "key": "OZIZUHACLIQYX6RAX4UFZ6N7Q7X76EIV",
+      "path": "models/entity/hive/sky/spawnvehicles/hearse.json"
+    },
+    {
+      "key": "Q6MJHCWNMWAAQFUEJ62APOWOTTBYCULG",
+      "path": "textures/entity/hive/sky/islandflags/sealife.png"
+    },
+    {
+      "key": "ZPPB6REZOYV2YAK3K2TALEEHWUUIEKRN",
+      "path": "animations/hive/sky/kits/shield_cocoon.json"
+    },
+    {
+      "key": "ONWREWHWCOR3BXRI5LTHXN6W2AN2OXRO",
+      "path": "particles/hive/sky/deathcrates/golden_pegasus.particle.json"
+    },
+    {
+      "key": "VOXIT2GREUDTEI34ITMTHJTRX6EIKSMT",
+      "path": "textures/entity/hive/sky/islandflags/sun.png"
+    },
+    {
+      "key": "3UY3DLAYUVZBYBJOJL2ZSQVMEZ7MDDTC",
+      "path": "sounds/hive/sky/killeffects/butterflies.ogg"
+    },
+    {
+      "key": "IAPX45KTTW2VKDTZJJENIQM6UUND7EJ2",
+      "path": "textures/entity/hive/sky/deathcrates/golden_pegasus.png"
+    },
+    {
+      "key": "2DW6GAR56BRFZVTQHCISIG7SMMGSPYBJ",
+      "path": "textures/entity/hive/sky/islandflags/moon.png"
+    },
+    {
+      "key": "NDSFPHPXOXVNV646MJMBJUCNDOLU5EYO",
+      "path": "models/entity/hive/sky/islandflags/cosy_home.json"
+    },
+    {
+      "key": "A5KCLCQF4AV6KNJ6O73XXI66WZAXD7A3",
+      "path": "models/entity/hive/sky/islandflags/default.json"
+    },
+    {
+      "key": "57DILMDGHOBLIUQGV2QPEAYX2OKKN4VA",
+      "path": "sounds/hive/sky/killeffects/explosion.ogg"
+    },
+    {
+      "key": "YQ5H5SJYIZGB4VEPJ6SQ3TZTJGU6ZZHW",
+      "path": "textures/entity/hive/sky/deathcrates/adventurers_backpack.png"
+    },
+    {
+      "key": "6BPHYK6I7PGFVKLOURBXFFRJBMBOJTNN",
+      "path": "textures/entity/hive/sky/spawnvehicles/sorcery.png"
+    },
+    {
+      "key": "47GSQDHHKLD6G3J7ZU6M2RKK2WGFWAVU",
+      "path": "models/entity/hive/sky/spawnvehicles/hoverboard.json"
+    },
+    {
+      "key": "O3GCXRQRNXZ6L4XFPSCOOYM2RRF5W2DP",
+      "path": "particles/hive/sky/deathcrates/grand_ender_chest.particle.json"
+    },
+    {
+      "key": "HJRHK7EBUB3W6K4B2SM5R2UDRHO56H7G",
+      "path": "textures/particle/hive/sky/deathcrates/grand_ender_chest.png"
+    },
+    {
+      "key": "GRMWFFM25KIWGYY3JI4SOPT4ZOVORQM5",
+      "path": "render_controllers/hive/sky/death_crate.json"
+    },
+    {
+      "key": "GXXQB6NKYCXAZ4ZIJVTSUYZVHTIDWEXT",
+      "path": "textures/entity/hive/sky/bundle/collectors.png"
+    },
+    {
+      "key": "FP3OQON23C6QU3XSQA5ZB4MQMFWGCAMT",
+      "path": "textures/entity/hive/sky/deathcrates/barrel.png"
+    },
+    {
+      "key": "EMQ2RI74NZ2D2OSE2I6PJMILVVPXZISK",
+      "path": "textures/particle/hive/sky/spawnvehicles/solar_orbit.png"
+    },
+    {
+      "key": "CYJZSCL3T3MGKQ73AZUSAGR6P3ZVBXYB",
+      "path": "entity/hive/sky/shield_cocoon.json"
+    },
+    {
+      "key": "AI57GHA3MFAK3OLN6ZNOMD5XD5HHIOGA",
+      "path": "textures/entity/hive/sky/epic_chest.png"
+    },
+    {
+      "key": "DRBKWYBUN4IKK5UTOAZPCGTBESGL22EM",
+      "path": "animations/hive/sky/spawnvehicles/pegasus.json"
+    },
+    {
+      "key": "CUGBIHQKRVJTM22AI4ATPYHXCCWMX4HY",
+      "path": "models/entity/hive/sky/spawnvehicles/solar_orbit.json"
+    },
+    {
+      "key": "PQ7VYT6ZN4XOB3HMVXEHA6MB5AXX5UUS",
+      "path": "entity/hive/sky/royale_epic_chest.json"
+    },
+    {
+      "key": "OEARBFXCQJUELPN2V2VIAWEZGTONFT3J",
+      "path": "particles/hive/sky/killeffects/explosion.particle.json"
+    },
+    {
+      "key": "EQZUKUOILY2EJ7CB6HSVS6PFEBDQTJWQ",
+      "path": "textures/entity/hive/sky/spawnvehicles/solar_orbit.png"
+    },
+    {
+      "key": "EI72RVW3H32KMPBBJTOEVVCW2PLWI7J2",
+      "path": "textures/entity/hive/sky/spawnvehicles/pirate_galleon.png"
+    },
+    {
+      "key": "QDRZNI5E2ZG4TJLMJ5CTQ64BK4RNKFYN",
+      "path": "models/entity/hive/sky/spawnvehicles/sorcery.json"
+    }
+  ]
+}

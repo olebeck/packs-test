@@ -1,0 +1,31 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "candle": "controller.animation.hive.murder.prop.manor.candle"
+        }
+      ],
+      "animations": {
+        "idle_1": "animation.hive.murder.interactable.manor.cauldron.idle.1"
+      },
+      "geometry": {
+        "default": "geometry.hive.murder.prop.manor.candle"
+      },
+      "identifier": "hivemurder:manor_candle",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "candle_flame": "hivemurder:candle_flame"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/murder/prop/manor/candle"
+      }
+    }
+  }
+}

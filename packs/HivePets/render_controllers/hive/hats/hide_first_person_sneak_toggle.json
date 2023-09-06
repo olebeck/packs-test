@@ -1,0 +1,21 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.hive.hats.hide.first.person.sneak.toggle": {
+      "geometry": "variable.is_sneaking ? Geometry.sneaking : Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "part_visibility": [
+        {
+          "*": "!variable.is_first_person \u0026\u0026 !query.is_invisible"
+        }
+      ],
+      "textures": [
+        "variable.is_sneaking ? Texture.sneaking : Texture.default"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.hub.train.carriage": {
+      "states": {
+        "default": {
+          "animations": [
+            "drive"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "Gravity Assets",
+  "texture_data": {
+    "respawn": {
+      "textures": "textures/items/hive/grav/respawn"
+    },
+    "skip_level": {
+      "textures": "textures/items/hive/grav/skip_level"
+    }
+  },
+  "texture_name": "atlas.items"
+}

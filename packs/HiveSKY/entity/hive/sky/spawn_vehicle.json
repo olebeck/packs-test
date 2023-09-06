@@ -1,0 +1,96 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "default": "controller.animation.hive.sky.spawn.vehicle"
+        }
+      ],
+      "animations": {
+        "ghastly_idle": "animation.hive.sky.spawn.vehicle.ghastly.idle",
+        "ghastly_legs": "animation.hive.sky.spawn.vehicle.ghastly.legs",
+        "hoverbike_idle": "animation.hive.sky.spawn.vehicle.hoverbike.idle",
+        "pegasus_idle": "animation.hive.sky.spawn.vehicle.pegasus.idle",
+        "solar_orbit_idle": "animation.hive.sky.spawn.vehicle.solar.orbit.idle",
+        "solar_orbit_rocket": "animation.hive.sky.spawn.vehicle.solar.orbit.rocket",
+        "sorcery_book": "animation.hive.sky.spawn.vehicle.sorcery.book",
+        "sorcery_idle": "animation.hive.sky.spawn.vehicle.sorcery.idle"
+      },
+      "geometry": {
+        "balloon": "geometry.hive.sky.spawn.vehicle.balloon",
+        "big_cat": "geometry.hive.sky.spawn.vehicle.big.cat",
+        "broomstick": "geometry.hive.sky.spawn.vehicle.broomstick",
+        "carpet": "geometry.hive.sky.spawn.vehicle.carpet",
+        "cloud": "geometry.hive.sky.spawn.vehicle.cloud",
+        "drone": "geometry.hive.sky.spawn.vehicle.drone",
+        "eggman": "geometry.hive.sky.spawn.vehicle.eggman",
+        "flamingo_floaty": "geometry.hive.sky.spawn.vehicle.flamingo.floaty",
+        "ghastly": "geometry.hive.sky.spawn.vehicle.ghastly",
+        "hearse": "geometry.hive.sky.spawn.vehicle.hearse",
+        "hoverbike": "geometry.hive.sky.spawn.vehicle.hoverbike",
+        "hoverboard": "geometry.hive.sky.spawn.vehicle.hoverboard",
+        "hovercar": "geometry.hive.sky.spawn.vehicle.hovercar",
+        "island": "geometry.hive.sky.spawn.vehicle.island",
+        "money": "geometry.hive.sky.spawn.vehicle.money",
+        "parachute": "geometry.hive.sky.spawn.vehicle.parachute",
+        "pegasus": "geometry.hive.sky.spawn.vehicle.pegasus",
+        "pig": "geometry.hive.sky.spawn.vehicle.pig",
+        "pirate_galleon": "geometry.hive.sky.spawn.vehicle.pirate.galleon",
+        "rubber_ducky": "geometry.hive.sky.spawn.vehicle.rubber.ducky",
+        "sleigh": "geometry.hive.sky.spawn.vehicle.sleigh",
+        "solar_orbit": "geometry.hive.sky.spawn.vehicle.solar.orbit",
+        "sorcery": "geometry.hive.sky.spawn.vehicle.sorcery",
+        "star_speeder": "geometry.hive.sky.spawn.vehicle.star.speeder",
+        "ufo": "geometry.hive.sky.spawn.vehicle.ufo",
+        "umbrella": "geometry.hive.sky.spawn.vehicle.umbrella",
+        "winter_magic": "geometry.hive.sky.spawn.vehicle.winter.magic"
+      },
+      "identifier": "hivesky:spawn_vehicle",
+      "materials": {
+        "blend": "slime_outer",
+        "default": "entity_alphatest"
+      },
+      "particle_effects": {
+        "ghastly_fire": "hivesky:ghastly_fire",
+        "pegasus": "hivesky:pegasus",
+        "solar_orbit": "hivesky:solar_orbit",
+        "sorcery_enchantment": "hivesky:sorcery_enchantment",
+        "sorcery_magic": "hivesky:sorcery_magic"
+      },
+      "render_controllers": [
+        "controller.render.hive.sky.spawn.vehicle"
+      ],
+      "textures": {
+        "balloon": "textures/entity/hive/sky/spawnvehicles/balloon",
+        "big_cat": "textures/entity/hive/sky/spawnvehicles/big_cat",
+        "broomstick": "textures/entity/hive/sky/spawnvehicles/broomstick",
+        "carpet": "textures/entity/hive/sky/spawnvehicles/carpet",
+        "cloud": "textures/entity/hive/sky/spawnvehicles/cloud",
+        "drone": "textures/entity/hive/sky/spawnvehicles/drone",
+        "eggman": "textures/entity/hive/sky/spawnvehicles/eggman",
+        "flamingo": "textures/entity/hive/sky/spawnvehicles/flamingo",
+        "flamingo_floaty": "textures/entity/hive/sky/spawnvehicles/flamingo_floaty",
+        "ghastly": "textures/entity/hive/sky/spawnvehicles/ghastly",
+        "hearse": "textures/entity/hive/sky/spawnvehicles/hearse",
+        "hoverbike": "textures/entity/hive/sky/spawnvehicles/hoverbike",
+        "hoverboard": "textures/entity/hive/sky/spawnvehicles/hoverboard",
+        "hovercar": "textures/entity/hive/sky/spawnvehicles/hovercar",
+        "island": "textures/entity/hive/sky/spawnvehicles/island",
+        "money": "textures/entity/hive/sky/spawnvehicles/money",
+        "parachute": "textures/entity/hive/sky/spawnvehicles/parachute",
+        "pegasus": "textures/entity/hive/sky/spawnvehicles/pegasus",
+        "pig": "textures/entity/hive/sky/spawnvehicles/pig",
+        "pirate_galleon": "textures/entity/hive/sky/spawnvehicles/pirate_galleon",
+        "rubber_ducky": "textures/entity/hive/sky/spawnvehicles/rubber_ducky",
+        "sleigh": "textures/entity/hive/sky/spawnvehicles/sleigh",
+        "solar_orbit": "textures/entity/hive/sky/spawnvehicles/solar_orbit",
+        "sorcery": "textures/entity/hive/sky/spawnvehicles/sorcery",
+        "star_speeder": "textures/entity/hive/sky/spawnvehicles/star_speeder",
+        "ufo": "textures/entity/hive/sky/spawnvehicles/ufo",
+        "umbrella": "textures/entity/hive/sky/spawnvehicles/umbrella",
+        "winter_magic": "textures/entity/hive/sky/spawnvehicles/winter_magic"
+      }
+    }
+  }
+}

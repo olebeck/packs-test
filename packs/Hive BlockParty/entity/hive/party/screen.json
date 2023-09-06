@@ -1,0 +1,80 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animations": {
+        "controller_reveal": "controller.animation.hive.party.screen.reveal",
+        "reveal_hidden": "animation.hive.party.screen.reveal.hidden",
+        "reveal_hide": "animation.hive.party.screen.reveal.hide",
+        "reveal_show": "animation.hive.party.screen.reveal.show",
+        "visualizer": "animation.hive.party.screen.visualizer"
+      },
+      "geometry": {
+        "default": "geometry.hive.party.screen.frame",
+        "reveal": "geometry.hive.party.screen.reveal",
+        "screen": "geometry.hive.party.screen.screen",
+        "visualizer": "geometry.hive.party.screen.visualizer"
+      },
+      "identifier": "hiveparty:screen",
+      "materials": {
+        "default": "entity_alphatest",
+        "screen": "hiveparty_studio_screen"
+      },
+      "render_controllers": [
+        "controller.render.default",
+        "controller.render.hive.party.screen",
+        "controller.render.hive.party.screen.reveal",
+        "controller.render.hive.party.screen.visualizer"
+      ],
+      "scripts": {
+        "animate": [
+          "controller_reveal",
+          "visualizer"
+        ]
+      },
+      "textures": {
+        "background_floor_removed": "textures/entity/hive/party/screen/background_floor_removed",
+        "background_game_over": "textures/entity/hive/party/screen/background_game_over",
+        "background_lobby": "textures/entity/hive/party/screen/background_lobby",
+        "background_reveal": "textures/entity/hive/party/screen/background_reveal",
+        "background_visualizer": "textures/entity/hive/party/screen/background_visualizer",
+        "background_waiting": "textures/entity/hive/party/screen/background_waiting",
+        "background_warmup": "textures/entity/hive/party/screen/background_warmup",
+        "default": "textures/entity/hive/party/screen/frame",
+        "reveal_black": "textures/blocks/hive/studio_floor_black",
+        "reveal_black_cb": "textures/blocks/hive/studio_floor_symbol_black",
+        "reveal_blue": "textures/blocks/hive/studio_floor_blue",
+        "reveal_blue_cb": "textures/blocks/hive/studio_floor_symbol_blue",
+        "reveal_brown": "textures/blocks/hive/studio_floor_brown",
+        "reveal_brown_cb": "textures/blocks/hive/studio_floor_symbol_brown",
+        "reveal_cyan": "textures/blocks/hive/studio_floor_cyan",
+        "reveal_cyan_cb": "textures/blocks/hive/studio_floor_symbol_cyan",
+        "reveal_gray": "textures/blocks/hive/studio_floor_gray",
+        "reveal_gray_cb": "textures/blocks/hive/studio_floor_symbol_gray",
+        "reveal_green": "textures/blocks/hive/studio_floor_green",
+        "reveal_green_cb": "textures/blocks/hive/studio_floor_symbol_green",
+        "reveal_light_blue": "textures/blocks/hive/studio_floor_light_blue",
+        "reveal_light_blue_cb": "textures/blocks/hive/studio_floor_symbol_light_blue",
+        "reveal_light_gray": "textures/blocks/hive/studio_floor_light_gray",
+        "reveal_light_gray_cb": "textures/blocks/hive/studio_floor_symbol_light_gray",
+        "reveal_lime": "textures/blocks/hive/studio_floor_lime",
+        "reveal_lime_cb": "textures/blocks/hive/studio_floor_symbol_lime",
+        "reveal_magenta": "textures/blocks/hive/studio_floor_magenta",
+        "reveal_magenta_cb": "textures/blocks/hive/studio_floor_symbol_magenta",
+        "reveal_orange": "textures/blocks/hive/studio_floor_orange",
+        "reveal_orange_cb": "textures/blocks/hive/studio_floor_symbol_orange",
+        "reveal_pink": "textures/blocks/hive/studio_floor_pink",
+        "reveal_pink_cb": "textures/blocks/hive/studio_floor_symbol_pink",
+        "reveal_purple": "textures/blocks/hive/studio_floor_purple",
+        "reveal_purple_cb": "textures/blocks/hive/studio_floor_symbol_purple",
+        "reveal_red": "textures/blocks/hive/studio_floor_red",
+        "reveal_red_cb": "textures/blocks/hive/studio_floor_symbol_red",
+        "reveal_white": "textures/blocks/hive/studio_floor_white",
+        "reveal_white_cb": "textures/blocks/hive/studio_floor_symbol_white",
+        "reveal_yellow": "textures/blocks/hive/studio_floor_yellow",
+        "reveal_yellow_cb": "textures/blocks/hive/studio_floor_symbol_yellow",
+        "visualizer": "textures/entity/hive/party/screen/visualizer"
+      }
+    }
+  }
+}

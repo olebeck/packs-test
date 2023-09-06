@@ -1,0 +1,332 @@
+{
+  "content": [
+    {
+      "key": "TMXET66VUDDIUFF7IVRKHE2FSUJGL7H4",
+      "path": "animations/hive/sg/launchpad.json"
+    },
+    {
+      "key": "4UOBTOZID44EEUU3YO4YND7OFCHAA52W",
+      "path": "entity/hive/parachute.json"
+    },
+    {
+      "key": "SHKIV33WB5IWOCMTTBN5QA3545VBSZBP",
+      "path": "textures/hive/launchpad/regular/futuristic.png"
+    },
+    {
+      "key": "SDBLV5EL5NFCPOQS6UBYPEMBDASGCNXL",
+      "path": "sounds/hive/crate/open.ogg"
+    },
+    {
+      "key": "3ZDAQPICMPX5E2GBJODA4FYFRFOORD2E",
+      "path": "models/entity/hive/sg.launchpad_vertical.json"
+    },
+    {
+      "key": "7JYWH56NTAUDVHXNMJA4HM72HNXZN4MB",
+      "path": "textures/hive/particles/flare_smoke.png"
+    },
+    {
+      "key": "4AAWJVB6RBGWVYNCEKWGORCCS7EDENAZ",
+      "path": "entity/hive/crate_marker.json"
+    },
+    {
+      "key": "XDVGLAMNOB5BU5ZMWFE332HFFO5WMKM7",
+      "path": "items/activity_sensor.json"
+    },
+    {
+      "key": "ZQBWUI3L66BIFD4BCUO3ON64SN3XIIF5",
+      "path": "sounds/sound_definitions.json"
+    },
+    {
+      "key": "XM5ZX5WC6ET2PGLDJBXGJ5VDZEGGNKKG",
+      "path": "render_controllers/hive/default.json"
+    },
+    {
+      "key": "7XTVSKDX5RWR5CAUGDYN6SSU5PCFOMAY",
+      "path": "entity/hive/teleporter.json"
+    },
+    {
+      "key": "TZRO52LV44YL3DMTS4AMQM3FS6VEEZYF",
+      "path": "entity/hive/launchpad_vertical.json"
+    },
+    {
+      "key": "QIJZSNWFO53H7SOTCYKHYQDTECJHPVPP",
+      "path": "items/activity_sensor_off.json"
+    },
+    {
+      "key": "JSWAGRFOZSPZN4US3NZ5377LLGOQYEGF",
+      "path": "textures/hive/cow/blue.png"
+    },
+    {
+      "key": "DKSCVVKSUQM7GZNAING5YUTLDTPBPV64",
+      "path": "textures/hive/items/item_activity_sensor.png"
+    },
+    {
+      "key": "6JPDWHJXK5GGARGYQYJG7U6L6ZFUFOLI",
+      "path": "render_controllers/hive/sg.teleporter.json"
+    },
+    {
+      "key": "5QJJ6BMH7QJGZHZKW2UDP54Q73ZUWASF",
+      "path": "sounds/hive/crate/land.ogg"
+    },
+    {
+      "key": "24GLSLJMSMISEV54KNH5CO345FGJIHZ7",
+      "path": "particles/hive/sg.crate_marker.json"
+    },
+    {
+      "key": "CPVSU4T5MIHXSUC7SL6ACZH6NQQTY5ZY",
+      "path": "textures/hive/launchpad/vertical/futuristic.png"
+    },
+    {
+      "key": "D7ZR2YQVRZZJKZCFPJJ5GPX2KCXSO2E2",
+      "path": "render_controllers/hive/sg.launchpad.json"
+    },
+    {
+      "key": "I6D2B3PH6PH3FEL37Q53UFLBVHLFJTB4",
+      "path": "animations/hive/sg/supply_crate.json"
+    },
+    {
+      "key": "YWLZYY7IT6G2CAWUCOXSOYW52VQTVCFK",
+      "path": "models/entity/hive/sg.parachute.json"
+    },
+    {
+      "key": "XDMVCI4XDIWTMBDHI5GTQOUOJZOWUO4H",
+      "path": "models/entity/hive/sg.supply_crate.json"
+    },
+    {
+      "key": "RC5CN3SIBPX3W4A6LW5HTL573NVR4MAE",
+      "path": "render_controllers/hive/sg.crate_marker.json"
+    },
+    {
+      "key": "552BGDDFZ3QUIAEG3GZPFZN3AGYDKWBY",
+      "path": "animation_controllers/hive/sg.helicopter.json"
+    },
+    {
+      "key": "YORXSOLZBXS6R5PCDTMB4XODL64GZUAC",
+      "path": "entity/hive/cache_cow.json"
+    },
+    {
+      "key": "M5NHU2CNCDTHO7PQHFCLH4WNKI7QP2RG",
+      "path": "textures/hive/parachute.png"
+    },
+    {
+      "key": "FJZSCTKRI2QNC5BG5BEPGPPN4LIX4UGX",
+      "path": "animation_controllers/hive/sg.crate_marker.json"
+    },
+    {
+      "key": "SWFS2N2NITYNXSGVUV25WHL2O43ULCPA",
+      "path": "textures/hive/teleporter.tga"
+    },
+    {
+      "key": "RH6AFREPAFXI47H5THOSIWLBIP7BL6Q4",
+      "path": "animations/hive/sg/teleporter.json"
+    },
+    {
+      "key": "O7TL76Y2YVQSJO4WYY7K3ON2L74JQILP",
+      "path": "entity/hive/launchpad.json"
+    },
+    {
+      "key": "ENQYX7YA7GDBYYJG7SN67AICDYVLAQMU",
+      "path": "animation_controllers/hive/sg.teleporter.json"
+    },
+    {
+      "key": "4CZHUW3JAKJUVSDD2OCNRYX7HVC2XP52",
+      "path": "animation_controllers/hive/sg.parachute.json"
+    },
+    {
+      "key": "4HMLUV7OP7KTCFLTHZ5OHCR64ZFTI7EJ",
+      "path": "render_controllers/hive/sg.flare.json"
+    },
+    {
+      "key": "UU4FZ6PJFHA45Y7W4CAH2TQPSV2B2WS3",
+      "path": "textures/item_texture.json"
+    },
+    {
+      "key": "MRIIOHKWQYOXXG4C2VAZRMGYMC4MXYHY",
+      "path": "particles/hive/sg.launchpad_steam.json"
+    },
+    {
+      "key": "YIGVO6OA4FLRF65WFKE3HVXSP7OAKPGS",
+      "path": "textures/hive/supply_crate.png"
+    },
+    {
+      "key": "AOEJE6KEPNY5HQMFPTMM2KO7MDAOYXA7",
+      "path": "models/entity/hive/sg.helicopter.json"
+    },
+    {
+      "key": "TLGYXCWWCQOYH6ASPMVBBV4BKI2XNYFR",
+      "path": "animations/hive/sg/launchpad_vertical.json"
+    },
+    {
+      "key": "I7KXUXW4E4DJXTMNVHGUPIUT6GAJ7DUQ",
+      "path": "models/entity/hive/sg.launchpad.json"
+    },
+    {
+      "key": "JHKV7J24OSESCBFHQGPRLPJQRM3AGL4A",
+      "path": "textures/hive/launchpad/vertical/medieval.png"
+    },
+    {
+      "key": "RIMGAEXBRBOSW3DJ5SB26VQ2CMWUK6K3",
+      "path": "animations/hive/sg/base_pose.json"
+    },
+    {
+      "key": "27VKM2UNMIDCEFQ2ELKUKOGCAZ35MIYU",
+      "path": "textures/hive/empty.png"
+    },
+    {
+      "key": "64HKSQCGZRMF7ZOIVB7SJKVJVYD6AKSA",
+      "path": "particles/hive/sg.teleporter_active.json"
+    },
+    {
+      "key": "AOLEZSFIKDZVZVTKXTS6EUESYQEFLRUL",
+      "path": "textures/hive/cow/gold.png"
+    },
+    {
+      "key": "Z6QURE4SKL75RWS4L3XKDVBY4VJS226Q",
+      "path": "materials/entity.material"
+    },
+    {
+      "key": "LQCXAXS3E4G3O3OREOXBKZY67YHKN3SE",
+      "path": "particles/hive/totem.json"
+    },
+    {
+      "key": "2KOCX2HFAOY4ZZZ3SSNRBY7LMOV2IYPB",
+      "path": "fogs/hive/mobius.json"
+    },
+    {
+      "key": "5IYSKLIP4CHSC5WVD6TRDLN6QS2JXZH4",
+      "path": "models/entity/hive/sg.flare.json"
+    },
+    {
+      "key": "7RDRXCXLWJLLEMSY7KCKF25K6XNQA2YP",
+      "path": "sounds/hive/flare/throw.ogg"
+    },
+    {
+      "key": "MCY6A4GZ2TW6C2PPZV2NG5ZQ5PUCA3L2",
+      "path": "sounds.json"
+    },
+    {
+      "key": "4O4ZMM3PXG47EWEHMB42HRBICPGAKALB",
+      "path": "sounds/hive/launchpad/normal.ogg"
+    },
+    {
+      "key": "VQMMMWZGM44DX5YH67E3EG7NXZA5UFFZ",
+      "path": "animation_controllers/hive/sg.flare.json"
+    },
+    {
+      "key": "XS4R4E25HHHPGKQAGCRPFTVHEB6LUOLP",
+      "path": "render_controllers/hive/sg.cache_cow.json"
+    },
+    {
+      "key": "TS2B63JZ7BXKMDCUOMESODNNIRRTN6EK",
+      "path": "items/flare.json"
+    },
+    {
+      "key": "IFAZNRA4ETZPXBVQV6XRPG4MD2A23FRQ",
+      "path": "render_controllers/hive/sg.helicopter.json"
+    },
+    {
+      "key": "NTONM42VGY37VQDK3YUFGTBJE2QCN4AZ",
+      "path": "textures/hive/cow/red.png"
+    },
+    {
+      "key": "M5WU325H7V4FGAGW3NATMSTLWCDOOBTN",
+      "path": "entity/hive/helicopter.json"
+    },
+    {
+      "key": "6K6YQDDUGP6S4I7UPU6CXZUCZRLZ2RKQ",
+      "path": "models/entity/hive/sg.crate_marker.json"
+    },
+    {
+      "key": "AUEXELYARCWFYZEAAVCVHDUKTR3KSVPM",
+      "path": "entity/hive/flare.json"
+    },
+    {
+      "key": "3YD2HAP2TR6QQ4BP35LJM2CXBG3DROHP",
+      "path": "textures/hive/items/item_activity_sensor_off.png"
+    },
+    {
+      "key": "Q3VTIRTZQRZNRFY7QTYOZSKRJLRMZQAG",
+      "path": "models/entity/hive/sg.cache_cow.json"
+    },
+    {
+      "key": "5ZOQVUGZIINAMJQTYS376G25C3LKLUMA",
+      "path": "textures/hive/cow/green.png"
+    },
+    {
+      "key": "J4S4D6GH22KAWT5WQFVOLWVJVHGTRJZE",
+      "path": "animation_controllers/hive/sg.launchpad.json"
+    },
+    {
+      "key": "O3HRWPKVEINKJU4FWEG7MMT5ET7PNM3K",
+      "path": "animation_controllers/hive/sg.supply_crate.json"
+    },
+    {
+      "key": "NVLEHXOX2WNXIFTFAINUD2NUMOXZPNOH",
+      "path": "particles/hive/basic_smoke.json"
+    },
+    {
+      "key": "IQBC7XD2JNJL27F26BTGJW7T3F3WA6YW",
+      "path": "particles/hive/sg.teleporter_ambient.json"
+    },
+    {
+      "key": "3DJ7WOHJ7ZUVLUEUC6HV5SMGVLYE3PZR",
+      "path": "animations/hive/sg/helicopter/spin.json"
+    },
+    {
+      "key": "FN7Z2WJIVJZ5IFHAK54YOBC6FVIAR6XU",
+      "path": "textures/hive/flare.png"
+    },
+    {
+      "key": "OGXKHTW4OBYV5DVZ77NQSNMXVXFOUQ3S",
+      "path": "textures/hive/crate_marker.png"
+    },
+    {
+      "key": "W2RHHL4AKE7YTK3BLRP6LXOKHZZGGMM6",
+      "path": "animation_controllers/hive/sg.launchpad_vertical.json"
+    },
+    {
+      "key": "DR56TU6N4YS6VK5OGPVFCYJNSHWE6F5M",
+      "path": "textures/hive/items/item_flare.png"
+    },
+    {
+      "key": "BA7KL665GUK4GBHKV3JVPOLGVFS4UJNJ",
+      "path": "particles/hive/sg.flare.json"
+    },
+    {
+      "key": "X5WG7G2EQIXC4SF5UOOM6MZ5KZ4GIL2E",
+      "path": "textures/hive/helicopter.png"
+    },
+    {
+      "key": "WKVOVFZSCQKTDJN63W33CRDMNYEBKRG2",
+      "path": "sounds/hive/activity/detected.ogg"
+    },
+    {
+      "key": "GSQI3GFQALG3CRUJ33PPBW74RRGO7LOW",
+      "path": "animation_controllers/hive/sg.cache_cow.json"
+    },
+    {
+      "key": "2WAPF6XXNEXANEQ3V7EYLWB4HEJI3FQU",
+      "path": "sounds/hive/launchpad/vertical.ogg"
+    },
+    {
+      "key": "HJSDQRSLSNBR6FARM3TWWFFCURF6ABKB",
+      "path": "textures/hive/launchpad/regular/medieval.png"
+    },
+    {
+      "key": "GGOI47Y3T4FA5L6Z7GYYX3AQ53GIWO2S",
+      "path": "texts/en_US.lang"
+    },
+    {
+      "key": "NPD7364P2P677GSOY7HI7YO2NZEASDFL",
+      "path": "render_controllers/hive/sg.supply_crate.json"
+    },
+    {
+      "key": "RAR7SZ7CK4MV7PIDZMYMPLGWANBLKFRA",
+      "path": "entity/hive/supply_drop.json"
+    },
+    {
+      "key": "2LK6QHVFT7OBIDHFYSI3A7DYVWEXF5XU",
+      "path": "models/entity/hive/sg.teleporter.json"
+    }
+  ]
+}

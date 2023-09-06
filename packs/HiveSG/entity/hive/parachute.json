@@ -1,0 +1,28 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "general": "controller.animation.hive.sg.parachute"
+        }
+      ],
+      "animations": {
+        "base_pose": "animation.hive.sg.base_pose"
+      },
+      "geometry": {
+        "default": "geometry.hive.sg.parachute"
+      },
+      "identifier": "hive:parachute",
+      "materials": {
+        "default": "hive_alpha"
+      },
+      "render_controllers": [
+        "controller.render.hive.default"
+      ],
+      "textures": {
+        "default": "textures/hive/parachute"
+      }
+    }
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "content": [
+    {
+      "key": "WNQOD2L4BSR5FCK7SJI6L2ARXU3CMNJH",
+      "path": "textures/entity/hive/wars/treasure/beach_ball.png"
+    },
+    {
+      "key": "AHFI6KB5BQDQFDCDE3CGBWHVBEB2R6UK",
+      "path": "textures/entity/hive/wars/treasure/moai.png"
+    },
+    {
+      "key": "K24VBLVZHV3CYAB7JA23DMMNIICVTF2V",
+      "path": "models/entity/hive/wars/treasure/emerald.json"
+    },
+    {
+      "key": "IFZ76VREOTSVIF7FDFGGJ4YTHHO42WC2",
+      "path": "models/entity/hive/wars/bridgebuilder/biplane.json"
+    },
+    {
+      "key": "5E6S5RVCNDTED4AJFQY5PJ2P4QNRJZXG",
+      "path": "textures/entity/hive/wars/treasure/parrot.png"
+    },
+    {
+      "key": "5JB2GETOLVNSN5CT32GZOZIUJKEUWYNL",
+      "path": "textures/entity/hive/wars/status/red.png"
+    },
+    {
+      "key": "5QH67XQ3ABT5WJIYZSD63V5LVBJL3JNI",
+      "path": "animation_controllers/hive/wars/upgrade_bot.json"
+    },
+    {
+      "key": "HRZJOCAQH55KV6JZBJD7CCHZEFDXGTBG",
+      "path": "textures/entity/hive/wars/treasure/snowglobe.png"
+    },
+    {
+      "key": "VK5S27UOXCG7RPUMQRTZHC6GKIWPIMAU",
+      "path": "sounds/sound_definitions.json"
+    },
+    {
+      "key": "YFO5ML2STNSTZ2JGHDUHFWICPB5IYZV4",
+      "path": "textures/entity/hive/wars/bridgebuilder/mailbot_delivery_drone.png"
+    },
+    {
+      "key": "BEAFUZLYF4V6H4KZR2IKL6NGUKKSYGWT",
+      "path": "entity/hive/wars/status.json"
+    },
+    {
+      "key": "Z4AHFZVWH2NCWRMHYMPBVU775KHUAL7K",
+      "path": "animation_controllers/hive/wars/summoner.json"
+    },
+    {
+      "key": "4VOWVJLIGFP44Q2GUAKMXRVHDNC43KDW",
+      "path": "models/entity/hive/wars/treasure/safe.json"
+    },
+    {
+      "key": "42ED3S7X7YHQW5C4LKEGQKGDCCM4XDWJ",
+      "path": "models/entity/hive/wars/treasure/cake.json"
+    },
+    {
+      "key": "MTDIZHZVMEAXLIIW2VNI4BU7YYVKE3BB",
+      "path": "models/entity/hive/wars/treasure/ice_creeper.json"
+    },
+    {
+      "key": "L3DQ4GUBP2Y6SME3EP576KOIYW5XIB65",
+      "path": "textures/entity/hive/wars/treasure/sonic_ring.png"
+    },
+    {
+      "key": "4HHLHRFPOD2GVSXJ3CKLH7SV6FYNXE25",
+      "path": "models/entity/hive/wars/treasure/earth.json"
+    },
+    {
+      "key": "UIEMSJG3UKHINOUEW6WXVXGAKIBNL4SE",
+      "path": "particles/hive/wars/summoner/emerald.particle.json"
+    },
+    {
+      "key": "UEHPJM7YJPERWROTDZQERBAXFOYIY5QP",
+      "path": "textures/entity/hive/wars/treasure/golden_egg.png"
+    },
+    {
+      "key": "EWDES2CNEO6ZCNOBKVSDFFAFXECDZSYR",
+      "path": "textures/entity/hive/wars/merchant.png"
+    },
+    {
+      "key": "4KCSW7YW7ZOGHHYMETG2ZYFGSULNAPCX",
+      "path": "animations/hive/wars/status.json"
+    },
+    {
+      "key": "LUOFCNANE5JQTTBNRKU6LXZZN55NM67X",
+      "path": "textures/entity/hive/wars/treasure/crystal.png"
+    },
+    {
+      "key": "ZEJMVN54J4SMC4RWSMJ46LOLZY25ZIL7",
+      "path": "textures/entity/hive/wars/treasure/skull.png"
+    },
+    {
+      "key": "6YE5LY2UVIB5QSYKSTFY755RANV2UIP7",
+      "path": "textures/entity/hive/wars/treasure/mini_creeper.png"
+    },
+    {
+      "key": "VRQWISXKP3VM3NFGSWXWJVV5KHQBUIML",
+      "path": "models/entity/hive/wars/treasure/rocket_ship.json"
+    },
+    {
+      "key": "TBPANFHFX5J27KOI23RGTKAMUAYPTD2K",
+      "path": "textures/entity/hive/wars/treasure/safe.png"
+    },
+    {
+      "key": "ZLUF2W2VGY7ZOXVPVYOQIDOW5SSVJG7S",
+      "path": "textures/entity/hive/wars/treasure/trick_or_treat.png"
+    },
+    {
+      "key": "NQBBS4QL3BG5HMUHDKQ7Y5KNSFQ4GGMX",
+      "path": "models/entity/hive/wars/treasure/default.json"
+    },
+    {
+      "key": "LCMOSFGUHQFWJQ2SUTLOTXUXXXJ4OKKP",
+      "path": "textures/entity/hive/wars/treasure/pirate_ship.png"
+    },
+    {
+      "key": "5TKB7F73RR35RBSCLJYMAT3UD6FMCAEB",
+      "path": "textures/entity/hive/wars/bridgebuilder/beaver.png"
+    },
+    {
+      "key": "KNNTVLZY2MCSUDYXCMZHCIWHJIMMOZSC",
+      "path": "models/entity/hive/wars/bridgebuilder/grumpus.json"
+    },
+    {
+      "key": "5Q4O6K5H7HRZHSSBC4RSR54JIYVVCAIF",
+      "path": "models/entity/hive/wars/treasure/gold_chalice.json"
+    },
+    {
+      "key": "NTHCSL5E3JQWUA7TUCLS2VHFON6D4S5D",
+      "path": "models/entity/hive/wars/treasure/mini_creeper.json"
+    },
+    {
+      "key": "7CYLQEHSCTBBYAXAPYRXFZQY563B63EK",
+      "path": "models/entity/hive/wars/treasure/sonic_dark_chao.json"
+    },
+    {
+      "key": "UJRGH66V7L7EMKY5K3KAQM65UY3QY3YT",
+      "path": "models/entity/hive/wars/bridgebuilder/rocket.json"
+    },
+    {
+      "key": "L6ONGQBBA3IPIFDXQ5SLZH37Q34QSOVW",
+      "path": "models/entity/hive/wars/treasure/tv.json"
+    },
+    {
+      "key": "ZPMZGTPRW3ONIAKCZ3TMGF34L3MPHTPF",
+      "path": "models/entity/hive/wars/treasure/ice_cream.json"
+    },
+    {
+      "key": "WVBJNBRXOQZYL5YLR7NSAZAMB5THLPV3",
+      "path": "textures/entity/hive/wars/treasure/earth.png"
+    },
+    {
+      "key": "S7BVXOG2TGNEH5NUJX2D2JS57XCWQVMG",
+      "path": "textures/entity/hive/wars/treasure/dragon_egg.png"
+    },
+    {
+      "key": "Q2S54F2K5FGHTATOT3QYEMBCINPDQSHF",
+      "path": "models/entity/hive/wars/bridgebuilder/invader.json"
+    },
+    {
+      "key": "WLYVAU7Z3V4OK67XPYFLL2RB4HTK5W2X",
+      "path": "models/entity/hive/wars/treasure/robot.json"
+    },
+    {
+      "key": "NENX226PNYKOSP4BWS3PKMIIISJQ4L7E",
+      "path": "textures/entity/hive/wars/treasure/computer.png"
+    },
+    {
+      "key": "HURMBPLK4RYJWVJPXD5EPLM4I5QZHAPB",
+      "path": "models/entity/hive/wars/treasure/present.json"
+    },
+    {
+      "key": "MWCGMSRU26SYPWZPCWFQQTV5BRWPCC5X",
+      "path": "textures/entity/hive/wars/treasure/campfire.png"
+    },
+    {
+      "key": "2RWQ7STX5K2GIQILKYBMZTKPZOWMXHTH",
+      "path": "models/entity/hive/wars/treasure/crystal.json"
+    },
+    {
+      "key": "Y5QCLLEJXKSFBOG5AQJ7Q7HWO6RMFMXA",
+      "path": "models/entity/hive/wars/bridgebuilder/sonic_motobug.json"
+    },
+    {
+      "key": "TM4FPTQSTZ4MUAXXXFIOPNLJ2XJUTKCN",
+      "path": "models/entity/hive/wars/treasure/police_car.json"
+    },
+    {
+      "key": "GXQJLSKRXG265DGTLRRMZAJKBW35CD76",
+      "path": "textures/entity/hive/wars/status/magenta.png"
+    },
+    {
+      "key": "Y6P5HF7TJBJHETNFWST7INQDBRFT5DUL",
+      "path": "models/entity/hive/wars/treasure/trick_or_treat.json"
+    },
+    {
+      "key": "25DBFLTTDLFSDXYNOZBTC5YIZYXC2B7O",
+      "path": "models/entity/hive/wars/treasure/pirate_ship.json"
+    },
+    {
+      "key": "PGCVM2TU33QOJIL3HFK6US2CIQRQKY46",
+      "path": "animations/hive/wars/bridgebuilder/invader.json"
+    },
+    {
+      "key": "V7WWZUQME7ZWKQ63MGOKDBQRII23PEKQ",
+      "path": "textures/entity/hive/wars/treasure/cauldron.png"
+    },
+    {
+      "key": "AKKKYE2FPMRJHC2X6UQ37CCMODKSJENU",
+      "path": "textures/entity/hive/wars/treasure/gold_bars.png"
+    },
+    {
+      "key": "3TJ7EHSFILLQKWX45MFCZ4R7NVMFPKNZ",
+      "path": "textures/entity/hive/wars/bridgebuilder/rocket.png"
+    },
+    {
+      "key": "NXEO7J7PICVGA7IXEMATRFXKCEW25GTJ",
+      "path": "textures/entity/hive/wars/treasure/ice_creeper.png"
+    },
+    {
+      "key": "Y5SHK2QZD6XP76F357KYIWCIYI347SEY",
+      "path": "models/entity/hive/wars/bridgebuilder/chompy.json"
+    },
+    {
+      "key": "CUTDUXMZ7LVIUSRMK5SXOGW3RZ7TOS3R",
+      "path": "textures/entity/hive/wars/status/gray.png"
+    },
+    {
+      "key": "HUJCPMQPL6LVX4FOUYSQ2H7BCSEAQLCQ",
+      "path": "models/entity/hive/wars/treasure/gold_hoard.json"
+    },
+    {
+      "key": "YHQE4ERHZJCM4KPUUH2M2BFX6SDTLGQT",
+      "path": "textures/entity/hive/wars/treasure/flamingo.png"
+    },
+    {
+      "key": "BRN3WL2HN4IUW6UHVSUXPW2EJRB6RG5B",
+      "path": "textures/entity/hive/wars/treasure/toy_robot.png"
+    },
+    {
+      "key": "O3GTRHYLDKH7XOPJCELD6TKP3NFRSLOE",
+      "path": "models/entity/hive/wars/treasure/ufo.json"
+    },
+    {
+      "key": "P63MWUKHBU4JHNOZRR6JEANIZ7XHBQ63",
+      "path": "textures/entity/hive/wars/bridgebuilder/chompy.png"
+    },
+    {
+      "key": "3TWLATUUQRMRQRTZHVNXGQKYBFONLRWO",
+      "path": "models/entity/hive/wars/treasure/egg.json"
+    },
+    {
+      "key": "3TNP35ISO5XHE34O7OBCRNCTCOF6HXIU",
+      "path": "textures/entity/hive/wars/treasure/snowman.png"
+    },
+    {
+      "key": "HFHQCGPYOXMFOO232FJJX2YSTKNEHL5F",
+      "path": "textures/entity/hive/wars/treasure/sonic_dark_chao.png"
+    },
+    {
+      "key": "A4VUXJLGU5DZH4CDYSQRDA7KNYEI4QVB",
+      "path": "models/entity/hive/wars/treasure/portal.json"
+    },
+    {
+      "key": "MMMTJ45IX5ZUYX3KENDFQPW4ISR4BUS3",
+      "path": "textures/entity/hive/wars/treasure/sonic_hero_chao.png"
+    },
+    {
+      "key": "NZJXEF4RN6CIPEKDK3KHSGDGP3E3SFSU",
+      "path": "textures/entity/hive/wars/bridgebuilder/invader.png"
+    },
+    {
+      "key": "GPJ2NLQ4CJQRZDL577YGESW2Q6TQXDHR",
+      "path": "render_controllers/hive/wars/bridge_builder.json"
+    },
+    {
+      "key": "SGVSFMVDPBGHAW3NTHODH2UJQTEJICY4",
+      "path": "models/entity/hive/wars/treasure/computer.json"
+    },
+    {
+      "key": "UY5R4RST54HE4URCR45X2LQXBEAL4673",
+      "path": "textures/entity/hive/wars/treasure/sonic_item_box.png"
+    },
+    {
+      "key": "2UMY5D5RYGQGAVLDLIC3ISBK4VSNDNDC",
+      "path": "models/entity/hive/wars/treasure/traffic.json"
+    },
+    {
+      "key": "7EQHYJT5VJTQL47KO34G23VZDRAZWUFC",
+      "path": "textures/entity/hive/wars/treasure/haunted_house.png"
+    },
+    {
+      "key": "BIZD4RNP36RRNPFVXZRA2U3UJSJGOZFR",
+      "path": "animation_controllers/hive/wars/status.json"
+    },
+    {
+      "key": "7J4FB2K44F4JF4XNMHIOGDTDEGDHD5LS",
+      "path": "models/entity/hive/wars/treasure/cauldron.json"
+    },
+    {
+      "key": "TKGWEBFZGFHPDPISHN2NWRTXO2NPY3NH",
+      "path": "textures/entity/hive/wars/bridgebuilder/robin.png"
+    },
+    {
+      "key": "FJSYFU7ZW5JTSGUY3VCCMPLPAGFJ7V5N",
+      "path": "models/entity/hive/wars/treasure/sand_castle.json"
+    },
+    {
+      "key": "TPZLK7KXRWIIAWF4HCOTG7QGW4ICKW7T",
+      "path": "models/entity/hive/wars/treasure/burger.json"
+    },
+    {
+      "key": "VU3WXQQZLHRFNMGE6KOZ3OPQYRGT5UAC",
+      "path": "models/entity/hive/wars/treasure/recycling.json"
+    },
+    {
+      "key": "RFJUMLQNBLDGQZLHL6NNC6DB7IXAM5GY",
+      "path": "models/entity/hive/wars/treasure/skull.json"
+    },
+    {
+      "key": "RVMPQZPQP6Z7RCRQLW5IOPVF4OQQY2CT",
+      "path": "particles/hive/wars/summoner/diamond.particle.json"
+    },
+    {
+      "key": "66X3XCJAB4KUDROMNZMT2JBA6K4FBASJ",
+      "path": "textures/entity/hive/wars/status/aqua.png"
+    },
+    {
+      "key": "5VPQNSRUNRSUEEXEGU5XDSD4GXCWTMLG",
+      "path": "animation_controllers/hive/wars/bridge_builder.json"
+    },
+    {
+      "key": "LYTCJFCCILBTBJGJIRV4PMKTCVQMBFKF",
+      "path": "models/entity/hive/wars/treasure/sonic_chao.json"
+    },
+    {
+      "key": "VJVFHZMHR3L2OPUIYQDXILMCYCASHLAF",
+      "path": "models/entity/hive/wars/treasure/dead_rising.json"
+    },
+    {
+      "key": "RIG5G6P66HHGN2SXVKUQRDRYKM5UUMAB",
+      "path": "textures/entity/hive/wars/treasure/teddy_bear.png"
+    },
+    {
+      "key": "AMKPL5MYTBYPIV74HUSKQATEQYZCBMSR",
+      "path": "models/entity/hive/wars/treasure/snowglobe.json"
+    },
+    {
+      "key": "BUPO2WVTJYDZ7AQ5XNNVB3IT4K4XF2ES",
+      "path": "models/entity/hive/wars/treasure/beach_ball.json"
+    },
+    {
+      "key": "4ZQXVYYG2R2EZQXUYXMKJJRPUSSRTE44",
+      "path": "animations/hive/wars/bridgebuilder/grumpus.json"
+    },
+    {
+      "key": "N4KEBI7NUMOCIC37RUINMZDW75YKD4JG",
+      "path": "models/entity/hive/wars/bridgebuilder/bulldozer.json"
+    },
+    {
+      "key": "2BWJJSGRHUCKZADTABQ2KLV4Z5YR6LJI",
+      "path": "textures/entity/hive/wars/status/gold.png"
+    },
+    {
+      "key": "IHWLE3PRIA6IRVXXXG63CUXAJHLMUHIA",
+      "path": "models/entity/hive/wars/treasure/toy_robot.json"
+    },
+    {
+      "key": "MIAIA4FBQXSHTHE5NUDV32I54V2BL5LU",
+      "path": "textures/entity/hive/wars/treasure/king_villager.png"
+    },
+    {
+      "key": "LXE3AYG32IDGFKUTRW45J2ZEMRJHLKN3",
+      "path": "textures/entity/hive/wars/treasure/pinata.png"
+    },
+    {
+      "key": "GILTRM2Z6IEAGVUNXXQJWIIBQLKZHFFH",
+      "path": "textures/entity/hive/wars/bridgebuilder/biplane.png"
+    },
+    {
+      "key": "P2WR3XFNDBMAT6I2XCH3TWFKLQVKLJ6Q",
+      "path": "textures/entity/hive/wars/bridgebuilder/bulldozer.png"
+    },
+    {
+      "key": "XKJF5VAZBOCHLQZZZL6P3W2HLEZQGVFC",
+      "path": "textures/entity/hive/wars/bridgebuilder/penguin.png"
+    },
+    {
+      "key": "AWOP3BSNKWDW4ZXUIZRNBVFLLWEYLQBW",
+      "path": "textures/entity/hive/wars/upgrade_bot.png"
+    },
+    {
+      "key": "QTSQGET4IJOVK22RDXSC6KYDWUDHZRME",
+      "path": "models/entity/hive/wars/bridgebuilder/penguin.json"
+    },
+    {
+      "key": "3SFJLVJFS3GFGYEB3R2UNFBAHJO6L5PU",
+      "path": "textures/entity/hive/wars/treasure/cactus.png"
+    },
+    {
+      "key": "5SERB6IGCDOG67ZMPTGB2JRMUS5UHAOZ",
+      "path": "textures/entity/hive/wars/treasure/trophy.png"
+    },
+    {
+      "key": "SGA3ENHEGSNJFZJ4QX2ZENR76ZYHZ3NH",
+      "path": "models/entity/hive/wars/treasure/campfire.json"
+    },
+    {
+      "key": "K6LV5IDCDHONIQHHNBNVCVQI2LQIJ6AH",
+      "path": "render_controllers/hive/wars/status.json"
+    },
+    {
+      "key": "VYAP4HBHG7LPD7XQWTABDGIBY6J45DEP",
+      "path": "models/entity/hive/wars/treasure/pizza_stack.json"
+    },
+    {
+      "key": "RIXC4PI4NIRCGKAKOUIDCID6I4MJQQEM",
+      "path": "models/entity/hive/wars/bridgebuilder/tiny_sleigh.json"
+    },
+    {
+      "key": "KGJ62YKJT3JKOCLXID3YXUM73TL2MAOH",
+      "path": "textures/entity/hive/wars/treasure/rocket_ship.png"
+    },
+    {
+      "key": "QFOJMACBDJCFA5KKFNNJ4B3Q4PWRQFD3",
+      "path": "render_controllers/hive/wars/treasure.json"
+    },
+    {
+      "key": "SV457FYL5HMXCVY45IZL54XNECP4Z5LU",
+      "path": "textures/entity/hive/wars/treasure/burger.png"
+    },
+    {
+      "key": "E5CV7LGI7TIXGM5ZK7VWLKH7OP5RHZ7B",
+      "path": "textures/entity/hive/wars/treasure/default.png"
+    },
+    {
+      "key": "45SANSYVJKEUHBAXSW5TAGZXSB7PO7TK",
+      "path": "textures/entity/hive/wars/treasure/bed.png"
+    },
+    {
+      "key": "5HR7BDNLV6ZARDVLH2BQSQSMTSOWVPPO",
+      "path": "textures/entity/hive/wars/treasure/recycling.png"
+    },
+    {
+      "key": "HPX4TDLBG3D2MS63Y2RUWLIXGG24MESA",
+      "path": "textures/entity/hive/wars/status/blue.png"
+    },
+    {
+      "key": "MENDQZDIG7PAH57LNS5PHSELCQMPAMSC",
+      "path": "models/entity/hive/wars/upgrade_bot.json"
+    },
+    {
+      "key": "Y6QRP5XGESXX22R4SI3233OY5HKS2F6F",
+      "path": "models/entity/hive/wars/treasure/bed.json"
+    },
+    {
+      "key": "OHZAFXZKVQR3TLZVNQVY5X7PMIIIWUBJ",
+      "path": "entity/hive/wars/upgrade_bot.json"
+    },
+    {
+      "key": "PIKVOU5OHGCAFZUOM4EWL6DBE7KZ3LAO",
+      "path": "animations/hive/wars/bridgebuilder/sonic_motobug.json"
+    },
+    {
+      "key": "N6CNXBHSHCQAQQPCTWTAN2FUYN6TK3V7",
+      "path": "textures/entity/hive/wars/treasure/skeleton.png"
+    },
+    {
+      "key": "Q44WG4QN5HE3R4APJPGEIA6WIK4QA6XU",
+      "path": "models/entity/hive/wars/bridgebuilder/robot.json"
+    },
+    {
+      "key": "BAEPUTTTKJFCP5ZMUAZFOS76IYXACKCZ",
+      "path": "models/entity/hive/wars/treasure/golden_egg.json"
+    },
+    {
+      "key": "73WHKRWSX5HPOZX26NJNQJL2HKTAMCQA",
+      "path": "textures/entity/hive/wars/treasure/ice_cream.png"
+    },
+    {
+      "key": "C4D3W6HQONDXMT2IGLBEFXLA7MXA3UGP",
+      "path": "particles/hive/wars/chorus/tp_single.particle.json"
+    },
+    {
+      "key": "EGVY53FHGBP33UYLS5M3M6TCS2PJPYOO",
+      "path": "models/entity/hive/wars/treasure/teddy_bear.json"
+    },
+    {
+      "key": "6UVQM5LOEWVGOW5X54EHBHNC5IBK2OKY",
+      "path": "animations/hive/wars/bridgebuilder/mailbot_delivery_drone.json"
+    },
+    {
+      "key": "F3C56PVLJGDIIHMTOKNZ3AE2OOHAY3LD",
+      "path": "particles/hive/wars/chorus/tp.particle.json"
+    },
+    {
+      "key": "6WDP7PE5NQAZS4UTSHIMKBWM25WBQQPV",
+      "path": "textures/entity/hive/wars/treasure/sunflower.png"
+    },
+    {
+      "key": "2SH4DHSLQX5KWP3KCROZ75VEBQGZ6AVZ",
+      "path": "textures/entity/hive/wars/treasure/gold_chalice.png"
+    },
+    {
+      "key": "BEJFU5ERT5LGFSMVUUJ6AHAEI6QQ2IW3",
+      "path": "textures/entity/hive/wars/treasure/beehive.png"
+    },
+    {
+      "key": "BY5ZIOHD674NS5AAI7DVYYMKMJS4CCV6",
+      "path": "textures/entity/hive/wars/treasure/dead_rising.png"
+    },
+    {
+      "key": "KJVCCN4HMZRMXESCY7ULFRAN3FJEAKLF",
+      "path": "textures/entity/hive/wars/treasure/ufo.png"
+    },
+    {
+      "key": "FEBVO2ZEJISFKUXEEK52TX4XSPG3VNUP",
+      "path": "entity/hive/wars/bridge_builder.json"
+    },
+    {
+      "key": "RWZXKC647HPNQRGJGXIHTGFDGJ5ROYP7",
+      "path": "textures/entity/hive/wars/bridgebuilder/grumpus.png"
+    },
+    {
+      "key": "KWZP4ZCEIYDJSEJ57JV7KNFDPDEASYY2",
+      "path": "particles/hive/wars/fall_boots.particle.json"
+    },
+    {
+      "key": "GLTBB22TJP7PJ5M2LTOMRMRALICFOMDW",
+      "path": "models/entity/hive/wars/treasure/gingerbread.json"
+    },
+    {
+      "key": "67DZ663VSN3N2JPRSZYKOINHKHDJ7CVG",
+      "path": "models/entity/hive/wars/treasure/beehive.json"
+    },
+    {
+      "key": "EJALFEYAI3LOUXBCUXKFAMC6URJAKLTH",
+      "path": "textures/entity/hive/wars/treasure/championship_belt.png"
+    },
+    {
+      "key": "R66OYCWGGUWG7E7KSYL6PBZVE4W2NQVP",
+      "path": "particles/hive/wars/summoner/gold.particle.json"
+    },
+    {
+      "key": "5VSST24LHWYK6IO2WPS7HSGUEJU6VFRV",
+      "path": "textures/entity/hive/wars/treasure/special_delivery.png"
+    },
+    {
+      "key": "YFX4OSPAFOG66WA3KXL2HLIG7QZ255BW",
+      "path": "models/entity/hive/wars/treasure/flamingo.json"
+    },
+    {
+      "key": "RCHL7FEMHZL7I7B5ULPHPQ2I6HGORLCG",
+      "path": "models/entity/hive/wars/bridgebuilder/robin.json"
+    },
+    {
+      "key": "GRERQF7PIFTONLCBZK5SFH6SVEYJZEI5",
+      "path": "models/entity/hive/wars/treasure/haunted_house.json"
+    },
+    {
+      "key": "MYJDPOZK7LRQH3HWDQY46XZAYEC5UMJO",
+      "path": "models/entity/hive/wars/treasure/money.json"
+    },
+    {
+      "key": "KF4GAMVXRHMA3332XAD53FAZAN2AIROE",
+      "path": "textures/entity/hive/wars/treasure/portal.png"
+    },
+    {
+      "key": "GIU5U2LCCNDLEQFWJSCFZ4CBMPCSPB6H",
+      "path": "entity/hive/wars/merchant.json"
+    },
+    {
+      "key": "4TIN4NKOJNFJL5XZKTIGRGV2TJBLMOQT",
+      "path": "models/entity/hive/wars/treasure/sunflower.json"
+    },
+    {
+      "key": "JOOLH24FNOFIKCDSNR5SVIB67JZIKEPY",
+      "path": "models/entity/hive/wars/treasure/saturn.json"
+    },
+    {
+      "key": "XPGLG3XQMNK6IGL3JK25GMDDAHV3VQPA",
+      "path": "models/entity/hive/wars/treasure/king_villager.json"
+    },
+    {
+      "key": "LX3MOELATQP6BI4XELAESPUNT6CDXBIK",
+      "path": "models/entity/hive/wars/treasure/sonic_item_box.json"
+    },
+    {
+      "key": "HP3AACP5UGCJHWLNJ3N3AK564Z32YZAZ",
+      "path": "models/entity/hive/wars/treasure/moai.json"
+    },
+    {
+      "key": "OEMLBMWX23T2IGS45CBJ3H2KYO3LEQUN",
+      "path": "textures/entity/hive/wars/treasure/present.png"
+    },
+    {
+      "key": "KRVE5ZMQASHWNC5IVA23EPN5WNWHC3QP",
+      "path": "models/entity/hive/wars/merchant.json"
+    },
+    {
+      "key": "77AYCVBM5ZXLNKJ3VMDTQYVJDMEL3APS",
+      "path": "textures/entity/hive/wars/status/yellow.png"
+    },
+    {
+      "key": "BJZYJ6JD6K4GC7Z3FEJQYFL5CQS6BB3S",
+      "path": "models/entity/hive/wars/treasure/doghouse.json"
+    },
+    {
+      "key": "2WEBL6X37WZLWQKRUSRJXBOQR3MZEE3Z",
+      "path": "entity/hive/wars/summoner.json"
+    },
+    {
+      "key": "OJOSLIRVP7WYTE4FCQILYRLRW7X5TCES",
+      "path": "textures/entity/hive/wars/status/green.png"
+    },
+    {
+      "key": "5FTKQT4BZVHDIX2U3P6VJDRNRQXBF6OB",
+      "path": "textures/entity/hive/wars/treasure/science_cube.png"
+    },
+    {
+      "key": "FEK7SRJVHEKLV3BQRJTMS4LXTJPSX7PL",
+      "path": "models/entity/hive/wars/treasure/snowman.json"
+    },
+    {
+      "key": "Q2B7CIUBUC76JUCOJQQDFNXOMI7TG3O5",
+      "path": "textures/entity/hive/wars/bridgebuilder/robot.png"
+    },
+    {
+      "key": "MEK3X5THNFGC7HY3SBSMGQKK6D6EA72F",
+      "path": "textures/entity/hive/wars/bridgebuilder/tiny_sleigh.png"
+    },
+    {
+      "key": "TL3AKX33M7YNTPZODGQFC5BBM5HHBEVF",
+      "path": "models/entity/hive/wars/treasure/special_delivery.json"
+    },
+    {
+      "key": "PEBQXT5VQBRXHXLZTXMSDLVSUODJSEY4",
+      "path": "animations/hive/wars/upgrade_bot.json"
+    },
+    {
+      "key": "NRU2P3UEE7B3ONTXF64B5LZLF3KCMFHB",
+      "path": "models/entity/hive/wars/treasure/championship_belt.json"
+    },
+    {
+      "key": "WCSOD7SVXDDGGEKEJFAGYAYD4T4SPL6L",
+      "path": "models/entity/hive/wars/treasure/pickaxe.json"
+    },
+    {
+      "key": "UDVH3J4CSK3LBX22BD6FLF2J2AV6YPUT",
+      "path": "models/entity/hive/wars/treasure/dragon_egg.json"
+    },
+    {
+      "key": "6SW4CYFIWSDHTDXADSNVHWEDVIHFCJ5W",
+      "path": "animations/hive/wars/summoner.json"
+    },
+    {
+      "key": "52D2EGEB2TAJPWPHITNGBHQS2AULTUWY",
+      "path": "textures/entity/hive/wars/bridgebuilder/pigeon.png"
+    },
+    {
+      "key": "BWJTLN2KU27K5XPUP6MAZWJO2LVQQW4O",
+      "path": "textures/entity/hive/wars/treasure/pickaxe.png"
+    },
+    {
+      "key": "LRKHF4DG4C4HXLKAHRXRWHAKK6SKKBHS",
+      "path": "models/entity/hive/wars/treasure/parrot.json"
+    },
+    {
+      "key": "KIBIJAUBQH4LOJBF7W3L6FMK3XJYSCC3",
+      "path": "textures/entity/hive/wars/treasure/saturn.png"
+    },
+    {
+      "key": "GTQGA6F5ZECVEGFUUCVVVSRT4E52FN4I",
+      "path": "textures/entity/hive/wars/bridgebuilder/sonic_motobug.png"
+    },
+    {
+      "key": "SKX44FTNTUEW4EAIFPUOMAC3QHABESVM",
+      "path": "textures/entity/hive/wars/treasure/cake.png"
+    },
+    {
+      "key": "MDNZUESWWMMUQ52NS3HVXG6ZX4LT2TZY",
+      "path": "models/entity/hive/wars/bridgebuilder/beaver.json"
+    },
+    {
+      "key": "Z5ODIZYUZIRTY6KL6K6FRCRED536FHEW",
+      "path": "models/entity/hive/wars/treasure/pinata.json"
+    },
+    {
+      "key": "ZO6BHRBNBHNSRWHZO44TBALEHLAGKULP",
+      "path": "sounds/hive/wars/chorus_tp.ogg"
+    },
+    {
+      "key": "4KLAO7WSZTK3SEWXRD3WV2CKKHRHKWPT",
+      "path": "models/entity/hive/wars/status.json"
+    },
+    {
+      "key": "TB3HJX4RHMQSWA5CTW5T36DMNX2OJMW7",
+      "path": "textures/entity/hive/wars/treasure/sand_castle.png"
+    },
+    {
+      "key": "M3XQP43Y5QQQR36XUHARAQ365ZTQRZPG",
+      "path": "textures/entity/hive/wars/treasure/traffic.png"
+    },
+    {
+      "key": "YJKXWH4VFXHJ2SX5CUKNWN4V5OZFNVXQ",
+      "path": "textures/entity/hive/wars/treasure/egg.png"
+    },
+    {
+      "key": "PNOWRHP2YOCOGMITCLM7RULDYOGW2QS3",
+      "path": "entity/hive/wars/treasure.json"
+    },
+    {
+      "key": "DRL7QYLTCICSW7S4AW3CGVCKADGNTWBB",
+      "path": "textures/entity/hive/wars/treasure/tv.png"
+    },
+    {
+      "key": "2LZASI3JGIR4ZEKVCRQKERRO72RSTJNK",
+      "path": "textures/entity/hive/wars/treasure/police_car.png"
+    },
+    {
+      "key": "R32X3DRONGCUJGIQRXJQJ3SE7CGRGG5H",
+      "path": "textures/entity/hive/wars/treasure/pizza_stack.png"
+    },
+    {
+      "key": "Q7DL3SMFXSC7EUSC4ZBEEKAAZ5Z42D43",
+      "path": "models/entity/hive/wars/summoner.json"
+    },
+    {
+      "key": "OV4IKSNYDFMESXJXZWYQRDVA74QJAQN7",
+      "path": "models/entity/hive/wars/treasure/cactus.json"
+    },
+    {
+      "key": "Y3M6QUFBPGKL2XRMJCONOVA7WRA5RMXH",
+      "path": "models/entity/hive/wars/treasure/gold_bars.json"
+    },
+    {
+      "key": "NYY5IEJEZJWZNFBAFGQ6FW67HU57CTB7",
+      "path": "models/entity/hive/wars/treasure/skeleton.json"
+    },
+    {
+      "key": "BODBIV2I567Y5FGUUDTG2UX2RT4D6HRU",
+      "path": "models/entity/hive/wars/treasure/science_cube.json"
+    },
+    {
+      "key": "OLKZ6J7ZU7ATJKOSRDLROXOOBYBL43ZD",
+      "path": "models/entity/hive/wars/bridgebuilder/mailbot_delivery_drone.json"
+    },
+    {
+      "key": "3R7XVBZQK2MY4WR6V5LG264GZ3BGIJ5Y",
+      "path": "textures/entity/hive/wars/treasure/gingerbread.png"
+    },
+    {
+      "key": "Z4LPLILQDLRIVETGGYJKFZSF6REVTQO6",
+      "path": "textures/entity/hive/wars/treasure/money.png"
+    },
+    {
+      "key": "7LBY7G5ZJ67K7DB2LD4AMMTTGK4K7R4E",
+      "path": "models/entity/hive/wars/treasure/sonic_ring.json"
+    },
+    {
+      "key": "IYCH4RAP5RQVERQDSA5BNLVJUQYHHQTX",
+      "path": "models/entity/hive/wars/treasure/trophy.json"
+    },
+    {
+      "key": "37HEE42FHJXP4O3KUW46CDPIIJ5BKUUU",
+      "path": "textures/entity/hive/wars/treasure/gold_hoard.png"
+    },
+    {
+      "key": "X4NQYVUNQW6I5RZ64FJTYI7LW5KCLWX7",
+      "path": "textures/entity/hive/wars/treasure/sonic_chao.png"
+    },
+    {
+      "key": "OVGNZ5ZYLNK66ILV6UFLVRPHFZB5J5AG",
+      "path": "models/entity/hive/wars/treasure/sonic_hero_chao.json"
+    },
+    {
+      "key": "77VYDIH7Q5N7VRBGWSKBK7BLYFO2RWHH",
+      "path": "textures/entity/hive/wars/treasure/doghouse.png"
+    },
+    {
+      "key": "A3YDTNU2SLPFQQ4HQ7R4DDXUPXWCMVZF",
+      "path": "textures/entity/hive/wars/treasure/emerald.png"
+    },
+    {
+      "key": "VNDSVOWDCG44J5XTBGSOPL44PSPBEB3Q",
+      "path": "textures/entity/hive/wars/treasure/robot.png"
+    },
+    {
+      "key": "SBWDJPLYO7ZAV7BUTPBADAEY67KPAFAG",
+      "path": "models/entity/hive/wars/bridgebuilder/pigeon.json"
+    }
+  ]
+}

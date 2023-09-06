@@ -1,0 +1,28 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.ctf.teleporter.idle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.ctf.teleporter.sandstone.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.ctf.teleporter.sandstone"
+      },
+      "identifier": "hivectf:teleporter_sandstone",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/ctf/teleporter/sandstone"
+      }
+    }
+  }
+}

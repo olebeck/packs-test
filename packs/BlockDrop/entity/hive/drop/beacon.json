@@ -1,0 +1,28 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "activate": "controller.animation.hive.drop.beacon.activate"
+        }
+      ],
+      "animations": {
+        "activate": "animation.hive.drop.beacon.activate"
+      },
+      "geometry": {
+        "default": "geometry.hive.drop.beacon"
+      },
+      "identifier": "hivedrop:beacon",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/drop/beacon"
+      }
+    }
+  }
+}

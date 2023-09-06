@@ -1,0 +1,38 @@
+{
+  "num_mip_levels": 4,
+  "padding": 8,
+  "resource_pack_name": "vanilla",
+  "texture_data": {
+    "hivecommon:boombox_blockbreaker_side": {
+      "textures": "textures/blocks/hive/common/boombox/blockbreaker_side"
+    },
+    "hivecommon:boombox_blockbreaker_up": {
+      "textures": "textures/blocks/hive/common/boombox/blockbreaker_top"
+    },
+    "hivecommon:boombox_frozen_side": {
+      "textures": "textures/blocks/hive/common/boombox/frozen_side"
+    },
+    "hivecommon:boombox_frozen_up": {
+      "textures": "textures/blocks/hive/common/boombox/frozen_top"
+    },
+    "hivecommon:boombox_knockback_side": {
+      "textures": "textures/blocks/hive/common/boombox/knockback_side"
+    },
+    "hivecommon:boombox_knockback_up": {
+      "textures": "textures/blocks/hive/common/boombox/knockback_top"
+    },
+    "hivecommon:boombox_poison_side": {
+      "textures": "textures/blocks/hive/common/boombox/poison_side"
+    },
+    "hivecommon:boombox_poison_up": {
+      "textures": "textures/blocks/hive/common/boombox/poison_top"
+    },
+    "hivecommon:boombox_standard_side": {
+      "textures": "textures/blocks/hive/common/boombox/standard_side"
+    },
+    "hivecommon:boombox_standard_up": {
+      "textures": "textures/blocks/hive/common/boombox/standard_top"
+    }
+  },
+  "texture_name": "atlas.terrain"
+}

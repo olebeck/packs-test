@@ -1,0 +1,22 @@
+{
+  "animations": {
+    "animation.hive.murder.magnifying.glass.spin": {
+      "bones": {
+        "root": {
+          "position": [
+            0,
+            "math.cos(query.anim_time * 80) * 2 + 2",
+            0
+          ],
+          "rotation": [
+            0,
+            "query.anim_time * 50 ",
+            0
+          ]
+        }
+      },
+      "loop": true
+    }
+  },
+  "format_version": "1.8.0"
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animations": {
+        "idle": "animation.hive.hub.teleporter.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.hub.teleporter"
+      },
+      "identifier": "hivehub:teleporter",
+      "materials": {
+        "blend": "slime_outer",
+        "default": "entity"
+      },
+      "render_controllers": [
+        "controller.render.hive.hub.teleporter"
+      ],
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "textures": {
+        "default": "textures/entity/hive/hub/teleporter"
+      }
+    }
+  }
+}

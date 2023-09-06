@@ -1,0 +1,15 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.murder.gravestone.close.encounters.idle": {
+      "states": {
+        "default": {
+          "animations": [
+            "idle",
+            "idle2"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

@@ -1,0 +1,52 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.wars.summoner": {
+      "states": {
+        "default": {
+          "transitions": [
+            {
+              "gold": "query.variant == 0"
+            },
+            {
+              "diamond": "query.variant == 1"
+            },
+            {
+              "emerald": "query.variant == 2"
+            }
+          ]
+        },
+        "diamond": {
+          "animations": [
+            "idle"
+          ],
+          "particle_effects": [
+            {
+              "effect": "diamond"
+            }
+          ]
+        },
+        "emerald": {
+          "animations": [
+            "idle"
+          ],
+          "particle_effects": [
+            {
+              "effect": "emerald"
+            }
+          ]
+        },
+        "gold": {
+          "animations": [
+            "idle"
+          ],
+          "particle_effects": [
+            {
+              "effect": "gold"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

@@ -1,0 +1,15 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.bridge.arrow": {
+      "states": {
+        "default": {
+          "animations": [
+            "idle",
+            "spawn"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

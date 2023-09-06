@@ -1,0 +1,27 @@
+{
+  "resource_pack_name": "Hub Assets",
+  "texture_data": {
+    "hivehub:checkpoint": {
+      "textures": "textures/items/hive/hub/checkpoint"
+    },
+    "hivehub:compass": {
+      "textures": "textures/items/hive/hub/compass"
+    },
+    "hivehub:friends": {
+      "textures": "textures/items/hive/hub/friends"
+    },
+    "hivehub:locker": {
+      "textures": "textures/items/hive/hub/locker"
+    },
+    "hivehub:party": {
+      "textures": "textures/items/hive/hub/party"
+    },
+    "hivehub:pet_egg": {
+      "textures": "textures/items/hive/hub/pet/egg"
+    },
+    "hivehub:pet_egg_alert": {
+      "textures": "textures/items/hive/hub/pet/egg_alert"
+    }
+  },
+  "texture_name": "atlas.items"
+}

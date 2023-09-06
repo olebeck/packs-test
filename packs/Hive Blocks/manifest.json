@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Hive Blocks",
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ],
+    "name": "Hive: Blocks",
+    "uuid": "2e60dcb5-2c96-3e4e-b92b-9ebe6a640d4e",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Hive Blocks",
+      "type": "resources",
+      "uuid": "c69731d6-655a-4660-80ed-4419ebb63fb0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

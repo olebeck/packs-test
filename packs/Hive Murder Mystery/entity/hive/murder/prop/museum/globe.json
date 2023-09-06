@@ -1,0 +1,28 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "animation_controllers": [
+        {
+          "idle": "controller.animation.hive.murder.prop.idle"
+        }
+      ],
+      "animations": {
+        "idle": "animation.hive.murder.prop.museum.globe.idle"
+      },
+      "geometry": {
+        "default": "geometry.hive.murder.prop.museum.globe"
+      },
+      "identifier": "hivemurder:museum_globe",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "textures": {
+        "default": "textures/entity/hive/murder/prop/museum/globe"
+      }
+    }
+  }
+}

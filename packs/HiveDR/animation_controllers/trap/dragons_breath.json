@@ -1,0 +1,26 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.dr.trap.dragons.breath.activate": {
+      "states": {
+        "activate": {
+          "animations": [
+            "activate"
+          ],
+          "transitions": [
+            {
+              "default": "!query.is_baby"
+            }
+          ]
+        },
+        "default": {
+          "transitions": [
+            {
+              "activate": "query.is_baby"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}

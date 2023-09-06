@@ -1,0 +1,14 @@
+{
+  "animation_controllers": {
+    "controller.animation.hive.dr.trap.log.spin": {
+      "states": {
+        "default": {
+          "animations": [
+            "trap_log_spin"
+          ]
+        }
+      }
+    }
+  },
+  "format_version": "1.10.0"
+}
