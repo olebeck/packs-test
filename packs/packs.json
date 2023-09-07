@@ -543,9 +543,9 @@
     {
       "format_version": 2,
       "header": {
-        "name": "BlockParty Track: Synthwave",
-        "description": "BlockParty Track: Synthwave",
-        "uuid": "520703b8-b554-3a66-be4f-59d39cf96278",
+        "name": "BlockParty Track: Summer Pop",
+        "description": "BlockParty Track: Summer Pop",
+        "uuid": "b3b805bb-8ae7-314b-b31d-7bf3333350ed",
         "version": [
           0,
           0,
@@ -559,8 +559,8 @@
       },
       "modules": [
         {
-          "uuid": "13fcdc67-0ab7-41e2-b616-6e7cb9d7a21f",
-          "description": "BlockParty Track: Synthwave",
+          "uuid": "7f2aed10-cc22-4c7b-8006-f324b86cf47e",
+          "description": "BlockParty Track: Summer Pop",
           "type": "resources",
           "version": [
             0,
